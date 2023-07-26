@@ -26,7 +26,7 @@ def tarballs_and_release_managers() -> list[tuple[str, str, str]]:
                 release_manager = "nad@python.org"
                 identity_provider = GITHUB_OIDC_PROVIDER
             elif (3, 8) <= int_version < (3, 10):
-                release_manager = "lukasz@python.org"
+                release_manager = "lukasz@langa.pl"
                 identity_provider = GITHUB_OIDC_PROVIDER
             elif (3, 10) <= int_version < (3, 12):
                 release_manager = "pablogsal@python.org"
