@@ -86,6 +86,10 @@
 | `Python-3.8.17.tar.xz` | `.sigstore` | `lukasz@langa.pl` | `https://github.com/login/oauth` | PASS |  |
 | `Python-3.8.17.tgz` | `.sig+.crt` | `lukasz@langa.pl` | `https://github.com/login/oauth` | PASS |  |
 | `Python-3.8.17.tgz` | `.sigstore` | `lukasz@langa.pl` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.8.18.tar.xz` | `.sig+.crt` | `lukasz@langa.pl` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.8.18.tar.xz` | `.sigstore` | `lukasz@langa.pl` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.8.18.tgz` | `.sig+.crt` | `lukasz@langa.pl` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.8.18.tgz` | `.sigstore` | `lukasz@langa.pl` | `https://github.com/login/oauth` | PASS |  |
 | `Python-3.9.0a1.tar.xz` | N/A | `lukasz@langa.pl` | `https://github.com/login/oauth` | N/A | |
 | `Python-3.9.0a1.tgz` | N/A | `lukasz@langa.pl` | `https://github.com/login/oauth` | N/A | |
 | `Python-3.9.0a2.tar.xz` | N/A | `lukasz@langa.pl` | `https://github.com/login/oauth` | N/A | |
@@ -154,6 +158,10 @@
 | `Python-3.9.17.tar.xz` | `.sigstore` | `lukasz@langa.pl` | `https://github.com/login/oauth` | PASS |  |
 | `Python-3.9.17.tgz` | `.sig+.crt` | `lukasz@langa.pl` | `https://github.com/login/oauth` | PASS |  |
 | `Python-3.9.17.tgz` | `.sigstore` | `lukasz@langa.pl` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.9.18.tar.xz` | `.sig+.crt` | `lukasz@langa.pl` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.9.18.tar.xz` | `.sigstore` | `lukasz@langa.pl` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.9.18.tgz` | `.sig+.crt` | `lukasz@langa.pl` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.9.18.tgz` | `.sigstore` | `lukasz@langa.pl` | `https://github.com/login/oauth` | PASS |  |
 | `Python-3.10.0a1.tar.xz` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
 | `Python-3.10.0a1.tgz` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
 | `Python-3.10.0a2.tar.xz` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
@@ -212,6 +220,10 @@
 | `Python-3.10.12.tar.xz` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `Python-3.10.12.tgz` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `Python-3.10.12.tgz` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.10.13.tar.xz` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.10.13.tar.xz` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.10.13.tgz` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.10.13.tgz` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `Python-3.11.0a1.tar.xz` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
 | `Python-3.11.0a1.tgz` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
 | `Python-3.11.0a2.tar.xz` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
@@ -254,6 +266,10 @@
 | `Python-3.11.4.tar.xz` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `Python-3.11.4.tgz` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `Python-3.11.4.tgz` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.11.5.tar.xz` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.11.5.tar.xz` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.11.5.tgz` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.11.5.tgz` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `Python-3.12.0a1.tar.xz` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `Python-3.12.0a1.tgz` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `Python-3.12.0a2.tar.xz` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
@@ -286,6 +302,10 @@
 | `Python-3.12.0b4.tar.xz` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `Python-3.12.0b4.tgz` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `Python-3.12.0b4.tgz` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.12.0rc1.tar.xz` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.12.0rc1.tar.xz` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.12.0rc1.tgz` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.12.0rc1.tgz` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 ## Digests
 ```
 4157ae31eb81af19e81c36882610491b0fb8f50e00fa8a17b095c88908b9c45c  Python-3.7.14.tar.xz
@@ -404,6 +424,14 @@ def428fa6cf61b66bcde72e3d9f7d07d33b2e4226f04f9d6fce8384c055113ae  Python-3.8.17.
 4af47a7d57d3510f3bf7f3992daaa1758e537951352996edc8121e0ea0b7ea4b  Python-3.8.17.tgz.crt
 db0d08e25451c8ddfd2279c7996534c7a5b1a57ceb5887f18eb07e57649fde8c  Python-3.8.17.tgz.sig
 4758a4287669dc61493886ae7b8ade8f31e258927d9a5e6cce973834c8b668d5  Python-3.8.17.tgz.sigstore
+3ffb71cd349a326ba7b2fadc7e7df86ba577dd9c4917e52a8401adbda7405e3f  Python-3.8.18.tar.xz
+54b002b1fe1a7220ffd2f445232b0b44116cdf423a1acd41981b478febfa0aa6  Python-3.8.18.tar.xz.crt
+67193f1c5816b94a0e45cafd7a4e596c686f57e83d1a179dc00c22f1e78251a6  Python-3.8.18.tar.xz.sig
+2a67c00e837f7dddba7888a57c91e16852ef42ae5588773e12bb38090bf85c27  Python-3.8.18.tar.xz.sigstore
+7c5df68bab1be81a52dea0cc2e2705ea00553b67107a301188383d7b57320b16  Python-3.8.18.tgz
+d2e3df0e80a6df4665a9e2eca5cbd98aeb50a317a41fde9033953346bd3ef192  Python-3.8.18.tgz.crt
+0b5f819bdcdf130344eb16841ea85f754983ae2845a1438bee77c621babeb557  Python-3.8.18.tgz.sig
+e6662f6ac270060c30856053bd43a8c46748f0cf47e52676df5e20987dfb476c  Python-3.8.18.tgz.sigstore
 36b83deffb88d0e46319b0ca8f97f9f70b53a057b607b11466d6acbfe7196309  Python-3.9.0a1.tar.xz
 fbe2e3ba1deaf4245cc25a31f2e26eb56444b7cd37b5f77a326af19b73a820bd  Python-3.9.0a1.tgz
 088f3ca137b4e564f7520cdc71dc9ded99dc11efe8353d0bb0b151d656004309  Python-3.9.0a2.tar.xz
@@ -488,6 +516,14 @@ cb9704b7e1035a58090f1ea5d8bce081172b6017a81eae9f20f43ed26dcc3c4a  Python-3.9.17.
 32f93b12f54f29f886008c304e0fc2dfefea73951a847f78e48b803b11b7db76  Python-3.9.17.tgz.crt
 ac72eb532eee850bc91cad752e85f4e8ad41127fed1cfd90c561207afab1882f  Python-3.9.17.tgz.sig
 3d09ede508cae28faaf13dcc5842a7ab32826b1a91497235050d3562dc7cdd4f  Python-3.9.17.tgz.sigstore
+01597db0132c1cf7b331eff68ae09b5a235a3c3caa9c944c29cac7d1c4c4c00a  Python-3.9.18.tar.xz
+a72670d94fcdd3d236c93e9cfabc0819ac73d4f1145c910ba1d1636a1bd02cb6  Python-3.9.18.tar.xz.crt
+0a7e6966ec718a466dfe9047cad92a4ce867ce472418394134938446ce808d2d  Python-3.9.18.tar.xz.sig
+2c072bf9491cfedf060d7d2f0b97e03cbed75cff89c31d5a29ffe7cd4f5b4612  Python-3.9.18.tar.xz.sigstore
+504ce8cfd59addc04c22f590377c6be454ae7406cb1ebf6f5a350149225a9354  Python-3.9.18.tgz
+cba2e77f4180977e1ee2a20e2811c7ee24f97bc66fc0668e35e07cf356264249  Python-3.9.18.tgz.crt
+e2e398d4d041f3e33170a0d7f024edeaef1f661926121448adb892aeb2a73954  Python-3.9.18.tgz.sig
+87ca2e64285df55d929df03e91f4c260f60e78e5f13bbbb66841c56893114c9d  Python-3.9.18.tgz.sigstore
 db739461233fc1c0c15ccf4e35455bedcc7524a086935e11404df9c05352a960  Python-3.10.0a1.tar.xz
 e69048f4438cdd321eff1541c7d12eb92a843041419c59ba05c3e55c967373f7  Python-3.10.0a1.tgz
 597e9ed606065ef6a49f47fb405d81981eae78054e0162c3165c58a48381857e  Python-3.10.0a2.tar.xz
@@ -574,6 +610,14 @@ a43cd383f3999a6f4a7db2062b2fc9594fefa73e175b3aedafa295a51a7bb65c  Python-3.10.12
 01ecfb7b19f9595768361b0e5de4d3efe0cae930e2b37fa1cc64b3e240d41058  Python-3.10.12.tgz.crt
 2ce2fb5eee91eb35c32373530b3b8086fbfe1585d2ba72cb9044b5e5715d00f7  Python-3.10.12.tgz.sig
 8adc34720cb069701c859f2edd28cc776d21f58fe5f34969929b7de5bb3a8691  Python-3.10.12.tgz.sigstore
+5c88848668640d3e152b35b4536ef1c23b2ca4bd2c957ef1ecbb053f571dd3f6  Python-3.10.13.tar.xz
+2f31982231f7f195b2808e4f030cea27a1a7dffcb605a6e2f88dac63bd4ba7d0  Python-3.10.13.tar.xz.crt
+fd10b49dd6382c64f433025061535004c1024013816ab00b5e076bac31ca610c  Python-3.10.13.tar.xz.sig
+d6c09cfbb8ddabaecdba220d9b05fa9b929ae261f644b9a37cd602b8f3b1bb76  Python-3.10.13.tar.xz.sigstore
+698ec55234c1363bd813b460ed53b0f108877c7a133d48bde9a50a1eb57b7e65  Python-3.10.13.tgz
+3956826f005605b24d70b37de3456230125f97cbf6e9713bf920e913e3bcd241  Python-3.10.13.tgz.crt
+a28228bfef8972fe156ef0210c6249a1cb621f1c477de566672a0d5ac9411dec  Python-3.10.13.tgz.sig
+aef3cb18302c094361f21bb121feaceeecea3b28d2a7bd2dcf258078eed73e18  Python-3.10.13.tgz.sigstore
 966319daafa40f337e4d85a0b26fbdd919135c321eb3961a9b3d758abbc95376  Python-3.11.0a1.tar.xz
 d2c83771a671d0755d1cda5d82aaea70ef32d337fe5bf87036bd113fc088edff  Python-3.11.0a1.tgz
 68a8c4d6ce2548a7b617d699fbdb348937bdace0cf96db1aa083849df5dad13f  Python-3.11.0a2.tar.xz
@@ -640,6 +684,14 @@ ad18286a56ab6ec44a5e9ef14c5d93847a0fe3b097908bc0fa3e2530762cf1e4  Python-3.11.4.
 82d6eee7e0f2251bdd1729488e983508844886801a3301db59f9c4a78f1ab9aa  Python-3.11.4.tgz.crt
 ed054f85e43f28886c509673139b26490d90e8c4f422a51796d8f1ae5bf89267  Python-3.11.4.tgz.sig
 bbc79df4f88917ebac945492ede002f376daab43c41052db490d2d3b42e38f52  Python-3.11.4.tgz.sigstore
+85cd12e9cf1d6d5a45f17f7afe1cebe7ee628d3282281c492e86adf636defa3f  Python-3.11.5.tar.xz
+12b4e07c73e0b6cd4acc3c971a7f41b162a5991709acf3ce6d740d8a5a315f7a  Python-3.11.5.tar.xz.crt
+91760e5bd8ff4c2cb9e8f842dc3bf5ff1ef8e4866b4e3166d0b4f1f8a012d4eb  Python-3.11.5.tar.xz.sig
+117334933992aa76865a5aed1c931c211284296d139e2c44f233c41b74a007e2  Python-3.11.5.tar.xz.sigstore
+a12a0a013a30b846c786c010f2c19dd36b7298d888f7c4bd1581d90ce18b5e58  Python-3.11.5.tgz
+a974750d413b09161c72eed80959fcee5e8d8eb15953f8b127e537c26b503342  Python-3.11.5.tgz.crt
+0bf0957cf727c7d1229160e71f352c2a0719f014a3507a0a2f552f5a0025c6df  Python-3.11.5.tgz.sig
+e30552bda4e3790082f5c03c1a2c7f3fd798b15f60d6af32dbc7cc4fce947e44  Python-3.11.5.tgz.sigstore
 7be2bd9b1fc9f64b334660581bb645f0eae0b344c80130f1eb22983a1c292f43  Python-3.12.0a1.tar.xz
 89f31fe3872483781badae1f7d4b732ccf37710728456ad4f2a2b8770f4e29b0  Python-3.12.0a1.tar.xz.crt
 8197256df6496498f75afdebcc4bb4a2ea97d5a4eaaa3a1ef500badfa95f3bf9  Python-3.12.0a1.tar.xz.sig
@@ -716,4 +768,12 @@ f05710c36aee5850f5c2769be76b80bf212aec351438fdf8adc20c38c8361fac  Python-3.12.0b
 2945edceb7a21c34896a95d99040d6dd14079ab8224cfc2f9db69cbe474df41d  Python-3.12.0b4.tgz.crt
 438157a64b8a07655ce3295007541888a793aef6cd9596a16e89c82c5709cfc5  Python-3.12.0b4.tgz.sig
 0ab21428674536007e1f72e6147e7fec06ba0210a8b6f2c68d9b74c8b7267a3a  Python-3.12.0b4.tgz.sigstore
+bd88d516b51474d7facae3ed7ab6a421efb17e583c21c8a749470f293e2575fc  Python-3.12.0rc1.tar.xz
+4d2cf36234ef944491e389b2d03dd71fbb24e0b141f6d19b72d15785d334364a  Python-3.12.0rc1.tar.xz.crt
+6c022cc016bffa03c9a4c7a114025f2fecd307c121de63e572a918d66034d4a4  Python-3.12.0rc1.tar.xz.sig
+c9ec3c5ef9fc58dd680f416a0a5162eb8332b0f42cb05922ab68e0f925b2ca6b  Python-3.12.0rc1.tar.xz.sigstore
+ccd2e1bc72caaa0296c455198893c0fee7e25e56e7a23eb7d667fc8d2ba525c6  Python-3.12.0rc1.tgz
+72411f580baa099c4b44397eb55a5318ccc20f5b4e57f1c536a29b22c0c7bca4  Python-3.12.0rc1.tgz.crt
+4b466f28c354df6d95a0144451f2d5ae39c7d3ac82897821ca67fbcf1dceeec3  Python-3.12.0rc1.tgz.sig
+a47d7586bc32cc09e849164488eae91b4165ada0d1a771badf24c398cec90aa6  Python-3.12.0rc1.tgz.sigstore
 ```
