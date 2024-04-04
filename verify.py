@@ -34,6 +34,9 @@ def tarballs_and_release_managers() -> list[tuple[str, str, str]]:
             elif (3, 12) <= int_version < (3, 13):
                 release_manager = "thomas@python.org"
                 identity_provider = GOOGLE_OIDC_PROVIDER
+            elif (3, 13) <= int_version < (3, 14):
+                release_manager = "thomas@python.org"
+                identity_provider = GOOGLE_OIDC_PROVIDER
             else:
                 raise ValueError("Unknown release manager for release")
 
