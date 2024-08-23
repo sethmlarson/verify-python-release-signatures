@@ -11,14 +11,21 @@ GOOGLE_OIDC_PROVIDER = "https://accounts.google.com"
 GITHUB_OIDC_PROVIDER = "https://github.com/login/oauth"
 
 
-def tarballs_and_release_managers() -> list[tuple[str, str, str]]:
+def is_signature_file(filepath_or_name: str) -> bool:
+    # Filter out signature files for GPG and Sigstore.
+    return filepath_or_name.endswith((".sigstore", ".sig", ".crt", ".asc"))
+
+
+def files_and_release_managers() -> list[tuple[str, str, str]]:
     """Iterate over all downloaded tarballs and yield their respective release manager identity+IdP"""
     global DOWNLOADS_DIR
     python_tarball_rms_ver = []
-    for filename in sorted(os.listdir(DOWNLOADS_DIR)):
-        if match := re.match(r"^Python-(([0-9.]+).*)(?:\.tar\.xz|\.tgz)$", filename):
+    for filename in sorted(os.listdir(DOWNLOADS_DIR), key=lambda x: (x.lower(), x)):
+        if match := re.match(r"^[Pp]ython-([0-9.]*[0-9])", filename):
             # Get the release manager based on version.
-            int_version = tuple(map(int, match.group(2).split(".")))
+            int_version = tuple(int(x) for x in match.group(1).split(".") if x)
+            if len(int_version) == 2:
+                int_version = int_version + (0,)
             assert len(int_version) == 3
 
             # Table of release managers for 3.7 to 3.12
@@ -36,6 +43,9 @@ def tarballs_and_release_managers() -> list[tuple[str, str, str]]:
                 identity_provider = GOOGLE_OIDC_PROVIDER
             elif (3, 13) <= int_version < (3, 14):
                 release_manager = "thomas@python.org"
+                identity_provider = GOOGLE_OIDC_PROVIDER
+            elif (3, 14) <= int_version < (3, 16):
+                release_manager = "hugo@python.org"
                 identity_provider = GOOGLE_OIDC_PROVIDER
             else:
                 raise ValueError("Unknown release manager for release")
@@ -61,7 +71,10 @@ def signatures():
     print("| Artifact | Cert/Sig Material | Identity | Provider | Result | Details |")
     print("|-|-|-|-|-|-|")
 
-    for filename, release_manager, identity_provider in tarballs_and_release_managers():
+    for filename, release_manager, identity_provider in files_and_release_managers():
+        if is_signature_file(filename):
+            continue
+
         filepath = os.path.join(DOWNLOADS_DIR, filename)
         has_crt = os.path.isfile(f"{filepath}.crt")
         has_sig = os.path.isfile(f"{filepath}.sig")
@@ -76,9 +89,9 @@ def signatures():
             status, failure_reason = sigstore(
                 [
                     f"--cert-oidc-issuer {identity_provider}",
+                    f"--cert-identity {release_manager}",
                     f"--certificate {filepath}.crt",
                     f"--signature {filepath}.sig",
-                    f"--cert-identity {release_manager}",
                     f"{filepath}",
                 ]
             )
@@ -90,8 +103,8 @@ def signatures():
             status, failure_reason = sigstore(
                 [
                     f"--cert-oidc-issuer {identity_provider}",
-                    f"--bundle {filepath}.sigstore",
                     f"--cert-identity {release_manager}",
+                    f"--bundle {filepath}.sigstore",
                     f"{filepath}",
                 ]
             )
@@ -138,7 +151,7 @@ def sha256sums():
     print("```")
     sys.stdout.flush()
 
-    for filename, *_ in tarballs_and_release_managers():
+    for filename, *_ in files_and_release_managers():
         os.system(f"cd downloads/ && sha256sum {filename}*")
 
     sys.stderr.flush()
@@ -147,7 +160,7 @@ def sha256sums():
 
 
 def main():
-    print("# Verify Python release sigstore signatures")
+    print("# Verify Python release signatures")
 
     signatures()
     sha256sums()

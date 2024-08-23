@@ -19,17 +19,12 @@ for version in versions:
     assert resp.status == 200
     data = resp.data.decode("utf-8")
     urls = re.findall(
-        r"\"(Python-.+(?:\.tar\.xz|\.tgz)(?:\.crt|\.sig|\.sigstore)?)\"", data
+        r"\"([pP]ython-.+(?:\.tar\.xz|\.tgz|\.pkg|\.exe|\.zip)(?:\.sigstore)?)\"", data
     )
     for url in urls:
         if os.path.isfile(f"downloads/{url}"):
             continue
         # wget is faster than Python
-        returncode = os.system(
-            f"wget https://www.python.org/ftp/python/{version}/{url} --quiet -P downloads/"
+        os.system(
+            f"wget https://www.python.org/ftp/python/{version}/{url} --verbose -P downloads/"
         )
-        if returncode != 0:
-            # Run again without --quiet to show the error.
-            os.system(
-                f"wget https://www.python.org/ftp/python/{version}/{url} --verbose -P downloads/"
-            )
