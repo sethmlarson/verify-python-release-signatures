@@ -46,7 +46,10 @@ def files_and_release_managers() -> list[tuple[str, str, str]]:
                 identity_provider = GOOGLE_OIDC_PROVIDER
             elif (3, 14) <= int_version < (3, 16):
                 release_manager = "hugo@python.org"
-                identity_provider = GOOGLE_OIDC_PROVIDER
+                identity_provider = GITHUB_OIDC_PROVIDER
+            elif (3, 16) <= int_version < (3, 18):
+                release_manager = "savannah@python.org"
+                identity_provider = GITHUB_OIDC_PROVIDER
             else:
                 raise ValueError("Unknown release manager for release")
 

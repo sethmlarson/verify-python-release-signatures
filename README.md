@@ -613,6 +613,26 @@
 | `Python-3.9.20.tar.xz` | `.sigstore` | `lukasz@langa.pl` | `https://github.com/login/oauth` | PASS |  |
 | `Python-3.9.20.tgz` | `.sig+.crt` | `lukasz@langa.pl` | `https://github.com/login/oauth` | PASS |  |
 | `Python-3.9.20.tgz` | `.sigstore` | `lukasz@langa.pl` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.9.21.tar.xz` | `.sig+.crt` | `lukasz@langa.pl` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.9.21.tar.xz` | `.sigstore` | `lukasz@langa.pl` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.9.21.tgz` | `.sig+.crt` | `lukasz@langa.pl` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.9.21.tgz` | `.sigstore` | `lukasz@langa.pl` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.9.22.tar.xz` | `.sig+.crt` | `lukasz@langa.pl` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.9.22.tar.xz` | `.sigstore` | `lukasz@langa.pl` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.9.22.tgz` | `.sig+.crt` | `lukasz@langa.pl` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.9.22.tgz` | `.sigstore` | `lukasz@langa.pl` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.9.23.tar.xz` | `.sig+.crt` | `lukasz@langa.pl` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.9.23.tar.xz` | `.sigstore` | `lukasz@langa.pl` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.9.23.tgz` | `.sig+.crt` | `lukasz@langa.pl` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.9.23.tgz` | `.sigstore` | `lukasz@langa.pl` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.9.24.tar.xz` | `.sig+.crt` | `lukasz@langa.pl` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.9.24.tar.xz` | `.sigstore` | `lukasz@langa.pl` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.9.24.tgz` | `.sig+.crt` | `lukasz@langa.pl` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.9.24.tgz` | `.sigstore` | `lukasz@langa.pl` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.9.25.tar.xz` | `.sig+.crt` | `lukasz@langa.pl` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.9.25.tar.xz` | `.sigstore` | `lukasz@langa.pl` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.9.25.tgz` | `.sig+.crt` | `lukasz@langa.pl` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.9.25.tgz` | `.sigstore` | `lukasz@langa.pl` | `https://github.com/login/oauth` | PASS |  |
 | `python-3.10.0-amd64-webinstall.exe` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
 | `python-3.10.0-amd64.exe` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
 | `python-3.10.0-embed-amd64.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
@@ -873,12 +893,37 @@
 | `Python-3.10.15.tar.xz` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `Python-3.10.15.tgz` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `Python-3.10.15.tgz` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.10.16.tar.xz` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.10.16.tar.xz` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.10.16.tgz` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.10.16.tgz` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.10.17.tar.xz` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.10.17.tar.xz` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.10.17.tgz` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.10.17.tgz` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.10.18.tar.xz` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.10.18.tar.xz` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.10.18.tgz` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.10.18.tgz` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.10.19.tar.xz` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.10.19.tar.xz` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.10.19.tgz` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.10.19.tgz` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.0-amd64.exe` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.11.0-amd64.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
 | `python-3.11.0-arm64.exe` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.11.0-arm64.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
 | `python-3.11.0-embed-amd64.zip` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.0-embed-arm64.zip` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.0-embed-win32.zip` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.11.0-embeddable-amd64.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.11.0-embeddable-arm64.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.11.0-embeddable-win32.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
 | `python-3.11.0-macos11.pkg` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.11.0-test-amd64.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.11.0-test-arm64.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.11.0-test-win32.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.11.0-win32.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
 | `python-3.11.0.exe` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `Python-3.11.0.tar.xz` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `Python-3.11.0.tar.xz` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
@@ -1015,11 +1060,20 @@
 | `Python-3.11.0rc2.tgz` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `Python-3.11.0rc2.tgz` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.1-amd64.exe` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.11.1-amd64.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
 | `python-3.11.1-arm64.exe` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.11.1-arm64.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
 | `python-3.11.1-embed-amd64.zip` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.1-embed-arm64.zip` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.1-embed-win32.zip` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.11.1-embeddable-amd64.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.11.1-embeddable-arm64.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.11.1-embeddable-win32.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
 | `python-3.11.1-macos11.pkg` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.11.1-test-amd64.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.11.1-test-arm64.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.11.1-test-win32.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.11.1-win32.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
 | `python-3.11.1.exe` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `Python-3.11.1.tar.xz` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `Python-3.11.1.tar.xz` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
@@ -1028,11 +1082,20 @@
 | `Python-3.11.1.tgz` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `Python-3.11.1.tgz.rekor` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
 | `python-3.11.2-amd64.exe` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.11.2-amd64.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
 | `python-3.11.2-arm64.exe` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.11.2-arm64.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
 | `python-3.11.2-embed-amd64.zip` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.2-embed-arm64.zip` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.2-embed-win32.zip` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.11.2-embeddable-amd64.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.11.2-embeddable-arm64.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.11.2-embeddable-win32.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
 | `python-3.11.2-macos11.pkg` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.11.2-test-amd64.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.11.2-test-arm64.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.11.2-test-win32.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.11.2-win32.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
 | `python-3.11.2.exe` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `Python-3.11.2.tar.xz` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `Python-3.11.2.tar.xz` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
@@ -1042,16 +1105,25 @@
 | `Python-3.11.2.tgz.rekor` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
 | `python-3.11.3-amd64.exe` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.3-amd64.exe` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.11.3-amd64.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
 | `python-3.11.3-arm64.exe` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.3-arm64.exe` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.11.3-arm64.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
 | `python-3.11.3-embed-amd64.zip` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.3-embed-amd64.zip` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.3-embed-arm64.zip` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.3-embed-arm64.zip` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.3-embed-win32.zip` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.3-embed-win32.zip` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.11.3-embeddable-amd64.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.11.3-embeddable-arm64.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.11.3-embeddable-win32.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
 | `python-3.11.3-macos11.pkg` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.3-macos11.pkg` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.11.3-test-amd64.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.11.3-test-arm64.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.11.3-test-win32.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.11.3-win32.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
 | `python-3.11.3.exe` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.3.exe` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `Python-3.11.3.tar.xz` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
@@ -1060,16 +1132,25 @@
 | `Python-3.11.3.tgz` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.4-amd64.exe` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.4-amd64.exe` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.11.4-amd64.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
 | `python-3.11.4-arm64.exe` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.4-arm64.exe` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.11.4-arm64.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
 | `python-3.11.4-embed-amd64.zip` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.4-embed-amd64.zip` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.4-embed-arm64.zip` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.4-embed-arm64.zip` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.4-embed-win32.zip` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.4-embed-win32.zip` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.11.4-embeddable-amd64.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.11.4-embeddable-arm64.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.11.4-embeddable-win32.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
 | `python-3.11.4-macos11.pkg` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.4-macos11.pkg` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.11.4-test-amd64.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.11.4-test-arm64.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.11.4-test-win32.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.11.4-win32.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
 | `python-3.11.4.exe` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.4.exe` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `Python-3.11.4.tar.xz` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
@@ -1078,16 +1159,25 @@
 | `Python-3.11.4.tgz` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.5-amd64.exe` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.5-amd64.exe` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.11.5-amd64.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
 | `python-3.11.5-arm64.exe` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.5-arm64.exe` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.11.5-arm64.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
 | `python-3.11.5-embed-amd64.zip` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.5-embed-amd64.zip` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.5-embed-arm64.zip` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.5-embed-arm64.zip` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.5-embed-win32.zip` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.5-embed-win32.zip` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.11.5-embeddable-amd64.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.11.5-embeddable-arm64.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.11.5-embeddable-win32.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
 | `python-3.11.5-macos11.pkg` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.5-macos11.pkg` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.11.5-test-amd64.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.11.5-test-arm64.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.11.5-test-win32.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.11.5-win32.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
 | `python-3.11.5.exe` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.5.exe` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `Python-3.11.5.tar.xz` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
@@ -1096,16 +1186,25 @@
 | `Python-3.11.5.tgz` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.6-amd64.exe` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.6-amd64.exe` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.11.6-amd64.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
 | `python-3.11.6-arm64.exe` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.6-arm64.exe` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.11.6-arm64.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
 | `python-3.11.6-embed-amd64.zip` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.6-embed-amd64.zip` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.6-embed-arm64.zip` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.6-embed-arm64.zip` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.6-embed-win32.zip` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.6-embed-win32.zip` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.11.6-embeddable-amd64.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.11.6-embeddable-arm64.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.11.6-embeddable-win32.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
 | `python-3.11.6-macos11.pkg` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.6-macos11.pkg` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.11.6-test-amd64.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.11.6-test-arm64.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.11.6-test-win32.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.11.6-win32.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
 | `python-3.11.6.exe` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.6.exe` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `Python-3.11.6.tar.xz` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
@@ -1114,16 +1213,25 @@
 | `Python-3.11.6.tgz` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.7-amd64.exe` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.7-amd64.exe` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.11.7-amd64.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
 | `python-3.11.7-arm64.exe` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.7-arm64.exe` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.11.7-arm64.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
 | `python-3.11.7-embed-amd64.zip` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.7-embed-amd64.zip` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.7-embed-arm64.zip` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.7-embed-arm64.zip` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.7-embed-win32.zip` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.7-embed-win32.zip` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.11.7-embeddable-amd64.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.11.7-embeddable-arm64.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.11.7-embeddable-win32.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
 | `python-3.11.7-macos11.pkg` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.7-macos11.pkg` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.11.7-test-amd64.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.11.7-test-arm64.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.11.7-test-win32.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.11.7-win32.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
 | `python-3.11.7.exe` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.7.exe` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `Python-3.11.7.tar.xz` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
@@ -1132,16 +1240,25 @@
 | `Python-3.11.7.tgz` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.8-amd64.exe` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.8-amd64.exe` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.11.8-amd64.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
 | `python-3.11.8-arm64.exe` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.8-arm64.exe` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.11.8-arm64.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
 | `python-3.11.8-embed-amd64.zip` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.8-embed-amd64.zip` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.8-embed-arm64.zip` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.8-embed-arm64.zip` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.8-embed-win32.zip` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.8-embed-win32.zip` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.11.8-embeddable-amd64.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.11.8-embeddable-arm64.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.11.8-embeddable-win32.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
 | `python-3.11.8-macos11.pkg` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.8-macos11.pkg` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.11.8-test-amd64.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.11.8-test-arm64.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.11.8-test-win32.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.11.8-win32.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
 | `python-3.11.8.exe` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.8.exe` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `Python-3.11.8.tar.xz` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
@@ -1150,16 +1267,25 @@
 | `Python-3.11.8.tgz` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.9-amd64.exe` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.9-amd64.exe` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.11.9-amd64.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
 | `python-3.11.9-arm64.exe` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.9-arm64.exe` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.11.9-arm64.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
 | `python-3.11.9-embed-amd64.zip` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.9-embed-amd64.zip` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.9-embed-arm64.zip` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.9-embed-arm64.zip` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.9-embed-win32.zip` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.9-embed-win32.zip` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.11.9-embeddable-amd64.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.11.9-embeddable-arm64.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.11.9-embeddable-win32.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
 | `python-3.11.9-macos11.pkg` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.9-macos11.pkg` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.11.9-test-amd64.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.11.9-test-arm64.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.11.9-test-win32.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.11.9-win32.zip` | N/A | `pablogsal@python.org` | `https://accounts.google.com` | N/A | |
 | `python-3.11.9.exe` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.11.9.exe` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `Python-3.11.9.tar.xz` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
@@ -1170,18 +1296,43 @@
 | `Python-3.11.10.tar.xz` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `Python-3.11.10.tgz` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `Python-3.11.10.tgz` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.11.11.tar.xz` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.11.11.tar.xz` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.11.11.tgz` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.11.11.tgz` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.11.12.tar.xz` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.11.12.tar.xz` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.11.12.tgz` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.11.12.tgz` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.11.13.tar.xz` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.11.13.tar.xz` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.11.13.tgz` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.11.13.tgz` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.11.14.tar.xz` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.11.14.tar.xz` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.11.14.tgz` | `.sig+.crt` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.11.14.tgz` | `.sigstore` | `pablogsal@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.12.0-amd64.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.12.0-amd64.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.0-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
 | `python-3.12.0-arm64.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.12.0-arm64.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.0-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
 | `python-3.12.0-embed-amd64.zip` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.12.0-embed-amd64.zip` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.12.0-embed-arm64.zip` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.12.0-embed-arm64.zip` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.12.0-embed-win32.zip` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.12.0-embed-win32.zip` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.0-embeddable-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.0-embeddable-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.0-embeddable-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
 | `python-3.12.0-macos11.pkg` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.12.0-macos11.pkg` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.0-test-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.0-test-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.0-test-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.0-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
 | `python-3.12.0.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.12.0.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `Python-3.12.0.tar.xz` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
@@ -1400,16 +1551,25 @@
 | `Python-3.12.0rc3.tgz` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.12.1-amd64.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.12.1-amd64.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.1-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
 | `python-3.12.1-arm64.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.12.1-arm64.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.1-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
 | `python-3.12.1-embed-amd64.zip` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.12.1-embed-amd64.zip` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.12.1-embed-arm64.zip` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.12.1-embed-arm64.zip` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.12.1-embed-win32.zip` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.12.1-embed-win32.zip` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.1-embeddable-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.1-embeddable-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.1-embeddable-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
 | `python-3.12.1-macos11.pkg` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.12.1-macos11.pkg` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.1-test-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.1-test-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.1-test-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.1-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
 | `python-3.12.1.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.12.1.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `Python-3.12.1.tar.xz` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
@@ -1418,16 +1578,25 @@
 | `Python-3.12.1.tgz` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.12.2-amd64.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.12.2-amd64.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.2-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
 | `python-3.12.2-arm64.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.12.2-arm64.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.2-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
 | `python-3.12.2-embed-amd64.zip` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.12.2-embed-amd64.zip` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.12.2-embed-arm64.zip` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.12.2-embed-arm64.zip` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.12.2-embed-win32.zip` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.12.2-embed-win32.zip` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.2-embeddable-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.2-embeddable-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.2-embeddable-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
 | `python-3.12.2-macos11.pkg` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.12.2-macos11.pkg` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.2-test-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.2-test-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.2-test-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.2-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
 | `python-3.12.2.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.12.2.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `Python-3.12.2.tar.xz` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
@@ -1438,16 +1607,25 @@
 | `Python-3.12.2.tgz.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
 | `python-3.12.3-amd64.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.12.3-amd64.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.3-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
 | `python-3.12.3-arm64.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.12.3-arm64.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.3-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
 | `python-3.12.3-embed-amd64.zip` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.12.3-embed-amd64.zip` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.12.3-embed-arm64.zip` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.12.3-embed-arm64.zip` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.12.3-embed-win32.zip` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.12.3-embed-win32.zip` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.3-embeddable-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.3-embeddable-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.3-embeddable-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
 | `python-3.12.3-macos11.pkg` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.12.3-macos11.pkg` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.3-test-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.3-test-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.3-test-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.3-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
 | `python-3.12.3.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.12.3.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `Python-3.12.3.tar.xz` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
@@ -1459,9 +1637,11 @@
 | `python-3.12.4-amd64.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.12.4-amd64.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.12.4-amd64.exe.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.4-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
 | `python-3.12.4-arm64.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.12.4-arm64.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.12.4-arm64.exe.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.4-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
 | `python-3.12.4-embed-amd64.zip` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.12.4-embed-amd64.zip` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.12.4-embed-amd64.zip.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
@@ -1471,8 +1651,15 @@
 | `python-3.12.4-embed-win32.zip` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.12.4-embed-win32.zip` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.12.4-embed-win32.zip.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.4-embeddable-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.4-embeddable-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.4-embeddable-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
 | `python-3.12.4-macos11.pkg` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.12.4-macos11.pkg` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.4-test-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.4-test-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.4-test-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.4-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
 | `python-3.12.4.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.12.4.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.12.4.exe.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
@@ -1511,9 +1698,11 @@
 | `python-3.12.6-amd64.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.12.6-amd64.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.12.6-amd64.exe.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.6-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
 | `python-3.12.6-arm64.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.12.6-arm64.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.12.6-arm64.exe.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.6-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
 | `python-3.12.6-embed-amd64.zip` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.12.6-embed-amd64.zip` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.12.6-embed-amd64.zip.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
@@ -1523,8 +1712,15 @@
 | `python-3.12.6-embed-win32.zip` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.12.6-embed-win32.zip` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.12.6-embed-win32.zip.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.6-embeddable-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.6-embeddable-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.6-embeddable-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
 | `python-3.12.6-macos11.pkg` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.12.6-macos11.pkg` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.6-test-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.6-test-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.6-test-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.6-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
 | `python-3.12.6.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.12.6.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.12.6.exe.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
@@ -1534,6 +1730,193 @@
 | `Python-3.12.6.tgz` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `Python-3.12.6.tgz` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `Python-3.12.6.tgz.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.7-amd64.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.7-amd64.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.7-amd64.exe.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.7-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.7-arm64.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.7-arm64.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.7-arm64.exe.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.7-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.7-embed-amd64.zip` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.7-embed-amd64.zip` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.7-embed-amd64.zip.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.7-embed-arm64.zip` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.7-embed-arm64.zip` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.7-embed-arm64.zip.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.7-embed-win32.zip` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.7-embed-win32.zip` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.7-embed-win32.zip.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.7-embeddable-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.7-embeddable-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.7-embeddable-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.7-macos11.pkg` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.7-macos11.pkg` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.7-test-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.7-test-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.7-test-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.7-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.7.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.7.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.7.exe.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `Python-3.12.7.tar.xz` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.12.7.tar.xz` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.12.7.tar.xz.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `Python-3.12.7.tgz` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.12.7.tgz` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.12.7.tgz.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.8-amd64.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.8-amd64.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.8-amd64.exe.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.8-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.8-arm64.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.8-arm64.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.8-arm64.exe.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.8-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.8-embed-amd64.zip` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.8-embed-amd64.zip` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.8-embed-amd64.zip.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.8-embed-arm64.zip` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.8-embed-arm64.zip` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.8-embed-arm64.zip.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.8-embed-win32.zip` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.8-embed-win32.zip` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.8-embed-win32.zip.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.8-embeddable-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.8-embeddable-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.8-embeddable-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.8-macos11.pkg` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.8-macos11.pkg` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.8-test-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.8-test-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.8-test-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.8-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.8.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.8.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.8.exe.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `Python-3.12.8.tar.xz` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.12.8.tar.xz` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.12.8.tar.xz.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `Python-3.12.8.tgz` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.12.8.tgz` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.12.8.tgz.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.9-amd64.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.9-amd64.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.9-amd64.exe.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.9-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.9-arm64.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.9-arm64.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.9-arm64.exe.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.9-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.9-embed-amd64.zip` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.9-embed-amd64.zip` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.9-embed-amd64.zip.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.9-embed-arm64.zip` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.9-embed-arm64.zip` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.9-embed-arm64.zip.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.9-embed-win32.zip` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.9-embed-win32.zip` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.9-embed-win32.zip.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.9-embeddable-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.9-embeddable-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.9-embeddable-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.9-macos11.pkg` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.9-macos11.pkg` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.9-test-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.9-test-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.9-test-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.9-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.9.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.9.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.9.exe.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `Python-3.12.9.tar.xz` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.12.9.tar.xz` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.12.9.tar.xz.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `Python-3.12.9.tgz` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.12.9.tgz` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.12.9.tgz.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.10-amd64.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.10-amd64.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.10-amd64.exe.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.10-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.10-arm64.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.10-arm64.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.10-arm64.exe.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.10-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.10-embed-amd64.zip` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.10-embed-amd64.zip` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.10-embed-amd64.zip.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.10-embed-arm64.zip` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.10-embed-arm64.zip` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.10-embed-arm64.zip.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.10-embed-win32.zip` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.10-embed-win32.zip` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.10-embed-win32.zip.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.10-embeddable-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.10-embeddable-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.10-embeddable-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.10-macos11.pkg` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.10-macos11.pkg` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.10-test-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.10-test-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.10-test-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.10-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.12.10.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.10.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.12.10.exe.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `Python-3.12.10.tar.xz` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.12.10.tar.xz` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.12.10.tar.xz.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `Python-3.12.10.tgz` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.12.10.tgz` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.12.10.tgz.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `Python-3.12.11.tar.xz` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.12.11.tar.xz` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.12.11.tar.xz.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `Python-3.12.11.tgz` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.12.11.tgz` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.12.11.tgz.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `Python-3.12.12.tar.xz` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.12.12.tar.xz` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.12.12.tar.xz.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `Python-3.12.12.tgz` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.12.12.tgz` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.12.12.tgz.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.0-amd64.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.0-amd64.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.0-amd64.exe.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.0-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.0-arm64.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.0-arm64.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.0-arm64.exe.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.0-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.0-embed-amd64.zip` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.0-embed-amd64.zip` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.0-embed-amd64.zip.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.0-embed-arm64.zip` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.0-embed-arm64.zip` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.0-embed-arm64.zip.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.0-embed-win32.zip` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.0-embed-win32.zip` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.0-embed-win32.zip.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.0-embeddable-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.0-embeddable-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.0-embeddable-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.0-macos11.pkg` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.0-macos11.pkg` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.0-test-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.0-test-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.0-test-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.0-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.0.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.0.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.0.exe.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `Python-3.13.0.tar.xz` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.13.0.tar.xz` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.13.0.tar.xz.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `Python-3.13.0.tgz` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.13.0.tgz` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.13.0.tgz.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
 | `python-3.13.0a1-amd64.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.13.0a1-amd64.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `python-3.13.0a1-arm64.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
@@ -1805,10 +2188,1443 @@
 | `Python-3.13.0rc2.tgz` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `Python-3.13.0rc2.tgz` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
 | `Python-3.13.0rc2.tgz.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
-| `Python-3.14.0a0.tar.xz` | N/A | `hugo@python.org` | `https://accounts.google.com` | N/A | |
-| `Python-3.14.0a0.tar.xz.spdx.json` | N/A | `hugo@python.org` | `https://accounts.google.com` | N/A | |
-| `Python-3.14.0a0.tgz` | N/A | `hugo@python.org` | `https://accounts.google.com` | N/A | |
-| `Python-3.14.0a0.tgz.spdx.json` | N/A | `hugo@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.0rc3-amd64.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.0rc3-amd64.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.0rc3-amd64.exe.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.0rc3-arm64.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.0rc3-arm64.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.0rc3-arm64.exe.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.0rc3-embed-amd64.zip` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.0rc3-embed-amd64.zip` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.0rc3-embed-amd64.zip.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.0rc3-embed-arm64.zip` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.0rc3-embed-arm64.zip` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.0rc3-embed-arm64.zip.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.0rc3-embed-win32.zip` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.0rc3-embed-win32.zip` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.0rc3-embed-win32.zip.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.0rc3-macos11.pkg` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.0rc3-macos11.pkg` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.0rc3.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.0rc3.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.0rc3.exe.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `Python-3.13.0rc3.tar.xz` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.13.0rc3.tar.xz` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.13.0rc3.tar.xz.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `Python-3.13.0rc3.tgz` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.13.0rc3.tgz` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.13.0rc3.tgz.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.0t-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.0t-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.0t-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.1-amd64.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.1-amd64.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.1-amd64.exe.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.1-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.1-arm64.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.1-arm64.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.1-arm64.exe.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.1-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.1-embed-amd64.zip` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.1-embed-amd64.zip` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.1-embed-amd64.zip.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.1-embed-arm64.zip` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.1-embed-arm64.zip` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.1-embed-arm64.zip.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.1-embed-win32.zip` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.1-embed-win32.zip` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.1-embed-win32.zip.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.1-embeddable-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.1-embeddable-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.1-embeddable-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.1-macos11.pkg` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.1-macos11.pkg` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.1-test-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.1-test-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.1-test-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.1-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.1.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.1.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.1.exe.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `Python-3.13.1.tar.xz` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.13.1.tar.xz` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.13.1.tar.xz.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `Python-3.13.1.tgz` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.13.1.tgz` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.13.1.tgz.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.1t-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.1t-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.1t-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.2-amd64.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.2-amd64.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.2-amd64.exe.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.2-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.2-arm64.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.2-arm64.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.2-arm64.exe.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.2-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.2-embed-amd64.zip` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.2-embed-amd64.zip` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.2-embed-amd64.zip.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.2-embed-arm64.zip` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.2-embed-arm64.zip` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.2-embed-arm64.zip.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.2-embed-win32.zip` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.2-embed-win32.zip` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.2-embed-win32.zip.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.2-embeddable-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.2-embeddable-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.2-embeddable-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.2-macos11.pkg` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.2-macos11.pkg` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.2-test-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.2-test-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.2-test-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.2-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.2.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.2.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.2.exe.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `Python-3.13.2.tar.xz` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.13.2.tar.xz` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.13.2.tar.xz.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `Python-3.13.2.tgz` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.13.2.tgz` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.13.2.tgz.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.2t-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.2t-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.2t-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.3-amd64.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.3-amd64.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.3-amd64.exe.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.3-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.3-arm64.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.3-arm64.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.3-arm64.exe.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.3-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.3-embed-amd64.zip` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.3-embed-amd64.zip` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.3-embed-amd64.zip.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.3-embed-arm64.zip` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.3-embed-arm64.zip` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.3-embed-arm64.zip.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.3-embed-win32.zip` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.3-embed-win32.zip` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.3-embed-win32.zip.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.3-embeddable-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.3-embeddable-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.3-embeddable-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.3-macos11.pkg` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.3-macos11.pkg` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.3-test-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.3-test-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.3-test-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.3-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.3.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.3.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.3.exe.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `Python-3.13.3.tar.xz` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.13.3.tar.xz` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.13.3.tar.xz.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `Python-3.13.3.tgz` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.13.3.tgz` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.13.3.tgz.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.3t-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.3t-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.3t-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.4-amd64.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.4-amd64.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.4-amd64.exe.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.4-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.4-arm64.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.4-arm64.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.4-arm64.exe.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.4-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.4-embed-amd64.zip` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.4-embed-amd64.zip` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.4-embed-amd64.zip.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.4-embed-arm64.zip` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.4-embed-arm64.zip` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.4-embed-arm64.zip.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.4-embed-win32.zip` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.4-embed-win32.zip` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.4-embed-win32.zip.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.4-embeddable-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.4-embeddable-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.4-embeddable-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.4-macos11.pkg` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.4-macos11.pkg` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.4-test-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.4-test-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.4-test-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.4-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.4.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.4.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.4.exe.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `Python-3.13.4.tar.xz` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.13.4.tar.xz` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.13.4.tar.xz.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `Python-3.13.4.tgz` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.13.4.tgz` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.13.4.tgz.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.4t-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.4t-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.4t-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.5-amd64.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.5-amd64.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.5-amd64.exe.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.5-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.5-arm64.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.5-arm64.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.5-arm64.exe.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.5-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.5-embed-amd64.zip` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.5-embed-amd64.zip` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.5-embed-amd64.zip.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.5-embed-arm64.zip` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.5-embed-arm64.zip` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.5-embed-arm64.zip.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.5-embed-win32.zip` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.5-embed-win32.zip` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.5-embed-win32.zip.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.5-embeddable-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.5-embeddable-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.5-embeddable-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.5-macos11.pkg` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.5-macos11.pkg` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.5-test-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.5-test-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.5-test-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.5-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.5.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.5.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.5.exe.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `Python-3.13.5.tar.xz` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.13.5.tar.xz` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.13.5.tar.xz.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `Python-3.13.5.tgz` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.13.5.tgz` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.13.5.tgz.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.5t-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.5t-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.5t-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.6-amd64.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.6-amd64.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.6-amd64.exe.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.6-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.6-arm64.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.6-arm64.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.6-arm64.exe.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.6-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.6-embed-amd64.zip` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.6-embed-amd64.zip` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.6-embed-amd64.zip.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.6-embed-arm64.zip` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.6-embed-arm64.zip` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.6-embed-arm64.zip.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.6-embed-win32.zip` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.6-embed-win32.zip` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.6-embed-win32.zip.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.6-embeddable-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.6-embeddable-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.6-embeddable-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.6-macos11.pkg` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.6-macos11.pkg` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.6-test-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.6-test-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.6-test-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.6-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.6.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.6.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.6.exe.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `Python-3.13.6.tar.xz` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.13.6.tar.xz` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.13.6.tar.xz.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `Python-3.13.6.tgz` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.13.6.tgz` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.13.6.tgz.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.6t-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.6t-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.6t-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.7-amd64.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.7-amd64.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.7-amd64.exe.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.7-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.7-arm64.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.7-arm64.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.7-arm64.exe.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.7-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.7-embed-amd64.zip` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.7-embed-amd64.zip` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.7-embed-amd64.zip.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.7-embed-arm64.zip` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.7-embed-arm64.zip` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.7-embed-arm64.zip.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.7-embed-win32.zip` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.7-embed-win32.zip` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.7-embed-win32.zip.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.7-embeddable-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.7-embeddable-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.7-embeddable-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.7-macos11.pkg` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.7-macos11.pkg` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.7-test-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.7-test-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.7-test-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.7-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.7.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.7.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.7.exe.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `Python-3.13.7.tar.xz` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.13.7.tar.xz` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.13.7.tar.xz.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `Python-3.13.7.tgz` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.13.7.tgz` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.13.7.tgz.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.7t-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.7t-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.7t-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.8-amd64.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.8-amd64.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.8-amd64.exe.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.8-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.8-arm64.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.8-arm64.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.8-arm64.exe.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.8-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.8-embed-amd64.zip` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.8-embed-amd64.zip` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.8-embed-amd64.zip.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.8-embed-arm64.zip` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.8-embed-arm64.zip` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.8-embed-arm64.zip.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.8-embed-win32.zip` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.8-embed-win32.zip` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.8-embed-win32.zip.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.8-embeddable-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.8-embeddable-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.8-embeddable-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.8-macos11.pkg` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.8-macos11.pkg` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.8-test-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.8-test-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.8-test-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.8-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.8.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.8.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.8.exe.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `Python-3.13.8.tar.xz` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.13.8.tar.xz` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.13.8.tar.xz.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `Python-3.13.8.tgz` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.13.8.tgz` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.13.8.tgz.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.8t-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.8t-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.8t-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.9-amd64.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.9-amd64.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.9-amd64.exe.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.9-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.9-arm64.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.9-arm64.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.9-arm64.exe.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.9-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.9-embed-amd64.zip` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.9-embed-amd64.zip` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.9-embed-amd64.zip.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.9-embed-arm64.zip` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.9-embed-arm64.zip` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.9-embed-arm64.zip.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.9-embed-win32.zip` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.9-embed-win32.zip` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.9-embed-win32.zip.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.9-embeddable-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.9-embeddable-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.9-embeddable-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.9-macos11.pkg` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.9-macos11.pkg` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.9-test-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.9-test-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.9-test-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.9-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.9.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.9.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.9.exe.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `Python-3.13.9.tar.xz` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.13.9.tar.xz` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.13.9.tar.xz.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `Python-3.13.9.tgz` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.13.9.tgz` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.13.9.tgz.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.9t-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.9t-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.9t-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.10-amd64.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.10-amd64.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.10-amd64.exe.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.10-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.10-arm64.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.10-arm64.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.10-arm64.exe.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.10-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.10-embed-amd64.zip` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.10-embed-amd64.zip` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.10-embed-amd64.zip.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.10-embed-arm64.zip` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.10-embed-arm64.zip` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.10-embed-arm64.zip.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.10-embed-win32.zip` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.10-embed-win32.zip` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.10-embed-win32.zip.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.10-embeddable-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.10-embeddable-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.10-embeddable-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.10-macos11.pkg` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.10-macos11.pkg` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.10-test-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.10-test-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.10-test-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.10-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.10.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.10.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.10.exe.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `Python-3.13.10.tar.xz` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.13.10.tar.xz` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.13.10.tar.xz.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `Python-3.13.10.tgz` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.13.10.tgz` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.13.10.tgz.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.10t-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.10t-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.10t-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.11-amd64.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.11-amd64.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.11-amd64.exe.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.11-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.11-arm64.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.11-arm64.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.11-arm64.exe.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.11-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.11-embed-amd64.zip` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.11-embed-amd64.zip` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.11-embed-amd64.zip.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.11-embed-arm64.zip` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.11-embed-arm64.zip` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.11-embed-arm64.zip.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.11-embed-win32.zip` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.11-embed-win32.zip` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.11-embed-win32.zip.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.11-embeddable-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.11-embeddable-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.11-embeddable-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.11-macos11.pkg` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.11-macos11.pkg` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.11-test-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.11-test-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.11-test-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.11-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.11.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.11.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.11.exe.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `Python-3.13.11.tar.xz` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.13.11.tar.xz` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.13.11.tar.xz.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `Python-3.13.11.tgz` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.13.11.tgz` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.13.11.tgz.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.11t-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.11t-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.11t-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.12-amd64.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.12-amd64.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.12-amd64.exe.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.12-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.12-arm64.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.12-arm64.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.12-arm64.exe.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.12-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.12-embed-amd64.zip` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.12-embed-amd64.zip` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.12-embed-amd64.zip.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.12-embed-arm64.zip` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.12-embed-arm64.zip` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.12-embed-arm64.zip.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.12-embed-win32.zip` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.12-embed-win32.zip` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.12-embed-win32.zip.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.12-embeddable-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.12-embeddable-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.12-embeddable-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.12-macos11.pkg` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.12-macos11.pkg` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.12-test-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.12-test-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.12-test-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.12-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.12.exe` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.12.exe` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `python-3.13.12.exe.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `Python-3.13.12.tar.xz` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.13.12.tar.xz` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.13.12.tar.xz.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `Python-3.13.12.tgz` | `.sig+.crt` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.13.12.tgz` | `.sigstore` | `thomas@python.org` | `https://accounts.google.com` | PASS |  |
+| `Python-3.13.12.tgz.spdx.json` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.12t-amd64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.12t-arm64.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.13.12t-win32.zip` | N/A | `thomas@python.org` | `https://accounts.google.com` | N/A | |
+| `python-3.14.0-aarch64-linux-android.tar.gz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0-aarch64-linux-android.tar.gz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0-amd64.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0-amd64.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0-amd64.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0-arm64.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0-arm64.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0-arm64.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0-embed-amd64.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0-embed-amd64.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0-embed-amd64.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0-embed-arm64.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0-embed-arm64.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0-embed-arm64.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0-embed-win32.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0-embed-win32.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0-embed-win32.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0-embeddable-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0-embeddable-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0-embeddable-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0-macos11.pkg` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0-macos11.pkg` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0-test-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0-test-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0-test-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0-x86_64-linux-android.tar.gz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0-x86_64-linux-android.tar.gz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `Python-3.14.0.tar.xz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.0.tar.xz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.0.tar.xz.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `Python-3.14.0.tgz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.0.tgz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.0.tgz.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `Python-3.14.0a0.tar.xz` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `Python-3.14.0a0.tar.xz.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `Python-3.14.0a0.tgz` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `Python-3.14.0a0.tgz.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a1-amd64.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a1-amd64.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a1-amd64.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a1-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a1-arm64.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a1-arm64.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a1-arm64.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a1-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a1-embed-amd64.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a1-embed-amd64.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a1-embed-amd64.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a1-embed-arm64.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a1-embed-arm64.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a1-embed-arm64.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a1-embed-win32.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a1-embed-win32.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a1-embed-win32.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a1-embeddable-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a1-embeddable-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a1-embeddable-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a1-macos11.pkg` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a1-macos11.pkg` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a1-test-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a1-test-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a1-test-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a1-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a1.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a1.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a1.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `Python-3.14.0a1.tar.xz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.0a1.tar.xz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.0a1.tar.xz.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `Python-3.14.0a1.tgz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.0a1.tgz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.0a1.tgz.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a1t-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a1t-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a1t-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a2-amd64.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a2-amd64.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a2-amd64.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a2-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a2-arm64.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a2-arm64.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a2-arm64.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a2-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a2-embed-amd64.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a2-embed-amd64.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a2-embed-amd64.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a2-embed-arm64.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a2-embed-arm64.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a2-embed-arm64.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a2-embed-win32.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a2-embed-win32.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a2-embed-win32.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a2-embeddable-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a2-embeddable-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a2-embeddable-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a2-macos11.pkg` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a2-macos11.pkg` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a2-test-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a2-test-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a2-test-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a2-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a2.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a2.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a2.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `Python-3.14.0a2.tar.xz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.0a2.tar.xz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.0a2.tar.xz.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `Python-3.14.0a2.tgz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.0a2.tgz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.0a2.tgz.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a2t-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a2t-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a2t-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a3-amd64.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a3-amd64.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a3-amd64.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a3-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a3-arm64.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a3-arm64.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a3-arm64.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a3-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a3-embed-amd64.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a3-embed-amd64.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a3-embed-amd64.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a3-embed-arm64.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a3-embed-arm64.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a3-embed-arm64.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a3-embed-win32.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a3-embed-win32.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a3-embed-win32.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a3-embeddable-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a3-embeddable-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a3-embeddable-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a3-macos11.pkg` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a3-macos11.pkg` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a3-test-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a3-test-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a3-test-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a3-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a3.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a3.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a3.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `Python-3.14.0a3.tar.xz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.0a3.tar.xz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.0a3.tar.xz.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `Python-3.14.0a3.tgz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.0a3.tgz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.0a3.tgz.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a3t-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a3t-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a3t-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a4-amd64.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a4-amd64.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a4-amd64.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a4-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a4-arm64.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a4-arm64.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a4-arm64.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a4-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a4-embed-amd64.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a4-embed-amd64.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a4-embed-amd64.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a4-embed-arm64.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a4-embed-arm64.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a4-embed-arm64.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a4-embed-win32.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a4-embed-win32.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a4-embed-win32.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a4-embeddable-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a4-embeddable-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a4-embeddable-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a4-macos11.pkg` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a4-macos11.pkg` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a4-test-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a4-test-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a4-test-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a4-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a4.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a4.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a4.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `Python-3.14.0a4.tar.xz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.0a4.tar.xz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.0a4.tar.xz.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `Python-3.14.0a4.tgz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.0a4.tgz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.0a4.tgz.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a4t-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a4t-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a4t-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a5-amd64.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a5-amd64.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a5-amd64.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a5-arm64.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a5-arm64.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a5-arm64.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a5-embed-amd64.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a5-embed-amd64.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a5-embed-amd64.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a5-embed-arm64.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a5-embed-arm64.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a5-embed-arm64.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a5-embed-win32.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a5-embed-win32.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a5-embed-win32.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a5-macos11.pkg` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a5-macos11.pkg` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a5.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a5.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a5.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `Python-3.14.0a5.tar.xz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.0a5.tar.xz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.0a5.tar.xz.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `Python-3.14.0a5.tgz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.0a5.tgz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.0a5.tgz.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a6-amd64.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a6-amd64.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a6-amd64.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a6-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a6-arm64.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a6-arm64.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a6-arm64.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a6-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a6-embed-amd64.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a6-embed-amd64.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a6-embed-amd64.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a6-embed-arm64.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a6-embed-arm64.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a6-embed-arm64.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a6-embed-win32.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a6-embed-win32.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a6-embed-win32.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a6-embeddable-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a6-embeddable-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a6-embeddable-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a6-macos11.pkg` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a6-macos11.pkg` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a6-test-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a6-test-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a6-test-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a6-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a6.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a6.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a6.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `Python-3.14.0a6.tar.xz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.0a6.tar.xz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.0a6.tar.xz.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `Python-3.14.0a6.tgz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.0a6.tgz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.0a6.tgz.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a6t-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a6t-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a6t-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a7-amd64.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a7-amd64.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a7-amd64.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a7-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a7-arm64.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a7-arm64.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a7-arm64.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a7-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a7-embed-amd64.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a7-embed-amd64.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a7-embed-amd64.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a7-embed-arm64.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a7-embed-arm64.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a7-embed-arm64.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a7-embed-win32.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a7-embed-win32.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a7-embed-win32.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a7-embeddable-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a7-embeddable-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a7-embeddable-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a7-macos11.pkg` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a7-macos11.pkg` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a7-test-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a7-test-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a7-test-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a7-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a7.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a7.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0a7.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `Python-3.14.0a7.tar.xz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.0a7.tar.xz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.0a7.tar.xz.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `Python-3.14.0a7.tgz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.0a7.tgz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.0a7.tgz.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a7t-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a7t-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0a7t-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b1-amd64.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0b1-amd64.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0b1-amd64.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b1-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b1-arm64.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0b1-arm64.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0b1-arm64.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b1-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b1-embed-amd64.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0b1-embed-amd64.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0b1-embed-amd64.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b1-embed-arm64.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0b1-embed-arm64.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0b1-embed-arm64.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b1-embed-win32.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0b1-embed-win32.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0b1-embed-win32.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b1-embeddable-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b1-embeddable-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b1-embeddable-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b1-macos11.pkg` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0b1-macos11.pkg` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0b1-test-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b1-test-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b1-test-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b1-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b1.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0b1.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0b1.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `Python-3.14.0b1.tar.xz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.0b1.tar.xz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.0b1.tar.xz.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `Python-3.14.0b1.tgz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.0b1.tgz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.0b1.tgz.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b1t-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b1t-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b1t-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b2-amd64.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0b2-amd64.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0b2-amd64.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b2-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b2-arm64.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0b2-arm64.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0b2-arm64.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b2-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b2-embed-amd64.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0b2-embed-amd64.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0b2-embed-amd64.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b2-embed-arm64.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0b2-embed-arm64.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0b2-embed-arm64.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b2-embed-win32.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0b2-embed-win32.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0b2-embed-win32.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b2-embeddable-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b2-embeddable-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b2-embeddable-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b2-macos11.pkg` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0b2-macos11.pkg` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0b2-test-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b2-test-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b2-test-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b2-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b2.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0b2.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0b2.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `Python-3.14.0b2.tar.xz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.0b2.tar.xz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.0b2.tar.xz.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `Python-3.14.0b2.tgz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.0b2.tgz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.0b2.tgz.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b2t-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b2t-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b2t-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b3-amd64.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0b3-amd64.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0b3-amd64.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b3-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b3-arm64.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0b3-arm64.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0b3-arm64.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b3-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b3-embed-amd64.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0b3-embed-amd64.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0b3-embed-amd64.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b3-embed-arm64.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0b3-embed-arm64.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0b3-embed-arm64.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b3-embed-win32.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0b3-embed-win32.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0b3-embed-win32.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b3-embeddable-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b3-embeddable-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b3-embeddable-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b3-macos11.pkg` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0b3-macos11.pkg` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0b3-test-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b3-test-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b3-test-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b3-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b3.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0b3.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0b3.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `Python-3.14.0b3.tar.xz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.0b3.tar.xz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.0b3.tar.xz.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `Python-3.14.0b3.tgz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.0b3.tgz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.0b3.tgz.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b3t-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b3t-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b3t-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b4-amd64.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0b4-amd64.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0b4-amd64.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b4-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b4-arm64.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0b4-arm64.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0b4-arm64.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b4-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b4-embed-amd64.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0b4-embed-amd64.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0b4-embed-amd64.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b4-embed-arm64.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0b4-embed-arm64.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0b4-embed-arm64.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b4-embed-win32.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0b4-embed-win32.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0b4-embed-win32.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b4-embeddable-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b4-embeddable-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b4-embeddable-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b4-macos11.pkg` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0b4-macos11.pkg` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0b4-test-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b4-test-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b4-test-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b4-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b4.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0b4.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0b4.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `Python-3.14.0b4.tar.xz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.0b4.tar.xz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.0b4.tar.xz.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `Python-3.14.0b4.tgz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.0b4.tgz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.0b4.tgz.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b4t-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b4t-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0b4t-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0rc1-amd64.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0rc1-amd64.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0rc1-amd64.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0rc1-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0rc1-arm64.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0rc1-arm64.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0rc1-arm64.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0rc1-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0rc1-embed-amd64.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0rc1-embed-amd64.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0rc1-embed-amd64.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0rc1-embed-arm64.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0rc1-embed-arm64.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0rc1-embed-arm64.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0rc1-embed-win32.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0rc1-embed-win32.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0rc1-embed-win32.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0rc1-embeddable-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0rc1-embeddable-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0rc1-embeddable-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0rc1-macos11.pkg` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0rc1-macos11.pkg` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0rc1-test-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0rc1-test-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0rc1-test-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0rc1-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0rc1.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0rc1.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0rc1.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `Python-3.14.0rc1.tar.xz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.0rc1.tar.xz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.0rc1.tar.xz.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `Python-3.14.0rc1.tgz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.0rc1.tgz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.0rc1.tgz.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0rc1t-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0rc1t-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0rc1t-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0rc2-aarch64-linux-android.tar.gz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0rc2-aarch64-linux-android.tar.gz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0rc2-amd64.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0rc2-amd64.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0rc2-amd64.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0rc2-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0rc2-arm64.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0rc2-arm64.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0rc2-arm64.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0rc2-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0rc2-embed-amd64.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0rc2-embed-amd64.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0rc2-embed-amd64.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0rc2-embed-arm64.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0rc2-embed-arm64.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0rc2-embed-arm64.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0rc2-embed-win32.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0rc2-embed-win32.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0rc2-embed-win32.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0rc2-embeddable-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0rc2-embeddable-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0rc2-embeddable-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0rc2-macos11.pkg` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0rc2-macos11.pkg` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0rc2-test-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0rc2-test-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0rc2-test-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0rc2-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0rc2-x86_64-linux-android.tar.gz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0rc2-x86_64-linux-android.tar.gz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0rc2.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0rc2.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0rc2.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `Python-3.14.0rc2.tar.xz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.0rc2.tar.xz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.0rc2.tar.xz.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `Python-3.14.0rc2.tgz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.0rc2.tgz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.0rc2.tgz.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0rc2t-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0rc2t-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0rc2t-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0rc3-aarch64-linux-android.tar.gz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0rc3-aarch64-linux-android.tar.gz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0rc3-amd64.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0rc3-amd64.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0rc3-amd64.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0rc3-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0rc3-arm64.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0rc3-arm64.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0rc3-arm64.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0rc3-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0rc3-embed-amd64.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0rc3-embed-amd64.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0rc3-embed-amd64.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0rc3-embed-arm64.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0rc3-embed-arm64.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0rc3-embed-arm64.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0rc3-embed-win32.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0rc3-embed-win32.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0rc3-embed-win32.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0rc3-embeddable-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0rc3-embeddable-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0rc3-embeddable-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0rc3-macos11.pkg` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0rc3-macos11.pkg` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0rc3-test-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0rc3-test-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0rc3-test-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0rc3-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0rc3-x86_64-linux-android.tar.gz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0rc3-x86_64-linux-android.tar.gz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0rc3.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0rc3.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.0rc3.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `Python-3.14.0rc3.tar.xz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.0rc3.tar.xz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.0rc3.tar.xz.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `Python-3.14.0rc3.tgz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.0rc3.tgz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.0rc3.tgz.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0rc3t-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0rc3t-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0rc3t-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0t-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0t-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.0t-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.1-aarch64-linux-android.tar.gz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.1-aarch64-linux-android.tar.gz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.1-amd64.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.1-amd64.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.1-amd64.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.1-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.1-arm64.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.1-arm64.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.1-arm64.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.1-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.1-embed-amd64.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.1-embed-amd64.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.1-embed-amd64.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.1-embed-arm64.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.1-embed-arm64.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.1-embed-arm64.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.1-embed-win32.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.1-embed-win32.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.1-embed-win32.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.1-embeddable-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.1-embeddable-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.1-embeddable-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.1-macos11.pkg` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.1-macos11.pkg` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.1-test-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.1-test-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.1-test-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.1-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.1-x86_64-linux-android.tar.gz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.1-x86_64-linux-android.tar.gz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.1.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.1.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.1.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `Python-3.14.1.tar.xz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.1.tar.xz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.1.tar.xz.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `Python-3.14.1.tgz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.1.tgz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.1.tgz.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.1t-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.1t-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.1t-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.2-aarch64-linux-android.tar.gz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.2-aarch64-linux-android.tar.gz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.2-amd64.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.2-amd64.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.2-amd64.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.2-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.2-arm64.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.2-arm64.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.2-arm64.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.2-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.2-embed-amd64.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.2-embed-amd64.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.2-embed-amd64.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.2-embed-arm64.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.2-embed-arm64.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.2-embed-arm64.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.2-embed-win32.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.2-embed-win32.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.2-embed-win32.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.2-embeddable-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.2-embeddable-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.2-embeddable-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.2-macos11.pkg` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.2-macos11.pkg` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.2-test-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.2-test-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.2-test-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.2-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.2-x86_64-linux-android.tar.gz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.2-x86_64-linux-android.tar.gz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.2.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.2.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.2.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `Python-3.14.2.tar.xz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.2.tar.xz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.2.tar.xz.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `Python-3.14.2.tgz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.2.tgz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.2.tgz.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.2t-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.2t-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.2t-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.3-aarch64-linux-android.tar.gz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.3-aarch64-linux-android.tar.gz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.3-amd64.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.3-amd64.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.3-amd64.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.3-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.3-arm64.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.3-arm64.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.3-arm64.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.3-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.3-embed-amd64.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.3-embed-amd64.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.3-embed-amd64.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.3-embed-arm64.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.3-embed-arm64.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.3-embed-arm64.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.3-embed-win32.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.3-embed-win32.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.3-embed-win32.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.3-embeddable-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.3-embeddable-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.3-embeddable-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.3-macos11.pkg` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.3-macos11.pkg` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.3-test-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.3-test-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.3-test-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.3-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.3-x86_64-linux-android.tar.gz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.3-x86_64-linux-android.tar.gz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.3.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.3.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.14.3.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `Python-3.14.3.tar.xz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.3.tar.xz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.3.tar.xz.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `Python-3.14.3.tgz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.3.tgz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.14.3.tgz.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.3t-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.3t-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.14.3t-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a1-aarch64-linux-android.tar.gz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a1-aarch64-linux-android.tar.gz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a1-amd64.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a1-amd64.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a1-amd64.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a1-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a1-arm64.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a1-arm64.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a1-arm64.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a1-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a1-embed-amd64.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a1-embed-amd64.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a1-embed-amd64.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a1-embed-arm64.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a1-embed-arm64.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a1-embed-arm64.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a1-embed-win32.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a1-embed-win32.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a1-embed-win32.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a1-embeddable-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a1-embeddable-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a1-embeddable-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a1-macos11.pkg` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a1-macos11.pkg` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a1-test-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a1-test-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a1-test-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a1-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a1-x86_64-linux-android.tar.gz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a1-x86_64-linux-android.tar.gz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a1.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a1.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a1.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `Python-3.15.0a1.tar.xz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.15.0a1.tar.xz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.15.0a1.tar.xz.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `Python-3.15.0a1.tgz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.15.0a1.tgz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.15.0a1.tgz.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a1t-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a1t-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a1t-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a2-aarch64-linux-android.tar.gz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a2-aarch64-linux-android.tar.gz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a2-amd64.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a2-amd64.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a2-amd64.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a2-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a2-arm64.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a2-arm64.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a2-arm64.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a2-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a2-embed-amd64.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a2-embed-amd64.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a2-embed-amd64.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a2-embed-arm64.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a2-embed-arm64.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a2-embed-arm64.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a2-embed-win32.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a2-embed-win32.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a2-embed-win32.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a2-embeddable-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a2-embeddable-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a2-embeddable-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a2-macos11.pkg` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a2-macos11.pkg` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a2-test-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a2-test-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a2-test-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a2-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a2-x86_64-linux-android.tar.gz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a2-x86_64-linux-android.tar.gz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a2.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a2.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a2.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `Python-3.15.0a2.tar.xz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.15.0a2.tar.xz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.15.0a2.tar.xz.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `Python-3.15.0a2.tgz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.15.0a2.tgz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.15.0a2.tgz.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a2t-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a2t-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a2t-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a3-aarch64-linux-android.tar.gz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a3-aarch64-linux-android.tar.gz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a3-amd64.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a3-amd64.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a3-amd64.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a3-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a3-arm64.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a3-arm64.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a3-arm64.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a3-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a3-embed-amd64.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a3-embed-amd64.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a3-embed-amd64.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a3-embed-arm64.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a3-embed-arm64.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a3-embed-arm64.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a3-embed-win32.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a3-embed-win32.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a3-embed-win32.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a3-embeddable-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a3-embeddable-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a3-embeddable-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a3-macos11.pkg` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a3-macos11.pkg` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a3-test-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a3-test-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a3-test-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a3-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a3-x86_64-linux-android.tar.gz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a3-x86_64-linux-android.tar.gz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a3.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a3.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a3.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `Python-3.15.0a3.tar.xz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.15.0a3.tar.xz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.15.0a3.tar.xz.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `Python-3.15.0a3.tgz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.15.0a3.tgz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.15.0a3.tgz.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a3t-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a3t-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a3t-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a4-aarch64-linux-android.tar.gz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a4-aarch64-linux-android.tar.gz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a4-amd64.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a4-amd64.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a4-amd64.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a4-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a4-arm64.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a4-arm64.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a4-arm64.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a4-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a4-embed-amd64.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a4-embed-amd64.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a4-embed-amd64.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a4-embed-arm64.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a4-embed-arm64.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a4-embed-arm64.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a4-embed-win32.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a4-embed-win32.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a4-embed-win32.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a4-embeddable-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a4-embeddable-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a4-embeddable-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a4-macos11.pkg` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a4-macos11.pkg` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a4-test-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a4-test-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a4-test-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a4-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a4-x86_64-linux-android.tar.gz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a4-x86_64-linux-android.tar.gz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a4.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a4.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a4.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `Python-3.15.0a4.tar.xz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.15.0a4.tar.xz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.15.0a4.tar.xz.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `Python-3.15.0a4.tgz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.15.0a4.tgz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.15.0a4.tgz.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a4t-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a4t-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a4t-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a5-aarch64-linux-android.tar.gz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a5-aarch64-linux-android.tar.gz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a5-amd64.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a5-amd64.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a5-amd64.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a5-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a5-arm64.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a5-arm64.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a5-arm64.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a5-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a5-embed-amd64.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a5-embed-amd64.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a5-embed-amd64.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a5-embed-arm64.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a5-embed-arm64.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a5-embed-arm64.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a5-embed-win32.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a5-embed-win32.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a5-embed-win32.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a5-embeddable-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a5-embeddable-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a5-embeddable-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a5-macos11.pkg` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a5-macos11.pkg` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a5-test-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a5-test-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a5-test-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a5-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a5-x86_64-linux-android.tar.gz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a5-x86_64-linux-android.tar.gz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a5.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a5.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a5.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `Python-3.15.0a5.tar.xz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.15.0a5.tar.xz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.15.0a5.tar.xz.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `Python-3.15.0a5.tgz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.15.0a5.tgz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.15.0a5.tgz.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a5t-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a5t-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a5t-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a6-aarch64-linux-android.tar.gz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a6-aarch64-linux-android.tar.gz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a6-amd64.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a6-amd64.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a6-amd64.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a6-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a6-arm64.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a6-arm64.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a6-arm64.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a6-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a6-embed-amd64.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a6-embed-amd64.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a6-embed-amd64.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a6-embed-arm64.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a6-embed-arm64.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a6-embed-arm64.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a6-embed-win32.zip` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a6-embed-win32.zip` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a6-embed-win32.zip.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a6-embeddable-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a6-embeddable-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a6-embeddable-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a6-macos11.pkg` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a6-macos11.pkg` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a6-test-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a6-test-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a6-test-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a6-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a6-x86_64-linux-android.tar.gz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a6-x86_64-linux-android.tar.gz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a6.exe` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a6.exe` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `python-3.15.0a6.exe.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `Python-3.15.0a6.tar.xz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.15.0a6.tar.xz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.15.0a6.tar.xz.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `Python-3.15.0a6.tgz` | `.sig+.crt` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.15.0a6.tgz` | `.sigstore` | `hugo@python.org` | `https://github.com/login/oauth` | PASS |  |
+| `Python-3.15.0a6.tgz.spdx.json` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a6t-amd64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a6t-arm64.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
+| `python-3.15.0a6t-win32.zip` | N/A | `hugo@python.org` | `https://github.com/login/oauth` | N/A | |
 ## Digests
 ```
 4157ae31eb81af19e81c36882610491b0fb8f50e00fa8a17b095c88908b9c45c  Python-3.7.14.tar.xz
@@ -3782,6 +5598,106 @@ e05d92ffb935758774cac065510ffa396fa7f7a91ce04b67dda11554814e3f51  Python-3.9.20.
 73d68db80eb00755288e8f2ff1f0391d0343be58e3d572b60bd3c5d7c4dcf774  Python-3.9.20.tgz.sig
 fb42be4ab4126ad019fd7d84a30bb77073b1f10f5faf1b97f97897edeb86375e  Python-3.9.20.tgz.sigstore
 fb42be4ab4126ad019fd7d84a30bb77073b1f10f5faf1b97f97897edeb86375e  Python-3.9.20.tgz.sigstore
+3126f59592c9b0d798584755f2bf7b081fa1ca35ce7a6fea980108d752a05bb1  Python-3.9.21.tar.xz
+528304d51c8a526496a0eb7b1e0f9473c77d1392d0cccc07786cdff4778c00f2  Python-3.9.21.tar.xz.asc
+679e24cddd9ad4a5930e77b52dbe25437dfedc56fffd18a62efc52bea1fc7f64  Python-3.9.21.tar.xz.crt
+31796171d4298e679cc354d73a8b080af3a47fb5c888fa4b3737ba431c2af372  Python-3.9.21.tar.xz.sig
+c26584009eda471678ab770c5431c22eb727bf4c89263b8255715b277dcb04b3  Python-3.9.21.tar.xz.sigstore
+528304d51c8a526496a0eb7b1e0f9473c77d1392d0cccc07786cdff4778c00f2  Python-3.9.21.tar.xz.asc
+679e24cddd9ad4a5930e77b52dbe25437dfedc56fffd18a62efc52bea1fc7f64  Python-3.9.21.tar.xz.crt
+31796171d4298e679cc354d73a8b080af3a47fb5c888fa4b3737ba431c2af372  Python-3.9.21.tar.xz.sig
+c26584009eda471678ab770c5431c22eb727bf4c89263b8255715b277dcb04b3  Python-3.9.21.tar.xz.sigstore
+c26584009eda471678ab770c5431c22eb727bf4c89263b8255715b277dcb04b3  Python-3.9.21.tar.xz.sigstore
+667c3ba2ca98d39ead1162f6548c3475768582e2ff89e0821d25eb956ac09944  Python-3.9.21.tgz
+b90c979654b030bff1ef483ab68edfaffcf0d5cad9cf4a434eff41dedb7eff93  Python-3.9.21.tgz.asc
+898801b8d1b70ea43d31880c8f098cc8af057692f5dca1c2f87f0e4168f86797  Python-3.9.21.tgz.crt
+9e740b99207c8051154c4497ba2a480651a180af2eae2fd798cabec4bb5ad6f6  Python-3.9.21.tgz.sig
+d9192414203aa9e1b735fd8eec16a958f4d01e3353f9ee947fce23beb74c3021  Python-3.9.21.tgz.sigstore
+b90c979654b030bff1ef483ab68edfaffcf0d5cad9cf4a434eff41dedb7eff93  Python-3.9.21.tgz.asc
+898801b8d1b70ea43d31880c8f098cc8af057692f5dca1c2f87f0e4168f86797  Python-3.9.21.tgz.crt
+9e740b99207c8051154c4497ba2a480651a180af2eae2fd798cabec4bb5ad6f6  Python-3.9.21.tgz.sig
+d9192414203aa9e1b735fd8eec16a958f4d01e3353f9ee947fce23beb74c3021  Python-3.9.21.tgz.sigstore
+d9192414203aa9e1b735fd8eec16a958f4d01e3353f9ee947fce23beb74c3021  Python-3.9.21.tgz.sigstore
+8c136d199d3637a1fce98a16adc809c1d83c922d02d41f3614b34f8b6e7d38ec  Python-3.9.22.tar.xz
+63553e7ac3d7dd5855c7b6bce53857e68e51c8777cddcfe6aeead529ef63f616  Python-3.9.22.tar.xz.asc
+4e7c63af31a4859d2dccd95a69c4157c0c233c0aeebd763ce3a2cef7c8a14546  Python-3.9.22.tar.xz.crt
+73ed1dd55db6065aaddebf4a8d3a73794b5fce041c22351e9e1bd8d4e79bb525  Python-3.9.22.tar.xz.sig
+d364bd5633880c3ecc71dd9732eaccb7b231f99fb6e310454858d71fc7efa8fd  Python-3.9.22.tar.xz.sigstore
+63553e7ac3d7dd5855c7b6bce53857e68e51c8777cddcfe6aeead529ef63f616  Python-3.9.22.tar.xz.asc
+4e7c63af31a4859d2dccd95a69c4157c0c233c0aeebd763ce3a2cef7c8a14546  Python-3.9.22.tar.xz.crt
+73ed1dd55db6065aaddebf4a8d3a73794b5fce041c22351e9e1bd8d4e79bb525  Python-3.9.22.tar.xz.sig
+d364bd5633880c3ecc71dd9732eaccb7b231f99fb6e310454858d71fc7efa8fd  Python-3.9.22.tar.xz.sigstore
+d364bd5633880c3ecc71dd9732eaccb7b231f99fb6e310454858d71fc7efa8fd  Python-3.9.22.tar.xz.sigstore
+76f4daef4ffce6fd107280a0db8d108b1f896c1c22f09d8300efd90a69c4298b  Python-3.9.22.tgz
+b4cb6d6cfb95bf70c3c05aa1cee44e18be3713f5964cc843016bee189bacc7b3  Python-3.9.22.tgz.asc
+db55eabb06ec746c3f76a7ac930c40ebcd3cca812d3d4d0e2980dbc3ce904256  Python-3.9.22.tgz.crt
+3c447d067c9f15d5ec29c4ef84ddf1c31b900592a3a9d2552df408cb1af2c011  Python-3.9.22.tgz.sig
+ecc0964c4596db17a36f5ca7c808768e16d5dc5527fe18ffe88e931aa398cbaf  Python-3.9.22.tgz.sigstore
+b4cb6d6cfb95bf70c3c05aa1cee44e18be3713f5964cc843016bee189bacc7b3  Python-3.9.22.tgz.asc
+db55eabb06ec746c3f76a7ac930c40ebcd3cca812d3d4d0e2980dbc3ce904256  Python-3.9.22.tgz.crt
+3c447d067c9f15d5ec29c4ef84ddf1c31b900592a3a9d2552df408cb1af2c011  Python-3.9.22.tgz.sig
+ecc0964c4596db17a36f5ca7c808768e16d5dc5527fe18ffe88e931aa398cbaf  Python-3.9.22.tgz.sigstore
+ecc0964c4596db17a36f5ca7c808768e16d5dc5527fe18ffe88e931aa398cbaf  Python-3.9.22.tgz.sigstore
+61a42919e13d539f7673cf11d1c404380e28e540510860b9d242196e165709c9  Python-3.9.23.tar.xz
+bc70041afca2c31beb5486c7b8f3b172aa9e0f6d26ff036bb342c67eaac15eb6  Python-3.9.23.tar.xz.asc
+21750913a9ee4228576c038a72423e248884c990ce25f3001e14cbbb11397396  Python-3.9.23.tar.xz.crt
+66018a830b4cb6f8a773d759c0898ac8bfd0b0f55bbc1e5535007421c8f1e41f  Python-3.9.23.tar.xz.sig
+4046ce61b21100eae694a4184195def3b04bd74cf3f60dcff24745d4ea6611ea  Python-3.9.23.tar.xz.sigstore
+bc70041afca2c31beb5486c7b8f3b172aa9e0f6d26ff036bb342c67eaac15eb6  Python-3.9.23.tar.xz.asc
+21750913a9ee4228576c038a72423e248884c990ce25f3001e14cbbb11397396  Python-3.9.23.tar.xz.crt
+66018a830b4cb6f8a773d759c0898ac8bfd0b0f55bbc1e5535007421c8f1e41f  Python-3.9.23.tar.xz.sig
+4046ce61b21100eae694a4184195def3b04bd74cf3f60dcff24745d4ea6611ea  Python-3.9.23.tar.xz.sigstore
+4046ce61b21100eae694a4184195def3b04bd74cf3f60dcff24745d4ea6611ea  Python-3.9.23.tar.xz.sigstore
+9a69aad184dc1d06f6819930741da3a328d34875a41f8ba33875774dbfc51b51  Python-3.9.23.tgz
+49cb28e7300cf51a6d01630721edb9db182df7e5277d98257f336385c6c0b1e4  Python-3.9.23.tgz.asc
+2b5f623c6906920a24839a0029425ad97a49ac030bba5b1bd9d4bee272c3eb85  Python-3.9.23.tgz.crt
+abc03792c198628f9b61a47a475278d5a3747c6fdb6642cea66db44d4fca7139  Python-3.9.23.tgz.sig
+1a4f424e88bc079a4d8841951108f2de87838d747eed42e263e3066feda93526  Python-3.9.23.tgz.sigstore
+49cb28e7300cf51a6d01630721edb9db182df7e5277d98257f336385c6c0b1e4  Python-3.9.23.tgz.asc
+2b5f623c6906920a24839a0029425ad97a49ac030bba5b1bd9d4bee272c3eb85  Python-3.9.23.tgz.crt
+abc03792c198628f9b61a47a475278d5a3747c6fdb6642cea66db44d4fca7139  Python-3.9.23.tgz.sig
+1a4f424e88bc079a4d8841951108f2de87838d747eed42e263e3066feda93526  Python-3.9.23.tgz.sigstore
+1a4f424e88bc079a4d8841951108f2de87838d747eed42e263e3066feda93526  Python-3.9.23.tgz.sigstore
+668391afabd5083faafa4543753d190f82f33ce6ba22d6e9ac728b43644b278a  Python-3.9.24.tar.xz
+c8b0c41bb82728506055abeb74d44ec3eec90aea53f5d526395702c10c516b80  Python-3.9.24.tar.xz.asc
+95dd0376ef0a9da740856db340ed90277c525b8063d986220d00a2fa596f4144  Python-3.9.24.tar.xz.crt
+bda230ff3fef23bffd9f6b4f2fbcdb22da746d600f12d93a71a90c891b1a830a  Python-3.9.24.tar.xz.sig
+def8f97ca9a3ad2dbea173396be1f414214e0b9f4cbf7f0d0050ea9fc8e57b8a  Python-3.9.24.tar.xz.sigstore
+c8b0c41bb82728506055abeb74d44ec3eec90aea53f5d526395702c10c516b80  Python-3.9.24.tar.xz.asc
+95dd0376ef0a9da740856db340ed90277c525b8063d986220d00a2fa596f4144  Python-3.9.24.tar.xz.crt
+bda230ff3fef23bffd9f6b4f2fbcdb22da746d600f12d93a71a90c891b1a830a  Python-3.9.24.tar.xz.sig
+def8f97ca9a3ad2dbea173396be1f414214e0b9f4cbf7f0d0050ea9fc8e57b8a  Python-3.9.24.tar.xz.sigstore
+def8f97ca9a3ad2dbea173396be1f414214e0b9f4cbf7f0d0050ea9fc8e57b8a  Python-3.9.24.tar.xz.sigstore
+9a32cfc683aecaadbd9ed891ac2af9451ff37f48a00a2d8e1f4ecd9c2a1ffdcb  Python-3.9.24.tgz
+57a05223a8b161935fb45cfe3fa1e22734af492af3c448e956031a8df58e0198  Python-3.9.24.tgz.asc
+fa70fc3ff11b235f535d6437964f6a913386e158792a2531d58657bd98f7091a  Python-3.9.24.tgz.crt
+242386a5d85f440b8ad05e8f4b0b296822f4d7df43590369e8b5056e8c36f00c  Python-3.9.24.tgz.sig
+35c85e3b4e9bb1fe207e7ca1307eeb0b3fd3bd9b23169fac133f8a0c066dd788  Python-3.9.24.tgz.sigstore
+57a05223a8b161935fb45cfe3fa1e22734af492af3c448e956031a8df58e0198  Python-3.9.24.tgz.asc
+fa70fc3ff11b235f535d6437964f6a913386e158792a2531d58657bd98f7091a  Python-3.9.24.tgz.crt
+242386a5d85f440b8ad05e8f4b0b296822f4d7df43590369e8b5056e8c36f00c  Python-3.9.24.tgz.sig
+35c85e3b4e9bb1fe207e7ca1307eeb0b3fd3bd9b23169fac133f8a0c066dd788  Python-3.9.24.tgz.sigstore
+35c85e3b4e9bb1fe207e7ca1307eeb0b3fd3bd9b23169fac133f8a0c066dd788  Python-3.9.24.tgz.sigstore
+00e07d7c0f2f0cc002432d1ee84d2a40dae404a99303e3f97701c10966c91834  Python-3.9.25.tar.xz
+6120fadaa1f4bd3f80ae0313e9c03b4c4ea069a3cec1398027d2465057fb258a  Python-3.9.25.tar.xz.asc
+a61461aade61bda5a0d5ecea5d0d89aaea668815e4d1020ae869c5ea03f9b9df  Python-3.9.25.tar.xz.crt
+cf1575eec3888b84b66bc8d8c4a06430fc836530937675599640acc4a9fc841e  Python-3.9.25.tar.xz.sig
+09243be5b795dbccf2e3a28b1a478a51ccdc1d2e102122737fc012798a5b17ad  Python-3.9.25.tar.xz.sigstore
+6120fadaa1f4bd3f80ae0313e9c03b4c4ea069a3cec1398027d2465057fb258a  Python-3.9.25.tar.xz.asc
+a61461aade61bda5a0d5ecea5d0d89aaea668815e4d1020ae869c5ea03f9b9df  Python-3.9.25.tar.xz.crt
+cf1575eec3888b84b66bc8d8c4a06430fc836530937675599640acc4a9fc841e  Python-3.9.25.tar.xz.sig
+09243be5b795dbccf2e3a28b1a478a51ccdc1d2e102122737fc012798a5b17ad  Python-3.9.25.tar.xz.sigstore
+09243be5b795dbccf2e3a28b1a478a51ccdc1d2e102122737fc012798a5b17ad  Python-3.9.25.tar.xz.sigstore
+a7438eabd3a48139f42d4e058096af8d880b0bb6e8fb8c78838892e4ce5583f2  Python-3.9.25.tgz
+eacf7bd91aebaf866442c74fede22e8666fdf95eacf233e9effa3ed90e40747d  Python-3.9.25.tgz.asc
+966b3d2caed24d3625c16d211785372164b56c612744bbe28c9ef7fd5339c9b5  Python-3.9.25.tgz.crt
+fad1319371241299cb1ae8102aa63c11a1f969bc527282edb3797db7a1da1383  Python-3.9.25.tgz.sig
+5437ca9ba06542d4cdde7347e17c31a8aaa347bfb466baef54cdef508bfa7135  Python-3.9.25.tgz.sigstore
+eacf7bd91aebaf866442c74fede22e8666fdf95eacf233e9effa3ed90e40747d  Python-3.9.25.tgz.asc
+966b3d2caed24d3625c16d211785372164b56c612744bbe28c9ef7fd5339c9b5  Python-3.9.25.tgz.crt
+fad1319371241299cb1ae8102aa63c11a1f969bc527282edb3797db7a1da1383  Python-3.9.25.tgz.sig
+5437ca9ba06542d4cdde7347e17c31a8aaa347bfb466baef54cdef508bfa7135  Python-3.9.25.tgz.sigstore
+5437ca9ba06542d4cdde7347e17c31a8aaa347bfb466baef54cdef508bfa7135  Python-3.9.25.tgz.sigstore
 a87fee84fc38e5c529f26c8420490c6565c345719f01064b3019058db398c8fc  python-3.10.0-amd64-webinstall.exe
 00b65e4beeb3a687ed2055aeec304ab2e45097d0555b78dfbcaa5f38b0f7c14c  python-3.10.0-amd64-webinstall.exe.asc
 00b65e4beeb3a687ed2055aeec304ab2e45097d0555b78dfbcaa5f38b0f7c14c  python-3.10.0-amd64-webinstall.exe.asc
@@ -4769,6 +6685,86 @@ c593ebe857b2ea84ebf5a1c30606e650b9a7d58cd6dd7d185ec4dcb8a7fbc010  Python-3.10.15
 d4bb5f67e100095e868b9b0db9a38970aba099e0b018608ad979fb27f5655b78  Python-3.10.15.tgz.sig
 ce92ba6c905a75194578cd501b1eea075d05236db80e5a6872ed5a01d5fc530a  Python-3.10.15.tgz.sigstore
 ce92ba6c905a75194578cd501b1eea075d05236db80e5a6872ed5a01d5fc530a  Python-3.10.15.tgz.sigstore
+bfb249609990220491a1b92850a07135ed0831e41738cf681d63cf01b2a8fbd1  Python-3.10.16.tar.xz
+3c0b201d7d6623e796ad4d8f46bf86edddf146e88d162b9aecdd96c58a5034ec  Python-3.10.16.tar.xz.asc
+0d4825e6f060258d5c3f20cce85de4771c24a7faa6aa2af4bd0cb96997e543be  Python-3.10.16.tar.xz.crt
+a59d17d2d93d4caea3baa963b9747ffe139a63802273ea5b628a6723f9741e1b  Python-3.10.16.tar.xz.sig
+58743f75184121322261d2c7417f363f1f264629441c91328f708dcf1a907a17  Python-3.10.16.tar.xz.sigstore
+3c0b201d7d6623e796ad4d8f46bf86edddf146e88d162b9aecdd96c58a5034ec  Python-3.10.16.tar.xz.asc
+0d4825e6f060258d5c3f20cce85de4771c24a7faa6aa2af4bd0cb96997e543be  Python-3.10.16.tar.xz.crt
+a59d17d2d93d4caea3baa963b9747ffe139a63802273ea5b628a6723f9741e1b  Python-3.10.16.tar.xz.sig
+58743f75184121322261d2c7417f363f1f264629441c91328f708dcf1a907a17  Python-3.10.16.tar.xz.sigstore
+58743f75184121322261d2c7417f363f1f264629441c91328f708dcf1a907a17  Python-3.10.16.tar.xz.sigstore
+f2e22ed965a93cfeb642378ed6e6cdbc127682664b24123679f3d013fafe9cd0  Python-3.10.16.tgz
+2e13ae4e0130e90702809972f815aa940b0a0fb0e2098e7df0ac5ba3247c4401  Python-3.10.16.tgz.asc
+fc30a783901e68fdbdccce0a44999e1a66f71c145d86b1da1608a4971ff888c2  Python-3.10.16.tgz.crt
+f727cef74e18a6927272f8e6374f908950eaa0797ef69123a032fbfe2a6d864e  Python-3.10.16.tgz.sig
+135c14ca6615aa0ea28061159a9ddc711f9b39274c8befbd844a80198b7cb92e  Python-3.10.16.tgz.sigstore
+2e13ae4e0130e90702809972f815aa940b0a0fb0e2098e7df0ac5ba3247c4401  Python-3.10.16.tgz.asc
+fc30a783901e68fdbdccce0a44999e1a66f71c145d86b1da1608a4971ff888c2  Python-3.10.16.tgz.crt
+f727cef74e18a6927272f8e6374f908950eaa0797ef69123a032fbfe2a6d864e  Python-3.10.16.tgz.sig
+135c14ca6615aa0ea28061159a9ddc711f9b39274c8befbd844a80198b7cb92e  Python-3.10.16.tgz.sigstore
+135c14ca6615aa0ea28061159a9ddc711f9b39274c8befbd844a80198b7cb92e  Python-3.10.16.tgz.sigstore
+4c68050f049d1b4ac5aadd0df5f27941c0350d2a9e7ab0907ee5eb5225d9d6b0  Python-3.10.17.tar.xz
+b0b1de773ac3cd75d914adaca0dee37d775f7597d5f010798b6b71c82f5ac712  Python-3.10.17.tar.xz.asc
+56458f5d274cbe155bc681d30ec23233707480f7118a48a1d175b16a9372aea0  Python-3.10.17.tar.xz.crt
+7b0eb3af97251ea48f2a8582722b605391cab2c2dbba3f88f59a74893ca1388b  Python-3.10.17.tar.xz.sig
+1d027cef64a9ba0bd8e91663cf6b19e8795e72ee8441cc0701ff95749f976ad5  Python-3.10.17.tar.xz.sigstore
+b0b1de773ac3cd75d914adaca0dee37d775f7597d5f010798b6b71c82f5ac712  Python-3.10.17.tar.xz.asc
+56458f5d274cbe155bc681d30ec23233707480f7118a48a1d175b16a9372aea0  Python-3.10.17.tar.xz.crt
+7b0eb3af97251ea48f2a8582722b605391cab2c2dbba3f88f59a74893ca1388b  Python-3.10.17.tar.xz.sig
+1d027cef64a9ba0bd8e91663cf6b19e8795e72ee8441cc0701ff95749f976ad5  Python-3.10.17.tar.xz.sigstore
+1d027cef64a9ba0bd8e91663cf6b19e8795e72ee8441cc0701ff95749f976ad5  Python-3.10.17.tar.xz.sigstore
+8fcda0fbdc131859a4a4223abb925fd522a77e3fb3b52c46cea5f3bc2ae0cd9f  Python-3.10.17.tgz
+62ea9a0ea36d4fe7a04587fd4986de2944497b34d56108815901c72e122179ed  Python-3.10.17.tgz.asc
+9eb63a8a0ddf0445864c52030afbdccaa700b506afa7899dc624257a0c5a373d  Python-3.10.17.tgz.crt
+aeda94508cdaccb7325b2fcc74c679a31ffc0168c02cf3f07188510c2992f163  Python-3.10.17.tgz.sig
+fa831a4dbe3918736efb5d8a4026b3bf9a4d7e3c53ff12de0ad75985bf586b3f  Python-3.10.17.tgz.sigstore
+62ea9a0ea36d4fe7a04587fd4986de2944497b34d56108815901c72e122179ed  Python-3.10.17.tgz.asc
+9eb63a8a0ddf0445864c52030afbdccaa700b506afa7899dc624257a0c5a373d  Python-3.10.17.tgz.crt
+aeda94508cdaccb7325b2fcc74c679a31ffc0168c02cf3f07188510c2992f163  Python-3.10.17.tgz.sig
+fa831a4dbe3918736efb5d8a4026b3bf9a4d7e3c53ff12de0ad75985bf586b3f  Python-3.10.17.tgz.sigstore
+fa831a4dbe3918736efb5d8a4026b3bf9a4d7e3c53ff12de0ad75985bf586b3f  Python-3.10.17.tgz.sigstore
+ae665bc678abd9ab6a6e1573d2481625a53719bc517e9a634ed2b9fefae3817f  Python-3.10.18.tar.xz
+47dca047fe58e552d24c461c63b92843f86318efb1087711be598a27b6ab3a34  Python-3.10.18.tar.xz.asc
+bacc68204f95e74630becaee8a7124d60b952d3074c28931b3cd6c3252a9fbb2  Python-3.10.18.tar.xz.crt
+0b980abc38d363f206a5e00709f80b35c97f6a5ed584f70455dd33f607da16cb  Python-3.10.18.tar.xz.sig
+b007dd0d35d2db75dd73994799ca14c03a2fd1f9a6bd40d6dc5affd00e7a7c22  Python-3.10.18.tar.xz.sigstore
+47dca047fe58e552d24c461c63b92843f86318efb1087711be598a27b6ab3a34  Python-3.10.18.tar.xz.asc
+bacc68204f95e74630becaee8a7124d60b952d3074c28931b3cd6c3252a9fbb2  Python-3.10.18.tar.xz.crt
+0b980abc38d363f206a5e00709f80b35c97f6a5ed584f70455dd33f607da16cb  Python-3.10.18.tar.xz.sig
+b007dd0d35d2db75dd73994799ca14c03a2fd1f9a6bd40d6dc5affd00e7a7c22  Python-3.10.18.tar.xz.sigstore
+b007dd0d35d2db75dd73994799ca14c03a2fd1f9a6bd40d6dc5affd00e7a7c22  Python-3.10.18.tar.xz.sigstore
+1b19ab802518eb36a851f5ddef571862c7a31ece533109a99df6d5af0a1ceb99  Python-3.10.18.tgz
+a079b85931e9f8c09a6d29ea32ae0d16910d335b895f814913215f4b5228a4ef  Python-3.10.18.tgz.asc
+4f5a23a6b9299355a5a4512c2780c775fce246ef41101af818478a655a701c97  Python-3.10.18.tgz.crt
+a24c7054bdd0d8a3b486c383f1dc947047cc465c0bcbadf140bf4b341f634b08  Python-3.10.18.tgz.sig
+f9ca466e67e0c3634fd98867b1c8998870942fd837d2c77ad2228482b456c337  Python-3.10.18.tgz.sigstore
+a079b85931e9f8c09a6d29ea32ae0d16910d335b895f814913215f4b5228a4ef  Python-3.10.18.tgz.asc
+4f5a23a6b9299355a5a4512c2780c775fce246ef41101af818478a655a701c97  Python-3.10.18.tgz.crt
+a24c7054bdd0d8a3b486c383f1dc947047cc465c0bcbadf140bf4b341f634b08  Python-3.10.18.tgz.sig
+f9ca466e67e0c3634fd98867b1c8998870942fd837d2c77ad2228482b456c337  Python-3.10.18.tgz.sigstore
+f9ca466e67e0c3634fd98867b1c8998870942fd837d2c77ad2228482b456c337  Python-3.10.18.tgz.sigstore
+c8f4a596572201d81dd7df91f70e177e19a70f1d489968b54b5fbbf29a97c076  Python-3.10.19.tar.xz
+7a355e06dd2d6158702bfc080834f7540c47bc8e5e1a54e470a1ed6c5e91f7c9  Python-3.10.19.tar.xz.asc
+7a2c6730f3b28c41cfd75c132c8519d1d69401aa7327d9255bbd6c95b89c92db  Python-3.10.19.tar.xz.crt
+7d81f1b159f3b5a00043d2984c7e05b821fd05ca0ee0e3fe593b33d76dd4c9cf  Python-3.10.19.tar.xz.sig
+073ff8949d4c2da7003cedc6812866f940f4d43762c4c96388fa9fde44dc7b0f  Python-3.10.19.tar.xz.sigstore
+7a355e06dd2d6158702bfc080834f7540c47bc8e5e1a54e470a1ed6c5e91f7c9  Python-3.10.19.tar.xz.asc
+7a2c6730f3b28c41cfd75c132c8519d1d69401aa7327d9255bbd6c95b89c92db  Python-3.10.19.tar.xz.crt
+7d81f1b159f3b5a00043d2984c7e05b821fd05ca0ee0e3fe593b33d76dd4c9cf  Python-3.10.19.tar.xz.sig
+073ff8949d4c2da7003cedc6812866f940f4d43762c4c96388fa9fde44dc7b0f  Python-3.10.19.tar.xz.sigstore
+073ff8949d4c2da7003cedc6812866f940f4d43762c4c96388fa9fde44dc7b0f  Python-3.10.19.tar.xz.sigstore
+a078fb2d7a216071ebbe2e34b5f5355dd6b6e9b0cd1bacc4a41c63990c5a0eec  Python-3.10.19.tgz
+a029ac4b3a3fdbcef99e13019a3a752d0b92aecdba97884553f91df3c65cbf97  Python-3.10.19.tgz.asc
+acc486aa797e9a9dcd73b80c4711dc19e59247db50d9f5889d9e17424cb9ee16  Python-3.10.19.tgz.crt
+38c1b9ae6023b616decfedcdb32590d0f54447e149bc1ac0effc4ade063d3d44  Python-3.10.19.tgz.sig
+730b355ae8185eb9d867fd37a718bbc0bb81f9d7987bd4252ed6b90a97b3c61e  Python-3.10.19.tgz.sigstore
+a029ac4b3a3fdbcef99e13019a3a752d0b92aecdba97884553f91df3c65cbf97  Python-3.10.19.tgz.asc
+acc486aa797e9a9dcd73b80c4711dc19e59247db50d9f5889d9e17424cb9ee16  Python-3.10.19.tgz.crt
+38c1b9ae6023b616decfedcdb32590d0f54447e149bc1ac0effc4ade063d3d44  Python-3.10.19.tgz.sig
+730b355ae8185eb9d867fd37a718bbc0bb81f9d7987bd4252ed6b90a97b3c61e  Python-3.10.19.tgz.sigstore
+730b355ae8185eb9d867fd37a718bbc0bb81f9d7987bd4252ed6b90a97b3c61e  Python-3.10.19.tgz.sigstore
 b5884fa3f05f88bbb617d08584930770c00bbcf675f2865a9161c2358829b605  python-3.11.0-amd64.exe
 109ab0ff5c6f8f369175cbf2f2a2c1eb8d1a8f878ce3d8d5e334cf337d8c833e  python-3.11.0-amd64.exe.asc
 1fce8b5e4137e235dc1e3af39795b215efefd10fa8b7a304b6c574f16851e15f  python-3.11.0-amd64.exe.crt
@@ -4776,6 +6772,7 @@ df94752e1dd371d57cea4b07e6e8455d4429f0afab2ba691e35c3c5773ad7a3b  python-3.11.0-
 109ab0ff5c6f8f369175cbf2f2a2c1eb8d1a8f878ce3d8d5e334cf337d8c833e  python-3.11.0-amd64.exe.asc
 1fce8b5e4137e235dc1e3af39795b215efefd10fa8b7a304b6c574f16851e15f  python-3.11.0-amd64.exe.crt
 df94752e1dd371d57cea4b07e6e8455d4429f0afab2ba691e35c3c5773ad7a3b  python-3.11.0-amd64.exe.sig
+11a906a2f36cacaee938c048968d99aa68ec0db592693b5a0fe3b161bb280ec5  python-3.11.0-amd64.zip
 5638e4339eb320cee1fcc7c2722252fc6a6b0855b517a7ea72b01a0c57767091  python-3.11.0-arm64.exe
 7abb9329cce9e94781859a2435968e5db7fe25e8974370f339174b404b03ef68  python-3.11.0-arm64.exe.asc
 7a4decd87ea507618c147bd0ea2e87ea18633ac770713979445fb594a392765b  python-3.11.0-arm64.exe.crt
@@ -4783,6 +6780,7 @@ df94752e1dd371d57cea4b07e6e8455d4429f0afab2ba691e35c3c5773ad7a3b  python-3.11.0-
 7abb9329cce9e94781859a2435968e5db7fe25e8974370f339174b404b03ef68  python-3.11.0-arm64.exe.asc
 7a4decd87ea507618c147bd0ea2e87ea18633ac770713979445fb594a392765b  python-3.11.0-arm64.exe.crt
 0c05b2016baa46c7fa4e96986a3e68f76428a60973f5138ea2f08e84a30e2e1b  python-3.11.0-arm64.exe.sig
+343ded2cffae208a403d3731cde3631a1b4b7ce5a90cae3c259565feee9c9aba  python-3.11.0-arm64.zip
 68fb03784e8545c35bcb5f240b696e6e676ca3e5fb90926ed0673d564299fb94  python-3.11.0-embed-amd64.zip
 12c53912339e0720aaee6899dbee8c21a6e528645e3b481745c594a3887c9cda  python-3.11.0-embed-amd64.zip.asc
 7a58dcb2018c9d94fc6998b144e5377909ebcc93a5f59a8c4ee1520164a05557  python-3.11.0-embed-amd64.zip.crt
@@ -4804,6 +6802,9 @@ fc329ed4db84f7c9e8f8c83bf99c2fc2d282a44d29dc0a7cd8f14af19885ebbb  python-3.11.0-
 bd44554ae4707c922277260aba73b1a077d7830f2b7eea60d6075051988be52e  python-3.11.0-embed-win32.zip.asc
 8edc10bb77031bca49b2673109f5ce252c01421b604e95488ddc0b85347a5ae5  python-3.11.0-embed-win32.zip.crt
 fc329ed4db84f7c9e8f8c83bf99c2fc2d282a44d29dc0a7cd8f14af19885ebbb  python-3.11.0-embed-win32.zip.sig
+47e961d573935703f6fa7fe0edf712085739b212eeb819c4086d91851c4dfca0  python-3.11.0-embeddable-amd64.zip
+82e6c1d01d50875cf38934c57454e3460bf4700a0915e57113577534bd8d897c  python-3.11.0-embeddable-arm64.zip
+a14da4f0d7fd00f42ca4e010f1d76440ab11e5cc1e5713d15aaf7c79ccda4bd2  python-3.11.0-embeddable-win32.zip
 8d3b9abea979381614544d8dfc6d88422dc19b072c9ba19cd535f5efad6d89e1  python-3.11.0-macos11.pkg
 7b3f156c46bebcb1639d29b01e4002b0efae8861b768b3138b48dbe900184b26  python-3.11.0-macos11.pkg.asc
 c092919abd87bf3f5b87469ac653e20f2ee6f86533930997247eb978b6c89820  python-3.11.0-macos11.pkg.crt
@@ -4811,6 +6812,10 @@ f4d403de22f87b1f8ae6b68e61b4e8dc43e0d140e9eeb835c56d1073783c02e6  python-3.11.0-
 7b3f156c46bebcb1639d29b01e4002b0efae8861b768b3138b48dbe900184b26  python-3.11.0-macos11.pkg.asc
 c092919abd87bf3f5b87469ac653e20f2ee6f86533930997247eb978b6c89820  python-3.11.0-macos11.pkg.crt
 f4d403de22f87b1f8ae6b68e61b4e8dc43e0d140e9eeb835c56d1073783c02e6  python-3.11.0-macos11.pkg.sig
+ebfaf7d46e6067b53870d599c5ca62a71b276f75f6c80b2acd08c768474f6519  python-3.11.0-test-amd64.zip
+d8f0c25b4f1f20b41e324d155b7ec2cd211be5da0dce4be2f269e43dd3e33dab  python-3.11.0-test-arm64.zip
+419056d9c6647b6b976f8d52e27029cf823492148285b266a34c25db2f83b875  python-3.11.0-test-win32.zip
+3fd6730ede1a4ba56e69a70357b952b96c1e51622e2e3256060728cff3985f5f  python-3.11.0-win32.zip
 2d7b87eacdd5925af4e0db0ec155dd2b765aa27efe609c0684cacc6fbf46f104  python-3.11.0.exe
 602b707126623e096e251ddc95223f6b469fbb3e6be0ee5f54c08b2b2a8b21c1  python-3.11.0.exe.asc
 ae5e9b2491dee7f3056820b6be7bea5e8b625e58346506e3b3df862757ff0eb8  python-3.11.0.exe.crt
@@ -5271,6 +7276,7 @@ f6bf9dbcaf93c439be97b77cbc78b0caa77cc37cd19676921f9527050d274e34  python-3.11.1-
 45d0f06a0b73cc1b79f9f08cac44a48f7fc94566bd044bc9d9f73e8a1f56ce8a  python-3.11.1-amd64.exe.asc
 f6bf9dbcaf93c439be97b77cbc78b0caa77cc37cd19676921f9527050d274e34  python-3.11.1-amd64.exe.crt
 5704444aa116ce164b8be4584bc8fe65a1b98dedbf4329b48510865ffaf33a1d  python-3.11.1-amd64.exe.sig
+0767fd52a6560d30ec1e6ee05201b45ae00242817cd85b5b597db079648e5d7e  python-3.11.1-amd64.zip
 e6e9d235b8d316d7565771a1d8af47949e19db9468f8ae3c37c7b3f5d41c4e7c  python-3.11.1-arm64.exe
 edba5dd1a2263f75c24aaf6942250ee038a6091ff7069fcd28c8962d4e26b258  python-3.11.1-arm64.exe.asc
 cf68ff2e35fcf47c262ddf3d3cd54f4f97a9d718d614662f675793a2fef300e1  python-3.11.1-arm64.exe.crt
@@ -5278,6 +7284,7 @@ d6a4dfadc72035d2b72cb8d37d82397a2da205422159f0f0a1bec3c27d6912cc  python-3.11.1-
 edba5dd1a2263f75c24aaf6942250ee038a6091ff7069fcd28c8962d4e26b258  python-3.11.1-arm64.exe.asc
 cf68ff2e35fcf47c262ddf3d3cd54f4f97a9d718d614662f675793a2fef300e1  python-3.11.1-arm64.exe.crt
 d6a4dfadc72035d2b72cb8d37d82397a2da205422159f0f0a1bec3c27d6912cc  python-3.11.1-arm64.exe.sig
+ac341379fce66ce3f35303d478e17657c42f2f3eb18509b5d1ccf7a8da20f068  python-3.11.1-arm64.zip
 3a6269cf0c0f8440a333998059e5e7ed8eaa1de576695d535224d87123f2adb0  python-3.11.1-embed-amd64.zip
 edad72d0fe3b30a479d57fee4c3cad5f40e81de9ea28ad637825d231b6d98ed4  python-3.11.1-embed-amd64.zip.asc
 2ec7282ca8f97f1f21a7bbd75e3fdd8b4b84f38ca94ddc3bf09dd6fcd12c118e  python-3.11.1-embed-amd64.zip.crt
@@ -5299,6 +7306,9 @@ fbc94d5699c7ad33f4e95291828d8101b8fe4f7bfad6ce549039ee16e6fd1658  python-3.11.1-
 2866a6a9f0b0c88e0c7cd7a908eab50befaa6429862125b026bee8f5e3409e1a  python-3.11.1-embed-win32.zip.asc
 fbc94d5699c7ad33f4e95291828d8101b8fe4f7bfad6ce549039ee16e6fd1658  python-3.11.1-embed-win32.zip.crt
 178b3e5e5632529d74c49f4e03970c6317a755d8baf4f6acd5acb8d7e65d198d  python-3.11.1-embed-win32.zip.sig
+8dac476d928922689b045626449b81d2cb1345ed60ffe5b54707ad25a11228a2  python-3.11.1-embeddable-amd64.zip
+a75eb0332d405b8ee576e24576bd18d46b0ce19132fb113c15f755afad5474cb  python-3.11.1-embeddable-arm64.zip
+04f41ad3025b862e635f6e9392dac6a7b034641a779a66b13725311b63e4d281  python-3.11.1-embeddable-win32.zip
 f4de33ad3ef09c3e31196b296aec761eabab4564fc8c25e50ea99edd01969819  python-3.11.1-macos11.pkg
 2e4a81840a4c3fa45f8f457581fc9dfab4a1a2f55a7c980e3cd2559954e8835e  python-3.11.1-macos11.pkg.asc
 cb94e2833e40dfe591954afc8c56a5b1394983c17ce91513c966de183427558f  python-3.11.1-macos11.pkg.crt
@@ -5306,6 +7316,10 @@ cb94e2833e40dfe591954afc8c56a5b1394983c17ce91513c966de183427558f  python-3.11.1-
 2e4a81840a4c3fa45f8f457581fc9dfab4a1a2f55a7c980e3cd2559954e8835e  python-3.11.1-macos11.pkg.asc
 cb94e2833e40dfe591954afc8c56a5b1394983c17ce91513c966de183427558f  python-3.11.1-macos11.pkg.crt
 9e68774eaf59220e7e73379312c94fd6c0468cacffeda767156b5afd30fef43e  python-3.11.1-macos11.pkg.sig
+1e16b950c2cd983405f3ce0d26c229c9b17199910d09724d9eb576b6478e391e  python-3.11.1-test-amd64.zip
+ccaea433711505c4b6af56fd30fdcf0cac12159d79869dd7beecb4e519eef12f  python-3.11.1-test-arm64.zip
+b54655a25b376e48cfb87f7acf2d2b6e9100a5ccdc976c414240e0338045e716  python-3.11.1-test-win32.zip
+a28565c7aa5517cc496786090a99e66e19841ba8db36be7c89d056a8435afa68  python-3.11.1-win32.zip
 ccb52759000bf97a7fec6e7c68e6a4173d9a3494b913c9e4e31ae6bcc0c2e2bf  python-3.11.1.exe
 2bf9f01cef38b8e42faab6450880ec225ce74f6504ca8d55003a4377f93cbf5a  python-3.11.1.exe.asc
 b59ca3cf7df43c8e2b33d8727bd44cd8233048402d4f7a5c480bc8e8788da04c  python-3.11.1.exe.crt
@@ -5344,6 +7358,7 @@ a72ac8f6e5cbd02447deb37d7e4e7c1438b1474017b311a04ecd91032f4a14c2  python-3.11.2-
 84867ae4a54d1214743edee546d879fd828baae306541f6dfb8e531629c057af  python-3.11.2-amd64.exe.asc
 3f18a111c58c2f72f936ccca28dda6b4a805eeac8ea0c99b19e7fbd3d08edeac  python-3.11.2-amd64.exe.crt
 a72ac8f6e5cbd02447deb37d7e4e7c1438b1474017b311a04ecd91032f4a14c2  python-3.11.2-amd64.exe.sig
+00bb170712b45425a659ab99e041a18b53c8dc5afdbf33a047cd6fde96c8ba2e  python-3.11.2-amd64.zip
 4ea51c1943149a3ea2debd1d96ed3f6f6573d9599a0e2e477364a7912f3e9b26  python-3.11.2-arm64.exe
 d297605f7255798883f56dca7be84720c8ac5ce92ee786d08318e835b79c8479  python-3.11.2-arm64.exe.asc
 91a8e768bb86ce6897f27fed4105e79db533c6085514ce7533622fdceec9ddef  python-3.11.2-arm64.exe.crt
@@ -5351,6 +7366,7 @@ d297605f7255798883f56dca7be84720c8ac5ce92ee786d08318e835b79c8479  python-3.11.2-
 d297605f7255798883f56dca7be84720c8ac5ce92ee786d08318e835b79c8479  python-3.11.2-arm64.exe.asc
 91a8e768bb86ce6897f27fed4105e79db533c6085514ce7533622fdceec9ddef  python-3.11.2-arm64.exe.crt
 9f8489a09cab9b6e5b6bbb47511a3dc5211f4fc97488d06f07b141ae7baf3f09  python-3.11.2-arm64.exe.sig
+7c55e6a5e67cea1a47220233292cfd353a2d667c875249f5833e3937b4b8f28d  python-3.11.2-arm64.zip
 8d7c49fff390e626038458dad32faf2ad5f762d9966fb0b2383dcfc44dc6e403  python-3.11.2-embed-amd64.zip
 d9e5f7a55884bf0004db6d2b99419eb21138a15e9a9746fb536ff671857a0051  python-3.11.2-embed-amd64.zip.asc
 9c05b1ab788f4cb1d0068619f2732920b28f89022c6dcae0fc9e5db3561e7c03  python-3.11.2-embed-amd64.zip.crt
@@ -5372,6 +7388,9 @@ ddc47e029fa268562150dcd9c2879b81ec27929783036d3793a33c30f927339c  python-3.11.2-
 64e9d269eac254fc18bc033c2d0d7234cb548c8e6ff602fe6ed69c720c71d30a  python-3.11.2-embed-win32.zip.asc
 62d596e87b5114d62a6df174cc8f4dee90eb1b58db436341363c907aaa2eccd4  python-3.11.2-embed-win32.zip.crt
 ddc47e029fa268562150dcd9c2879b81ec27929783036d3793a33c30f927339c  python-3.11.2-embed-win32.zip.sig
+3d78756bbb8b118f4b49fe60276775ea416cf30616fbe3a7b1ab9e5496f496f5  python-3.11.2-embeddable-amd64.zip
+e96108c800ca99ff2c69a8c7fd5bfc1002edb44a3bb409f7cb21805aee5c049a  python-3.11.2-embeddable-arm64.zip
+e3d169adc753260bad736d89aa341dc57318f2a36dbeb8741f4ec2bf32c37080  python-3.11.2-embeddable-win32.zip
 8e16f85f254fd7b8e129ac1e41a16ed328b01a64f93c3821b9f8357a2f362780  python-3.11.2-macos11.pkg
 7927a7be2e1a38682fc9138eaf58142e14606f71232eb9d32ad16deebd20ef6d  python-3.11.2-macos11.pkg.asc
 61321c9f2b407d8cff3e21bad30b6a28e1af23e526f8588443b9bbb6a67644fd  python-3.11.2-macos11.pkg.crt
@@ -5379,6 +7398,10 @@ fa54de041e8caa902d9bd672d235e47e8bcfe9213b34da159adb3cb7992cbcd8  python-3.11.2-
 7927a7be2e1a38682fc9138eaf58142e14606f71232eb9d32ad16deebd20ef6d  python-3.11.2-macos11.pkg.asc
 61321c9f2b407d8cff3e21bad30b6a28e1af23e526f8588443b9bbb6a67644fd  python-3.11.2-macos11.pkg.crt
 fa54de041e8caa902d9bd672d235e47e8bcfe9213b34da159adb3cb7992cbcd8  python-3.11.2-macos11.pkg.sig
+14eb4a49400773d6096ab43eb2894eda8f57b32fc03568c3d3d8fcce041c55b9  python-3.11.2-test-amd64.zip
+04f2201e92888af98e2944681186baffca6c369639b8a84aa8931cb1cc1b7c59  python-3.11.2-test-arm64.zip
+81c04458ca51c8b7236a86f7d4afc41d382aeadfcbd70c8952b0c1a0f7b0b855  python-3.11.2-test-win32.zip
+89d20c10e14b9c2d86fabec4adf1d523b196ff530b6d3f7110aee8779f862afb  python-3.11.2-win32.zip
 d2a7427eb13c3bd3d219c2b43c78cd5626920e53359f8e09e59fb845ad1dc908  python-3.11.2.exe
 a6d9676249bf6271a6e0358bc5f32a5ffaecd354ee532e4e8bc5db05bf8c428a  python-3.11.2.exe.asc
 625ff830b0bebed3799260994f248e8a5671eac9e692a39d3c74e14c54465dcf  python-3.11.2.exe.crt
@@ -5420,6 +7443,7 @@ c6611abff5f41df67041332cd63fc3ce29194f28179f4572db3c6c2afb460e9f  python-3.11.3-
 452818428858763d3c4ec6af2aa7e42301f812489bf78a16cbbd742db4811897  python-3.11.3-amd64.exe.sig
 f68bfede96e44ed5bc754fb3b53beb3d3c9b66500cd4c22548b0d8a6874bd9e8  python-3.11.3-amd64.exe.sigstore
 f68bfede96e44ed5bc754fb3b53beb3d3c9b66500cd4c22548b0d8a6874bd9e8  python-3.11.3-amd64.exe.sigstore
+61ecb5ea9da753b5f3173c511e42d6a48852e4b4d52bc901176a2e36f3b2cdab  python-3.11.3-amd64.zip
 acac9321784563b753147fce371dedbb7379ea524aaf6db777b02cd4410dea2c  python-3.11.3-arm64.exe
 916dd55b32099bed0a75b757761848519f2b1a5ad4dcc90ac007ab8e57e972fc  python-3.11.3-arm64.exe.asc
 3bed1dd1719e2498b53c8375c29dc2fe6ad32731eb6300468445ed38b949005e  python-3.11.3-arm64.exe.crt
@@ -5430,6 +7454,7 @@ acac9321784563b753147fce371dedbb7379ea524aaf6db777b02cd4410dea2c  python-3.11.3-
 4abb37efe9bd6476cfbfa5cbf7f33b1abc66f863a959b7f81906a305c26aa08c  python-3.11.3-arm64.exe.sig
 5438e208f8302d305a2a423260fc616168e93b0ed76051530882b70698aea079  python-3.11.3-arm64.exe.sigstore
 5438e208f8302d305a2a423260fc616168e93b0ed76051530882b70698aea079  python-3.11.3-arm64.exe.sigstore
+b92d8fefdfe78e054bec3efe4e4c01f2da688cbe1bb27fe40cb32a4025e2b1ad  python-3.11.3-arm64.zip
 7419b2e98516fbd0b66a1237b80187ffb21d32e47b4a4235c2d9d6379597070f  python-3.11.3-embed-amd64.zip
 3c6d734822209b7af31a32e6f8b9cd37de80144a349fba86234bfc615be4ff9e  python-3.11.3-embed-amd64.zip.asc
 f42a75975eef5523b357a992b8584c741f4daf99ea083a68a7e488c5d9b52413  python-3.11.3-embed-amd64.zip.crt
@@ -5460,6 +7485,9 @@ e8bd0a1d93d15e5fceebba7aaa40c29888abf7de7281823a88bbc092f1173d07  python-3.11.3-
 b62938a3b552a783be2b3dd3a99c188c5dd0130dddf7fce9ea5c5a4a5019ea6b  python-3.11.3-embed-win32.zip.sig
 1969412180a8a3a67c7b3b5ec5f2319e033a779c1f784a3f74f24852056791bd  python-3.11.3-embed-win32.zip.sigstore
 1969412180a8a3a67c7b3b5ec5f2319e033a779c1f784a3f74f24852056791bd  python-3.11.3-embed-win32.zip.sigstore
+f20cc7f0a38d2a7b94bce67f53f4b62645c4f7e8ceba4a218c4fe1845ec5cc34  python-3.11.3-embeddable-amd64.zip
+12255da8ab0c19c3cf6877c2d83b8f0e299106a407633b77ec56199767b9f935  python-3.11.3-embeddable-arm64.zip
+0513f28744a51ea534bd04b93fd7bac2cc969f93d8a03ea803d442b3a9b15903  python-3.11.3-embeddable-win32.zip
 c4d5fd2bf1009eec69c3c17e80f642fb6eee75042d0e25d4dd72f8aff1b237ec  python-3.11.3-macos11.pkg
 e300584e108b90476054dd09233e331a50f98739f4969ff1b3c3fba3880c0180  python-3.11.3-macos11.pkg.asc
 c816f1e2b354edd0d3eac9e08fc3cdd0b5bac6f239b7c966fe1a3b9823d80dd4  python-3.11.3-macos11.pkg.crt
@@ -5470,6 +7498,10 @@ c816f1e2b354edd0d3eac9e08fc3cdd0b5bac6f239b7c966fe1a3b9823d80dd4  python-3.11.3-
 0425cdd1fda5161528790091b7bdc9222194a9394523b1b761a1a312dd6bb142  python-3.11.3-macos11.pkg.sig
 67b11ba90cd2cc1d22ac311f43e15b7fc4f3fd655d4b22699f70ec24c9607ea5  python-3.11.3-macos11.pkg.sigstore
 67b11ba90cd2cc1d22ac311f43e15b7fc4f3fd655d4b22699f70ec24c9607ea5  python-3.11.3-macos11.pkg.sigstore
+819f075e735f4fb0db9e8e08c7ecd8244dbe9b68247659f9d0b1076665981d03  python-3.11.3-test-amd64.zip
+23ac6980bf8f7c709285c340a61bc1d61c2c30d5bb277d65bb020cf94bfe3d8a  python-3.11.3-test-arm64.zip
+5aadc2ab423dfc8474171d2dbee5d78e2bf91d69e5a42cbcbb7c4036a2c2cc24  python-3.11.3-test-win32.zip
+3d55e9d8114f428ed19d2f88f67d60bd1c0e4a5dcf980be4eba4ecf152b21b6c  python-3.11.3-win32.zip
 3541fe1b227cb7eca226dcc0723d5d3bb835df2b11248974ccb805382cc699da  python-3.11.3.exe
 6effa6adc7fe5fe741ffd054d8a55ba7a6f397a2ba451f65256e48408e87e3d2  python-3.11.3.exe.asc
 edfdec2d7379f1f2198ca822aa7b8fe11a7ac7a449ffddc1b56fc3fa143bfa58  python-3.11.3.exe.crt
@@ -5510,6 +7542,7 @@ cfd5c9ba0768870b14ef8c207398d72620edca19dcf11d41a62ae5531f291da5  python-3.11.4-
 bdbde90945ffe1b7eb0ef865d326e3c97e7c21fe3d8e1e539700d990a2a51bb5  python-3.11.4-amd64.exe.sig
 cfd5c9ba0768870b14ef8c207398d72620edca19dcf11d41a62ae5531f291da5  python-3.11.4-amd64.exe.sigstore
 cfd5c9ba0768870b14ef8c207398d72620edca19dcf11d41a62ae5531f291da5  python-3.11.4-amd64.exe.sigstore
+08d52d4f0c9b1e7a2fb2128256373da8ef3ebb74540a1eefae0cc6391caa61d5  python-3.11.4-amd64.zip
 7a030384657f9e3a6ebedfcce8eb19499a3c7598b7bb240605380b3f9e314cc8  python-3.11.4-arm64.exe
 20edd0e4d85098024bd1fbad16aa5d7501ef8e618f58819f8ecd08581cc108fe  python-3.11.4-arm64.exe.asc
 4fa7852b4879b6bc324e2082a2084fc2fb9b638089571a3b0c302fc03b9c31b8  python-3.11.4-arm64.exe.crt
@@ -5520,6 +7553,7 @@ c51879b0ca063240e96cdfbc921d92a70acc798d250f5c76eaf12497e8d6f405  python-3.11.4-
 56c68ce3a503aaa379aff9122b069111f9f729131dac8fa981599720946232f8  python-3.11.4-arm64.exe.sig
 c51879b0ca063240e96cdfbc921d92a70acc798d250f5c76eaf12497e8d6f405  python-3.11.4-arm64.exe.sigstore
 c51879b0ca063240e96cdfbc921d92a70acc798d250f5c76eaf12497e8d6f405  python-3.11.4-arm64.exe.sigstore
+1b79d4c81f289b9a6e74dac6f5fb5457bb15c43d1e184f9a02da6d00e5d2a6b1  python-3.11.4-arm64.zip
 126802ff9fe787b961ae4d877262e6d6ce807d636295ef429c02e4dfd3e48041  python-3.11.4-embed-amd64.zip
 f460cc084c5fc0aadc4b485bfb334d1ba47b623d6a4290bb3a7e04fde968b7ec  python-3.11.4-embed-amd64.zip.asc
 c24c1069f6a259e1e6a9b8e442fdb6025695f4cc153c52cc950e2faaafcb76f3  python-3.11.4-embed-amd64.zip.crt
@@ -5550,6 +7584,9 @@ e0d3a4e73b554e672be1eca796a08f399b181f27549d48dae15a93d54b0b1d82  python-3.11.4-
 e162d0b01bd2a23f0487774a3868024cf37723e9c84ed88ab50c56a3d77ba054  python-3.11.4-embed-win32.zip.sig
 c2896f50a980bf6a2309ff507937b2747f56e412e2ab6c09f07cefa87bf27578  python-3.11.4-embed-win32.zip.sigstore
 c2896f50a980bf6a2309ff507937b2747f56e412e2ab6c09f07cefa87bf27578  python-3.11.4-embed-win32.zip.sigstore
+f2e9deef10f08332294985992e936bf6bc9e06ac04508cb7ff7b0f88e334d2c2  python-3.11.4-embeddable-amd64.zip
+e3792161d6946c7bbe8ab558570d2e10094127c6e253baf11879c2b09132f6ef  python-3.11.4-embeddable-arm64.zip
+3bdc0eebd489ee5fb2793a8f8d38d24575c3186568f794dfb7c0f01b1046e211  python-3.11.4-embeddable-win32.zip
 c5724dbf2310c45bd1f36f3232d709778161303e1fc0b6cc0cb8c336fcac659c  python-3.11.4-macos11.pkg
 1e4f47b92ac44851eb6cbbc3ab9f81c78e4ef57b6acb3d5c8056d9bb640083c3  python-3.11.4-macos11.pkg.asc
 86436ec9f1bbb94c9123796e3e221df4791c13eb470108d4a20f539ea9867bd8  python-3.11.4-macos11.pkg.crt
@@ -5560,6 +7597,10 @@ e898e3a0a1131e2208eb8131557a2fa8513176b6689873b9fdaed7f9d99d86dd  python-3.11.4-
 e898e3a0a1131e2208eb8131557a2fa8513176b6689873b9fdaed7f9d99d86dd  python-3.11.4-macos11.pkg.sig
 7a9c3e936df45446314964e1ddb58448bbea82c430b3c3edeb4f3efdac1f0487  python-3.11.4-macos11.pkg.sigstore
 7a9c3e936df45446314964e1ddb58448bbea82c430b3c3edeb4f3efdac1f0487  python-3.11.4-macos11.pkg.sigstore
+f5c0a100d18c639f028c362fcbf8a818e474e6da4434c80dbc4abb6f12ca1816  python-3.11.4-test-amd64.zip
+402adc09ced1e8cf0fa1db27fa0522a3e9d12aa575bcc8f80449c48ea2e4134e  python-3.11.4-test-arm64.zip
+6c540d755769cb286fd1c323e46800c937687f65e487355dae33ab57795775b5  python-3.11.4-test-win32.zip
+ba11a95c497054356881b2b7ff8755bbab9e79d966ce73a2816ce608129b3ed3  python-3.11.4-win32.zip
 e2c444cdd41f1f52baccb2c70348476db8db2bfcb9de2aec9a1ca12987759eec  python-3.11.4.exe
 6ca2fbcb3d0ec3098a52d614d3b289b1230dcc8343a9ca41e37a21523944bf04  python-3.11.4.exe.asc
 16c653404ec511dc1cdac859c2d05103dbaf750d84c6a4cd24fe9a7fc95e9c3d  python-3.11.4.exe.crt
@@ -5600,6 +7641,7 @@ ea09d4ba4399df742a70289562c81d3825aad9451c96806ab2aad4df0224119c  python-3.11.5-
 ea09d4ba4399df742a70289562c81d3825aad9451c96806ab2aad4df0224119c  python-3.11.5-amd64.exe.sig
 94c044418194441087dd8accac233d86b9b392e5bfd25076e9abae709b9ab28a  python-3.11.5-amd64.exe.sigstore
 94c044418194441087dd8accac233d86b9b392e5bfd25076e9abae709b9ab28a  python-3.11.5-amd64.exe.sigstore
+fd28f0f0f11bfef5fe01d9d3e688cbf4a9189e0b0cfc41490afef66e74227c2b  python-3.11.5-amd64.zip
 d3c099117ab859a223dab1d064571551149ad32c2d3673fd3a6bc50570b2688c  python-3.11.5-arm64.exe
 9ec571c92b8a41e00fa19bca266b0b1d11f9e93f5bb5ef04c739f84f74812543  python-3.11.5-arm64.exe.asc
 88ed0cf1b37ddf83938458aebba28b88d76c0d2f44ac62f7398acee3537fa918  python-3.11.5-arm64.exe.crt
@@ -5610,6 +7652,7 @@ d3c099117ab859a223dab1d064571551149ad32c2d3673fd3a6bc50570b2688c  python-3.11.5-
 05263a19a265d41666e45d94d1ddcc2465845684f89b8f19a0f640f120136098  python-3.11.5-arm64.exe.sig
 174bb71766045169aaf87a91bf86cfba37d0c9f1d151a9a79fc55bee8087203c  python-3.11.5-arm64.exe.sigstore
 174bb71766045169aaf87a91bf86cfba37d0c9f1d151a9a79fc55bee8087203c  python-3.11.5-arm64.exe.sigstore
+f711e2de5d5d7f24382be492006f083a98d4a88fccabe63c211e72b00fcb6edd  python-3.11.5-arm64.zip
 d82391a2e51c3684987c61f6b7cedbff3ce9fbe2e39cd948d32b0da866544b17  python-3.11.5-embed-amd64.zip
 3333851a0afd455fd2b58c6bacd05e5a545415003df3574ac672f12b733f2036  python-3.11.5-embed-amd64.zip.asc
 612cbe77695309c2c8fb01bf6355f3216882a68de95a1fbe2d5294f020e7eb71  python-3.11.5-embed-amd64.zip.crt
@@ -5640,6 +7683,9 @@ cc26ec2aafacd20f7c6154266a68084d4bbb00ce492b2f92ccdead8e27b5010d  python-3.11.5-
 d180ed95df95b7c89452219a491047ac50903bd45fc2f8474488f0f8ec5fd78f  python-3.11.5-embed-win32.zip.sig
 d35a07207f228ff8605e01cbe0a655fe29720442221fc057c3e8ee1ab16f22d3  python-3.11.5-embed-win32.zip.sigstore
 d35a07207f228ff8605e01cbe0a655fe29720442221fc057c3e8ee1ab16f22d3  python-3.11.5-embed-win32.zip.sigstore
+ac201b0ccb944d5ba5a106357cf82c799c00b36d4b4cb30710fa0a3e67c4aa67  python-3.11.5-embeddable-amd64.zip
+4df989ff2d4e125857d6e241df4e7f87c30d7001175a5b6a6451ab41d5308905  python-3.11.5-embeddable-arm64.zip
+bb62bab597f82b7bbd2c3c8dc463b4111220af1d54fd4deaa36fe51f5d54563e  python-3.11.5-embeddable-win32.zip
 c6cd76659bfb364c2ac63bc57f6b10c1e131a20170359c5d65e2d41fdc674a4f  python-3.11.5-macos11.pkg
 9869566f9a75ec81621f4394810e4d9c008c27887e5e5ddcf2c0298544e8ea73  python-3.11.5-macos11.pkg.asc
 a6aeb9cba255c21c539257367da783a182070ca1790051580fbd224ae440190f  python-3.11.5-macos11.pkg.crt
@@ -5650,6 +7696,10 @@ a6aeb9cba255c21c539257367da783a182070ca1790051580fbd224ae440190f  python-3.11.5-
 b8d94d78d7a803fb0b3509c8441001131be8e535430a9f46062c4a8f9141cf1b  python-3.11.5-macos11.pkg.sig
 cd40ff831f2aab7ddcf3b6b7bfd6f7f38cd661231f7659cb54445f904e033ce7  python-3.11.5-macos11.pkg.sigstore
 cd40ff831f2aab7ddcf3b6b7bfd6f7f38cd661231f7659cb54445f904e033ce7  python-3.11.5-macos11.pkg.sigstore
+326f78bb5066ab67419650debef3423907dc629909c2e1b6fa44d5db04d107da  python-3.11.5-test-amd64.zip
+87479b14b38a7e2331c76b3751f244395ae005b5f035629c7d103c3122dca4b4  python-3.11.5-test-arm64.zip
+038eceacf304e8fdb372a028440d8080c26a0bd8be7a2ef18ea770f7056bd747  python-3.11.5-test-win32.zip
+566b186a95d5322c9eb502abcfb3f7a3b81c3b5a97db1e4f499ae091fc8b6e8b  python-3.11.5-win32.zip
 884f777d4d19268ef78d4840c8651a30903468caa0c7db6ed6bbaa55942c036c  python-3.11.5.exe
 67a71502546bd1b611ecd9f4c6542f2f742ed46e403a116459d0f5f7ceee35ac  python-3.11.5.exe.asc
 17a3a2727f83d402ec827f1946fcbc63084fbb004d5eb5917c5f5fea7bb5abf9  python-3.11.5.exe.crt
@@ -5690,6 +7740,7 @@ b2d4b1e2f01bf95fd0f20589151681c372cf47944315909c04ca88d0ade6a381  python-3.11.6-
 3343ad40b406146aba59f1f51367130fe0048903901b1c5ac4e3d3af75b894be  python-3.11.6-amd64.exe.sig
 c280982a8d55456d6606ab3ddfeda153605dc313eefdeb122bb726099ab0d8e8  python-3.11.6-amd64.exe.sigstore
 c280982a8d55456d6606ab3ddfeda153605dc313eefdeb122bb726099ab0d8e8  python-3.11.6-amd64.exe.sigstore
+b8ebb32df612e477ee83adf541f2128eb180fa0f743dec34d46d5fee50936013  python-3.11.6-amd64.zip
 46c43c1628fb6885e91f937b73510ddf30379fe6bc08f3648cd14962c9408cfc  python-3.11.6-arm64.exe
 8069296f6f811a8e7d0b74185dd30e8dfdb47ec883c8fb999f0f529118547ab1  python-3.11.6-arm64.exe.asc
 c8b3c24794d8fe75ea5ff1b910c5dfab80b0eca99f96c12477d5c4fc355bba44  python-3.11.6-arm64.exe.crt
@@ -5700,6 +7751,7 @@ c8b3c24794d8fe75ea5ff1b910c5dfab80b0eca99f96c12477d5c4fc355bba44  python-3.11.6-
 23ca5622d2c5deda764d8c887fec71cea3e8dc2f27bd22c7ff98a398d1b30083  python-3.11.6-arm64.exe.sig
 b0afe8a782b995e082ffce48e3c4887d3fba97acdf662c8a7d6ff5b8e00ea26a  python-3.11.6-arm64.exe.sigstore
 b0afe8a782b995e082ffce48e3c4887d3fba97acdf662c8a7d6ff5b8e00ea26a  python-3.11.6-arm64.exe.sigstore
+5ec8650420e4102e73fb3c46b477882fb07a751fd6aa47c6724d6aaa33081590  python-3.11.6-arm64.zip
 26d93c29cd627e7fc2085a7f08a88684c2831c3eed361d2be606ad89a023f194  python-3.11.6-embed-amd64.zip
 c40fcca350e96e0cbf6def56541a7bddc7423b5b9456ef2f861523decd8d9bea  python-3.11.6-embed-amd64.zip.asc
 b6c175fb365011a87dc622a0e7c5e6e34b6646997b31e62149484c5f8e67086c  python-3.11.6-embed-amd64.zip.crt
@@ -5730,6 +7782,9 @@ b230385a4ba5fb4cfb4b534b4020fc7dd2fdfb9180a1f04d66b4063d86a4721c  python-3.11.6-
 35b220f111c83c7f4ae4cda678cbd7c0178457c6b0323f7e1e843aea20b4660f  python-3.11.6-embed-win32.zip.sig
 6af114616180805851c742f538984c96bca78042561617a86fd047b9a922c7cc  python-3.11.6-embed-win32.zip.sigstore
 6af114616180805851c742f538984c96bca78042561617a86fd047b9a922c7cc  python-3.11.6-embed-win32.zip.sigstore
+d70b29b4094af071e24757c27a9e477f2ba5c096c4d7f4859dc118950ba444bb  python-3.11.6-embeddable-amd64.zip
+ca8ecd846fdcda1c9a7c51daa64a80d2cdb628941b6ef05be0f38be10e0bd0b3  python-3.11.6-embeddable-arm64.zip
+f2ced4ff8a7f2a01f312bfc40685dd120dcdc2e7ff1d0a1bed34d62062d57a93  python-3.11.6-embeddable-win32.zip
 c06ff46fa6159da61862ff2b6cde130bee093a5d547281876c9f1f41cc60376d  python-3.11.6-macos11.pkg
 215827b444abd8f544609886f05be3a32341ea6ae68f7f63982a3449dff2e86f  python-3.11.6-macos11.pkg.asc
 35f619283da93a5b274d3e52d5c7256dc9f1e4ca73969dd837aeb820046c4258  python-3.11.6-macos11.pkg.crt
@@ -5740,6 +7795,10 @@ a4d04a14ffa89d9c2cda099b9b8e1a716cb96bb266f0259cd532db6491efb8fd  python-3.11.6-
 aac5e3660ac72668335ef187b08c7981b4d18ff2680ba4eb1fe5d6e4b2bbe896  python-3.11.6-macos11.pkg.sig
 a4d04a14ffa89d9c2cda099b9b8e1a716cb96bb266f0259cd532db6491efb8fd  python-3.11.6-macos11.pkg.sigstore
 a4d04a14ffa89d9c2cda099b9b8e1a716cb96bb266f0259cd532db6491efb8fd  python-3.11.6-macos11.pkg.sigstore
+b1021b34aa86e5fde8ffb882d906beb9feb7fb9c2ef09ec9ec7585556d9de813  python-3.11.6-test-amd64.zip
+5264aacaf5852618f085489fdce71f202efb9f568370fc2525d2de55e4f5944d  python-3.11.6-test-arm64.zip
+d0a61de370839659f0b3eae764750b2e3e38f5bc146081eb5878591c066cb13b  python-3.11.6-test-win32.zip
+b66be9bbc788aef8c9124c50342d718118872fa0e8938de0cf0d1b202a63349c  python-3.11.6-win32.zip
 d19857c64d2ec2d2db67e308b5a1f87be677e7e8ef870e2271f5c573c7eaf314  python-3.11.6.exe
 b92cf0cf3c00cef9f8fc4c2a8905db3e682e701829252fa6685c528c27fbb418  python-3.11.6.exe.asc
 ad8b71cefbaf86e732ed195c1ca828d502783b1249957f241c477ccd12164df1  python-3.11.6.exe.crt
@@ -5780,6 +7839,7 @@ fd9e85463ec967c124f642a3d08b5dd57dc4d5d7fd6c86038ee5afc2447a5aba  python-3.11.7-
 21b5b1385eae9ab0ee52270129ca3c08ce89f2e00f1a566cb6bc8b647352933e  python-3.11.7-amd64.exe.sig
 fd9e85463ec967c124f642a3d08b5dd57dc4d5d7fd6c86038ee5afc2447a5aba  python-3.11.7-amd64.exe.sigstore
 fd9e85463ec967c124f642a3d08b5dd57dc4d5d7fd6c86038ee5afc2447a5aba  python-3.11.7-amd64.exe.sigstore
+01cabb84b57df6612065e6446e96dc95e452957e696b188d12f04ffad863e075  python-3.11.7-amd64.zip
 44b97d8f15c7a39899bacb54cb759963ecba0e496055e0b91c58046ec0b1c80b  python-3.11.7-arm64.exe
 70edf61ecd054f46aafb52d16a6f18ac04aba4534ae821f93ef5c407c1865983  python-3.11.7-arm64.exe.asc
 5148f6f93e9b98896647f746bd6789c77354b232cd737cedde81e52297399b86  python-3.11.7-arm64.exe.crt
@@ -5790,6 +7850,7 @@ fd9e85463ec967c124f642a3d08b5dd57dc4d5d7fd6c86038ee5afc2447a5aba  python-3.11.7-
 76fa66e1974d65dcf99536f802ff18ed0cea65c52cec07e0fe25c01a4c8b03cb  python-3.11.7-arm64.exe.sig
 25d38eae53855a4933de6524dce6cb4580da664ee22cec0a8e1dc92fdfea5910  python-3.11.7-arm64.exe.sigstore
 25d38eae53855a4933de6524dce6cb4580da664ee22cec0a8e1dc92fdfea5910  python-3.11.7-arm64.exe.sigstore
+f334d2bdaa6df3697a1bed5c24b00aba72e29321dac1ac863b9480c6c10f6b68  python-3.11.7-arm64.zip
 a5288b63b6218902e9184d75b5ab2aaa1d37b8aa57098193464d6a48aba01496  python-3.11.7-embed-amd64.zip
 882ea9281f641ca6c7101bf80b444234460039bc6c9f072077c88d4f629c9529  python-3.11.7-embed-amd64.zip.asc
 d4240e6fd724e2340cbc389db6ceccc6a7d5a0e7083c998eda7dda66ffdacdef  python-3.11.7-embed-amd64.zip.crt
@@ -5820,6 +7881,9 @@ bca9345e2746d49e2b5ca0e7d05ddd0df1572878b70cfb260b489f9a003eb660  python-3.11.7-
 43d46699e6f597d4f602d31660c32f952e9fba8efc10b90dcd257821ddeac184  python-3.11.7-embed-win32.zip.sig
 9768bbf9bc5bd5257ee3c5e24530973565da07e6e12031452b4a9ca27bd408a6  python-3.11.7-embed-win32.zip.sigstore
 9768bbf9bc5bd5257ee3c5e24530973565da07e6e12031452b4a9ca27bd408a6  python-3.11.7-embed-win32.zip.sigstore
+4f0c3c543baf6fa109be6cc184fcaa13c53b0c15e63164a60bd2a141a80b0ce8  python-3.11.7-embeddable-amd64.zip
+c13af1d15c603b2ed79c7920a7adb64b13d936f1a4ab133cd6a5048852dcd5ee  python-3.11.7-embeddable-arm64.zip
+528efef6d195cbdcf9c65f77dffa3d566dba2506d227ea5b4f9da05ef91dcfe5  python-3.11.7-embeddable-win32.zip
 05c59ef9cdef850ea7133d955eeee59b82e008509a1c44ab66039cda127094a9  python-3.11.7-macos11.pkg
 1db1d6a8ddbc3192b3e7cd7c5ec21aaa1b88c6ebd0a358ae02a995b6da204d51  python-3.11.7-macos11.pkg.asc
 19710b196339ccf6a3afab32a3fa011661ca92264c572c1e318eca59a1c0bea1  python-3.11.7-macos11.pkg.crt
@@ -5830,6 +7894,10 @@ b9cb5b1684efabc318617a9e901360dafaeca679c1386d7e172ace7c4b75a7d4  python-3.11.7-
 b9cb5b1684efabc318617a9e901360dafaeca679c1386d7e172ace7c4b75a7d4  python-3.11.7-macos11.pkg.sig
 4d0a5c79694b4ce4451c8304a8d09afd9f845e5ce921d63b95bbd0352ab15262  python-3.11.7-macos11.pkg.sigstore
 4d0a5c79694b4ce4451c8304a8d09afd9f845e5ce921d63b95bbd0352ab15262  python-3.11.7-macos11.pkg.sigstore
+3bc53330b76c7b6ab73fe000b5338e0b4ec4c3ad622b9faec20bf3eed40a1298  python-3.11.7-test-amd64.zip
+e3a2aa4e8a5d74886f65848a0edd93ac9877683a480153a934c84f4f4d4b7a74  python-3.11.7-test-arm64.zip
+dfff88565884f609b1aaa45adfbcb8913225ffcfd5ae2bb5a9fa7ccc17aa9b2b  python-3.11.7-test-win32.zip
+b1cee7bab472f3ef5c951a2e1c5aa947aa6970ce5fd1f939216d1af0c3a0b26d  python-3.11.7-win32.zip
 88705c0dfb1d432fbec5d9d2799cf0cd90758acbcf34195bd0580718195189bc  python-3.11.7.exe
 3b14f587e87e53a3296544b9582c1f719a2322b9fab438cd2cd956ae32f59434  python-3.11.7.exe.asc
 70246694d5d3362bec786c5eca31a219b4379da2461f4cc457f16bbacccfd415  python-3.11.7.exe.crt
@@ -5870,6 +7938,7 @@ fd3428eb6c80901b877d036ffa2be127ccad9bbe036a43f00fc96a48b724f9c7  python-3.11.8-
 684d0e9de37a4fbd28c410e2d7e1c7e207090916be54eb66eff9e51045b0009f  python-3.11.8-amd64.exe.sig
 33f695d21aeb9c8da43296b6ca9d41df663ba577839e4f08fb452f1209d64243  python-3.11.8-amd64.exe.sigstore
 33f695d21aeb9c8da43296b6ca9d41df663ba577839e4f08fb452f1209d64243  python-3.11.8-amd64.exe.sigstore
+ff9e9d62ec1e82cfa2fef0d987fc1d034ddb181fca501d01e184205ecee40b7d  python-3.11.8-amd64.zip
 70b050c446929e98dbeb947e30936c2cfba9105a633718880f15b829da9e819e  python-3.11.8-arm64.exe
 dc166a1eb4e9626810ad21c3b33980893e0bdc36bb42c2e3eb8be9f6af13dab1  python-3.11.8-arm64.exe.asc
 4d6146cf7c36994017498e8670c68fb8312bc8fd77639c13de9eb09fd50d60e0  python-3.11.8-arm64.exe.crt
@@ -5880,6 +7949,7 @@ dc166a1eb4e9626810ad21c3b33980893e0bdc36bb42c2e3eb8be9f6af13dab1  python-3.11.8-
 fec3f789a023dee87b398499f9bf81cb3785a1acb950cba18f5abfbb26c037e1  python-3.11.8-arm64.exe.sig
 d7b074e94f68a0c90f2e7ce22f69b2f32de9488923d261ee8b082182b3b2151c  python-3.11.8-arm64.exe.sigstore
 d7b074e94f68a0c90f2e7ce22f69b2f32de9488923d261ee8b082182b3b2151c  python-3.11.8-arm64.exe.sigstore
+51a52db55701c45ce124317ee5087d2b62d8234b339f99c1e8d75a584090c9d1  python-3.11.8-arm64.zip
 6347068ca56bf4dd6319f7ef5695f5a03f1ade3e9aa2d6a095ab27faa77a1290  python-3.11.8-embed-amd64.zip
 6e9165981e767671f4ad8b6a1d42464c9d57fc7252e115957bf7cb0f7e4d0372  python-3.11.8-embed-amd64.zip.asc
 cad47e3932eb73b492ea0bc0a62ca2e09383dda1ee27da7a880ea991a8ec5483  python-3.11.8-embed-amd64.zip.crt
@@ -5910,6 +7980,9 @@ ccb1b7853ec82c59f9a5c158ea73cba41bdb35d2ff0edc698c4378ec6e09ac48  python-3.11.8-
 1b1e836e152fa6b5ee5ac7f3e05ec45ffb5d6624536aa9f0e8af65cde4f2df8e  python-3.11.8-embed-win32.zip.sig
 7186d112b435aff1b50a841843505aa1dd168fd0936813d6703c1f3386ad99e4  python-3.11.8-embed-win32.zip.sigstore
 7186d112b435aff1b50a841843505aa1dd168fd0936813d6703c1f3386ad99e4  python-3.11.8-embed-win32.zip.sigstore
+1b84606d2e02942d8b635a3ff16cf57ce48e74e09447760b6987ee869c679094  python-3.11.8-embeddable-amd64.zip
+95bdb601849e54d4b960f10af0569a915fd805cf049f3e703ebdebc55fcf5047  python-3.11.8-embeddable-arm64.zip
+eacc74b44c9f3ddce7d30009febd152b95d498716c9ce7afc6030447b12e0d33  python-3.11.8-embeddable-win32.zip
 db3e2ba967acac293c0063591a1d3c4ba713fd89929447715cd56ce06b598200  python-3.11.8-macos11.pkg
 6ef5bacab7e04358a4e844299b8ec1efb23162f85ff8f2c112c5c395b0fdb874  python-3.11.8-macos11.pkg.asc
 117b9f260c3a47a30cdfa2acba3d5b23a6a0f358b899599fafa6505dbd591449  python-3.11.8-macos11.pkg.crt
@@ -5920,6 +7993,10 @@ db3e2ba967acac293c0063591a1d3c4ba713fd89929447715cd56ce06b598200  python-3.11.8-
 6dd75ba1c1f738e1e2c097c806e45602f17c4f07f7e30da9c4c87a40f91c8917  python-3.11.8-macos11.pkg.sig
 5404f8aa05bed449aff36fb5edef23620db747b7d6207920dec7b2f6ecda753c  python-3.11.8-macos11.pkg.sigstore
 5404f8aa05bed449aff36fb5edef23620db747b7d6207920dec7b2f6ecda753c  python-3.11.8-macos11.pkg.sigstore
+1ad88d305da9920e05a35295dede5f2787169362eb157cea91e6505d116a0d71  python-3.11.8-test-amd64.zip
+fa8f8e4daf0fd2c3e84262ba3196f9e66cdb3af23a036ca146cfe96ce83c2cb8  python-3.11.8-test-arm64.zip
+920e6c0c46b4d04777c1e98249afd9c7b822aea9987c96b7ef3adaa152728cff  python-3.11.8-test-win32.zip
+b6d73c0e459a684fa6df00037032aef4da56a77943e8fefc90f8a7bec3db8ae6  python-3.11.8-win32.zip
 9184e270a087dec2a60cb3b1b3757e20318f8733c62732b68385837188298bdc  python-3.11.8.exe
 8036658240d0605769a4b47d9576a5bce565a9f7d7e79adddd122f64b1227297  python-3.11.8.exe.asc
 a37e29e35405c7b395b5d211db0070e4f5aadd0c90f19e8e1ed3a0f5266f0d7a  python-3.11.8.exe.crt
@@ -5960,6 +8037,7 @@ cb07c29a37122846266b9f56aa060717eb7d11c8822fb6aa038ade3885912edd  python-3.11.9-
 eb82ef4e5cb778478dc5a2261a9c853f1e34e26ba4cc9eeccf3e39a8d14e7c98  python-3.11.9-amd64.exe.sig
 e2df4f35aeb64946e27c604a94e7510202e0180fec5dc26cd1e54a9f83acea0b  python-3.11.9-amd64.exe.sigstore
 e2df4f35aeb64946e27c604a94e7510202e0180fec5dc26cd1e54a9f83acea0b  python-3.11.9-amd64.exe.sigstore
+4ba90a4ab8990891033d37ff04d2047fdae8948d0d2729a68d3a6a17c585b681  python-3.11.9-amd64.zip
 58f3a4e91b63d5a680ecc77c1db4565a1e3966e8656d4c8b89200d58c1f5c4f3  python-3.11.9-arm64.exe
 70ee59a3b1da7fd166077d5f152854fbf69a43a6eae4a8cb58acb9ee42a2d1f6  python-3.11.9-arm64.exe.asc
 fa4b526b0f31b8d2a3df15bf062c8f49e1ef74ac777eeaf49ce70f600bbbea5a  python-3.11.9-arm64.exe.crt
@@ -5970,6 +8048,7 @@ fa4b526b0f31b8d2a3df15bf062c8f49e1ef74ac777eeaf49ce70f600bbbea5a  python-3.11.9-
 c97fd0e433da41d6a85ec025b45c155795d61f511e2a98e6730ad85508d8dbfb  python-3.11.9-arm64.exe.sig
 3b2446e0f7c2f1625c0273061b1b171af323e4c80b58e92689925f64f033f559  python-3.11.9-arm64.exe.sigstore
 3b2446e0f7c2f1625c0273061b1b171af323e4c80b58e92689925f64f033f559  python-3.11.9-arm64.exe.sigstore
+bf349dcc73119f82a4fde5ce579d7edf7f4b7ea83ee98c174320e5ef184111d4  python-3.11.9-arm64.zip
 009d6bf7e3b2ddca3d784fa09f90fe54336d5b60f0e0f305c37f400bf83cfd3b  python-3.11.9-embed-amd64.zip
 9a6e969e0b921601dafe9acefd568cd26ed69aa457a57ffd8426a8a105ffaa41  python-3.11.9-embed-amd64.zip.asc
 ef3f9c7412f8febce9ac919f3c9314351d7d12d2e9dac0bed3f1c0590c554ada  python-3.11.9-embed-amd64.zip.crt
@@ -6000,6 +8079,9 @@ d167c187152b9f34150f6321cf57543d843f70892a2e9e31f98991efe1c9afd8  python-3.11.9-
 582cdd41c1a8a319c1a73dd513b978526a654d62f956f8daa57fecf228dd9492  python-3.11.9-embed-win32.zip.sig
 98917f564a3ee6e252a0a94decce451b8a39b5aaf3da039f72bb24e0d721431d  python-3.11.9-embed-win32.zip.sigstore
 98917f564a3ee6e252a0a94decce451b8a39b5aaf3da039f72bb24e0d721431d  python-3.11.9-embed-win32.zip.sigstore
+33b448f95fecb7c6f802157dbd5e6b40a2ad9bfc8b95ca634a06ba4073ad1ac0  python-3.11.9-embeddable-amd64.zip
+d1db9bced6c6b4268f5afe2365c818dd540d97b2501865502abea4bc527e933e  python-3.11.9-embeddable-arm64.zip
+ab303ee7b09d84a656562692bb07c1f6c9a21e08982f9a8f539ad279eb3a7b9f  python-3.11.9-embeddable-win32.zip
 b6cfdee2571ca56ee895043ca1e7110fb78a878cee3eb0c21accb2de34d24b55  python-3.11.9-macos11.pkg
 90b944713044f00eb4820a0496cfd81a6248cee3155521b0056e5723e9778321  python-3.11.9-macos11.pkg.asc
 bf7db92dac4d6a69430f3f919a41935baa2cb6bb9146bee3e4a479d299f10a30  python-3.11.9-macos11.pkg.crt
@@ -6010,6 +8092,10 @@ bf7db92dac4d6a69430f3f919a41935baa2cb6bb9146bee3e4a479d299f10a30  python-3.11.9-
 e45b3211deb174635d754593cf2b2ce46d53b79d7de1b5d8953bca9cda961017  python-3.11.9-macos11.pkg.sig
 e7906ab8ddabcd08b16eeda90481e9b8c360560d25511799400f633117ab949f  python-3.11.9-macos11.pkg.sigstore
 e7906ab8ddabcd08b16eeda90481e9b8c360560d25511799400f633117ab949f  python-3.11.9-macos11.pkg.sigstore
+dad9e9518e9286dd54157ce6baf67eda55f16915a170bf45b9c45d83201d0233  python-3.11.9-test-amd64.zip
+8323f1b85a79ac88e068d6cc259ecd37c7c2907ff8b67da0c6a63c7cadf7c086  python-3.11.9-test-arm64.zip
+9cb1e4020343390e6f7a9218e7ca6c03462993a8d07d962a39084b828d4b0201  python-3.11.9-test-win32.zip
+339221fac02f0ad112640dbcd150d41f819b5990a7eb6e9ac766d07a6fd8f580  python-3.11.9-win32.zip
 af19e5e2f03e715a822181f2cb7d4efef4eda13fa4a2db6da12e998e46f5cbf9  python-3.11.9.exe
 0b9ed0a36901f9b17e8241b7069fad22c588e7b01e88b5db07b2cfef115c394a  python-3.11.9.exe.asc
 bde7b5dc46cd6b7e80c3202e323d15aa8233a6930731e7a5a4b26ade54609ddd  python-3.11.9.exe.crt
@@ -6060,6 +8146,86 @@ a613afd091c75d898acab238823a32ba44b878f3b7cd7a93937c8c94f128c126  Python-3.11.10
 b305ad99c74bd8582733bf138ef4610a848b26c64faf0974983860b26f4714bd  Python-3.11.10.tgz.sig
 a613afd091c75d898acab238823a32ba44b878f3b7cd7a93937c8c94f128c126  Python-3.11.10.tgz.sigstore
 a613afd091c75d898acab238823a32ba44b878f3b7cd7a93937c8c94f128c126  Python-3.11.10.tgz.sigstore
+2a9920c7a0cd236de33644ed980a13cbbc21058bfdc528febb6081575ed73be3  Python-3.11.11.tar.xz
+e9b7aa55afecaf26e6379ea4836442c1a1a14dc185dbf0fddfd36a2de29e27ac  Python-3.11.11.tar.xz.asc
+712dbe15414eb11876332a6593cd01c006368a3f9ab69675ac2eaacf8a4ee34f  Python-3.11.11.tar.xz.crt
+57e379889d434826dda77a8b1734c6dd19445626e35c43fb74a1420becd7420e  Python-3.11.11.tar.xz.sig
+22d102948b51f86b3c3b83cb7ed7b0b3a13c1615acfe6a67565bc5d482e9f72f  Python-3.11.11.tar.xz.sigstore
+e9b7aa55afecaf26e6379ea4836442c1a1a14dc185dbf0fddfd36a2de29e27ac  Python-3.11.11.tar.xz.asc
+712dbe15414eb11876332a6593cd01c006368a3f9ab69675ac2eaacf8a4ee34f  Python-3.11.11.tar.xz.crt
+57e379889d434826dda77a8b1734c6dd19445626e35c43fb74a1420becd7420e  Python-3.11.11.tar.xz.sig
+22d102948b51f86b3c3b83cb7ed7b0b3a13c1615acfe6a67565bc5d482e9f72f  Python-3.11.11.tar.xz.sigstore
+22d102948b51f86b3c3b83cb7ed7b0b3a13c1615acfe6a67565bc5d482e9f72f  Python-3.11.11.tar.xz.sigstore
+883bddee3c92fcb91cf9c09c5343196953cbb9ced826213545849693970868ed  Python-3.11.11.tgz
+4d672fcb38da57bdc13cde408982be889bcc7e8c2221ff9a4aba4faac254a793  Python-3.11.11.tgz.asc
+97fec183dd7e16060dd5c8924ff47bf2eb03919d7f92c85c502c0651bf0e3c33  Python-3.11.11.tgz.crt
+4e5f63b07dd7340a8694b9d4b9b0c4254ef1f1a4b503284cd4276dd15dfe851d  Python-3.11.11.tgz.sig
+849aac6536c4935be9547a409b0f937489a5394fd95be24fb87cf8a1b120f26e  Python-3.11.11.tgz.sigstore
+4d672fcb38da57bdc13cde408982be889bcc7e8c2221ff9a4aba4faac254a793  Python-3.11.11.tgz.asc
+97fec183dd7e16060dd5c8924ff47bf2eb03919d7f92c85c502c0651bf0e3c33  Python-3.11.11.tgz.crt
+4e5f63b07dd7340a8694b9d4b9b0c4254ef1f1a4b503284cd4276dd15dfe851d  Python-3.11.11.tgz.sig
+849aac6536c4935be9547a409b0f937489a5394fd95be24fb87cf8a1b120f26e  Python-3.11.11.tgz.sigstore
+849aac6536c4935be9547a409b0f937489a5394fd95be24fb87cf8a1b120f26e  Python-3.11.11.tgz.sigstore
+849da87af4df137710c1796e276a955f7a85c9f971081067c8f565d15c352a09  Python-3.11.12.tar.xz
+5fae34c4465482090fa20b41f41ebd40f1842302f5789bda7001aa90a38c5d1b  Python-3.11.12.tar.xz.asc
+64ea59c2c7ef64fadcb61c3f5753391d504ecf420d5214327e0318bb5d5e83d7  Python-3.11.12.tar.xz.crt
+c5bb39b451c6a83b0f44c614cdcf3d55073a69ff9dfe8c082ab5cd94c9c829bf  Python-3.11.12.tar.xz.sig
+20331493a8a09a25493fb35491e3bb8a271167560f3a16955ecfd22cab5ec5db  Python-3.11.12.tar.xz.sigstore
+5fae34c4465482090fa20b41f41ebd40f1842302f5789bda7001aa90a38c5d1b  Python-3.11.12.tar.xz.asc
+64ea59c2c7ef64fadcb61c3f5753391d504ecf420d5214327e0318bb5d5e83d7  Python-3.11.12.tar.xz.crt
+c5bb39b451c6a83b0f44c614cdcf3d55073a69ff9dfe8c082ab5cd94c9c829bf  Python-3.11.12.tar.xz.sig
+20331493a8a09a25493fb35491e3bb8a271167560f3a16955ecfd22cab5ec5db  Python-3.11.12.tar.xz.sigstore
+20331493a8a09a25493fb35491e3bb8a271167560f3a16955ecfd22cab5ec5db  Python-3.11.12.tar.xz.sigstore
+379c9929a989a9d65a1f5d854e011f4872b142259f4fc0a8c4062d2815ed7fba  Python-3.11.12.tgz
+fb9740b434e0e64a50f29b5606dae38465c7b941fb4c5e76e01f9edc2c3c0c1e  Python-3.11.12.tgz.asc
+7ba8a185087e6e8c275e95b302c9011451680c93b2aaf8ce8fe5dcd3d46ac168  Python-3.11.12.tgz.crt
+113892e26989b6f41728db0b884f18fd407a4b7d26f3491b09eae88fff399751  Python-3.11.12.tgz.sig
+0b9e1ff01863401bd86bda219cfa1e95663845b8e0981d9fc0571740dd832973  Python-3.11.12.tgz.sigstore
+fb9740b434e0e64a50f29b5606dae38465c7b941fb4c5e76e01f9edc2c3c0c1e  Python-3.11.12.tgz.asc
+7ba8a185087e6e8c275e95b302c9011451680c93b2aaf8ce8fe5dcd3d46ac168  Python-3.11.12.tgz.crt
+113892e26989b6f41728db0b884f18fd407a4b7d26f3491b09eae88fff399751  Python-3.11.12.tgz.sig
+0b9e1ff01863401bd86bda219cfa1e95663845b8e0981d9fc0571740dd832973  Python-3.11.12.tgz.sigstore
+0b9e1ff01863401bd86bda219cfa1e95663845b8e0981d9fc0571740dd832973  Python-3.11.12.tgz.sigstore
+8fb5f9fbc7609fa822cb31549884575db7fd9657cbffb89510b5d7975963a83a  Python-3.11.13.tar.xz
+43c690eee60fde038ddff8a6d9369a0102bd0d9854d08a02220e9aae31ac911e  Python-3.11.13.tar.xz.asc
+3a1736eae8637c7130bb28373c85ff0f4985be0f15087292ee9546046c1698cc  Python-3.11.13.tar.xz.crt
+e571aecb019ae505cf8de2e4ba5713b4b57271c90aed9f95530a01e5869f5b5d  Python-3.11.13.tar.xz.sig
+e903c5a5549dde060713c0b0068275b5dc08a1651d5d22775c1107a423ff32ef  Python-3.11.13.tar.xz.sigstore
+43c690eee60fde038ddff8a6d9369a0102bd0d9854d08a02220e9aae31ac911e  Python-3.11.13.tar.xz.asc
+3a1736eae8637c7130bb28373c85ff0f4985be0f15087292ee9546046c1698cc  Python-3.11.13.tar.xz.crt
+e571aecb019ae505cf8de2e4ba5713b4b57271c90aed9f95530a01e5869f5b5d  Python-3.11.13.tar.xz.sig
+e903c5a5549dde060713c0b0068275b5dc08a1651d5d22775c1107a423ff32ef  Python-3.11.13.tar.xz.sigstore
+e903c5a5549dde060713c0b0068275b5dc08a1651d5d22775c1107a423ff32ef  Python-3.11.13.tar.xz.sigstore
+0f1a22f4dfd34595a29cf69ee7ea73b9eff8b1cc89d7ab29b3ab0ec04179dad8  Python-3.11.13.tgz
+f833ecaf4f23145f8db80e581e93de6dd6585a4f1dca491dd6db27488e8bf774  Python-3.11.13.tgz.asc
+99646339b3453441cf684608b1d7b08f9d1142e5107bfc5e20253eb03c7e6623  Python-3.11.13.tgz.crt
+c5ab58c526caaa2b4b233e24eb60d177ea8fe10b263476c375363b711bd6953f  Python-3.11.13.tgz.sig
+d1d5098890f27ea3d33e0a1231b01353f9dd8dcbde0f3af9ef0169ea44a0390e  Python-3.11.13.tgz.sigstore
+f833ecaf4f23145f8db80e581e93de6dd6585a4f1dca491dd6db27488e8bf774  Python-3.11.13.tgz.asc
+99646339b3453441cf684608b1d7b08f9d1142e5107bfc5e20253eb03c7e6623  Python-3.11.13.tgz.crt
+c5ab58c526caaa2b4b233e24eb60d177ea8fe10b263476c375363b711bd6953f  Python-3.11.13.tgz.sig
+d1d5098890f27ea3d33e0a1231b01353f9dd8dcbde0f3af9ef0169ea44a0390e  Python-3.11.13.tgz.sigstore
+d1d5098890f27ea3d33e0a1231b01353f9dd8dcbde0f3af9ef0169ea44a0390e  Python-3.11.13.tgz.sigstore
+8d3ed8ec5c88c1c95f5e558612a725450d2452813ddad5e58fdb1a53b1209b78  Python-3.11.14.tar.xz
+126118c2b541559f87416476734b43a5328c5fcf1a0bf92c4a16c6c3e1aabb16  Python-3.11.14.tar.xz.asc
+3c25ac67087b6bb6d40eaf037190d6b95beb827e2d9cb7bbfb9c65ab638113b0  Python-3.11.14.tar.xz.crt
+5f13c2e11ae96ace65fd9d5dd8d0739cca2ce0aa5d161739113d2c8ddc5d4db6  Python-3.11.14.tar.xz.sig
+25c08f4249e9d0f6829567523854dd1ba9b4520c5e6f329eb8838c3a847ccfaf  Python-3.11.14.tar.xz.sigstore
+126118c2b541559f87416476734b43a5328c5fcf1a0bf92c4a16c6c3e1aabb16  Python-3.11.14.tar.xz.asc
+3c25ac67087b6bb6d40eaf037190d6b95beb827e2d9cb7bbfb9c65ab638113b0  Python-3.11.14.tar.xz.crt
+5f13c2e11ae96ace65fd9d5dd8d0739cca2ce0aa5d161739113d2c8ddc5d4db6  Python-3.11.14.tar.xz.sig
+25c08f4249e9d0f6829567523854dd1ba9b4520c5e6f329eb8838c3a847ccfaf  Python-3.11.14.tar.xz.sigstore
+25c08f4249e9d0f6829567523854dd1ba9b4520c5e6f329eb8838c3a847ccfaf  Python-3.11.14.tar.xz.sigstore
+563d2a1b2a5ba5d5409b5ecd05a0e1bf9b028cf3e6a6f0c87a5dc8dc3f2d9182  Python-3.11.14.tgz
+d5d6d70c703d5e3cd1f6163e93fd446e89df47f406ca95aed01924418b5c2257  Python-3.11.14.tgz.asc
+0727d2ae194ef4a4073b7072cf318e3664a1ab2b975ce89cad3526e506a4a24f  Python-3.11.14.tgz.crt
+3d400f36a3b20571e7563d3315c4649847a5ec1e8d44088056c461878ca28dd4  Python-3.11.14.tgz.sig
+6f47354ced1123dbd853b6de7e1d8b8c63fca62bfbb97c95c55e41e1822338ca  Python-3.11.14.tgz.sigstore
+d5d6d70c703d5e3cd1f6163e93fd446e89df47f406ca95aed01924418b5c2257  Python-3.11.14.tgz.asc
+0727d2ae194ef4a4073b7072cf318e3664a1ab2b975ce89cad3526e506a4a24f  Python-3.11.14.tgz.crt
+3d400f36a3b20571e7563d3315c4649847a5ec1e8d44088056c461878ca28dd4  Python-3.11.14.tgz.sig
+6f47354ced1123dbd853b6de7e1d8b8c63fca62bfbb97c95c55e41e1822338ca  Python-3.11.14.tgz.sigstore
+6f47354ced1123dbd853b6de7e1d8b8c63fca62bfbb97c95c55e41e1822338ca  Python-3.11.14.tgz.sigstore
 c6bdf93f4b2de6dfa1a3a847e7c24ae10edf7f6318653d452cd4381415700ada  python-3.12.0-amd64.exe
 a97a8dee7e9cee3b349772ee1cc7bfa6f2aee0b7d0068fd50e8ed99559dd45dc  python-3.12.0-amd64.exe.asc
 ef2c2cac2ccd1a2c3789b2a362da70403b98edd6a65702b26de08e4738111a84  python-3.12.0-amd64.exe.crt
@@ -6070,6 +8236,7 @@ ef2c2cac2ccd1a2c3789b2a362da70403b98edd6a65702b26de08e4738111a84  python-3.12.0-
 94f1c129439d2981f9370a3c103e24724266e2fd4fa43178c44c01dd71a1c5c6  python-3.12.0-amd64.exe.sig
 f989b8909671f36722902caffb9c604791d548338a842c888dcbbe432ad11aa7  python-3.12.0-amd64.exe.sigstore
 f989b8909671f36722902caffb9c604791d548338a842c888dcbbe432ad11aa7  python-3.12.0-amd64.exe.sigstore
+792e792b4ccc5fd1b16fcf186595cf030750541524860b07ba86bb9a9bdb3607  python-3.12.0-amd64.zip
 05eb076ce9fe248d4a6295f75be328808b22877f9538cf9effe89938aebc9532  python-3.12.0-arm64.exe
 c6e30f54901018c17581f0861082dbb27440cab7ec7f12f4669d2c09b0bdf1ef  python-3.12.0-arm64.exe.asc
 798ef97def5fa51331cccdab4fca76e0018ff46419a0dc3dedab7a0415c6ba35  python-3.12.0-arm64.exe.crt
@@ -6080,6 +8247,7 @@ c6e30f54901018c17581f0861082dbb27440cab7ec7f12f4669d2c09b0bdf1ef  python-3.12.0-
 df9dac271124a3067dbda6e360af5641362d9e1069231c64cfdc954829686823  python-3.12.0-arm64.exe.sig
 6b77f5bd1a99767c996542384b3db8430dfaf48548a3ab6df39421b27f61f13f  python-3.12.0-arm64.exe.sigstore
 6b77f5bd1a99767c996542384b3db8430dfaf48548a3ab6df39421b27f61f13f  python-3.12.0-arm64.exe.sigstore
+9ccf9c7d27f70dce5751e9b718725820c5b863847f3fe55c848b6f6fd7489a81  python-3.12.0-arm64.zip
 c87f000e3dae1a572e98e81daeb622f8bc6f22664093fc9c70989b5f0018d49b  python-3.12.0-embed-amd64.zip
 9a9c2a31cd0866c519b6f8b9b05db8773d7aaa4de585bf78d6e5b48da13d28bc  python-3.12.0-embed-amd64.zip.asc
 25bbfa0a9b92a9b87ea450793341884a06fa94ddedf994586ab8446f9a711d78  python-3.12.0-embed-amd64.zip.crt
@@ -6110,6 +8278,9 @@ c4c71ee57cd25433c54757fd89eae2926f257bd00c1afd95464b96578cf9d384  python-3.12.0-
 fb55efb6d4e40483092839173e4979c1e1dcebf96b7a53f6b43809f3e2edc3df  python-3.12.0-embed-win32.zip.sig
 4145c1209b30b5e98bcffaa1d6aa70040328047e51883ddb0be4a7391895451e  python-3.12.0-embed-win32.zip.sigstore
 4145c1209b30b5e98bcffaa1d6aa70040328047e51883ddb0be4a7391895451e  python-3.12.0-embed-win32.zip.sigstore
+c46ecec4928bf1069d95204f21e95fe233fa15d1262f48d3a478edca46a86d92  python-3.12.0-embeddable-amd64.zip
+03e2fbcc181238d91f73c233b56900b47d587ed474eb3c36b2a18ddb44965c83  python-3.12.0-embeddable-arm64.zip
+37bf70bc91d59f2db2f5062540ff135d06d74ed761dbd731c785b2bee1ac5b12  python-3.12.0-embeddable-win32.zip
 d18c9ba65137b6f2ef2f4083b647273639f17e390f7439b3c2e35686040745db  python-3.12.0-macos11.pkg
 fe0c95b3c81d6d5c21e33d8e9bf7939286370e3f5570938d1423857c5ac1654f  python-3.12.0-macos11.pkg.asc
 ea2e31d62213a60a0c3507eb9520f7122cc0f0937aec2e36be0b5aed32174180  python-3.12.0-macos11.pkg.crt
@@ -6120,6 +8291,10 @@ ea2e31d62213a60a0c3507eb9520f7122cc0f0937aec2e36be0b5aed32174180  python-3.12.0-
 96cd765a870970eec1205919ae1512f3ac934baf706668c1199ccd02db377ac7  python-3.12.0-macos11.pkg.sig
 ec23d3fe5092644d6f9cbfc421761be619c6df7b29e6ca129ec6bec913723426  python-3.12.0-macos11.pkg.sigstore
 ec23d3fe5092644d6f9cbfc421761be619c6df7b29e6ca129ec6bec913723426  python-3.12.0-macos11.pkg.sigstore
+270c5cf9f91d9e43d55e93d9130b26b15b72f749e96bce68bf719fa0bff711a1  python-3.12.0-test-amd64.zip
+d46d5e6a1d8d3d3e751472bb7365940765395d4538c05045b2372f17f05ed4a4  python-3.12.0-test-arm64.zip
+fdd3b4a20f83dfdfcea982c909448c3943042fc9e14aa166ba5d0e047dfc9e75  python-3.12.0-test-win32.zip
+0399ee01bcea3854bb7cab5aefd094579000e3246912b1fab3faeebff7c8d323  python-3.12.0-win32.zip
 78fe137b4b78274e455ce678ba2e296ca7c3c6a0e53806bf09e4f8986b64c632  python-3.12.0.exe
 59e44b099c40f0fa13475e05431d60c9afde084b83c76e5ee5deb9b58f1d270b  python-3.12.0.exe.asc
 0aed62195790d4c8c044605a3800e4f9aed0a4a7326bea9f42c4114f2a3e2648  python-3.12.0.exe.crt
@@ -7294,6 +9469,7 @@ aebf3681f04ac0423f16e42b699b585b67a0f8aa6a1e293db5d792d8226d7ba9  python-3.12.1-
 b0f4bc9064308b8a834c9ae69a263416181d4eb34eee444d7892f0a0a7224243  python-3.12.1-amd64.exe.sig
 52c37537846604119dfdb2dc106812ca90f162f896ff78ff204ad3a37b4df91e  python-3.12.1-amd64.exe.sigstore
 52c37537846604119dfdb2dc106812ca90f162f896ff78ff204ad3a37b4df91e  python-3.12.1-amd64.exe.sigstore
+59962c41414b4fa59aec4b8d52235964f9cc4894b77005432b95945a7cd84a46  python-3.12.1-amd64.zip
 900ff6661dc289474f1fa930af138ce8e0e77a0c09068c91c6a2efa9034497d6  python-3.12.1-arm64.exe
 df2ac2dc0e31fd78440ca9f038a0c86dc17501a72cacb9a6bac7f646ab6fe340  python-3.12.1-arm64.exe.asc
 d860d24a6478d138d55a0225997b9d554ecafa87c42953bd237e71cd040b024d  python-3.12.1-arm64.exe.crt
@@ -7304,6 +9480,7 @@ d860d24a6478d138d55a0225997b9d554ecafa87c42953bd237e71cd040b024d  python-3.12.1-
 91858083c1279054c3b3dbfb4d198377ba60b52780891c83aa744443e1e996c6  python-3.12.1-arm64.exe.sig
 706399655695193c62bc82c0dee6bb56b5b2dd0b69c99ce50a505ea7330e6e8d  python-3.12.1-arm64.exe.sigstore
 706399655695193c62bc82c0dee6bb56b5b2dd0b69c99ce50a505ea7330e6e8d  python-3.12.1-arm64.exe.sigstore
+624d985a080567eb8a40680e1b0c4645552ddf98999952001c5cf8c4f51c2b8a  python-3.12.1-arm64.zip
 7a77c7471f5ceee88831a29b9460eddd784adf31b0230f188149ef0c588642d1  python-3.12.1-embed-amd64.zip
 2a637b5e783c903d631dfd1a3f7647a379eab859976b214a91b9c351e2d09cf5  python-3.12.1-embed-amd64.zip.asc
 31e4e46e81c2ce3e5d0ff1432a1af82f644efbd0e76c7331ddba4b5c378c3708  python-3.12.1-embed-amd64.zip.crt
@@ -7334,6 +9511,9 @@ fb571171a3689a763817ad8cee8e19e75bef9d8635c802d079165a709abcacbf  python-3.12.1-
 c37bd244e5e76c286a41b8c2a45b51fc7822ac509a0b7cc10561bfaabb163762  python-3.12.1-embed-win32.zip.sig
 973e1a921725ed1f9abb5b31de294da5bb15ab0d3311715c3c3e41d84abd16c3  python-3.12.1-embed-win32.zip.sigstore
 973e1a921725ed1f9abb5b31de294da5bb15ab0d3311715c3c3e41d84abd16c3  python-3.12.1-embed-win32.zip.sigstore
+eeabfd11456c6d932b7dab58cac85be1693624cd6309ab96a23e1088ecd109c0  python-3.12.1-embeddable-amd64.zip
+a1becdfe8b7122595dae06a9af487cf40e22ac40794736db60822a68d9a756b5  python-3.12.1-embeddable-arm64.zip
+f6027f031c3a582c766448db7ccc6737fdf4aefa8f7bb9c5ca1a281248ac9be6  python-3.12.1-embeddable-win32.zip
 6178e42679eb83196240fc58b1438f481c32c2b0557f28ccf43aa7b1b80b7c4a  python-3.12.1-macos11.pkg
 8162798220376615cba0c18ecf1e24bfd12da8c8231686c3dcdb5013aead28cb  python-3.12.1-macos11.pkg.asc
 e4bc39c90d7ec96ce11e8bc1f410cce61b736471659b5c063f8405053909b0af  python-3.12.1-macos11.pkg.crt
@@ -7344,6 +9524,10 @@ e4bc39c90d7ec96ce11e8bc1f410cce61b736471659b5c063f8405053909b0af  python-3.12.1-
 ad20ac7cff9e7827c8d3f522c45f001d0ed304893d167a8bf0ec378f43caf9e1  python-3.12.1-macos11.pkg.sig
 3ac19e7b396511f7abe1dff4a0bb37178628e69c9f4a8fea0feb47a25a1fec8a  python-3.12.1-macos11.pkg.sigstore
 3ac19e7b396511f7abe1dff4a0bb37178628e69c9f4a8fea0feb47a25a1fec8a  python-3.12.1-macos11.pkg.sigstore
+c4f25dffcc802f9f0b1cf141df96d90615059601930330c13d5f5f5798bba709  python-3.12.1-test-amd64.zip
+11da3f42cf1e576ba9815893049d2a272b0f3dfb2af54cdaeafffface07ef271  python-3.12.1-test-arm64.zip
+242476518b4e35f07e3a79e16abb75389bbe12581f08a65ab4208f382bcead06  python-3.12.1-test-win32.zip
+44717d712c01ff9dc8cc6677fe2897932f089d43e4a27aa609cb05b7299cfe42  python-3.12.1-win32.zip
 7389c4765535661932e649ac8b5dd523c664692aa06f15e770b06194303f314c  python-3.12.1.exe
 102ccbc1703fc6d25fe366e49b446fd52f24f29f76810251d906828ef28fcb2c  python-3.12.1.exe.asc
 09ebc4c566c250ffc99c3108026c6433ca1f9220071a6adc00109e3c76ee673b  python-3.12.1.exe.crt
@@ -7384,6 +9568,7 @@ c85b82d619e6afd1731ef77761f47bc11eaff4ad51566fe692a484abd2c9bc58  python-3.12.2-
 5a3c375a57385b0df8b3a089156d59efef225acb8008614492680348c8ed309c  python-3.12.2-amd64.exe.sig
 01d9ef6a368e7871aa295dbf63343e6c578ab78776753aa43e51d8301fc04757  python-3.12.2-amd64.exe.sigstore
 01d9ef6a368e7871aa295dbf63343e6c578ab78776753aa43e51d8301fc04757  python-3.12.2-amd64.exe.sigstore
+a4511b3f536bac93dcbea08cb3fea8d79584fc8dfdd9801c988352b0ad653b52  python-3.12.2-amd64.zip
 3c1876607a70ca4b3f2db13f79392ffc773ed45e6cc0f12d49adfd5370c1cb6b  python-3.12.2-arm64.exe
 fe2ff9975ab16a81012899bc4688516ade09d170d820ccd4b3c910aad72b8554  python-3.12.2-arm64.exe.asc
 ff86402bc9e46b1269e628426d5e40867fb11635d9ec6134002a4cd3366963ae  python-3.12.2-arm64.exe.crt
@@ -7394,6 +9579,7 @@ ff86402bc9e46b1269e628426d5e40867fb11635d9ec6134002a4cd3366963ae  python-3.12.2-
 a10d40d9c620b2884171f090b88af89df1f4e3e1382cd2542b1a613ef27e8684  python-3.12.2-arm64.exe.sig
 75a8b89379b988e25c6a619917fa033d5de22f73348d1027de213540b61e1a7f  python-3.12.2-arm64.exe.sigstore
 75a8b89379b988e25c6a619917fa033d5de22f73348d1027de213540b61e1a7f  python-3.12.2-arm64.exe.sigstore
+7251fa41c569cc5ee00c06ca4fd8ef3bc62aeca9d81c3bd3cdb89debc4e57165  python-3.12.2-arm64.zip
 144ee3fa0c4171f98ec554ac01bb44ee1e895d154609f143b1d20b52c3fe383e  python-3.12.2-embed-amd64.zip
 fdc776e8721f3c735ff99c9f597efedd577fc54adddc38b10d827caddf9307ee  python-3.12.2-embed-amd64.zip.asc
 0cfe5017a30c4f260e94fb314283367b4b957fe5fb0acc06476845b69e46740b  python-3.12.2-embed-amd64.zip.crt
@@ -7424,6 +9610,9 @@ f43ae82b1a6b03f3ecce63e8344f4e9b3ec7f8fcd38f99ff46c74eaac7aeca18  python-3.12.2-
 f43ae82b1a6b03f3ecce63e8344f4e9b3ec7f8fcd38f99ff46c74eaac7aeca18  python-3.12.2-embed-win32.zip.sig
 27e22181e116413b978d804a325a70e51cf2a9524d9d903a28eab3c409dbd604  python-3.12.2-embed-win32.zip.sigstore
 27e22181e116413b978d804a325a70e51cf2a9524d9d903a28eab3c409dbd604  python-3.12.2-embed-win32.zip.sigstore
+15814293577ca57c8604b0ab6e527ebf017645a3d71eed9894ca88cb53fae069  python-3.12.2-embeddable-amd64.zip
+5ab0694647f3c53470cdf8e499564d3c0a4d44640eac78b3139cf3e61e6616dc  python-3.12.2-embeddable-arm64.zip
+f652b4030a81047f093c1283dd94ab531c181729770da92aa5626b943b25b505  python-3.12.2-embeddable-win32.zip
 af7284515fc601c878aadbb9ded6a031a2309d3d52c1c1d5443c4e5567d500a4  python-3.12.2-macos11.pkg
 2aa783991b8671faef558dc6a370ba8e5b7ac30a44fd3b23cd79324871702707  python-3.12.2-macos11.pkg.asc
 339a1ae0ff1d4babbd9a30570026e20ca1066f6575057cfdc20d524d5c672351  python-3.12.2-macos11.pkg.crt
@@ -7434,6 +9623,10 @@ dcd4e072931b765a39783651b73ebcabdbe49c6aa2a5844dc7af19365a984f21  python-3.12.2-
 53ef4c122d5617a692ae5409f6da3ad54f33f5150216de6f42e09a42296d2c1f  python-3.12.2-macos11.pkg.sig
 dcd4e072931b765a39783651b73ebcabdbe49c6aa2a5844dc7af19365a984f21  python-3.12.2-macos11.pkg.sigstore
 dcd4e072931b765a39783651b73ebcabdbe49c6aa2a5844dc7af19365a984f21  python-3.12.2-macos11.pkg.sigstore
+e1bc0bf32176645214f335e8cbc42858ad0954f0c84450d7e886c8766f4f5c9c  python-3.12.2-test-amd64.zip
+1c9a2d0cff4cfa876cb6e7d5069bdec423a1407a0c49ac97049a218b8e4844c3  python-3.12.2-test-arm64.zip
+a0b43e1650df91819907e2a86a35c40a233813493702a76cc8bf1e41cce6707d  python-3.12.2-test-win32.zip
+a6966f7a0e39627e717a4cf9f888c86adbff14d0ac0f334f23b0d815c336f2a9  python-3.12.2-win32.zip
 f10f43cdcaf4b788d98bcb072f08aa43330502b25513a8fdffb6d77263cbab8e  python-3.12.2.exe
 694e6695b0d12d37aa88b82325e85d32d66ad5e090076dc32f0da5f294b949a2  python-3.12.2.exe.asc
 fcc0b4f10421b7420b407a958511ea5ec2b1b976f781e8948867a9aeb36384de  python-3.12.2.exe.crt
@@ -7478,6 +9671,7 @@ fea443b05f9a98ed0a8983fe211dc1f4ea10a3afa3a3f73f00344de2a1216554  python-3.12.3-
 5d0b812dffbbb6bfea3c4e5ab3427cc79f45c94d02ade323a119c06306ad46f4  python-3.12.3-amd64.exe.sig
 9e3a4d9ee359649f20b9fe8f3f0fc3d16db8da4b42e04b650657f17c4283090f  python-3.12.3-amd64.exe.sigstore
 9e3a4d9ee359649f20b9fe8f3f0fc3d16db8da4b42e04b650657f17c4283090f  python-3.12.3-amd64.exe.sigstore
+eee87cd50d2150ca1d3cdbfeaf69e2b55b0f3907f54ac8d1b10f75315a8d6085  python-3.12.3-amd64.zip
 4399c3ccde91c703a368b6d4463af8ed24ce08e694485bed6eff180373b0dff1  python-3.12.3-arm64.exe
 3af7191dd41022b01cce0e99fea9ccd930738bec2a6d965d11081244d46880aa  python-3.12.3-arm64.exe.asc
 bdf293d8de93d71744560424a6f18990ab05eeab5ce39dc5c09f7a9dfe0e411d  python-3.12.3-arm64.exe.crt
@@ -7488,6 +9682,7 @@ bdf293d8de93d71744560424a6f18990ab05eeab5ce39dc5c09f7a9dfe0e411d  python-3.12.3-
 98fb23a4e2c1b2a2206a905b4d35fdcb936dd65a55c4d55ace1bbeaa27d7ac9e  python-3.12.3-arm64.exe.sig
 11bbe8149e308a8667ee989569f6a6aec51442d0e26d3e470c5b6a5b1be502bf  python-3.12.3-arm64.exe.sigstore
 11bbe8149e308a8667ee989569f6a6aec51442d0e26d3e470c5b6a5b1be502bf  python-3.12.3-arm64.exe.sigstore
+d0417089ec764cdd814cef12bc34dd9236beb76fea924691c35da84bb5c85cd5  python-3.12.3-arm64.zip
 38b265fc0612027a126ae54d2485101f041b61893e41ef4f421dee6ac618a99e  python-3.12.3-embed-amd64.zip
 05c3aae2f39ca21c39ed8d05abd6ebd6ef2a0f334aa7ce82db7bfbcd63a87d23  python-3.12.3-embed-amd64.zip.asc
 d7ea34910662edd19760b3a1c3e648bdff60da269ddb95ea773e52547ff82ea5  python-3.12.3-embed-amd64.zip.crt
@@ -7518,6 +9713,9 @@ f196236cb478a340772093f53d6ef43e32a50581a914f79b3698db9bbd78f208  python-3.12.3-
 7f7b8c48f95e783efd3dd5fdb9fc74f466d6407ed52723de8037851ecf44bb0c  python-3.12.3-embed-win32.zip.sig
 8df2e52de2a69a96d6c0b6da5b35a58f7efd55d51487a678a0c364de0e4af797  python-3.12.3-embed-win32.zip.sigstore
 8df2e52de2a69a96d6c0b6da5b35a58f7efd55d51487a678a0c364de0e4af797  python-3.12.3-embed-win32.zip.sigstore
+6261a1b2a44e26e7a354c6fde772e629fe2105d749c9fbcd400e1227d97a30da  python-3.12.3-embeddable-amd64.zip
+98ccbea0a644d1c3c1ae548c21b43251539c895b617d9dff2934cc208b8e58ed  python-3.12.3-embeddable-arm64.zip
+2147f7ef6ca572cbbdaa6388e2572ee5e4ea3f96de6063f5a1c75da82268e1a3  python-3.12.3-embeddable-win32.zip
 70a701542ff297760ac5e20f81d0e610aaaa1aba016e411788aa80029e571c5e  python-3.12.3-macos11.pkg
 963bf1f19fe9da184b25787f97da70bfd24071753a725e2d0625f50564c7f9a2  python-3.12.3-macos11.pkg.asc
 0196f9ec0a70ad119d9ec2b2190a314e86ad5c92f4a969a2ef0d6f292c3120b5  python-3.12.3-macos11.pkg.crt
@@ -7528,6 +9726,10 @@ f196236cb478a340772093f53d6ef43e32a50581a914f79b3698db9bbd78f208  python-3.12.3-
 173bca03d7af2dc275d6351231092b7d4ca2ce9679377ded8b591d9f8118cb6e  python-3.12.3-macos11.pkg.sig
 7f13d9664112650a641e4a092265705ff397ba2fee0538ef545060493da8cb58  python-3.12.3-macos11.pkg.sigstore
 7f13d9664112650a641e4a092265705ff397ba2fee0538ef545060493da8cb58  python-3.12.3-macos11.pkg.sigstore
+2c075bf07857950ee8dde24111a2d1a95ffac679e9ebfca8bdb1663f8a8b29e0  python-3.12.3-test-amd64.zip
+bcfd64b1d2ea8f72bc9521f8c1e54c190b222ccb5fea7673ce1471f856a53bd9  python-3.12.3-test-arm64.zip
+15ac2ad4ffae51fbed6713de4dd3f053441a7cd2a08808ec7d4e2755bf9d557f  python-3.12.3-test-win32.zip
+991a080c1d74de9bcf17323cc209e85796ad1830a82b78c0659212ef52d5d9f4  python-3.12.3-win32.zip
 a9f37c55f9922d00ef25af40d5017e86c2d98abd7d599307bccf0f2b3d055983  python-3.12.3.exe
 c743ef1604f3195602b890597ae90bb0b720d1819b6e8232a0aee71510bfb15c  python-3.12.3.exe.asc
 25f66fdab0aa2a22b84b0616589394f091b0d4efd69eccfdf739091e0b26b097  python-3.12.3.exe.crt
@@ -7574,6 +9776,7 @@ ee8090bb5b61bd6d336fb16b06c7f34f44a6e41262762b9daeefef4994f9bcb9  python-3.12.4-
 ee8090bb5b61bd6d336fb16b06c7f34f44a6e41262762b9daeefef4994f9bcb9  python-3.12.4-amd64.exe.sigstore
 ee8090bb5b61bd6d336fb16b06c7f34f44a6e41262762b9daeefef4994f9bcb9  python-3.12.4-amd64.exe.sigstore
 6f9c37defde7adc335d678adc2d214e89e895965d0a128e631a8134dac0c093c  python-3.12.4-amd64.exe.spdx.json
+35b4ac3bc273c85c1d8023cf8a29935e896189f532ab497573c6da7fb12310ea  python-3.12.4-amd64.zip
 e4106f91e5565b785f254d4d63d570255f7cf78618743a664b0b69d33493438f  python-3.12.4-arm64.exe
 cccb3c44535eab9a084388ac1d6ea203b98437d76ccc4838308892dff1236368  python-3.12.4-arm64.exe.asc
 0e17ff33dbd18e8a671fc58df122f233a787b2aafa5d24d0e58478984e91f166  python-3.12.4-arm64.exe.crt
@@ -7586,6 +9789,7 @@ f73afdba74255ac55abd9a29fe927f1931255f5b3c9b21ff0b3de1849c2e6309  python-3.12.4-
 7b3f2bdb4ae86126d66bcb22a776a7651bb6c7002ce3aa0c4155537864ee2dbe  python-3.12.4-arm64.exe.sigstore
 7b3f2bdb4ae86126d66bcb22a776a7651bb6c7002ce3aa0c4155537864ee2dbe  python-3.12.4-arm64.exe.sigstore
 8c1bea21390847e705c3e27d49fd2cfca533d488f26ac1bf1ad28073020cce68  python-3.12.4-arm64.exe.spdx.json
+0a605d4bd642789a8e2a81b60e23f67e1aa4dd95481ded88f92719534fb77389  python-3.12.4-arm64.zip
 15fea3c9367653a85086fe37216b4d1a1c78688fa5e1587e1db0b0f658856564  python-3.12.4-embed-amd64.zip
 3eb9564846b95e82e6723d108207ff7af0c7ea9805d5c58239ddeff2d6ed2af2  python-3.12.4-embed-amd64.zip.asc
 ae980023c15b4c2a6e07b17570a320dd39a4da1a3ee3170587f3b30658d2074f  python-3.12.4-embed-amd64.zip.crt
@@ -7622,6 +9826,9 @@ a8eb213e8eeb86314cc38481d5744c2b48bf48ed6596e3d5cd49c7b6dd29bb81  python-3.12.4-
 8343480dd0f9b4308648933f9191fdf3c22dc69afa69d7e3691590baae49bed9  python-3.12.4-embed-win32.zip.sigstore
 8343480dd0f9b4308648933f9191fdf3c22dc69afa69d7e3691590baae49bed9  python-3.12.4-embed-win32.zip.sigstore
 a5a6b8d5ac230bf3f5355e6191e97d9e8b37bc9e1ba771399aee848b3f991a29  python-3.12.4-embed-win32.zip.spdx.json
+783107e81806a4b8c33ac8a4e878f899cfc90bf6aa5c2c0687f91a60865c18d1  python-3.12.4-embeddable-amd64.zip
+d9d10f4d127c5e41da330b0d91b87556767ab45421fd73c4ffd092c100bb0acd  python-3.12.4-embeddable-arm64.zip
+180bad0d858a20b55f1e49971a6d4aa87d542655c0f21d80f362d07980c3cff2  python-3.12.4-embeddable-win32.zip
 3cc7822afc0c101890f59f502cd4a4180bacb458892f3e8408611fc210292cab  python-3.12.4-macos11.pkg
 58f0571330092c100ae1ba0f830cbde8665ddfeab22f3198d0c93a432d96e4ab  python-3.12.4-macos11.pkg.asc
 a4dfae47da55b8e64c7287c5fa78c7577f501bab77e2df17d10f0f0aeb392a9f  python-3.12.4-macos11.pkg.crt
@@ -7632,6 +9839,10 @@ a4dfae47da55b8e64c7287c5fa78c7577f501bab77e2df17d10f0f0aeb392a9f  python-3.12.4-
 ea5cbfd8b0b13619ec6f3fe7a3a6f9ab7a383788baef74c7d5c333b68c14059f  python-3.12.4-macos11.pkg.sig
 8bffe8f0a8158f449a4c5a01c7f8c3aba10515e65a04493e2d41489f3c0061a7  python-3.12.4-macos11.pkg.sigstore
 8bffe8f0a8158f449a4c5a01c7f8c3aba10515e65a04493e2d41489f3c0061a7  python-3.12.4-macos11.pkg.sigstore
+4f45a94530ec99d39caad42bd71eadbee6a7788c954c7f2233e430ec51945e7b  python-3.12.4-test-amd64.zip
+c13093db268532651b01556e4a9c6b539e6697c0f8ab9d7f72f90092560a5d86  python-3.12.4-test-arm64.zip
+b7150ba9a515d17675b3120178cbe3740fa98a6b4fa1c14cb4ff38aa15bdd3aa  python-3.12.4-test-win32.zip
+028990f30f474c9af3464925333ec839142ee932b02b08561eb813b669e67b4e  python-3.12.4-win32.zip
 a8b4c07237446364dc8d74288a5e33c04c4554b7be1f8d81100d219f6e9bba10  python-3.12.4.exe
 c0982b862a4b4304d695556249606ea5bdded5e4d5abf4a87d2af2b3c8853dee  python-3.12.4.exe.asc
 9d72e02685fe4e9b58b9121867ce3bcf863ae5c6f937ceaaa164e440317ccff0  python-3.12.4.exe.crt
@@ -7786,6 +9997,7 @@ a0167054613cc99a734c1a1c2771330cb49c33156090808a0f7cba1da5940ecd  python-3.12.6-
 72caf0039b00016526e84f0c3ee3f8ee65cbd9a59215e0b1825c2f4a1a06a068  python-3.12.6-amd64.exe.sigstore
 72caf0039b00016526e84f0c3ee3f8ee65cbd9a59215e0b1825c2f4a1a06a068  python-3.12.6-amd64.exe.sigstore
 fd1f2b312b24bfa3e59dc0f95f8a253dda25bd4d5973dfb883bac30405164dbd  python-3.12.6-amd64.exe.spdx.json
+5793151e8f70bf175d0f6348ddde0dbe34d7cf9e54c1ae7b241394461e6d26e1  python-3.12.6-amd64.zip
 f80598f9c966259db923306455621d3f22b3a20e25394ab753154335ea4aea56  python-3.12.6-arm64.exe
 f5d056408af7a52dd05cdd48872c60adc6a2c75ff7773b24e29da86122a68d0e  python-3.12.6-arm64.exe.asc
 180e0461abaa86e4c2a87bffda0161311a359e4d5c9d89d7f3c792bbc1e5fccf  python-3.12.6-arm64.exe.crt
@@ -7798,6 +10010,7 @@ f1a6f1f6cd807e88b20db1fb132094272186c396970420219d26317e70872c2c  python-3.12.6-
 b9bb8c48cef2bd6aa6a837942c2034f67622cfe85bafcb3e77a8ff8cd5e6f5e2  python-3.12.6-arm64.exe.sigstore
 b9bb8c48cef2bd6aa6a837942c2034f67622cfe85bafcb3e77a8ff8cd5e6f5e2  python-3.12.6-arm64.exe.sigstore
 6a119d830218c60fef34636d7cf6ea5219f019f2eeb4aa1c944c4e29853168ec  python-3.12.6-arm64.exe.spdx.json
+4cc006475de2317b76a66289bf2a0bc26575a875772f36bd82dafdd97b74e474  python-3.12.6-arm64.zip
 a86a2e28870967745d255cc597d1e4d19ae79e65e927cdc324baa0256202231c  python-3.12.6-embed-amd64.zip
 2020e92a7c6edb980bf51cb9a1f4d1892f46641deaabe5fb1cee61e9baf046f5  python-3.12.6-embed-amd64.zip.asc
 f5548a3f3a9aa65f16e2e3df7dc615d34d5148aec4c6659ee12952e2fc5b74ee  python-3.12.6-embed-amd64.zip.crt
@@ -7834,6 +10047,9 @@ fddbba9d1febcf2e571b3e3374217f63836bfd48cfba14c256c565a7f5dcf382  python-3.12.6-
 1b8266465a9839c5135f97dbeabcad731a1a37357589cd7ebea4f34438c23fe1  python-3.12.6-embed-win32.zip.sigstore
 1b8266465a9839c5135f97dbeabcad731a1a37357589cd7ebea4f34438c23fe1  python-3.12.6-embed-win32.zip.sigstore
 8065aa34ad1d5bb58b0f45cd3aa93ea5f337edce82fcc4dc43ec63d47cc43203  python-3.12.6-embed-win32.zip.spdx.json
+b7141506201a4d07b50fbefd3d82b5b059cae82970d2f98b163d96b5ab5a1cfa  python-3.12.6-embeddable-amd64.zip
+59eabdf2d52704cd1b236dad7c60fad4d614417129e90615c18c248ee11a80ef  python-3.12.6-embeddable-arm64.zip
+740f88ee585aa2359c6049e971499502a92d4efe6c8268a4b4e20a8fa1884933  python-3.12.6-embeddable-win32.zip
 2ac96b0f53ec55e26d17b0cfa3d73ca5cf41631e1c738b32a7820c76d0f25fa1  python-3.12.6-macos11.pkg
 3babdacd13484510a058248b88380bbe4e6dad7fc0589882bd989e6e45bea897  python-3.12.6-macos11.pkg.asc
 38bff7903157b87d57b91d7a3094bd6a3c8e02835705b4a44e83a9e0e1e42b6d  python-3.12.6-macos11.pkg.crt
@@ -7844,6 +10060,10 @@ f38b07cc9287e2d8fe5601da48fe1c7d4d0647b695e838daa239336a57cbcba6  python-3.12.6-
 a7adce29b93370ee47089883c271e21d9341b8e3c4bd0a03a3a5896a22cf5314  python-3.12.6-macos11.pkg.sig
 f38b07cc9287e2d8fe5601da48fe1c7d4d0647b695e838daa239336a57cbcba6  python-3.12.6-macos11.pkg.sigstore
 f38b07cc9287e2d8fe5601da48fe1c7d4d0647b695e838daa239336a57cbcba6  python-3.12.6-macos11.pkg.sigstore
+a456c9a4098dbfa8eda9f4396b8f0daa372954241bd7e78ad631d16e60eb1a50  python-3.12.6-test-amd64.zip
+2d26ae164f944c463c6533790e85be1ff39bfb4057da725cee49340ee0d2d678  python-3.12.6-test-arm64.zip
+1013fec6fe49a3c935aeb030ad4f34f39782526af76523829ed2ef9f8ceccc22  python-3.12.6-test-win32.zip
+30e10dffabc88ac7f3b372583987f2765b6c947cdeb6f2e7f973ac4085711bf9  python-3.12.6-win32.zip
 03df41e10b76cc7d8f836daf4650d880327239b9f5c6d68b83f4260d989fd1d3  python-3.12.6.exe
 1c0d773c5d99895a61d68a21877a88b56c9d6ab14b9bcabaa12843044384a8b9  python-3.12.6.exe.asc
 44a4c46589a67d01e922878e4d50094d0784ab06e2046b3e732f085aa5d745c3  python-3.12.6.exe.crt
@@ -7880,6 +10100,629 @@ d6874a5b125709b5db35ec11c58c4db3165616b15c89ea3178b6b932a712b622  Python-3.12.6.
 d70ece21821cb6acab932bee55b0a5049b0fd358d5754cea71878b62a3a2b5bb  Python-3.12.6.tgz.sigstore
 d70ece21821cb6acab932bee55b0a5049b0fd358d5754cea71878b62a3a2b5bb  Python-3.12.6.tgz.sigstore
 d6874a5b125709b5db35ec11c58c4db3165616b15c89ea3178b6b932a712b622  Python-3.12.6.tgz.spdx.json
+1206721601a62c925d4e4a0dcfc371e88f2ddbe8c0c07962ebb2be9b5bde4570  python-3.12.7-amd64.exe
+5860f3fb15adba96916b24f1f5793f59f0923b270346b03baa3505d19494509a  python-3.12.7-amd64.exe.asc
+dd231591badf5d5fb0da8a88c199ad6610c0287056a1ec5a1bb88a330a2d5c53  python-3.12.7-amd64.exe.crt
+374ecdc5c425431053a7360659c523e1107670b691cc15dc361b12c901f37116  python-3.12.7-amd64.exe.sig
+ac0e3b3e39e391f824e83adfed58a8706dd5be4233acfcb8ea40344ca3b577ee  python-3.12.7-amd64.exe.sigstore
+52fc43a8fc1a510c15c805a42a73dfeccdc06599299f2c1fdce5a51934e25c6d  python-3.12.7-amd64.exe.spdx.json
+5860f3fb15adba96916b24f1f5793f59f0923b270346b03baa3505d19494509a  python-3.12.7-amd64.exe.asc
+dd231591badf5d5fb0da8a88c199ad6610c0287056a1ec5a1bb88a330a2d5c53  python-3.12.7-amd64.exe.crt
+374ecdc5c425431053a7360659c523e1107670b691cc15dc361b12c901f37116  python-3.12.7-amd64.exe.sig
+ac0e3b3e39e391f824e83adfed58a8706dd5be4233acfcb8ea40344ca3b577ee  python-3.12.7-amd64.exe.sigstore
+ac0e3b3e39e391f824e83adfed58a8706dd5be4233acfcb8ea40344ca3b577ee  python-3.12.7-amd64.exe.sigstore
+52fc43a8fc1a510c15c805a42a73dfeccdc06599299f2c1fdce5a51934e25c6d  python-3.12.7-amd64.exe.spdx.json
+8eba1124f9889bacee2a8ff16ebcc117f7aee2d3e7652d512f1697ac844d07d6  python-3.12.7-amd64.zip
+00b4a63760619e09128978a436f865774a3c23f7285781dc079ddc5b6633d57e  python-3.12.7-arm64.exe
+0ce8591931f75432ea318a360e60aa69a42022dd049403f708df842583545b8d  python-3.12.7-arm64.exe.asc
+4a967977fe76d332384258754e0f53b137a90772dad1c8d22eff96fb9763c732  python-3.12.7-arm64.exe.crt
+66972b357bf0d4b2009c9110b565f5d1459a7ee23e6f53fdf8178b520d4b3d97  python-3.12.7-arm64.exe.sig
+846ab34649cd9a2c5f850b80b3ab7c54621b402bde430580c3927d27b8ffba6f  python-3.12.7-arm64.exe.sigstore
+34b6e7427647a114c91661b50ec98b3ef98580032b46b18ddc8fe9a339813860  python-3.12.7-arm64.exe.spdx.json
+0ce8591931f75432ea318a360e60aa69a42022dd049403f708df842583545b8d  python-3.12.7-arm64.exe.asc
+4a967977fe76d332384258754e0f53b137a90772dad1c8d22eff96fb9763c732  python-3.12.7-arm64.exe.crt
+66972b357bf0d4b2009c9110b565f5d1459a7ee23e6f53fdf8178b520d4b3d97  python-3.12.7-arm64.exe.sig
+846ab34649cd9a2c5f850b80b3ab7c54621b402bde430580c3927d27b8ffba6f  python-3.12.7-arm64.exe.sigstore
+846ab34649cd9a2c5f850b80b3ab7c54621b402bde430580c3927d27b8ffba6f  python-3.12.7-arm64.exe.sigstore
+34b6e7427647a114c91661b50ec98b3ef98580032b46b18ddc8fe9a339813860  python-3.12.7-arm64.exe.spdx.json
+4fc75dd711faf2174ff898d415647c69e6ad6db24e53ce7a5072a227e8cb1e52  python-3.12.7-arm64.zip
+0d57bb6cb078b74d23dbfe91f77d6780d45bed328911609f1f7ee2ba1606bf44  python-3.12.7-embed-amd64.zip
+df417f2eb5fdd090a4c10becad53230ac632ca880248dfc317af4eba9764f3d9  python-3.12.7-embed-amd64.zip.asc
+5c4c5d4ed83dbefc687de76882a3494665583aa0faff230168a83cc7be3a6883  python-3.12.7-embed-amd64.zip.crt
+10fade7646a922d1ea495d9c9c052c64d934ffbe41398a4eb7162a79d238b80b  python-3.12.7-embed-amd64.zip.sig
+d03c03c0300bc44023b8506ab81d02253780100e6c8856cf7f6e560c4613c1fd  python-3.12.7-embed-amd64.zip.sigstore
+f12c9935e7f918040eb39c068cb1968116cd5121c16ace3b256e622d46fbfd95  python-3.12.7-embed-amd64.zip.spdx.json
+df417f2eb5fdd090a4c10becad53230ac632ca880248dfc317af4eba9764f3d9  python-3.12.7-embed-amd64.zip.asc
+5c4c5d4ed83dbefc687de76882a3494665583aa0faff230168a83cc7be3a6883  python-3.12.7-embed-amd64.zip.crt
+10fade7646a922d1ea495d9c9c052c64d934ffbe41398a4eb7162a79d238b80b  python-3.12.7-embed-amd64.zip.sig
+d03c03c0300bc44023b8506ab81d02253780100e6c8856cf7f6e560c4613c1fd  python-3.12.7-embed-amd64.zip.sigstore
+d03c03c0300bc44023b8506ab81d02253780100e6c8856cf7f6e560c4613c1fd  python-3.12.7-embed-amd64.zip.sigstore
+f12c9935e7f918040eb39c068cb1968116cd5121c16ace3b256e622d46fbfd95  python-3.12.7-embed-amd64.zip.spdx.json
+f4217333d32cecf723d81c0cede4778ccff391f5b71b9404cfbb2d0788ef1c12  python-3.12.7-embed-arm64.zip
+e0c0a50af7a5b2d2cd96f47665e408e8b6c1f88476786c49dc7e6d11102bfa26  python-3.12.7-embed-arm64.zip.asc
+1dd7604a111b4cf2c10f06b7a5957f7ef2d15434dd740047c79e9d7338aa3b5f  python-3.12.7-embed-arm64.zip.crt
+d87a441923ae97685e775812af9c985bd57a609e03f00984c84e5d60624e54d2  python-3.12.7-embed-arm64.zip.sig
+5f22c77034a78bdee40175e7d87b2668d2dd9b556c48cd037769a8cfa92e9e51  python-3.12.7-embed-arm64.zip.sigstore
+a8614bc5b206a1ee36a18702b90fb1d70b2244c9241967f8e186504bd3de958c  python-3.12.7-embed-arm64.zip.spdx.json
+e0c0a50af7a5b2d2cd96f47665e408e8b6c1f88476786c49dc7e6d11102bfa26  python-3.12.7-embed-arm64.zip.asc
+1dd7604a111b4cf2c10f06b7a5957f7ef2d15434dd740047c79e9d7338aa3b5f  python-3.12.7-embed-arm64.zip.crt
+d87a441923ae97685e775812af9c985bd57a609e03f00984c84e5d60624e54d2  python-3.12.7-embed-arm64.zip.sig
+5f22c77034a78bdee40175e7d87b2668d2dd9b556c48cd037769a8cfa92e9e51  python-3.12.7-embed-arm64.zip.sigstore
+5f22c77034a78bdee40175e7d87b2668d2dd9b556c48cd037769a8cfa92e9e51  python-3.12.7-embed-arm64.zip.sigstore
+a8614bc5b206a1ee36a18702b90fb1d70b2244c9241967f8e186504bd3de958c  python-3.12.7-embed-arm64.zip.spdx.json
+7f36ca8ebcb493b859be4c1ecde466eaffa4394a8b2487e645ee0e60b57ba5ca  python-3.12.7-embed-win32.zip
+ebdf77e36d5d05193c61fa0d2e25a8ffcf99c2e1304b9bf06830c84c6b4786e2  python-3.12.7-embed-win32.zip.asc
+1df0e44240c1f75a6bac734de9c6831d3679847740d396ce848e21813b1b51d0  python-3.12.7-embed-win32.zip.crt
+d74fe7ff29cdbd0edaebc9062174969ae8f41462c4e8cdc98120e10231b1652d  python-3.12.7-embed-win32.zip.sig
+58022ae514df303cf16f8d64713604eee15b5454cf5c8dc9d463ce2fc6f2f61c  python-3.12.7-embed-win32.zip.sigstore
+32fb43b0b67190a8c5e9a6e54fa99207a2c262c5b9c686ab02b15caf0d979015  python-3.12.7-embed-win32.zip.spdx.json
+ebdf77e36d5d05193c61fa0d2e25a8ffcf99c2e1304b9bf06830c84c6b4786e2  python-3.12.7-embed-win32.zip.asc
+1df0e44240c1f75a6bac734de9c6831d3679847740d396ce848e21813b1b51d0  python-3.12.7-embed-win32.zip.crt
+d74fe7ff29cdbd0edaebc9062174969ae8f41462c4e8cdc98120e10231b1652d  python-3.12.7-embed-win32.zip.sig
+58022ae514df303cf16f8d64713604eee15b5454cf5c8dc9d463ce2fc6f2f61c  python-3.12.7-embed-win32.zip.sigstore
+58022ae514df303cf16f8d64713604eee15b5454cf5c8dc9d463ce2fc6f2f61c  python-3.12.7-embed-win32.zip.sigstore
+32fb43b0b67190a8c5e9a6e54fa99207a2c262c5b9c686ab02b15caf0d979015  python-3.12.7-embed-win32.zip.spdx.json
+f3bf5277f57aff7b9558830fbb52fe28657232a5907e9c8d338828261e1f31cb  python-3.12.7-embeddable-amd64.zip
+9c368d17222a7a2753ef43de0bc7f09e67dd8f975c095e38b071832edaa9c99c  python-3.12.7-embeddable-arm64.zip
+8cc095db1a5a64a7dee58d03816a7bac5e1537d7fdca5e0f73e80cd9e4416109  python-3.12.7-embeddable-win32.zip
+2ec2355c1b3225ce1075fc1b562a6e113017aa6177df87c410667638c1574a09  python-3.12.7-macos11.pkg
+e943feefd60161f7432c4f7e1397479f9b29d5ee88036fa76f1a83720a85a2a1  python-3.12.7-macos11.pkg.asc
+b1f4d4f543b5ce00a7ef9d1428d13043995ca0dfdd70192d38270b004d3218ff  python-3.12.7-macos11.pkg.crt
+931f5815372d88114530de83533f3098b8a5966a4e9001a0b9077ac0fc46bc42  python-3.12.7-macos11.pkg.sig
+dd84558a844015e8f79b126d7d74dd0e89b0aca580eae02489cb8d2edb970770  python-3.12.7-macos11.pkg.sigstore
+e943feefd60161f7432c4f7e1397479f9b29d5ee88036fa76f1a83720a85a2a1  python-3.12.7-macos11.pkg.asc
+b1f4d4f543b5ce00a7ef9d1428d13043995ca0dfdd70192d38270b004d3218ff  python-3.12.7-macos11.pkg.crt
+931f5815372d88114530de83533f3098b8a5966a4e9001a0b9077ac0fc46bc42  python-3.12.7-macos11.pkg.sig
+dd84558a844015e8f79b126d7d74dd0e89b0aca580eae02489cb8d2edb970770  python-3.12.7-macos11.pkg.sigstore
+dd84558a844015e8f79b126d7d74dd0e89b0aca580eae02489cb8d2edb970770  python-3.12.7-macos11.pkg.sigstore
+cdd5a15e8ca3f5e272b90ab3ab3615a7ef82cac8c97991aae7c4d7417a38452a  python-3.12.7-test-amd64.zip
+2b8c6308d60a0822fc1043783b6722f623096c8db81023a1c1bea4c1225b7ebc  python-3.12.7-test-arm64.zip
+d266d21e50f6c1cca1ba7a42e9606ed9228546489052a541fa278e45d7202bad  python-3.12.7-test-win32.zip
+743e2c7af78ea0d302dd221ba19bb8594e78616c0ff71254a4d9cbd73b2425e6  python-3.12.7-win32.zip
+5bf4f3f0a58e1661a26754ae2ff0c2499efff093f34833ee0921922887fb3851  python-3.12.7.exe
+43121032e9819178fed6e554889d2215f870a056cae8b19d0bc5193463076e26  python-3.12.7.exe.asc
+1e241c4b9ac83c4e8278c7ef686747c745798321c5c477edd39195684ebd6539  python-3.12.7.exe.crt
+b1b1b0277a687e6700e94885f41c2919c128ca8f0b31e4091fa95b60bb2dca6a  python-3.12.7.exe.sig
+ddc560a8cb6ae8ab102dbbe328e22494695666b6d7cf78b5cb720d61c952b9c1  python-3.12.7.exe.sigstore
+1987aaae186cbf81f865d4d2ce8d15e90950616844176b2e26d6e6b860e2c112  python-3.12.7.exe.spdx.json
+43121032e9819178fed6e554889d2215f870a056cae8b19d0bc5193463076e26  python-3.12.7.exe.asc
+1e241c4b9ac83c4e8278c7ef686747c745798321c5c477edd39195684ebd6539  python-3.12.7.exe.crt
+b1b1b0277a687e6700e94885f41c2919c128ca8f0b31e4091fa95b60bb2dca6a  python-3.12.7.exe.sig
+ddc560a8cb6ae8ab102dbbe328e22494695666b6d7cf78b5cb720d61c952b9c1  python-3.12.7.exe.sigstore
+ddc560a8cb6ae8ab102dbbe328e22494695666b6d7cf78b5cb720d61c952b9c1  python-3.12.7.exe.sigstore
+1987aaae186cbf81f865d4d2ce8d15e90950616844176b2e26d6e6b860e2c112  python-3.12.7.exe.spdx.json
+24887b92e2afd4a2ac602419ad4b596372f67ac9b077190f459aba390faf5550  Python-3.12.7.tar.xz
+ba832793e5fb09c6f441bf607977ce185cebb8d3b7d066917b41d3f403ed2f72  Python-3.12.7.tar.xz.asc
+c9cde59d1ae283e80202ae5b0d93dec2e9be7e83b35ca62c8c3f7daa9a325e81  Python-3.12.7.tar.xz.crt
+9feb52686855f7adf88bab1779b748a778a6493d9fa7dc931dbc5e71b8389de2  Python-3.12.7.tar.xz.sig
+2cf830189b8c2500d6d438865c34b13150802662930fd02766eb1ebbe49bd71e  Python-3.12.7.tar.xz.sigstore
+e2c4c9b4eea7353f87fad1fc9e96d0a00d1e8fb9e1e0b7ac1349eb8929732ff4  Python-3.12.7.tar.xz.spdx.json
+ba832793e5fb09c6f441bf607977ce185cebb8d3b7d066917b41d3f403ed2f72  Python-3.12.7.tar.xz.asc
+c9cde59d1ae283e80202ae5b0d93dec2e9be7e83b35ca62c8c3f7daa9a325e81  Python-3.12.7.tar.xz.crt
+9feb52686855f7adf88bab1779b748a778a6493d9fa7dc931dbc5e71b8389de2  Python-3.12.7.tar.xz.sig
+2cf830189b8c2500d6d438865c34b13150802662930fd02766eb1ebbe49bd71e  Python-3.12.7.tar.xz.sigstore
+2cf830189b8c2500d6d438865c34b13150802662930fd02766eb1ebbe49bd71e  Python-3.12.7.tar.xz.sigstore
+e2c4c9b4eea7353f87fad1fc9e96d0a00d1e8fb9e1e0b7ac1349eb8929732ff4  Python-3.12.7.tar.xz.spdx.json
+73ac8fe780227bf371add8373c3079f42a0dc62deff8d612cd15a618082ab623  Python-3.12.7.tgz
+2399731425c7c7dcfd4521e1ab0d34e2fc88bb9b7d85830b6924ac15ff611537  Python-3.12.7.tgz.asc
+82517f7ebb62b81be19cdf88f64b0508ccdabc45b5dc939c0ab0cfa522aadb3b  Python-3.12.7.tgz.crt
+5c82ac64c5dde0cec4e92f755bfe1600768b4a719d78fddc4c7d03d8843a2307  Python-3.12.7.tgz.sig
+e6441c5326d284141dfe1f9e7426aedb377d8eb8570c8bc6f567c4b7ced99797  Python-3.12.7.tgz.sigstore
+8e26222398f5f7f815491f25f9caaefb76812113c0610b3d887304a18398a580  Python-3.12.7.tgz.spdx.json
+2399731425c7c7dcfd4521e1ab0d34e2fc88bb9b7d85830b6924ac15ff611537  Python-3.12.7.tgz.asc
+82517f7ebb62b81be19cdf88f64b0508ccdabc45b5dc939c0ab0cfa522aadb3b  Python-3.12.7.tgz.crt
+5c82ac64c5dde0cec4e92f755bfe1600768b4a719d78fddc4c7d03d8843a2307  Python-3.12.7.tgz.sig
+e6441c5326d284141dfe1f9e7426aedb377d8eb8570c8bc6f567c4b7ced99797  Python-3.12.7.tgz.sigstore
+e6441c5326d284141dfe1f9e7426aedb377d8eb8570c8bc6f567c4b7ced99797  Python-3.12.7.tgz.sigstore
+8e26222398f5f7f815491f25f9caaefb76812113c0610b3d887304a18398a580  Python-3.12.7.tgz.spdx.json
+71bd44e6b0e91c17558963557e4cdb80b483de9b0a0a9717f06cf896f95ab598  python-3.12.8-amd64.exe
+028284d95cbf9859cf1cc953813cc323acf68b9369026858ee28dd38127344c4  python-3.12.8-amd64.exe.asc
+120fbe9e42f2a814dc9f5b92004c3106847bcdd3fb99376257a61029eaceef80  python-3.12.8-amd64.exe.crt
+90a15c7cdd6ea108b13c84a738b9a2da9a8f831c2b1f6ff47e33c27de9371fc0  python-3.12.8-amd64.exe.sig
+808dd88e9dc1cfae25a599c6be4f7d76e649f1c982f9c3d739c9ad4109aba041  python-3.12.8-amd64.exe.sigstore
+f39b7829af42c34c598e99135c5a766fded858d00cfaf6c1d219d8b9cf97403d  python-3.12.8-amd64.exe.spdx.json
+028284d95cbf9859cf1cc953813cc323acf68b9369026858ee28dd38127344c4  python-3.12.8-amd64.exe.asc
+120fbe9e42f2a814dc9f5b92004c3106847bcdd3fb99376257a61029eaceef80  python-3.12.8-amd64.exe.crt
+90a15c7cdd6ea108b13c84a738b9a2da9a8f831c2b1f6ff47e33c27de9371fc0  python-3.12.8-amd64.exe.sig
+808dd88e9dc1cfae25a599c6be4f7d76e649f1c982f9c3d739c9ad4109aba041  python-3.12.8-amd64.exe.sigstore
+808dd88e9dc1cfae25a599c6be4f7d76e649f1c982f9c3d739c9ad4109aba041  python-3.12.8-amd64.exe.sigstore
+f39b7829af42c34c598e99135c5a766fded858d00cfaf6c1d219d8b9cf97403d  python-3.12.8-amd64.exe.spdx.json
+c4cbd48b45c6d5cd4777cacff5642efe9c2700b108e0d4dd13461c7e5ad34f51  python-3.12.8-amd64.zip
+8f653dd553b0430c0a5c0b2e9701b46da187b61734066e8866b673a718a55f2c  python-3.12.8-arm64.exe
+c9993b266535b9412f6a8eae9c44ec9ca1aa9dd4c99af007639551c9b7e3e51a  python-3.12.8-arm64.exe.asc
+6ef8ec93ce9fa259ba891506ed8baaf4805d7614b43c7bf63a7af468a191a00f  python-3.12.8-arm64.exe.crt
+e5422384e13540f42919db97c43c8b978e1b89731a47aea733bffacbc760726f  python-3.12.8-arm64.exe.sig
+6ec8aa3322e6ccc430ce3cee242b3a81f0c482e28a8e1143d50dfca1f741bb28  python-3.12.8-arm64.exe.sigstore
+992bc30ce9257ab94d0fbc29640761d06740342f6e980260dda1bd615e07fb93  python-3.12.8-arm64.exe.spdx.json
+c9993b266535b9412f6a8eae9c44ec9ca1aa9dd4c99af007639551c9b7e3e51a  python-3.12.8-arm64.exe.asc
+6ef8ec93ce9fa259ba891506ed8baaf4805d7614b43c7bf63a7af468a191a00f  python-3.12.8-arm64.exe.crt
+e5422384e13540f42919db97c43c8b978e1b89731a47aea733bffacbc760726f  python-3.12.8-arm64.exe.sig
+6ec8aa3322e6ccc430ce3cee242b3a81f0c482e28a8e1143d50dfca1f741bb28  python-3.12.8-arm64.exe.sigstore
+6ec8aa3322e6ccc430ce3cee242b3a81f0c482e28a8e1143d50dfca1f741bb28  python-3.12.8-arm64.exe.sigstore
+992bc30ce9257ab94d0fbc29640761d06740342f6e980260dda1bd615e07fb93  python-3.12.8-arm64.exe.spdx.json
+89609b3448d0d6b43693f3842c9a0a678744058efac5058f3aa46be8ddd68f24  python-3.12.8-arm64.zip
+8d3f33be9eb810f23c102f08475af2854e50484b8e4e06275e937be61ce3d2fb  python-3.12.8-embed-amd64.zip
+be975c1d2bb31ea21fca9b52550e39e281b8a030b36bd81ba0359b0cf12b93de  python-3.12.8-embed-amd64.zip.asc
+ba3cacabda4382d5391d0ab0859b270ace257440bb9680863626922b725507e4  python-3.12.8-embed-amd64.zip.crt
+75faef5c9b2b24efd80447ff7e35e635573e8c32e72167438453438a30975a41  python-3.12.8-embed-amd64.zip.sig
+f35d5f687c035946ce953e9546a905416dedfdaf705b27935f576d170adcd7cd  python-3.12.8-embed-amd64.zip.sigstore
+1829f6108f631699510ff1dbbdfacb08b900b0a8e09ffcc834de92529a83d356  python-3.12.8-embed-amd64.zip.spdx.json
+be975c1d2bb31ea21fca9b52550e39e281b8a030b36bd81ba0359b0cf12b93de  python-3.12.8-embed-amd64.zip.asc
+ba3cacabda4382d5391d0ab0859b270ace257440bb9680863626922b725507e4  python-3.12.8-embed-amd64.zip.crt
+75faef5c9b2b24efd80447ff7e35e635573e8c32e72167438453438a30975a41  python-3.12.8-embed-amd64.zip.sig
+f35d5f687c035946ce953e9546a905416dedfdaf705b27935f576d170adcd7cd  python-3.12.8-embed-amd64.zip.sigstore
+f35d5f687c035946ce953e9546a905416dedfdaf705b27935f576d170adcd7cd  python-3.12.8-embed-amd64.zip.sigstore
+1829f6108f631699510ff1dbbdfacb08b900b0a8e09ffcc834de92529a83d356  python-3.12.8-embed-amd64.zip.spdx.json
+d34db37675973785a2a539cd1c8dde1b6d45665f48c615ef55274b3798bf9fd3  python-3.12.8-embed-arm64.zip
+a07d92bedbb84d2fc509672cdd0e1c483b3b1de936fa46ff385e3c089b05f203  python-3.12.8-embed-arm64.zip.asc
+9a0d608a4712e2bdc8297bd39e399f60f001df7e71f2d4a6e954a7918ad22d3f  python-3.12.8-embed-arm64.zip.crt
+83490253a98395b0f9475a0f69329e98807a3c6b30bb2c255e3727123c83f3e2  python-3.12.8-embed-arm64.zip.sig
+73e7f9e40e2a704e8313e8666f4cccbf5fce7d0e660b0645d9f3d014bcba601f  python-3.12.8-embed-arm64.zip.sigstore
+f72b1ced2008ed1e42edc5b5ef32e70672ffba8279abc09c9f426be6a8f4c886  python-3.12.8-embed-arm64.zip.spdx.json
+a07d92bedbb84d2fc509672cdd0e1c483b3b1de936fa46ff385e3c089b05f203  python-3.12.8-embed-arm64.zip.asc
+9a0d608a4712e2bdc8297bd39e399f60f001df7e71f2d4a6e954a7918ad22d3f  python-3.12.8-embed-arm64.zip.crt
+83490253a98395b0f9475a0f69329e98807a3c6b30bb2c255e3727123c83f3e2  python-3.12.8-embed-arm64.zip.sig
+73e7f9e40e2a704e8313e8666f4cccbf5fce7d0e660b0645d9f3d014bcba601f  python-3.12.8-embed-arm64.zip.sigstore
+73e7f9e40e2a704e8313e8666f4cccbf5fce7d0e660b0645d9f3d014bcba601f  python-3.12.8-embed-arm64.zip.sigstore
+f72b1ced2008ed1e42edc5b5ef32e70672ffba8279abc09c9f426be6a8f4c886  python-3.12.8-embed-arm64.zip.spdx.json
+c9500db942a6d4f08248d2c47cb2800dc3737963f2ee8a4db340ae998346a380  python-3.12.8-embed-win32.zip
+93aff97551a448495b9f7347bf648dd15b904eeca1115691fb91063ac137150f  python-3.12.8-embed-win32.zip.asc
+3ed422c6291a2b8cbb31055d532e4753076fcc868822271da54a853d68183062  python-3.12.8-embed-win32.zip.crt
+c651712c50b5a70dd19fb6bf708b792c9781b5ef2d6ad21a46044a98c2db1238  python-3.12.8-embed-win32.zip.sig
+d5d6c5f60b232f6cb99c82049518aefd2839e64be9ae1ee7bf01257a6407ffc2  python-3.12.8-embed-win32.zip.sigstore
+6295574d0a9799379ad423d9c0b3ffcb422210c9f74c5c6901066fbfc8a182d5  python-3.12.8-embed-win32.zip.spdx.json
+93aff97551a448495b9f7347bf648dd15b904eeca1115691fb91063ac137150f  python-3.12.8-embed-win32.zip.asc
+3ed422c6291a2b8cbb31055d532e4753076fcc868822271da54a853d68183062  python-3.12.8-embed-win32.zip.crt
+c651712c50b5a70dd19fb6bf708b792c9781b5ef2d6ad21a46044a98c2db1238  python-3.12.8-embed-win32.zip.sig
+d5d6c5f60b232f6cb99c82049518aefd2839e64be9ae1ee7bf01257a6407ffc2  python-3.12.8-embed-win32.zip.sigstore
+d5d6c5f60b232f6cb99c82049518aefd2839e64be9ae1ee7bf01257a6407ffc2  python-3.12.8-embed-win32.zip.sigstore
+6295574d0a9799379ad423d9c0b3ffcb422210c9f74c5c6901066fbfc8a182d5  python-3.12.8-embed-win32.zip.spdx.json
+248a69db5ada6bde0b5e0a1c0ead191e3e08699d9ce44889943fe2650228c313  python-3.12.8-embeddable-amd64.zip
+a0fdb5935130e0e04fcc9695902a28b5d6babd013cb5ea7e1c4cf70b6046c801  python-3.12.8-embeddable-arm64.zip
+bae8cce6bfbaea2210498e75d2f8086f0e53b53fc6eb927ee8ab6fb7f94577db  python-3.12.8-embeddable-win32.zip
+c411b5372d563532f5e6b589af7eb16e95613d61bd5af7bfe78563467130bbff  python-3.12.8-macos11.pkg
+03e58a0db8f15e0a69a01011f73df13c5377e8c3cc393c8e25abf35c6adf174d  python-3.12.8-macos11.pkg.asc
+bb56121abdb7b93146e2043c7f723a4e47682bbedcacf581a832e695d38ca586  python-3.12.8-macos11.pkg.crt
+58d53864aa8f584acae9a3b2b590708dab0207531a6a61d2fb7c0f94ffaa98ed  python-3.12.8-macos11.pkg.sig
+7c18a070ee5c0b8e45b4613e3d1105b86801f9895d4d8c4c5267edbd311dd730  python-3.12.8-macos11.pkg.sigstore
+03e58a0db8f15e0a69a01011f73df13c5377e8c3cc393c8e25abf35c6adf174d  python-3.12.8-macos11.pkg.asc
+bb56121abdb7b93146e2043c7f723a4e47682bbedcacf581a832e695d38ca586  python-3.12.8-macos11.pkg.crt
+58d53864aa8f584acae9a3b2b590708dab0207531a6a61d2fb7c0f94ffaa98ed  python-3.12.8-macos11.pkg.sig
+7c18a070ee5c0b8e45b4613e3d1105b86801f9895d4d8c4c5267edbd311dd730  python-3.12.8-macos11.pkg.sigstore
+7c18a070ee5c0b8e45b4613e3d1105b86801f9895d4d8c4c5267edbd311dd730  python-3.12.8-macos11.pkg.sigstore
+4b6d61c7bde2cc409d796fa80085ea225975b6778e62241914a29379be7af713  python-3.12.8-test-amd64.zip
+0c89bcd34a8e9e537a5e11391f5cd277433422f5bebdcaa8ce21dc23c8c36d7c  python-3.12.8-test-arm64.zip
+7c37461001533a9cc3b03b1d6fa474091a737d96cf4109d97ef5bc61337885db  python-3.12.8-test-win32.zip
+bcd5091218f0e1aba32de0e30c944e79a8153c41feb218a1e6fffc801455964d  python-3.12.8-win32.zip
+a381547821f589013cbb469cd2a68178810ddb2e7637a2f92262777627b26dea  python-3.12.8.exe
+ce0b52760e437bf520a60bf71d818008428c3987bc6cdf5d39fac103647bc7f8  python-3.12.8.exe.asc
+3951da8e8cbc446c41f120134d9d230746ed224d4a2dc4c158357eb751dc3269  python-3.12.8.exe.crt
+400aefdb5d664715a7e158793fc968fcd9595becf468a7507de1ccdcef0846e1  python-3.12.8.exe.sig
+946c7737aeae2538c8888edd13383ff381afff9b8c6e5ab64bd983a450ab16b9  python-3.12.8.exe.sigstore
+cf564608e65a4089533c8989e17ff3b03ff6c3157a4a717a5afd8c5803fddfa2  python-3.12.8.exe.spdx.json
+ce0b52760e437bf520a60bf71d818008428c3987bc6cdf5d39fac103647bc7f8  python-3.12.8.exe.asc
+3951da8e8cbc446c41f120134d9d230746ed224d4a2dc4c158357eb751dc3269  python-3.12.8.exe.crt
+400aefdb5d664715a7e158793fc968fcd9595becf468a7507de1ccdcef0846e1  python-3.12.8.exe.sig
+946c7737aeae2538c8888edd13383ff381afff9b8c6e5ab64bd983a450ab16b9  python-3.12.8.exe.sigstore
+946c7737aeae2538c8888edd13383ff381afff9b8c6e5ab64bd983a450ab16b9  python-3.12.8.exe.sigstore
+cf564608e65a4089533c8989e17ff3b03ff6c3157a4a717a5afd8c5803fddfa2  python-3.12.8.exe.spdx.json
+c909157bb25ec114e5869124cc2a9c4a4d4c1e957ca4ff553f1edc692101154e  Python-3.12.8.tar.xz
+c0b69273edb3046ccb40c481f0bfd3187aaf33747ee62700b0edd87254cbeef1  Python-3.12.8.tar.xz.asc
+ccf0b506c67f93b5193736c53f6a8e14de7b63d22349d143e356d78ceeead398  Python-3.12.8.tar.xz.crt
+25c5940a4473f25aaaef7bf51ca9265ac36601036df3d886b1c0e1a073127783  Python-3.12.8.tar.xz.sig
+6334d9f8f1b76c8dbaeed7dd87cbd6fa517b340ffd6a9ce0903be80216cc0083  Python-3.12.8.tar.xz.sigstore
+c9e0fd66ee292610ed93d96d48fe065fcdc7428c8bd24c968827146cc9c4d76a  Python-3.12.8.tar.xz.spdx.json
+c0b69273edb3046ccb40c481f0bfd3187aaf33747ee62700b0edd87254cbeef1  Python-3.12.8.tar.xz.asc
+ccf0b506c67f93b5193736c53f6a8e14de7b63d22349d143e356d78ceeead398  Python-3.12.8.tar.xz.crt
+25c5940a4473f25aaaef7bf51ca9265ac36601036df3d886b1c0e1a073127783  Python-3.12.8.tar.xz.sig
+6334d9f8f1b76c8dbaeed7dd87cbd6fa517b340ffd6a9ce0903be80216cc0083  Python-3.12.8.tar.xz.sigstore
+6334d9f8f1b76c8dbaeed7dd87cbd6fa517b340ffd6a9ce0903be80216cc0083  Python-3.12.8.tar.xz.sigstore
+c9e0fd66ee292610ed93d96d48fe065fcdc7428c8bd24c968827146cc9c4d76a  Python-3.12.8.tar.xz.spdx.json
+5978435c479a376648cb02854df3b892ace9ed7d32b1fead652712bee9d03a45  Python-3.12.8.tgz
+009008d91ede3509ade8982be8a5d17b71ec4a70a500ffd2d54536a848b881fb  Python-3.12.8.tgz.asc
+4a9deb09ed6555f80bc79ed3465fd4ed1d7eac51344898b8d8f87cf9bc77c189  Python-3.12.8.tgz.crt
+1c713d75f7cf9e0c509e38e6b09e7eab6477d37f50dfec1812192cad9eebe583  Python-3.12.8.tgz.sig
+739502a79bafaf620eb2c016ca124f4453fc3f7cb5ac091fdc9bde771642684b  Python-3.12.8.tgz.sigstore
+5d3b3fa6c9e4d2328bc3d2688f99ef5961b6da175e542b6ac168d4c0c1013b64  Python-3.12.8.tgz.spdx.json
+009008d91ede3509ade8982be8a5d17b71ec4a70a500ffd2d54536a848b881fb  Python-3.12.8.tgz.asc
+4a9deb09ed6555f80bc79ed3465fd4ed1d7eac51344898b8d8f87cf9bc77c189  Python-3.12.8.tgz.crt
+1c713d75f7cf9e0c509e38e6b09e7eab6477d37f50dfec1812192cad9eebe583  Python-3.12.8.tgz.sig
+739502a79bafaf620eb2c016ca124f4453fc3f7cb5ac091fdc9bde771642684b  Python-3.12.8.tgz.sigstore
+739502a79bafaf620eb2c016ca124f4453fc3f7cb5ac091fdc9bde771642684b  Python-3.12.8.tgz.sigstore
+5d3b3fa6c9e4d2328bc3d2688f99ef5961b6da175e542b6ac168d4c0c1013b64  Python-3.12.8.tgz.spdx.json
+2a52993092a19cfdffe126e2eeac46a4265e25705614546604ad44988e040c0f  python-3.12.9-amd64.exe
+d0142f0463aee213d573bebad28e794f35a824f0326bd32e2b09352e544471a4  python-3.12.9-amd64.exe.asc
+fa91769a5af94f344401cb976c6d5d84138a4bb52f127386c150496428df7c5d  python-3.12.9-amd64.exe.crt
+1a2e054a0f5cb70fd484f51dfc36cca2f17b368c38ab9fd39e6c81cd9faa683d  python-3.12.9-amd64.exe.sig
+09d615ac5012614dbe996e3588721fa59596ac56de255c32c5a90a88b3c41de4  python-3.12.9-amd64.exe.sigstore
+7ad157ef82ed0969f4194db0570ae21dc1a73f4d9a0c7cc90a1dbe05424e11f4  python-3.12.9-amd64.exe.spdx.json
+d0142f0463aee213d573bebad28e794f35a824f0326bd32e2b09352e544471a4  python-3.12.9-amd64.exe.asc
+fa91769a5af94f344401cb976c6d5d84138a4bb52f127386c150496428df7c5d  python-3.12.9-amd64.exe.crt
+1a2e054a0f5cb70fd484f51dfc36cca2f17b368c38ab9fd39e6c81cd9faa683d  python-3.12.9-amd64.exe.sig
+09d615ac5012614dbe996e3588721fa59596ac56de255c32c5a90a88b3c41de4  python-3.12.9-amd64.exe.sigstore
+09d615ac5012614dbe996e3588721fa59596ac56de255c32c5a90a88b3c41de4  python-3.12.9-amd64.exe.sigstore
+7ad157ef82ed0969f4194db0570ae21dc1a73f4d9a0c7cc90a1dbe05424e11f4  python-3.12.9-amd64.exe.spdx.json
+98a39a6574de37c1d142901c5b923b41081648407f4645ea54098cbacbdbbed3  python-3.12.9-amd64.zip
+736979f9634098c156ac139e0ce5cacf3be92715870f592270a4e4fa1c8da662  python-3.12.9-arm64.exe
+e2c7c1ec3857e1d1d1aaec3744dcba6ff5bc993f7ea1d0aafbb481402fc12bdb  python-3.12.9-arm64.exe.asc
+a9c4c69f5dcc86f27d2c18a4a4a3cfbf4ddd93ad494604b3b1e60c46b204ef2d  python-3.12.9-arm64.exe.crt
+6b53ceea5278b1413539064fb7becec1a7833a34693ebf8c6db79b18de8d1562  python-3.12.9-arm64.exe.sig
+86f7a9733b9856f1eadd798b4aacc183dd028f86df0b15a01034a20d4b4c5cc6  python-3.12.9-arm64.exe.sigstore
+3addc34005a3b396a1b0affe19dec175f6964f0963b9eba396a38d7fb07409db  python-3.12.9-arm64.exe.spdx.json
+e2c7c1ec3857e1d1d1aaec3744dcba6ff5bc993f7ea1d0aafbb481402fc12bdb  python-3.12.9-arm64.exe.asc
+a9c4c69f5dcc86f27d2c18a4a4a3cfbf4ddd93ad494604b3b1e60c46b204ef2d  python-3.12.9-arm64.exe.crt
+6b53ceea5278b1413539064fb7becec1a7833a34693ebf8c6db79b18de8d1562  python-3.12.9-arm64.exe.sig
+86f7a9733b9856f1eadd798b4aacc183dd028f86df0b15a01034a20d4b4c5cc6  python-3.12.9-arm64.exe.sigstore
+86f7a9733b9856f1eadd798b4aacc183dd028f86df0b15a01034a20d4b4c5cc6  python-3.12.9-arm64.exe.sigstore
+3addc34005a3b396a1b0affe19dec175f6964f0963b9eba396a38d7fb07409db  python-3.12.9-arm64.exe.spdx.json
+32cd42a4efb511b5f6471061dd5edb59d777a8ef88fbf809d05ba190816cd176  python-3.12.9-arm64.zip
+615861fb801e8b04c847598db4e1e46e4b046295017caa37cb5486dde72b5865  python-3.12.9-embed-amd64.zip
+7972f166da09ea53d93dfaa3e640a473a3ae446520f48ddc562e294383bc77c3  python-3.12.9-embed-amd64.zip.asc
+56101396fc601ac424b24e2ee0c30c8a4a01218a99ba0cebf37ccbe8081be694  python-3.12.9-embed-amd64.zip.crt
+2fec2a4d34c4674d753eee1763fd5fef23b0e6f1c5e173f0458b84e5af79d4a4  python-3.12.9-embed-amd64.zip.sig
+39fc6714bae91f5e9ad1cec3cd145398da0ab81df31581c2ec0e18b8b2970e66  python-3.12.9-embed-amd64.zip.sigstore
+0c095789faebc0b338d15ed446c06fa241ae9479156cf3a23649a81d0b9d7b53  python-3.12.9-embed-amd64.zip.spdx.json
+7972f166da09ea53d93dfaa3e640a473a3ae446520f48ddc562e294383bc77c3  python-3.12.9-embed-amd64.zip.asc
+56101396fc601ac424b24e2ee0c30c8a4a01218a99ba0cebf37ccbe8081be694  python-3.12.9-embed-amd64.zip.crt
+2fec2a4d34c4674d753eee1763fd5fef23b0e6f1c5e173f0458b84e5af79d4a4  python-3.12.9-embed-amd64.zip.sig
+39fc6714bae91f5e9ad1cec3cd145398da0ab81df31581c2ec0e18b8b2970e66  python-3.12.9-embed-amd64.zip.sigstore
+39fc6714bae91f5e9ad1cec3cd145398da0ab81df31581c2ec0e18b8b2970e66  python-3.12.9-embed-amd64.zip.sigstore
+0c095789faebc0b338d15ed446c06fa241ae9479156cf3a23649a81d0b9d7b53  python-3.12.9-embed-amd64.zip.spdx.json
+c7d4d2a8e7e36263f34659b1cf70e7691f0572da3e4d4e583b3334555d978877  python-3.12.9-embed-arm64.zip
+ee541d529b686e86a34ca979e2ec48ea07d572f72c59eed5fd4f23ded663ced6  python-3.12.9-embed-arm64.zip.asc
+518074f0893760adf058d5486ef10b94cbed6e8b41eaf0cadc497300bcb89e6d  python-3.12.9-embed-arm64.zip.crt
+ffa1dc70b0dbe8c89d6348d82ef043098f1de802d3a78655c46b7db7b33616d3  python-3.12.9-embed-arm64.zip.sig
+a972c735e9dfd59878dad874dfbe7a3472f2e7f020bcea75cffc83b993f8f78b  python-3.12.9-embed-arm64.zip.sigstore
+131165a77893cbca21815e3d83abf4d8577e4cba244dce4300bcb7aa0fed1818  python-3.12.9-embed-arm64.zip.spdx.json
+ee541d529b686e86a34ca979e2ec48ea07d572f72c59eed5fd4f23ded663ced6  python-3.12.9-embed-arm64.zip.asc
+518074f0893760adf058d5486ef10b94cbed6e8b41eaf0cadc497300bcb89e6d  python-3.12.9-embed-arm64.zip.crt
+ffa1dc70b0dbe8c89d6348d82ef043098f1de802d3a78655c46b7db7b33616d3  python-3.12.9-embed-arm64.zip.sig
+a972c735e9dfd59878dad874dfbe7a3472f2e7f020bcea75cffc83b993f8f78b  python-3.12.9-embed-arm64.zip.sigstore
+a972c735e9dfd59878dad874dfbe7a3472f2e7f020bcea75cffc83b993f8f78b  python-3.12.9-embed-arm64.zip.sigstore
+131165a77893cbca21815e3d83abf4d8577e4cba244dce4300bcb7aa0fed1818  python-3.12.9-embed-arm64.zip.spdx.json
+8013d3c70d320b739f5f2af11f12bb4cef073d14e93234caef420fb5ba36e02f  python-3.12.9-embed-win32.zip
+fa75cb54040938b324fe5380063047c0befebe01740535ba809f0785a323d1f4  python-3.12.9-embed-win32.zip.asc
+993d4e74c388cf6ff3fc77f5a82664833673c6a8d7128c3cc8d35ad850dba5c3  python-3.12.9-embed-win32.zip.crt
+f107cfa6f0813a0bd446788fbacbf3e1c6c3013186fa7a724e283521938b0b4a  python-3.12.9-embed-win32.zip.sig
+1e8a4a4fb58363a16c21d3fa66861fae585238cd650994d61712ef72ef96e17a  python-3.12.9-embed-win32.zip.sigstore
+4073028316ac96dae0db47499ad4289977c295614d00e17cf89ce74b5e331594  python-3.12.9-embed-win32.zip.spdx.json
+fa75cb54040938b324fe5380063047c0befebe01740535ba809f0785a323d1f4  python-3.12.9-embed-win32.zip.asc
+993d4e74c388cf6ff3fc77f5a82664833673c6a8d7128c3cc8d35ad850dba5c3  python-3.12.9-embed-win32.zip.crt
+f107cfa6f0813a0bd446788fbacbf3e1c6c3013186fa7a724e283521938b0b4a  python-3.12.9-embed-win32.zip.sig
+1e8a4a4fb58363a16c21d3fa66861fae585238cd650994d61712ef72ef96e17a  python-3.12.9-embed-win32.zip.sigstore
+1e8a4a4fb58363a16c21d3fa66861fae585238cd650994d61712ef72ef96e17a  python-3.12.9-embed-win32.zip.sigstore
+4073028316ac96dae0db47499ad4289977c295614d00e17cf89ce74b5e331594  python-3.12.9-embed-win32.zip.spdx.json
+c177527b425022999aa36c993887255dd67a14ae93a74e4f6366ea9e75602287  python-3.12.9-embeddable-amd64.zip
+3b625a7e58265cd5e0ff65b73d370096815a7eeeba0a5c7c6fe095cbbfeb8715  python-3.12.9-embeddable-arm64.zip
+eb1b03b0c43879572cd9790959705f7073abed27c05059a73f4253907f937537  python-3.12.9-embeddable-win32.zip
+cca03f4d7ed77e93074d64936435d56d1f329870240cdb1ef0fd8e37cdaae8a0  python-3.12.9-macos11.pkg
+1ea23c1b722182556cff0594499fb9f50c850a109234984b93db7be1c09ba21d  python-3.12.9-macos11.pkg.asc
+180a78a44f267ce2a0f2084e42f5bd41af438c27f64c4bf9330dcb0628fb4145  python-3.12.9-macos11.pkg.crt
+760300ec31071d3cd0b3edfb59f4978d1a95ead4937396a8f0ea96e68fbe9360  python-3.12.9-macos11.pkg.sig
+9c96ebd845aad95427e5301d05806455c31b0e7590482a22f75bd980042e6aab  python-3.12.9-macos11.pkg.sigstore
+1ea23c1b722182556cff0594499fb9f50c850a109234984b93db7be1c09ba21d  python-3.12.9-macos11.pkg.asc
+180a78a44f267ce2a0f2084e42f5bd41af438c27f64c4bf9330dcb0628fb4145  python-3.12.9-macos11.pkg.crt
+760300ec31071d3cd0b3edfb59f4978d1a95ead4937396a8f0ea96e68fbe9360  python-3.12.9-macos11.pkg.sig
+9c96ebd845aad95427e5301d05806455c31b0e7590482a22f75bd980042e6aab  python-3.12.9-macos11.pkg.sigstore
+9c96ebd845aad95427e5301d05806455c31b0e7590482a22f75bd980042e6aab  python-3.12.9-macos11.pkg.sigstore
+e40d893607c69b089d4c0efebb5364ac05e6c06c8ddc8c24ffec4a5e933098d7  python-3.12.9-test-amd64.zip
+e8e254dc90e42c2cdbadabe0fff3e2cd80d9dd651a4aadda7c02c9966fea68af  python-3.12.9-test-arm64.zip
+fc43a14fe6cc2b611124060a4dd8193b21165789bcce5d5bee28380ae8704473  python-3.12.9-test-win32.zip
+8ac73abdfd08d3c28036cade57b10a32e3679370ab9f6791b7a8306dedfa0d75  python-3.12.9-win32.zip
+f6e3147a835fce22033f845b417d5f9e6335714c733c7850612b3d61b17019de  python-3.12.9.exe
+818d7f422ae4e51f471e433d4fa892f7a7722749a6befd06f7261ad949bee46d  python-3.12.9.exe.asc
+20765caaeaf766ce1ba7a7052de297a2eaa22c268d1bdfc97a612babea85e7de  python-3.12.9.exe.crt
+8549f6a73d087333b9c552fc42304ba69a03c373524ac335cde8a2c719564330  python-3.12.9.exe.sig
+c61d966359a269afbc6873ec6d9c5ecd7dfb4c02c6b43a9ceabd1654770021e8  python-3.12.9.exe.sigstore
+06ad44de518f70d7feeadcd34408b270e631d1be6bcf09e6acb2025436bcd3cf  python-3.12.9.exe.spdx.json
+818d7f422ae4e51f471e433d4fa892f7a7722749a6befd06f7261ad949bee46d  python-3.12.9.exe.asc
+20765caaeaf766ce1ba7a7052de297a2eaa22c268d1bdfc97a612babea85e7de  python-3.12.9.exe.crt
+8549f6a73d087333b9c552fc42304ba69a03c373524ac335cde8a2c719564330  python-3.12.9.exe.sig
+c61d966359a269afbc6873ec6d9c5ecd7dfb4c02c6b43a9ceabd1654770021e8  python-3.12.9.exe.sigstore
+c61d966359a269afbc6873ec6d9c5ecd7dfb4c02c6b43a9ceabd1654770021e8  python-3.12.9.exe.sigstore
+06ad44de518f70d7feeadcd34408b270e631d1be6bcf09e6acb2025436bcd3cf  python-3.12.9.exe.spdx.json
+7220835d9f90b37c006e9842a8dff4580aaca4318674f947302b8d28f3f81112  Python-3.12.9.tar.xz
+5ec436571ef013ef774145f4dff424109c13fc0bfe45542e6ae0871e369ed7d9  Python-3.12.9.tar.xz.asc
+c9ce71eaff6abb11b08d56ffb942fcf4b7547b086715b09ecee2b7c9776dd07e  Python-3.12.9.tar.xz.crt
+4af18c86b27cd67b076d1c7e88b089a5ed8e2889c2714289d6e886bf655811b0  Python-3.12.9.tar.xz.sig
+cd82bc5f40ede76589fde7d9dbb327af6e6ffc4db08c7464ec5a6eab13da77c6  Python-3.12.9.tar.xz.sigstore
+b798dc327cb5f82e278f75567b827e1bca029755cf7d3c6e46576c58c5223c39  Python-3.12.9.tar.xz.spdx.json
+5ec436571ef013ef774145f4dff424109c13fc0bfe45542e6ae0871e369ed7d9  Python-3.12.9.tar.xz.asc
+c9ce71eaff6abb11b08d56ffb942fcf4b7547b086715b09ecee2b7c9776dd07e  Python-3.12.9.tar.xz.crt
+4af18c86b27cd67b076d1c7e88b089a5ed8e2889c2714289d6e886bf655811b0  Python-3.12.9.tar.xz.sig
+cd82bc5f40ede76589fde7d9dbb327af6e6ffc4db08c7464ec5a6eab13da77c6  Python-3.12.9.tar.xz.sigstore
+cd82bc5f40ede76589fde7d9dbb327af6e6ffc4db08c7464ec5a6eab13da77c6  Python-3.12.9.tar.xz.sigstore
+b798dc327cb5f82e278f75567b827e1bca029755cf7d3c6e46576c58c5223c39  Python-3.12.9.tar.xz.spdx.json
+45313e4c5f0e8acdec9580161d565cf5fea578e3eabf25df7cc6355bf4afa1ee  Python-3.12.9.tgz
+e6325f024f852dd879db3ed8bfc333b86f09685a917b255b4cedc4ae6c5b04aa  Python-3.12.9.tgz.asc
+6d00c0207a90b8b7c34f8f616fef8c8c90efe7a21ec49a907bbbfde0c7ef61ad  Python-3.12.9.tgz.crt
+676793954ec056e5b51710be9da61ec21d0d9ffffae59836c03d16c9cb179ccc  Python-3.12.9.tgz.sig
+792c930c10b7711f77e7250a85fe61b142fbe7e1aa6f5881423389febcd04e7f  Python-3.12.9.tgz.sigstore
+77f855039d84df1f01c5848330e288fa4feffa1b582d220d655cfab0a181113e  Python-3.12.9.tgz.spdx.json
+e6325f024f852dd879db3ed8bfc333b86f09685a917b255b4cedc4ae6c5b04aa  Python-3.12.9.tgz.asc
+6d00c0207a90b8b7c34f8f616fef8c8c90efe7a21ec49a907bbbfde0c7ef61ad  Python-3.12.9.tgz.crt
+676793954ec056e5b51710be9da61ec21d0d9ffffae59836c03d16c9cb179ccc  Python-3.12.9.tgz.sig
+792c930c10b7711f77e7250a85fe61b142fbe7e1aa6f5881423389febcd04e7f  Python-3.12.9.tgz.sigstore
+792c930c10b7711f77e7250a85fe61b142fbe7e1aa6f5881423389febcd04e7f  Python-3.12.9.tgz.sigstore
+77f855039d84df1f01c5848330e288fa4feffa1b582d220d655cfab0a181113e  Python-3.12.9.tgz.spdx.json
+67b5635e80ea51072b87941312d00ec8927c4db9ba18938f7ad2d27b328b95fb  python-3.12.10-amd64.exe
+04221a7fcb84ac761178786d38c4eaa03983cb790e076e545be6fa099f93b828  python-3.12.10-amd64.exe.asc
+3820fe5642762d5ccab27f7cb3d731f4c86b6c106cb043996571ccb7c53b405d  python-3.12.10-amd64.exe.crt
+5e8715d9dab775c23c363b313d5e7003324aa43253b54e6c742462993ba29961  python-3.12.10-amd64.exe.sig
+7afb12068e14450b609d752df3bfdebf3ccfe14d476fa6b951e8fdb77fc9f29d  python-3.12.10-amd64.exe.sigstore
+1905207f988375b65dccbe3a1aafb22cc96b03f7826a4867c1b34006c214e571  python-3.12.10-amd64.exe.spdx.json
+04221a7fcb84ac761178786d38c4eaa03983cb790e076e545be6fa099f93b828  python-3.12.10-amd64.exe.asc
+3820fe5642762d5ccab27f7cb3d731f4c86b6c106cb043996571ccb7c53b405d  python-3.12.10-amd64.exe.crt
+5e8715d9dab775c23c363b313d5e7003324aa43253b54e6c742462993ba29961  python-3.12.10-amd64.exe.sig
+7afb12068e14450b609d752df3bfdebf3ccfe14d476fa6b951e8fdb77fc9f29d  python-3.12.10-amd64.exe.sigstore
+7afb12068e14450b609d752df3bfdebf3ccfe14d476fa6b951e8fdb77fc9f29d  python-3.12.10-amd64.exe.sigstore
+1905207f988375b65dccbe3a1aafb22cc96b03f7826a4867c1b34006c214e571  python-3.12.10-amd64.exe.spdx.json
+8649692de846c56a7189d6dae5c322ab20deb1b5908b6f39426b62a36f39415d  python-3.12.10-amd64.zip
+377ac8fd478987940088e879441e702a71b53164d2a1e6f1d51ff77a7e470258  python-3.12.10-arm64.exe
+802d8af442c13c61782ac3543432796091c0b517619e301b2a78e00b7855a6d2  python-3.12.10-arm64.exe.asc
+0ae4d9da68303807fc067046fc421421806a57996094a6df5c64451a3c86909b  python-3.12.10-arm64.exe.crt
+1b6f8919f00c77bec7dcaed0aa7f900bd1be7b83250decc0d65d3dc48caa7e60  python-3.12.10-arm64.exe.sig
+e9818e9e409555f03e14f028a741e8f992f906f076b558f7fe929489b1f4d85d  python-3.12.10-arm64.exe.sigstore
+09e90644e15ff7f4f337b8548a90b1e38060115f4ea7bdca330ad78a71e8fc33  python-3.12.10-arm64.exe.spdx.json
+802d8af442c13c61782ac3543432796091c0b517619e301b2a78e00b7855a6d2  python-3.12.10-arm64.exe.asc
+0ae4d9da68303807fc067046fc421421806a57996094a6df5c64451a3c86909b  python-3.12.10-arm64.exe.crt
+1b6f8919f00c77bec7dcaed0aa7f900bd1be7b83250decc0d65d3dc48caa7e60  python-3.12.10-arm64.exe.sig
+e9818e9e409555f03e14f028a741e8f992f906f076b558f7fe929489b1f4d85d  python-3.12.10-arm64.exe.sigstore
+e9818e9e409555f03e14f028a741e8f992f906f076b558f7fe929489b1f4d85d  python-3.12.10-arm64.exe.sigstore
+09e90644e15ff7f4f337b8548a90b1e38060115f4ea7bdca330ad78a71e8fc33  python-3.12.10-arm64.exe.spdx.json
+20a5b1a707d899ffdfc5e3086d7372f7cc95eeea344d48ae256047cb7075cf63  python-3.12.10-arm64.zip
+4acbed6dd1c744b0376e3b1cf57ce906f9dc9e95e68824584c8099a63025a3c3  python-3.12.10-embed-amd64.zip
+4d974950e3e53e5436c8dfd7d2adf4e5449fc618bc6b8a245cb0399429612f63  python-3.12.10-embed-amd64.zip.asc
+6106e098d0f1270d17851e587840a97e39fcc5be6770c5737f6ab25e016992a5  python-3.12.10-embed-amd64.zip.crt
+7bab871208895dcc8d224f28ebef738b950fb913978996d93dff2b8fd3968f97  python-3.12.10-embed-amd64.zip.sig
+8aa5b4e555fd8b73b3dfef2f04328739f52d30706655930dcdf6111603d015be  python-3.12.10-embed-amd64.zip.sigstore
+efa53ba4f26e8a06410677ec6d010e97133a7a1ab38e0485f6936da2911879fa  python-3.12.10-embed-amd64.zip.spdx.json
+4d974950e3e53e5436c8dfd7d2adf4e5449fc618bc6b8a245cb0399429612f63  python-3.12.10-embed-amd64.zip.asc
+6106e098d0f1270d17851e587840a97e39fcc5be6770c5737f6ab25e016992a5  python-3.12.10-embed-amd64.zip.crt
+7bab871208895dcc8d224f28ebef738b950fb913978996d93dff2b8fd3968f97  python-3.12.10-embed-amd64.zip.sig
+8aa5b4e555fd8b73b3dfef2f04328739f52d30706655930dcdf6111603d015be  python-3.12.10-embed-amd64.zip.sigstore
+8aa5b4e555fd8b73b3dfef2f04328739f52d30706655930dcdf6111603d015be  python-3.12.10-embed-amd64.zip.sigstore
+efa53ba4f26e8a06410677ec6d010e97133a7a1ab38e0485f6936da2911879fa  python-3.12.10-embed-amd64.zip.spdx.json
+3065efc3d382d1cda66757ac71ade11904fa6e350f5a97eb74811acd71ba5532  python-3.12.10-embed-arm64.zip
+859ce09a0ae0f7336ac8ac575ba44da94df8ccee7eb5892d05bd663ffcd3264d  python-3.12.10-embed-arm64.zip.asc
+fd3fbb46b7f2158c4395ce3c12b993780ad4eef098e4666e8d4bbe7f20f2ee64  python-3.12.10-embed-arm64.zip.crt
+94e7aee9e53e953bbe3a6483f4b081dad814dd6317bfc5477ed11d074caf14f5  python-3.12.10-embed-arm64.zip.sig
+00c798bc7581bd44ac4f57301ccfe53c59e80d9e57a3145b9c9222561fe412e7  python-3.12.10-embed-arm64.zip.sigstore
+917630b195e86145e03ced7417931005bf02a8197957b4cf76f6e6514722a43f  python-3.12.10-embed-arm64.zip.spdx.json
+859ce09a0ae0f7336ac8ac575ba44da94df8ccee7eb5892d05bd663ffcd3264d  python-3.12.10-embed-arm64.zip.asc
+fd3fbb46b7f2158c4395ce3c12b993780ad4eef098e4666e8d4bbe7f20f2ee64  python-3.12.10-embed-arm64.zip.crt
+94e7aee9e53e953bbe3a6483f4b081dad814dd6317bfc5477ed11d074caf14f5  python-3.12.10-embed-arm64.zip.sig
+00c798bc7581bd44ac4f57301ccfe53c59e80d9e57a3145b9c9222561fe412e7  python-3.12.10-embed-arm64.zip.sigstore
+00c798bc7581bd44ac4f57301ccfe53c59e80d9e57a3145b9c9222561fe412e7  python-3.12.10-embed-arm64.zip.sigstore
+917630b195e86145e03ced7417931005bf02a8197957b4cf76f6e6514722a43f  python-3.12.10-embed-arm64.zip.spdx.json
+084b9eb24cb848605c895d05b738fbc2572efc8b4c18c415a824065864a2b853  python-3.12.10-embed-win32.zip
+07643707bf3ba902ebdcabcd54f1de2933b358511f7079068ed6e514fbdfe152  python-3.12.10-embed-win32.zip.asc
+b6f2bce9b7e6b70d6441d37906dedb4b702b46f467e10b11f3bab15bb9d3f8f6  python-3.12.10-embed-win32.zip.crt
+f422b27d9350f9b82583a61d00252cd39836f03307f0ea37ce2cc4c3b8283bd1  python-3.12.10-embed-win32.zip.sig
+a6ac7e0df5535e45d9884c77c812a768d1518dafe3a313735f1d750550946589  python-3.12.10-embed-win32.zip.sigstore
+d544174b7d4445510d74b29951bc23ad019849403b8eaa385f203e8253c26108  python-3.12.10-embed-win32.zip.spdx.json
+07643707bf3ba902ebdcabcd54f1de2933b358511f7079068ed6e514fbdfe152  python-3.12.10-embed-win32.zip.asc
+b6f2bce9b7e6b70d6441d37906dedb4b702b46f467e10b11f3bab15bb9d3f8f6  python-3.12.10-embed-win32.zip.crt
+f422b27d9350f9b82583a61d00252cd39836f03307f0ea37ce2cc4c3b8283bd1  python-3.12.10-embed-win32.zip.sig
+a6ac7e0df5535e45d9884c77c812a768d1518dafe3a313735f1d750550946589  python-3.12.10-embed-win32.zip.sigstore
+a6ac7e0df5535e45d9884c77c812a768d1518dafe3a313735f1d750550946589  python-3.12.10-embed-win32.zip.sigstore
+d544174b7d4445510d74b29951bc23ad019849403b8eaa385f203e8253c26108  python-3.12.10-embed-win32.zip.spdx.json
+156c7eea90d58cd7e91a23f28a0056616b13e9f4cf4901b7b99b837b7848c6da  python-3.12.10-embeddable-amd64.zip
+be74794984f650e6d2251fb9315d92295f7545cf23529169544457a4076102f6  python-3.12.10-embeddable-arm64.zip
+ecd6d9783faa928b3d84a341ce70cb92c32aa75e8cf5b82d70a9e34728f65f56  python-3.12.10-embeddable-win32.zip
+8373e58da4ea146b3eb1c1f9834f19a319440b6b679b06050b1f9ee3237aa8e4  python-3.12.10-macos11.pkg
+3e989a9055194a59b80e776b0bc48a199840077f4053a72acf264bb8215a63dc  python-3.12.10-macos11.pkg.asc
+07cbbf5fe17d3fd7dc2e287d8ccef82842b5679a78ce498981fec97d058b5260  python-3.12.10-macos11.pkg.crt
+b2fbba3a2ace24d8376cd6e0a6a47ff37ea04a0e5b2ac7d27efead7701877e34  python-3.12.10-macos11.pkg.sig
+1559d937e0e2adab83f0c22d7b649034c67c5f4cc227a1e6273f42d4dc149c22  python-3.12.10-macos11.pkg.sigstore
+3e989a9055194a59b80e776b0bc48a199840077f4053a72acf264bb8215a63dc  python-3.12.10-macos11.pkg.asc
+07cbbf5fe17d3fd7dc2e287d8ccef82842b5679a78ce498981fec97d058b5260  python-3.12.10-macos11.pkg.crt
+b2fbba3a2ace24d8376cd6e0a6a47ff37ea04a0e5b2ac7d27efead7701877e34  python-3.12.10-macos11.pkg.sig
+1559d937e0e2adab83f0c22d7b649034c67c5f4cc227a1e6273f42d4dc149c22  python-3.12.10-macos11.pkg.sigstore
+1559d937e0e2adab83f0c22d7b649034c67c5f4cc227a1e6273f42d4dc149c22  python-3.12.10-macos11.pkg.sigstore
+0fc6383237e7788d101c86bfca865c88b16c864e181fc561a55c0d2bb3139f0e  python-3.12.10-test-amd64.zip
+1ceea477c31ad23002b619f7fcb3300a133becf40d485b555cb7ce3656e70c15  python-3.12.10-test-arm64.zip
+1e9b943d235290b807a4541937be258e39fcec4dc52e571c87e7942b42e4f155  python-3.12.10-test-win32.zip
+b665393cbead6570e9445d9178e30160581149de2b09f29c8230a28718324801  python-3.12.10-win32.zip
+fdfe385b94f5b8785a0226a886979527fd26eb65defdbf29992fd22cc4b0e31e  python-3.12.10.exe
+cb2d5a9cfb4ccca250f4aae2e1c13ef553e0680dd4b9a2b3dc9e8d60381e7010  python-3.12.10.exe.asc
+bc1cb79b0c148d0322bc4aa301f5d40ec12314befa716330462c4817b0a32d66  python-3.12.10.exe.crt
+6645c6ea5869f74f2d84db85b0f3a667de8e8a3d11416f8d9bab5e3c3e8b173f  python-3.12.10.exe.sig
+d7512aa9965908463972d4a4fd14bde2a948c7da8acedc000176d21c151226b1  python-3.12.10.exe.sigstore
+3f0cd56805aa8b3f40480b78bcc5800fb84c88d36e76b75a2dcfd3b5f841585b  python-3.12.10.exe.spdx.json
+cb2d5a9cfb4ccca250f4aae2e1c13ef553e0680dd4b9a2b3dc9e8d60381e7010  python-3.12.10.exe.asc
+bc1cb79b0c148d0322bc4aa301f5d40ec12314befa716330462c4817b0a32d66  python-3.12.10.exe.crt
+6645c6ea5869f74f2d84db85b0f3a667de8e8a3d11416f8d9bab5e3c3e8b173f  python-3.12.10.exe.sig
+d7512aa9965908463972d4a4fd14bde2a948c7da8acedc000176d21c151226b1  python-3.12.10.exe.sigstore
+d7512aa9965908463972d4a4fd14bde2a948c7da8acedc000176d21c151226b1  python-3.12.10.exe.sigstore
+3f0cd56805aa8b3f40480b78bcc5800fb84c88d36e76b75a2dcfd3b5f841585b  python-3.12.10.exe.spdx.json
+07ab697474595e06f06647417d3c7fa97ded07afc1a7e4454c5639919b46eaea  Python-3.12.10.tar.xz
+2b43538580092e0f3e9b282ccc46773783bc315cc5c4cb7297bf2365fe42d1f3  Python-3.12.10.tar.xz.asc
+9efe95f9f87a1a2e87cdc4193098b8474a3a6013a3fb4c47aba8a8c7b95a637e  Python-3.12.10.tar.xz.crt
+620861ed0976fa002f4fae09aaf129938c6fc322761300d7200c0639afc21feb  Python-3.12.10.tar.xz.sig
+8844be554fff683017ad0a9daffefdc1e7d4f67b13751d4004b84ed0398b096c  Python-3.12.10.tar.xz.sigstore
+b961b4ce95e5c3c6cc5be01b18d3b04d53b28508ee5ff5eac81d3124b472766f  Python-3.12.10.tar.xz.spdx.json
+2b43538580092e0f3e9b282ccc46773783bc315cc5c4cb7297bf2365fe42d1f3  Python-3.12.10.tar.xz.asc
+9efe95f9f87a1a2e87cdc4193098b8474a3a6013a3fb4c47aba8a8c7b95a637e  Python-3.12.10.tar.xz.crt
+620861ed0976fa002f4fae09aaf129938c6fc322761300d7200c0639afc21feb  Python-3.12.10.tar.xz.sig
+8844be554fff683017ad0a9daffefdc1e7d4f67b13751d4004b84ed0398b096c  Python-3.12.10.tar.xz.sigstore
+8844be554fff683017ad0a9daffefdc1e7d4f67b13751d4004b84ed0398b096c  Python-3.12.10.tar.xz.sigstore
+b961b4ce95e5c3c6cc5be01b18d3b04d53b28508ee5ff5eac81d3124b472766f  Python-3.12.10.tar.xz.spdx.json
+15d9c623abfd2165fe816ea1fb385d6ed8cf3c664661ab357f1782e3036a6dac  Python-3.12.10.tgz
+def3aa1d5cc5d91a572201dfbb80b948b4c362f86c0149ac14d0eb7549884b88  Python-3.12.10.tgz.asc
+82af13cfe3ab70a5cc9439ecf1cd49df0ecb6af43717f17a040f48aac732ef2f  Python-3.12.10.tgz.crt
+c67ba2618da6934e3969a43b67e9ab5ddf5b104692ba25f4903b567db65825a3  Python-3.12.10.tgz.sig
+99ef4f0a299fb60b26b4e2173cb953e4fccc68c216641e0fc740ed924b8c51fa  Python-3.12.10.tgz.sigstore
+4f2a95ca28745b4addf5bb44305ec3aa9d6ff7b5d5927091154a82be3674345f  Python-3.12.10.tgz.spdx.json
+def3aa1d5cc5d91a572201dfbb80b948b4c362f86c0149ac14d0eb7549884b88  Python-3.12.10.tgz.asc
+82af13cfe3ab70a5cc9439ecf1cd49df0ecb6af43717f17a040f48aac732ef2f  Python-3.12.10.tgz.crt
+c67ba2618da6934e3969a43b67e9ab5ddf5b104692ba25f4903b567db65825a3  Python-3.12.10.tgz.sig
+99ef4f0a299fb60b26b4e2173cb953e4fccc68c216641e0fc740ed924b8c51fa  Python-3.12.10.tgz.sigstore
+99ef4f0a299fb60b26b4e2173cb953e4fccc68c216641e0fc740ed924b8c51fa  Python-3.12.10.tgz.sigstore
+4f2a95ca28745b4addf5bb44305ec3aa9d6ff7b5d5927091154a82be3674345f  Python-3.12.10.tgz.spdx.json
+c30bb24b7f1e9a19b11b55a546434f74e739bb4c271a3e3a80ff4380d49f7adb  Python-3.12.11.tar.xz
+7eeff6c4faf91d577504fccf45e00522256694ae9cbbf63b13b57422ebd1781d  Python-3.12.11.tar.xz.asc
+4af0281defc64bd410fbf82aef41c8a8a13338205a02c78e30ae88bb6985d65d  Python-3.12.11.tar.xz.crt
+f56a56d22acc515c44737fb364e10dd750cd5a719f283c002e5dbd80e8f50542  Python-3.12.11.tar.xz.sig
+a7a4caead9e0ae52ffa6fece2413653a6c6786c990b8f6e76f2289b5d54c06b1  Python-3.12.11.tar.xz.sigstore
+4adb4f4b798cbb3cef97dbb64af362f6795890d8a6bd6b7ef99cd5da6238088a  Python-3.12.11.tar.xz.spdx.json
+7eeff6c4faf91d577504fccf45e00522256694ae9cbbf63b13b57422ebd1781d  Python-3.12.11.tar.xz.asc
+4af0281defc64bd410fbf82aef41c8a8a13338205a02c78e30ae88bb6985d65d  Python-3.12.11.tar.xz.crt
+f56a56d22acc515c44737fb364e10dd750cd5a719f283c002e5dbd80e8f50542  Python-3.12.11.tar.xz.sig
+a7a4caead9e0ae52ffa6fece2413653a6c6786c990b8f6e76f2289b5d54c06b1  Python-3.12.11.tar.xz.sigstore
+a7a4caead9e0ae52ffa6fece2413653a6c6786c990b8f6e76f2289b5d54c06b1  Python-3.12.11.tar.xz.sigstore
+4adb4f4b798cbb3cef97dbb64af362f6795890d8a6bd6b7ef99cd5da6238088a  Python-3.12.11.tar.xz.spdx.json
+7b8d59af8216044d2313de8120bfc2cc00a9bd2e542f15795e1d616c51faf3d6  Python-3.12.11.tgz
+e07aae876b580df2b743e95bce9cde165cc1b22e326b55c5d6bee179efe48ffd  Python-3.12.11.tgz.asc
+e592c1ff8fcbf94f0f2171138feb4f8a1aae98799eb799bf64b88ddd0b33a2ea  Python-3.12.11.tgz.crt
+6872b060fbe056d78ce08eab9f5fd344ecdf5c765a68dbf261daeb4ec00ef05d  Python-3.12.11.tgz.sig
+a815574ad0b2b92e1ac8ed7ac0678d0201b5116dfb06a9eabd84f1b733cf4722  Python-3.12.11.tgz.sigstore
+6f640ab15c18eebf0942719cd723192489bd98cb002addbaa458e707cc42217e  Python-3.12.11.tgz.spdx.json
+e07aae876b580df2b743e95bce9cde165cc1b22e326b55c5d6bee179efe48ffd  Python-3.12.11.tgz.asc
+e592c1ff8fcbf94f0f2171138feb4f8a1aae98799eb799bf64b88ddd0b33a2ea  Python-3.12.11.tgz.crt
+6872b060fbe056d78ce08eab9f5fd344ecdf5c765a68dbf261daeb4ec00ef05d  Python-3.12.11.tgz.sig
+a815574ad0b2b92e1ac8ed7ac0678d0201b5116dfb06a9eabd84f1b733cf4722  Python-3.12.11.tgz.sigstore
+a815574ad0b2b92e1ac8ed7ac0678d0201b5116dfb06a9eabd84f1b733cf4722  Python-3.12.11.tgz.sigstore
+6f640ab15c18eebf0942719cd723192489bd98cb002addbaa458e707cc42217e  Python-3.12.11.tgz.spdx.json
+fb85a13414b028c49ba18bbd523c2d055a30b56b18b92ce454ea2c51edc656c4  Python-3.12.12.tar.xz
+87117ab77a34e73aa1203d4501df3c1ee44aaac6b923c91a6a383379f76b97f8  Python-3.12.12.tar.xz.asc
+1ae46c43955f10a400788805c83f92485d35ef6683813da0b81d67a45b4af300  Python-3.12.12.tar.xz.crt
+93ac7d199e3b910c4835e032db4002c40c3eee84e166d95bb45b13eddc82adee  Python-3.12.12.tar.xz.sig
+5306edd017eb03fdf987f6895371fdffa8fda326fa651671bfb511eb5405eb3d  Python-3.12.12.tar.xz.sigstore
+f6be216e4e9e007e970f5855b94f03a8f2224665642415e9f02512abbb2af6bd  Python-3.12.12.tar.xz.spdx.json
+87117ab77a34e73aa1203d4501df3c1ee44aaac6b923c91a6a383379f76b97f8  Python-3.12.12.tar.xz.asc
+1ae46c43955f10a400788805c83f92485d35ef6683813da0b81d67a45b4af300  Python-3.12.12.tar.xz.crt
+93ac7d199e3b910c4835e032db4002c40c3eee84e166d95bb45b13eddc82adee  Python-3.12.12.tar.xz.sig
+5306edd017eb03fdf987f6895371fdffa8fda326fa651671bfb511eb5405eb3d  Python-3.12.12.tar.xz.sigstore
+5306edd017eb03fdf987f6895371fdffa8fda326fa651671bfb511eb5405eb3d  Python-3.12.12.tar.xz.sigstore
+f6be216e4e9e007e970f5855b94f03a8f2224665642415e9f02512abbb2af6bd  Python-3.12.12.tar.xz.spdx.json
+487c908ddf4097a1b9ba859f25fe46d22ccaabfb335880faac305ac62bffb79b  Python-3.12.12.tgz
+8d81c5af6d0f7744e71b998e103680073ac40e36ceffea8e3e5c2703c8c557af  Python-3.12.12.tgz.asc
+2f4edfacdac0dc86637904de325d011ffd918c1902fc14cf6afb13dcd7e399b9  Python-3.12.12.tgz.crt
+54f9865a78d8308103965055b0196c2c35df141ba573bd14ddbb63a09be78620  Python-3.12.12.tgz.sig
+083e922f90f7159790e70bab23d11eedfc27c786a830706d0f82cd4ae33024b8  Python-3.12.12.tgz.sigstore
+f5fb55287f3241b240080fc26cd5b2aff2b6c62b77d8a944b458d0b9149843bd  Python-3.12.12.tgz.spdx.json
+8d81c5af6d0f7744e71b998e103680073ac40e36ceffea8e3e5c2703c8c557af  Python-3.12.12.tgz.asc
+2f4edfacdac0dc86637904de325d011ffd918c1902fc14cf6afb13dcd7e399b9  Python-3.12.12.tgz.crt
+54f9865a78d8308103965055b0196c2c35df141ba573bd14ddbb63a09be78620  Python-3.12.12.tgz.sig
+083e922f90f7159790e70bab23d11eedfc27c786a830706d0f82cd4ae33024b8  Python-3.12.12.tgz.sigstore
+083e922f90f7159790e70bab23d11eedfc27c786a830706d0f82cd4ae33024b8  Python-3.12.12.tgz.sigstore
+f5fb55287f3241b240080fc26cd5b2aff2b6c62b77d8a944b458d0b9149843bd  Python-3.12.12.tgz.spdx.json
+78156ad0cf0ec4123bfb5333b40f078596ebf15f2d062a10144863680afbdefc  python-3.13.0-amd64.exe
+43eea77989c0458f22b419f444b336f59b555f015ba142df04f252ee2400bc62  python-3.13.0-amd64.exe.asc
+150c88c59b407af8c1c656cc96da5ab545e8d1af252eba129594ee96c0dbc4a1  python-3.13.0-amd64.exe.crt
+ab839e1d88beb157db13176e733f734b8142331cfff2532c2cfa009dd19cf77c  python-3.13.0-amd64.exe.sig
+13c08963683b048dc574418e0c1df136ce584c96105a571f0c68ccc61f4a1b74  python-3.13.0-amd64.exe.sigstore
+101989bd1a8deb321e0c4bff0b244c8b1eb3a37d6c235203f05975c805809fab  python-3.13.0-amd64.exe.spdx.json
+43eea77989c0458f22b419f444b336f59b555f015ba142df04f252ee2400bc62  python-3.13.0-amd64.exe.asc
+150c88c59b407af8c1c656cc96da5ab545e8d1af252eba129594ee96c0dbc4a1  python-3.13.0-amd64.exe.crt
+ab839e1d88beb157db13176e733f734b8142331cfff2532c2cfa009dd19cf77c  python-3.13.0-amd64.exe.sig
+13c08963683b048dc574418e0c1df136ce584c96105a571f0c68ccc61f4a1b74  python-3.13.0-amd64.exe.sigstore
+13c08963683b048dc574418e0c1df136ce584c96105a571f0c68ccc61f4a1b74  python-3.13.0-amd64.exe.sigstore
+101989bd1a8deb321e0c4bff0b244c8b1eb3a37d6c235203f05975c805809fab  python-3.13.0-amd64.exe.spdx.json
+8e2f217eddbadf9a33d79bf862d6173bb55146b443c2f6e24af9aeea19b4b9f8  python-3.13.0-amd64.zip
+dc5b98ebde3fad20d5b9220bfff71884942ec924f4c13a7d9c999af3075f1ad7  python-3.13.0-arm64.exe
+11cbd1a3fec7824373b6eab347dbd76a165b9055f8b049909ebd3744da1e0c80  python-3.13.0-arm64.exe.asc
+ac0c60a16434a96e691ef258d8479fc9360cbc8e4240dcd160bc3787fadea80a  python-3.13.0-arm64.exe.crt
+7d479438c08b5d75eb4090b50962b368e431cf28fba74fe77076299a8917e6a3  python-3.13.0-arm64.exe.sig
+ede380cb9507bb27f20f27c7138e4456538eba5ee389001360aef1db662ef4e1  python-3.13.0-arm64.exe.sigstore
+23a415a3163ca4ac584fd24ba49ad76fd044bfbae55ca3e5129305408273cfe1  python-3.13.0-arm64.exe.spdx.json
+11cbd1a3fec7824373b6eab347dbd76a165b9055f8b049909ebd3744da1e0c80  python-3.13.0-arm64.exe.asc
+ac0c60a16434a96e691ef258d8479fc9360cbc8e4240dcd160bc3787fadea80a  python-3.13.0-arm64.exe.crt
+7d479438c08b5d75eb4090b50962b368e431cf28fba74fe77076299a8917e6a3  python-3.13.0-arm64.exe.sig
+ede380cb9507bb27f20f27c7138e4456538eba5ee389001360aef1db662ef4e1  python-3.13.0-arm64.exe.sigstore
+ede380cb9507bb27f20f27c7138e4456538eba5ee389001360aef1db662ef4e1  python-3.13.0-arm64.exe.sigstore
+23a415a3163ca4ac584fd24ba49ad76fd044bfbae55ca3e5129305408273cfe1  python-3.13.0-arm64.exe.spdx.json
+db5da920ba0b5a151bf35cedd1a46d7a066a8d93b9651fce0067fbfa6772fea7  python-3.13.0-arm64.zip
+01c32d0737432240adcf0bbc1d32327f0976d3a1e1427774bc8febc8f1c03111  python-3.13.0-embed-amd64.zip
+48b269fd6a0149713352695ed6d709f86cb9aeba6448558e8a7518b82df717b0  python-3.13.0-embed-amd64.zip.asc
+7385deb4ac275baf7f37ea4c0196484b02e9020b9fd47a63cedafdbc73e9b636  python-3.13.0-embed-amd64.zip.crt
+309e18b5f1adf328ec54d1813b211a0d3cedf575889b31f622207c7485e7fa92  python-3.13.0-embed-amd64.zip.sig
+5bddbb4c1389ef6e63dfa5cb5a0875d6a7c5ad8f6687c8b432b1148a3d75714b  python-3.13.0-embed-amd64.zip.sigstore
+c029dcbcb9e3812e5b373fd5edad52733e52430871c5f13b98a017da685b086f  python-3.13.0-embed-amd64.zip.spdx.json
+48b269fd6a0149713352695ed6d709f86cb9aeba6448558e8a7518b82df717b0  python-3.13.0-embed-amd64.zip.asc
+7385deb4ac275baf7f37ea4c0196484b02e9020b9fd47a63cedafdbc73e9b636  python-3.13.0-embed-amd64.zip.crt
+309e18b5f1adf328ec54d1813b211a0d3cedf575889b31f622207c7485e7fa92  python-3.13.0-embed-amd64.zip.sig
+5bddbb4c1389ef6e63dfa5cb5a0875d6a7c5ad8f6687c8b432b1148a3d75714b  python-3.13.0-embed-amd64.zip.sigstore
+5bddbb4c1389ef6e63dfa5cb5a0875d6a7c5ad8f6687c8b432b1148a3d75714b  python-3.13.0-embed-amd64.zip.sigstore
+c029dcbcb9e3812e5b373fd5edad52733e52430871c5f13b98a017da685b086f  python-3.13.0-embed-amd64.zip.spdx.json
+878a2211428d0e9c95442549f476eb70341b900e1cbc16a6a983abad5d01b778  python-3.13.0-embed-arm64.zip
+ccf8694c716e9bde8eb371ce85b1962d93764115162bc0f0bccde5d36f0ccf7f  python-3.13.0-embed-arm64.zip.asc
+c544f5ffd8cafb6bffb5b82ae36d0e7c230ed04ba6a0bd0dbd072b95914012fe  python-3.13.0-embed-arm64.zip.crt
+3e9e938121efd973d3311fc1b204937ec18493ec7915c46d1e7b55d8701a25e2  python-3.13.0-embed-arm64.zip.sig
+9c071cbc227fdae8a4cbcfb05095f290f2fc740cdf13406af6c25b1809e2c703  python-3.13.0-embed-arm64.zip.sigstore
+089a7c8c3e9d4e667e5060b9ce245a56331fb27c8a552a6eb7d47e082ebeb579  python-3.13.0-embed-arm64.zip.spdx.json
+ccf8694c716e9bde8eb371ce85b1962d93764115162bc0f0bccde5d36f0ccf7f  python-3.13.0-embed-arm64.zip.asc
+c544f5ffd8cafb6bffb5b82ae36d0e7c230ed04ba6a0bd0dbd072b95914012fe  python-3.13.0-embed-arm64.zip.crt
+3e9e938121efd973d3311fc1b204937ec18493ec7915c46d1e7b55d8701a25e2  python-3.13.0-embed-arm64.zip.sig
+9c071cbc227fdae8a4cbcfb05095f290f2fc740cdf13406af6c25b1809e2c703  python-3.13.0-embed-arm64.zip.sigstore
+9c071cbc227fdae8a4cbcfb05095f290f2fc740cdf13406af6c25b1809e2c703  python-3.13.0-embed-arm64.zip.sigstore
+089a7c8c3e9d4e667e5060b9ce245a56331fb27c8a552a6eb7d47e082ebeb579  python-3.13.0-embed-arm64.zip.spdx.json
+bc57b9c6b570ff667fbd7165a4068f3f7757935808c8fa1bd94b64bacdb9d90d  python-3.13.0-embed-win32.zip
+3662f531af28e5cf258ea11f5b400277acef6054c10fba85ab63105c1176f40d  python-3.13.0-embed-win32.zip.asc
+a971031d235225989e9f5cb4e3b71609e0cfa54daed190aa5a7b97dcd439c118  python-3.13.0-embed-win32.zip.crt
+f43e74bf9b9b8bd8f7293a59daa59616f34fd0ce46b8274480121c15e9dad31f  python-3.13.0-embed-win32.zip.sig
+c2620c69852d2373b1615905bc443cdb987000c8d7bb0167974639564271f66b  python-3.13.0-embed-win32.zip.sigstore
+30e5e443f39310db6e6dcd1814ffd4258768098ca0513af48bcf3a5d7657e91f  python-3.13.0-embed-win32.zip.spdx.json
+3662f531af28e5cf258ea11f5b400277acef6054c10fba85ab63105c1176f40d  python-3.13.0-embed-win32.zip.asc
+a971031d235225989e9f5cb4e3b71609e0cfa54daed190aa5a7b97dcd439c118  python-3.13.0-embed-win32.zip.crt
+f43e74bf9b9b8bd8f7293a59daa59616f34fd0ce46b8274480121c15e9dad31f  python-3.13.0-embed-win32.zip.sig
+c2620c69852d2373b1615905bc443cdb987000c8d7bb0167974639564271f66b  python-3.13.0-embed-win32.zip.sigstore
+c2620c69852d2373b1615905bc443cdb987000c8d7bb0167974639564271f66b  python-3.13.0-embed-win32.zip.sigstore
+30e5e443f39310db6e6dcd1814ffd4258768098ca0513af48bcf3a5d7657e91f  python-3.13.0-embed-win32.zip.spdx.json
+b128ba0253f5cd0007a6bf32f0b92442367f809adf21883eb0b8ff2a8e46c8e7  python-3.13.0-embeddable-amd64.zip
+d7514f6049a7f82ba08243069da8494f6ff5ba17ba00c2119f924226824a3a00  python-3.13.0-embeddable-arm64.zip
+3c75e969763464dbd30b71d25b59eeb06513f99d8455c57ea52a7f3f73ac085e  python-3.13.0-embeddable-win32.zip
+42b168533eca350427b67a667f006b580dad721de065cc5811dfae0e00ad37ce  python-3.13.0-macos11.pkg
+ed37d72caad7b9eb4a9d5fc67558d42bd8e2bacd7064fa46ada5ad34aea2fbed  python-3.13.0-macos11.pkg.asc
+03cfb3e7734474965de1c8ffe44d8375d75fe87d5a9ec83aaf5196c852018e81  python-3.13.0-macos11.pkg.crt
+92fe7a92cdccdf989fdd4126f4655be5bafec7da5cebfee7609d2b401e97bdf2  python-3.13.0-macos11.pkg.sig
+c0beea72b0ef3a5cdd9db7e50714d1ce2d3b1b15db285c7550a25252416289ca  python-3.13.0-macos11.pkg.sigstore
+ed37d72caad7b9eb4a9d5fc67558d42bd8e2bacd7064fa46ada5ad34aea2fbed  python-3.13.0-macos11.pkg.asc
+03cfb3e7734474965de1c8ffe44d8375d75fe87d5a9ec83aaf5196c852018e81  python-3.13.0-macos11.pkg.crt
+92fe7a92cdccdf989fdd4126f4655be5bafec7da5cebfee7609d2b401e97bdf2  python-3.13.0-macos11.pkg.sig
+c0beea72b0ef3a5cdd9db7e50714d1ce2d3b1b15db285c7550a25252416289ca  python-3.13.0-macos11.pkg.sigstore
+c0beea72b0ef3a5cdd9db7e50714d1ce2d3b1b15db285c7550a25252416289ca  python-3.13.0-macos11.pkg.sigstore
+624d15dcf211253cb502e0faecbb2b8f49a2f0ff38b4a2ef8a80130e96e82617  python-3.13.0-test-amd64.zip
+8f6e576dd163419d7c7e15ac05993b8fac05cff5ed5ba84cdcb28eb009a0046b  python-3.13.0-test-arm64.zip
+62ea6c6c6c350f35dacf6e5defa4f69569e42b940ae2aece35251884a69427da  python-3.13.0-test-win32.zip
+5e4287aef554b15247fee0eba71437f783fb595a0cb40222dfc4714285589df8  python-3.13.0-win32.zip
+a9be7082ccd3d0b947d14a87bceadb1a3551382a68fcb64d245a2ebcc779b272  python-3.13.0.exe
+3501fa7516d15f333c5748ca02a4eabb33ebfb289e6275b9461058d2a2ec0441  python-3.13.0.exe.asc
+c8923e5a56b80101119dab96456b206ecb46bf3a35a83465e274dff8787afb61  python-3.13.0.exe.crt
+47ea6c2e8336394fef5f748de427e86fabe176bcb9c96a6d144f8324332fc266  python-3.13.0.exe.sig
+3a7773a5bad1e87e52ceea19e2640d6152aea23982e28d3d55949db7e9cb0230  python-3.13.0.exe.sigstore
+3bb0eb7b8a493d950cd31924b90468d216aacf144d50332481d2903056ce1d5b  python-3.13.0.exe.spdx.json
+3501fa7516d15f333c5748ca02a4eabb33ebfb289e6275b9461058d2a2ec0441  python-3.13.0.exe.asc
+c8923e5a56b80101119dab96456b206ecb46bf3a35a83465e274dff8787afb61  python-3.13.0.exe.crt
+47ea6c2e8336394fef5f748de427e86fabe176bcb9c96a6d144f8324332fc266  python-3.13.0.exe.sig
+3a7773a5bad1e87e52ceea19e2640d6152aea23982e28d3d55949db7e9cb0230  python-3.13.0.exe.sigstore
+3a7773a5bad1e87e52ceea19e2640d6152aea23982e28d3d55949db7e9cb0230  python-3.13.0.exe.sigstore
+3bb0eb7b8a493d950cd31924b90468d216aacf144d50332481d2903056ce1d5b  python-3.13.0.exe.spdx.json
+086de5882e3cb310d4dca48457522e2e48018ecd43da9cdf827f6a0759efb07d  Python-3.13.0.tar.xz
+23940696118cb1ca04567200387e7fa6b311a1c9b689a630c30698879a078abc  Python-3.13.0.tar.xz.asc
+c374ccff603f63e67f6458ec1843982bbdb59dcf8ce5d2de1d39b6ef56ef586c  Python-3.13.0.tar.xz.crt
+dd3347a70ac00f0b9113c3fc58989da16e7f879395fbc0f1e8c2979a3d8fa00c  Python-3.13.0.tar.xz.sig
+9c36aee958abb688c9d91eeee20e10240beb2085f26c559a6557615aee23bdc5  Python-3.13.0.tar.xz.sigstore
+294f8bbef59845394ca3e5b938d3a2503983214a6f86bb8a8ae94dd7cf2f1578  Python-3.13.0.tar.xz.spdx.json
+23940696118cb1ca04567200387e7fa6b311a1c9b689a630c30698879a078abc  Python-3.13.0.tar.xz.asc
+c374ccff603f63e67f6458ec1843982bbdb59dcf8ce5d2de1d39b6ef56ef586c  Python-3.13.0.tar.xz.crt
+dd3347a70ac00f0b9113c3fc58989da16e7f879395fbc0f1e8c2979a3d8fa00c  Python-3.13.0.tar.xz.sig
+9c36aee958abb688c9d91eeee20e10240beb2085f26c559a6557615aee23bdc5  Python-3.13.0.tar.xz.sigstore
+9c36aee958abb688c9d91eeee20e10240beb2085f26c559a6557615aee23bdc5  Python-3.13.0.tar.xz.sigstore
+294f8bbef59845394ca3e5b938d3a2503983214a6f86bb8a8ae94dd7cf2f1578  Python-3.13.0.tar.xz.spdx.json
+12445c7b3db3126c41190bfdc1c8239c39c719404e844babbd015a1bc3fafcd4  Python-3.13.0.tgz
+fad3e2e4ae893199be42d6fb08dcf89f27c0ca22e1e68591425788224507f6cd  Python-3.13.0.tgz.asc
+207061abfdf3fb73c87fed4e9b0c586f4c8895993d88932c544ccf47ca6ed6ed  Python-3.13.0.tgz.crt
+7a787dcb618f140291aeb41fb99eb37010d00bb6e701e565a29998577ab07a52  Python-3.13.0.tgz.sig
+141e68e736296324924718d61f7fbe08700157cd285d2dbdcade709ce645bfbe  Python-3.13.0.tgz.sigstore
+feba258898139ca77b6421e80cba8fa7edd4cf29809bb545c32aadd404142e36  Python-3.13.0.tgz.spdx.json
+fad3e2e4ae893199be42d6fb08dcf89f27c0ca22e1e68591425788224507f6cd  Python-3.13.0.tgz.asc
+207061abfdf3fb73c87fed4e9b0c586f4c8895993d88932c544ccf47ca6ed6ed  Python-3.13.0.tgz.crt
+7a787dcb618f140291aeb41fb99eb37010d00bb6e701e565a29998577ab07a52  Python-3.13.0.tgz.sig
+141e68e736296324924718d61f7fbe08700157cd285d2dbdcade709ce645bfbe  Python-3.13.0.tgz.sigstore
+141e68e736296324924718d61f7fbe08700157cd285d2dbdcade709ce645bfbe  Python-3.13.0.tgz.sigstore
+feba258898139ca77b6421e80cba8fa7edd4cf29809bb545c32aadd404142e36  Python-3.13.0.tgz.spdx.json
 ca4efe3e66dee95b188217d0160ecd2109358b52a37194c1ee47c826ba25bbef  python-3.13.0a1-amd64.exe
 2bbe98555dbf30553791f7beb39ed69e10881e9b3a4edb25e6152c28b3c447c7  python-3.13.0a1-amd64.exe.asc
 d7fd3cbdf85393bc744e12fc27644be1a0c8d936295f74235ce87514ca23326b  python-3.13.0a1-amd64.exe.crt
@@ -9071,10 +11914,4115 @@ c47b604130e5a8d12490a68b187cd7ac08acc157a5af91d0acfcb56235018d3e  Python-3.13.0r
 14bd4779d2788e227f27da602be8ef3d14acdefbc9fda414925a2df6e2eb8721  Python-3.13.0rc2.tgz.sigstore
 14bd4779d2788e227f27da602be8ef3d14acdefbc9fda414925a2df6e2eb8721  Python-3.13.0rc2.tgz.sigstore
 685a2e328e3a08102e78b73f46e2baf9f799cd430d69a924bf4b663ef319c007  Python-3.13.0rc2.tgz.spdx.json
+0c2c229f1ca4f01905c9431a06545b5d0b214dc23bfe967787e47798a85c00ec  python-3.13.0rc3-amd64.exe
+1f0e5d4c239f97e1c9a2c5d66ab88accb15052bfa8a81c332cd49931bcb2b438  python-3.13.0rc3-amd64.exe.asc
+c03536c7280a98f4c1c7c7b134e65ea8e5a31c3da76fe7b795f32bb85dc55c3b  python-3.13.0rc3-amd64.exe.crt
+33b848429daebcb33fae72f9622115321dc4ea40a7b43b047274c4a03803bb7a  python-3.13.0rc3-amd64.exe.sig
+46a838bd316be80812f7f831f9a85942cf9eaba997ed148bc0ecb492fc91b9c5  python-3.13.0rc3-amd64.exe.sigstore
+7ea6b62a917da8465aa677b8e1c6be004e9adf1c9c0ccce45cf0835e0a07f76c  python-3.13.0rc3-amd64.exe.spdx.json
+1f0e5d4c239f97e1c9a2c5d66ab88accb15052bfa8a81c332cd49931bcb2b438  python-3.13.0rc3-amd64.exe.asc
+c03536c7280a98f4c1c7c7b134e65ea8e5a31c3da76fe7b795f32bb85dc55c3b  python-3.13.0rc3-amd64.exe.crt
+33b848429daebcb33fae72f9622115321dc4ea40a7b43b047274c4a03803bb7a  python-3.13.0rc3-amd64.exe.sig
+46a838bd316be80812f7f831f9a85942cf9eaba997ed148bc0ecb492fc91b9c5  python-3.13.0rc3-amd64.exe.sigstore
+46a838bd316be80812f7f831f9a85942cf9eaba997ed148bc0ecb492fc91b9c5  python-3.13.0rc3-amd64.exe.sigstore
+7ea6b62a917da8465aa677b8e1c6be004e9adf1c9c0ccce45cf0835e0a07f76c  python-3.13.0rc3-amd64.exe.spdx.json
+a406f1bbd150a219512ca82982f5577cac0427213d41ac7940c06bcf8a3c7cd8  python-3.13.0rc3-arm64.exe
+4487f6bfa6341fa49ddf878e0cbfa1b4cbc586dbe8e64686f4c304e4b165527d  python-3.13.0rc3-arm64.exe.asc
+1b1c797082878beff74639a4f02dae3bbdb2d961adaa8988bd10d391af03c73f  python-3.13.0rc3-arm64.exe.crt
+aea0b81dd48efe76eae5cd19db20755005c0b9762f6cdedbdc545a102412ca49  python-3.13.0rc3-arm64.exe.sig
+71e5bb1f3fac3fc04652cee808a3a1cfeb777a6ebc216f38ebea5cf7391ba4df  python-3.13.0rc3-arm64.exe.sigstore
+218bff8143c38ae771a83e5faa56f57a146982e64038b8ab81ef9a80e29dd001  python-3.13.0rc3-arm64.exe.spdx.json
+4487f6bfa6341fa49ddf878e0cbfa1b4cbc586dbe8e64686f4c304e4b165527d  python-3.13.0rc3-arm64.exe.asc
+1b1c797082878beff74639a4f02dae3bbdb2d961adaa8988bd10d391af03c73f  python-3.13.0rc3-arm64.exe.crt
+aea0b81dd48efe76eae5cd19db20755005c0b9762f6cdedbdc545a102412ca49  python-3.13.0rc3-arm64.exe.sig
+71e5bb1f3fac3fc04652cee808a3a1cfeb777a6ebc216f38ebea5cf7391ba4df  python-3.13.0rc3-arm64.exe.sigstore
+71e5bb1f3fac3fc04652cee808a3a1cfeb777a6ebc216f38ebea5cf7391ba4df  python-3.13.0rc3-arm64.exe.sigstore
+218bff8143c38ae771a83e5faa56f57a146982e64038b8ab81ef9a80e29dd001  python-3.13.0rc3-arm64.exe.spdx.json
+631ad4a78adbe6874b95cea480355a558d32f8c8d86d3452e63f5deae471b2dc  python-3.13.0rc3-embed-amd64.zip
+fefdabc2f3b935f3ffe7a42279ad4c9c006754f476102160a7264be83962d850  python-3.13.0rc3-embed-amd64.zip.asc
+db4260b670250713f381f7c9df3d4e56ea1ab16917f958ec3323529f5854b763  python-3.13.0rc3-embed-amd64.zip.crt
+4bf407b8c1b208054d4d0d38822b426d24df80e98fead8fff478b02ce491662a  python-3.13.0rc3-embed-amd64.zip.sig
+3c2fca8dd8b285d0339d3ebf6b91e9bc6a4daafd0217cc45ba12e0c6f720fd54  python-3.13.0rc3-embed-amd64.zip.sigstore
+8d0f8e1759ca76b84631bb4eacfcd23b9c80dd24eb7657effb7c0b379fbb182b  python-3.13.0rc3-embed-amd64.zip.spdx.json
+fefdabc2f3b935f3ffe7a42279ad4c9c006754f476102160a7264be83962d850  python-3.13.0rc3-embed-amd64.zip.asc
+db4260b670250713f381f7c9df3d4e56ea1ab16917f958ec3323529f5854b763  python-3.13.0rc3-embed-amd64.zip.crt
+4bf407b8c1b208054d4d0d38822b426d24df80e98fead8fff478b02ce491662a  python-3.13.0rc3-embed-amd64.zip.sig
+3c2fca8dd8b285d0339d3ebf6b91e9bc6a4daafd0217cc45ba12e0c6f720fd54  python-3.13.0rc3-embed-amd64.zip.sigstore
+3c2fca8dd8b285d0339d3ebf6b91e9bc6a4daafd0217cc45ba12e0c6f720fd54  python-3.13.0rc3-embed-amd64.zip.sigstore
+8d0f8e1759ca76b84631bb4eacfcd23b9c80dd24eb7657effb7c0b379fbb182b  python-3.13.0rc3-embed-amd64.zip.spdx.json
+4ba8c0faae0cab8ffba6e7a9c7137da39c960272f5e435630b82bcac1239eb14  python-3.13.0rc3-embed-arm64.zip
+3254bf8f97105ed4b78dd2c67786bbe1b54f0c630b2c614200be715e14f5a135  python-3.13.0rc3-embed-arm64.zip.asc
+2f350f6eeecc9678272c59a134b9328a1c73198f5aa1e18987e7c6ec4f4f431e  python-3.13.0rc3-embed-arm64.zip.crt
+f5ed013f7ea5fb1ef1bcced9a5083d817cda0d1faf95613275ad54296b2412ed  python-3.13.0rc3-embed-arm64.zip.sig
+669d142ea02bc78170f3f9bd1b092853bfa8b91bbb0e3e24f9ef38a83a334ace  python-3.13.0rc3-embed-arm64.zip.sigstore
+4cea018f636729a18a195094a2746d34a200dc136291f5e79dbc685689833039  python-3.13.0rc3-embed-arm64.zip.spdx.json
+3254bf8f97105ed4b78dd2c67786bbe1b54f0c630b2c614200be715e14f5a135  python-3.13.0rc3-embed-arm64.zip.asc
+2f350f6eeecc9678272c59a134b9328a1c73198f5aa1e18987e7c6ec4f4f431e  python-3.13.0rc3-embed-arm64.zip.crt
+f5ed013f7ea5fb1ef1bcced9a5083d817cda0d1faf95613275ad54296b2412ed  python-3.13.0rc3-embed-arm64.zip.sig
+669d142ea02bc78170f3f9bd1b092853bfa8b91bbb0e3e24f9ef38a83a334ace  python-3.13.0rc3-embed-arm64.zip.sigstore
+669d142ea02bc78170f3f9bd1b092853bfa8b91bbb0e3e24f9ef38a83a334ace  python-3.13.0rc3-embed-arm64.zip.sigstore
+4cea018f636729a18a195094a2746d34a200dc136291f5e79dbc685689833039  python-3.13.0rc3-embed-arm64.zip.spdx.json
+9bd2c54d23d7ae1088e9ada680fc5c58a047f87d2504aa41e4913543c6306916  python-3.13.0rc3-embed-win32.zip
+045bee59fedf859044ff7752215e071cf12582eb4255fdf0dbdd2cdcfb7fdf00  python-3.13.0rc3-embed-win32.zip.asc
+8e12e646f6ac34deb9ee4b6685d839368a99dfa97fb874ac8c8376efbddfceca  python-3.13.0rc3-embed-win32.zip.crt
+e9e71a2ec11e0d7c533a0b0994a138c0b1728de1c827f4d5e546339b807f45a6  python-3.13.0rc3-embed-win32.zip.sig
+ef64dad41ad9876d4a0c035245c8322f28e76d5f833c6c9c5c5991fcbc7f2690  python-3.13.0rc3-embed-win32.zip.sigstore
+a1c0e4e3fd2dba965b49da338f937294f9a2ca78d71584d5dc469e80ce17df3a  python-3.13.0rc3-embed-win32.zip.spdx.json
+045bee59fedf859044ff7752215e071cf12582eb4255fdf0dbdd2cdcfb7fdf00  python-3.13.0rc3-embed-win32.zip.asc
+8e12e646f6ac34deb9ee4b6685d839368a99dfa97fb874ac8c8376efbddfceca  python-3.13.0rc3-embed-win32.zip.crt
+e9e71a2ec11e0d7c533a0b0994a138c0b1728de1c827f4d5e546339b807f45a6  python-3.13.0rc3-embed-win32.zip.sig
+ef64dad41ad9876d4a0c035245c8322f28e76d5f833c6c9c5c5991fcbc7f2690  python-3.13.0rc3-embed-win32.zip.sigstore
+ef64dad41ad9876d4a0c035245c8322f28e76d5f833c6c9c5c5991fcbc7f2690  python-3.13.0rc3-embed-win32.zip.sigstore
+a1c0e4e3fd2dba965b49da338f937294f9a2ca78d71584d5dc469e80ce17df3a  python-3.13.0rc3-embed-win32.zip.spdx.json
+24eb3692f0c4e04a502bb7a2e28c1ba378ac803928ad0edb2604d8708b2c9a1f  python-3.13.0rc3-macos11.pkg
+76a330bf3273fe81fad4b65e861c324b5ecb0268f0bdb47d2ac2b0a474ec4cb9  python-3.13.0rc3-macos11.pkg.asc
+4a87de639f5c1e5b86c37499c6a1fbeeaf8815f93ef5845f25d6d359d53b963f  python-3.13.0rc3-macos11.pkg.crt
+f78038c7286114046dd1347359bb1868eaa7093a5f23e1f59cafe944655f6332  python-3.13.0rc3-macos11.pkg.sig
+1c9ce53d5501ce863cbbb61c8b4f076f13d0b19d50ff6655c9d0aabbf6b63a16  python-3.13.0rc3-macos11.pkg.sigstore
+76a330bf3273fe81fad4b65e861c324b5ecb0268f0bdb47d2ac2b0a474ec4cb9  python-3.13.0rc3-macos11.pkg.asc
+4a87de639f5c1e5b86c37499c6a1fbeeaf8815f93ef5845f25d6d359d53b963f  python-3.13.0rc3-macos11.pkg.crt
+f78038c7286114046dd1347359bb1868eaa7093a5f23e1f59cafe944655f6332  python-3.13.0rc3-macos11.pkg.sig
+1c9ce53d5501ce863cbbb61c8b4f076f13d0b19d50ff6655c9d0aabbf6b63a16  python-3.13.0rc3-macos11.pkg.sigstore
+1c9ce53d5501ce863cbbb61c8b4f076f13d0b19d50ff6655c9d0aabbf6b63a16  python-3.13.0rc3-macos11.pkg.sigstore
+25f428cec698ae744ef03f84f8b812d7a79626ed143ed7bd5b3558f1627ab7da  python-3.13.0rc3.exe
+4255693ae3f712257602a2bedc41f8cee7db5fa676731ec87004727ab8786815  python-3.13.0rc3.exe.asc
+f8f19f1236cba4bd46fa9a37c271b523552a803ade7f38a083c53362e3238916  python-3.13.0rc3.exe.crt
+bca5aec35a2e7c8cf2c7f3f6a8b4da4cfeae090a4ecbbc22e96caa0ed1839e08  python-3.13.0rc3.exe.sig
+eed4975db9401ea02c381c85f2dd4388d91476cdb71ac397d6f8fe3027ba476f  python-3.13.0rc3.exe.sigstore
+da38cf66d4ffcc6c9ab4d96fa3060b5d716b43b92bc88fee149968ce03d627e5  python-3.13.0rc3.exe.spdx.json
+4255693ae3f712257602a2bedc41f8cee7db5fa676731ec87004727ab8786815  python-3.13.0rc3.exe.asc
+f8f19f1236cba4bd46fa9a37c271b523552a803ade7f38a083c53362e3238916  python-3.13.0rc3.exe.crt
+bca5aec35a2e7c8cf2c7f3f6a8b4da4cfeae090a4ecbbc22e96caa0ed1839e08  python-3.13.0rc3.exe.sig
+eed4975db9401ea02c381c85f2dd4388d91476cdb71ac397d6f8fe3027ba476f  python-3.13.0rc3.exe.sigstore
+eed4975db9401ea02c381c85f2dd4388d91476cdb71ac397d6f8fe3027ba476f  python-3.13.0rc3.exe.sigstore
+da38cf66d4ffcc6c9ab4d96fa3060b5d716b43b92bc88fee149968ce03d627e5  python-3.13.0rc3.exe.spdx.json
+c8bc790185af1cb77b75c01cbc1aa642dfdcf97a370d2d10090bc7baa70da57e  Python-3.13.0rc3.tar.xz
+0966d876611963e433e438588e197d26845d2d072cabf8bc6fb4b82230d10e40  Python-3.13.0rc3.tar.xz.asc
+12dcd674a3b562e36509d4462ad607882ec455bbfa3c796707e20f71407bd7d9  Python-3.13.0rc3.tar.xz.crt
+1d45c9cc3b10a1556955be753ca671c975aaa8c627e41e06c2144bda1aaef9cc  Python-3.13.0rc3.tar.xz.sig
+aed0781a470ac4e4af041ca7febb6ce8ac9a799730026cc4c271cb26cf82828b  Python-3.13.0rc3.tar.xz.sigstore
+7c2552ae35a2448c94759955be66dafcd2eb22802e089f9707a8cfcb84e09058  Python-3.13.0rc3.tar.xz.spdx.json
+0966d876611963e433e438588e197d26845d2d072cabf8bc6fb4b82230d10e40  Python-3.13.0rc3.tar.xz.asc
+12dcd674a3b562e36509d4462ad607882ec455bbfa3c796707e20f71407bd7d9  Python-3.13.0rc3.tar.xz.crt
+1d45c9cc3b10a1556955be753ca671c975aaa8c627e41e06c2144bda1aaef9cc  Python-3.13.0rc3.tar.xz.sig
+aed0781a470ac4e4af041ca7febb6ce8ac9a799730026cc4c271cb26cf82828b  Python-3.13.0rc3.tar.xz.sigstore
+aed0781a470ac4e4af041ca7febb6ce8ac9a799730026cc4c271cb26cf82828b  Python-3.13.0rc3.tar.xz.sigstore
+7c2552ae35a2448c94759955be66dafcd2eb22802e089f9707a8cfcb84e09058  Python-3.13.0rc3.tar.xz.spdx.json
+e5e8611d1bfbfda4accf8fab868712252a9c5f6aa5f13f6a5093878a9ef38412  Python-3.13.0rc3.tgz
+adf46160adbd933b4fcb4b284d018323ca24de3e5f026d939c20c975244b47cd  Python-3.13.0rc3.tgz.asc
+a4019461714bd5e2ac63115557256672692dd8a9752fd30ca8031a2cd8e7e4f8  Python-3.13.0rc3.tgz.crt
+3602ae08ae60f4e8433254627bd6245d923069d284a3f33199c5ed3b07963717  Python-3.13.0rc3.tgz.sig
+b366b72d91e57a5f84cb755dc3a952043b4d5f324de74a5572dfad9eef42f735  Python-3.13.0rc3.tgz.sigstore
+8db57de26e9c3a8a43a6ccf05e85c6371c3fe13ab47f5d7b2a2b1e4017c8fdb7  Python-3.13.0rc3.tgz.spdx.json
+adf46160adbd933b4fcb4b284d018323ca24de3e5f026d939c20c975244b47cd  Python-3.13.0rc3.tgz.asc
+a4019461714bd5e2ac63115557256672692dd8a9752fd30ca8031a2cd8e7e4f8  Python-3.13.0rc3.tgz.crt
+3602ae08ae60f4e8433254627bd6245d923069d284a3f33199c5ed3b07963717  Python-3.13.0rc3.tgz.sig
+b366b72d91e57a5f84cb755dc3a952043b4d5f324de74a5572dfad9eef42f735  Python-3.13.0rc3.tgz.sigstore
+b366b72d91e57a5f84cb755dc3a952043b4d5f324de74a5572dfad9eef42f735  Python-3.13.0rc3.tgz.sigstore
+8db57de26e9c3a8a43a6ccf05e85c6371c3fe13ab47f5d7b2a2b1e4017c8fdb7  Python-3.13.0rc3.tgz.spdx.json
+2c6878a38bb3663f531c337b3f99385c472aaaf206f534c811fd9afe03fc40a2  python-3.13.0t-amd64.zip
+3683bc47f14f9c40d2b5cf38fde7bc84aabd2f37648c9c2f99c551b16eedbd45  python-3.13.0t-arm64.zip
+3bd860764947db8fd104c355af07aa115663ea02ccc8fb57e51c8c914c2ad447  python-3.13.0t-win32.zip
+6b33fa9a439a86f553f9f60e538ccabc857d2f308bc77c477c04a46552ade81f  python-3.13.1-amd64.exe
+1c96702ea1b82c032bc8f205a047bb1aabea87469078375bd6249e46b930ba28  python-3.13.1-amd64.exe.asc
+c81f496bf5aadb4911b6bc966977dd471641fdf706ad74299b188b12c1cdac16  python-3.13.1-amd64.exe.crt
+1b92e85c31ea377d42925a43c29879bf70ce2f7aa3d634988d3528deaee89ad6  python-3.13.1-amd64.exe.sig
+162b8859f87c990cc689b3717abb48d9af580857a797039cd022359a89d9044c  python-3.13.1-amd64.exe.sigstore
+772bc6af96a8c92b6ec89b12ca1edcfa16008a66bd9b6e60249435ad676fb02a  python-3.13.1-amd64.exe.spdx.json
+1c96702ea1b82c032bc8f205a047bb1aabea87469078375bd6249e46b930ba28  python-3.13.1-amd64.exe.asc
+c81f496bf5aadb4911b6bc966977dd471641fdf706ad74299b188b12c1cdac16  python-3.13.1-amd64.exe.crt
+1b92e85c31ea377d42925a43c29879bf70ce2f7aa3d634988d3528deaee89ad6  python-3.13.1-amd64.exe.sig
+162b8859f87c990cc689b3717abb48d9af580857a797039cd022359a89d9044c  python-3.13.1-amd64.exe.sigstore
+162b8859f87c990cc689b3717abb48d9af580857a797039cd022359a89d9044c  python-3.13.1-amd64.exe.sigstore
+772bc6af96a8c92b6ec89b12ca1edcfa16008a66bd9b6e60249435ad676fb02a  python-3.13.1-amd64.exe.spdx.json
+9877d0d24f7978407bde1b50ab1023b0f5c67ff6c9816b834e5258db1a636249  python-3.13.1-amd64.zip
+ac801819a5eed2203e19a2f75ad37458eb5eeeca69bd4916dc5134160880ca92  python-3.13.1-arm64.exe
+4781aeb2759af3bc3800dfcbf3d8d47f6427e01fae49e24b9278c8e3461cb923  python-3.13.1-arm64.exe.asc
+1de52b86d280404c00091af9a3804056982f12c51a329e01033fd711bea10916  python-3.13.1-arm64.exe.crt
+250d71e38cd984b9dd753c78b2b1b5c27cc108d1b24e5e06a33a7d2098e08b46  python-3.13.1-arm64.exe.sig
+139a81ef2e9fb3dfe179b520f75a80e8f32486bbeddce9d8a2b2682425040af1  python-3.13.1-arm64.exe.sigstore
+c4a2b478224085f1f7669608e0f4de1303162570d4952cbac5f22b1d7894895f  python-3.13.1-arm64.exe.spdx.json
+4781aeb2759af3bc3800dfcbf3d8d47f6427e01fae49e24b9278c8e3461cb923  python-3.13.1-arm64.exe.asc
+1de52b86d280404c00091af9a3804056982f12c51a329e01033fd711bea10916  python-3.13.1-arm64.exe.crt
+250d71e38cd984b9dd753c78b2b1b5c27cc108d1b24e5e06a33a7d2098e08b46  python-3.13.1-arm64.exe.sig
+139a81ef2e9fb3dfe179b520f75a80e8f32486bbeddce9d8a2b2682425040af1  python-3.13.1-arm64.exe.sigstore
+139a81ef2e9fb3dfe179b520f75a80e8f32486bbeddce9d8a2b2682425040af1  python-3.13.1-arm64.exe.sigstore
+c4a2b478224085f1f7669608e0f4de1303162570d4952cbac5f22b1d7894895f  python-3.13.1-arm64.exe.spdx.json
+c7f86bd3ef6d434d9fedcaa7331db614b6ccb41c9fe42fbdbaf73d9afc3710e1  python-3.13.1-arm64.zip
+7b7923ff0183a8b8fca90f6047184b419b108cb437f75fc1c002f9d2f8bcec16  python-3.13.1-embed-amd64.zip
+2a76f66eaebf771a76aab9b93ba12c379bb94ea96648496c8fd9f3216e2dcf33  python-3.13.1-embed-amd64.zip.asc
+012df70c3e1590f1e32f4222c2c4ec90c5897202e5778856086371986d678845  python-3.13.1-embed-amd64.zip.crt
+76bdcb8dcd8cf8f4f1d2f16df7e03871cb6d7e8ec226642581fe3d2368452dfe  python-3.13.1-embed-amd64.zip.sig
+84b989743323289818e5c4ea8b03ba09c674f0edd4743d81f99fab77dfe1b8bb  python-3.13.1-embed-amd64.zip.sigstore
+5d629c2b6336fbf812d521574b03f8d8dd46bc835a79af9954601182118b07b3  python-3.13.1-embed-amd64.zip.spdx.json
+2a76f66eaebf771a76aab9b93ba12c379bb94ea96648496c8fd9f3216e2dcf33  python-3.13.1-embed-amd64.zip.asc
+012df70c3e1590f1e32f4222c2c4ec90c5897202e5778856086371986d678845  python-3.13.1-embed-amd64.zip.crt
+76bdcb8dcd8cf8f4f1d2f16df7e03871cb6d7e8ec226642581fe3d2368452dfe  python-3.13.1-embed-amd64.zip.sig
+84b989743323289818e5c4ea8b03ba09c674f0edd4743d81f99fab77dfe1b8bb  python-3.13.1-embed-amd64.zip.sigstore
+84b989743323289818e5c4ea8b03ba09c674f0edd4743d81f99fab77dfe1b8bb  python-3.13.1-embed-amd64.zip.sigstore
+5d629c2b6336fbf812d521574b03f8d8dd46bc835a79af9954601182118b07b3  python-3.13.1-embed-amd64.zip.spdx.json
+ae8561bf958f77c68cb6c44ced983e5267fe965a7e4168f41ec2291350b81d55  python-3.13.1-embed-arm64.zip
+3d00dff9acd48b4ada11c74040613fd706c7dc5fac5d1fce4e0034735d20e9c9  python-3.13.1-embed-arm64.zip.asc
+da580e31998cec1f53a1198204cc5f3e6ec0d471af46024c8feb47e7547c43c5  python-3.13.1-embed-arm64.zip.crt
+4057710bbaba3cb7ca5291cbcfdba3b23787043652e190198cf86fb76a315c03  python-3.13.1-embed-arm64.zip.sig
+e0848253554f23de7b3152850172d85d854962793333f3a670f8190211f635b8  python-3.13.1-embed-arm64.zip.sigstore
+4b42fd4ec81fd2fcd91c36ae42b22d5cb5bd2d5d085c43a69068eb5f6a00f631  python-3.13.1-embed-arm64.zip.spdx.json
+3d00dff9acd48b4ada11c74040613fd706c7dc5fac5d1fce4e0034735d20e9c9  python-3.13.1-embed-arm64.zip.asc
+da580e31998cec1f53a1198204cc5f3e6ec0d471af46024c8feb47e7547c43c5  python-3.13.1-embed-arm64.zip.crt
+4057710bbaba3cb7ca5291cbcfdba3b23787043652e190198cf86fb76a315c03  python-3.13.1-embed-arm64.zip.sig
+e0848253554f23de7b3152850172d85d854962793333f3a670f8190211f635b8  python-3.13.1-embed-arm64.zip.sigstore
+e0848253554f23de7b3152850172d85d854962793333f3a670f8190211f635b8  python-3.13.1-embed-arm64.zip.sigstore
+4b42fd4ec81fd2fcd91c36ae42b22d5cb5bd2d5d085c43a69068eb5f6a00f631  python-3.13.1-embed-arm64.zip.spdx.json
+6a90fc5a370a0ed47af233206ac04336fecc0e539b70d16c3b2e728fe5b040e3  python-3.13.1-embed-win32.zip
+ce9dcecbe5ae5c8cc16476af21f9a2c491384f0145bf39ecdeea449acc8d167d  python-3.13.1-embed-win32.zip.asc
+dd65853965940ab57d272b61a116d209a36365c6f38695bd7d13699c33b73315  python-3.13.1-embed-win32.zip.crt
+7ff5a33dfc86afc478dd100ac35a6dff02631253b16fad6c2dfe908e35963716  python-3.13.1-embed-win32.zip.sig
+4b6ba7e44334381c58dfc9134bd999e489b634b8d0e31071a5a0e19b9596b1f6  python-3.13.1-embed-win32.zip.sigstore
+62fc8710fb1be4a2b898d3beb6ca2f3172c1254fc663096345a43bc7e9b92935  python-3.13.1-embed-win32.zip.spdx.json
+ce9dcecbe5ae5c8cc16476af21f9a2c491384f0145bf39ecdeea449acc8d167d  python-3.13.1-embed-win32.zip.asc
+dd65853965940ab57d272b61a116d209a36365c6f38695bd7d13699c33b73315  python-3.13.1-embed-win32.zip.crt
+7ff5a33dfc86afc478dd100ac35a6dff02631253b16fad6c2dfe908e35963716  python-3.13.1-embed-win32.zip.sig
+4b6ba7e44334381c58dfc9134bd999e489b634b8d0e31071a5a0e19b9596b1f6  python-3.13.1-embed-win32.zip.sigstore
+4b6ba7e44334381c58dfc9134bd999e489b634b8d0e31071a5a0e19b9596b1f6  python-3.13.1-embed-win32.zip.sigstore
+62fc8710fb1be4a2b898d3beb6ca2f3172c1254fc663096345a43bc7e9b92935  python-3.13.1-embed-win32.zip.spdx.json
+0eba6f6c5144e0bfcc246cf05f67256ae7a10d1feb7bc4ce2062322180f82c13  python-3.13.1-embeddable-amd64.zip
+cbf65687285fe284de0592976df0464596c647d343f5fb920cfbe17dd8df2320  python-3.13.1-embeddable-arm64.zip
+8ab131233701e194e23eeb91eac133a0f83a3a253e04d1766c4c5ca7fcf08a41  python-3.13.1-embeddable-win32.zip
+67c6f0a3190851e0013214d5abd725a42ec398ff1b50eec47826820fd052d86b  python-3.13.1-macos11.pkg
+381b214dd2e6d7596214c0fc712b4d1b8016409dd33f46ee0803768402834473  python-3.13.1-macos11.pkg.asc
+06568f25456e1a1b19b0588030eb53c19f12b1bfdb59ae54380f7b8363151d60  python-3.13.1-macos11.pkg.crt
+b8224b5db13a6eccf566b8325e46bed13b5dd5cd434c52a56f9ca44da9a6fae7  python-3.13.1-macos11.pkg.sig
+f2973e89633416bcea872ec2aef6986e67a60da61bb3f3b8988ded8600bacfd0  python-3.13.1-macos11.pkg.sigstore
+381b214dd2e6d7596214c0fc712b4d1b8016409dd33f46ee0803768402834473  python-3.13.1-macos11.pkg.asc
+06568f25456e1a1b19b0588030eb53c19f12b1bfdb59ae54380f7b8363151d60  python-3.13.1-macos11.pkg.crt
+b8224b5db13a6eccf566b8325e46bed13b5dd5cd434c52a56f9ca44da9a6fae7  python-3.13.1-macos11.pkg.sig
+f2973e89633416bcea872ec2aef6986e67a60da61bb3f3b8988ded8600bacfd0  python-3.13.1-macos11.pkg.sigstore
+f2973e89633416bcea872ec2aef6986e67a60da61bb3f3b8988ded8600bacfd0  python-3.13.1-macos11.pkg.sigstore
+4003b2f8393531876ac344135a1b5befed9f55b9c49383635b0e8112af214651  python-3.13.1-test-amd64.zip
+412b36cfee81b87b1450081f2260c96d12bc890320760a5de3d9688b6a48ca5f  python-3.13.1-test-arm64.zip
+300f9779d46fb41a8cd71e3f459a0d2b8ea211886f5e27ddb9158fa19d11f2b3  python-3.13.1-test-win32.zip
+c9c9fd1e398b63978abf09d4c4778c196ed555a76d8d7bf236229ebed9e3c93e  python-3.13.1-win32.zip
+f9ef49fc0b41ad9dc5759992a1f455e27f13ad4037cfc1961d859773ca96e7ba  python-3.13.1.exe
+1db9ed624c2dd6189c46bdd428e81a622d7ff9eb5554ed9ef8a4f2d7e49652e9  python-3.13.1.exe.asc
+f3221008cca611baf199a4739ad741afb8e6211c1c10204cb6e92be47a0af831  python-3.13.1.exe.crt
+fe541819565620fdae08cbede19f4fe29092ea82b8dca001cfc21573c29693f3  python-3.13.1.exe.sig
+17caa927204a6d325edbeb673125a9c34a9d8c2664648512a07c75881c8ceade  python-3.13.1.exe.sigstore
+95059a3be58eed9abbe85517d82600bfd435f8ddcf1bbb4712d30e26023b388e  python-3.13.1.exe.spdx.json
+1db9ed624c2dd6189c46bdd428e81a622d7ff9eb5554ed9ef8a4f2d7e49652e9  python-3.13.1.exe.asc
+f3221008cca611baf199a4739ad741afb8e6211c1c10204cb6e92be47a0af831  python-3.13.1.exe.crt
+fe541819565620fdae08cbede19f4fe29092ea82b8dca001cfc21573c29693f3  python-3.13.1.exe.sig
+17caa927204a6d325edbeb673125a9c34a9d8c2664648512a07c75881c8ceade  python-3.13.1.exe.sigstore
+17caa927204a6d325edbeb673125a9c34a9d8c2664648512a07c75881c8ceade  python-3.13.1.exe.sigstore
+95059a3be58eed9abbe85517d82600bfd435f8ddcf1bbb4712d30e26023b388e  python-3.13.1.exe.spdx.json
+9cf9427bee9e2242e3877dd0f6b641c1853ca461f39d6503ce260a59c80bf0d9  Python-3.13.1.tar.xz
+fbffe0db378b23e9a4eb9709e2a20ced15d96e2f5dfa4ab14774366391352ceb  Python-3.13.1.tar.xz.asc
+4b6e44a4b25c76889b97d3b0b1a66633f2081b32b005f9bd41fcdadcd4c7b6e1  Python-3.13.1.tar.xz.crt
+2886ab3d800c5139d1ceafc70438fa96b546cb9fb055ccb6cf75ab91c6fe00ed  Python-3.13.1.tar.xz.sig
+13705185a62545debd720ae9a18e0b02ce74b738c776de51b2349a9d96aee2c1  Python-3.13.1.tar.xz.sigstore
+9999de21e45ff80b38885599a56ca5128003617177ef396057b45359aa4130bc  Python-3.13.1.tar.xz.spdx.json
+fbffe0db378b23e9a4eb9709e2a20ced15d96e2f5dfa4ab14774366391352ceb  Python-3.13.1.tar.xz.asc
+4b6e44a4b25c76889b97d3b0b1a66633f2081b32b005f9bd41fcdadcd4c7b6e1  Python-3.13.1.tar.xz.crt
+2886ab3d800c5139d1ceafc70438fa96b546cb9fb055ccb6cf75ab91c6fe00ed  Python-3.13.1.tar.xz.sig
+13705185a62545debd720ae9a18e0b02ce74b738c776de51b2349a9d96aee2c1  Python-3.13.1.tar.xz.sigstore
+13705185a62545debd720ae9a18e0b02ce74b738c776de51b2349a9d96aee2c1  Python-3.13.1.tar.xz.sigstore
+9999de21e45ff80b38885599a56ca5128003617177ef396057b45359aa4130bc  Python-3.13.1.tar.xz.spdx.json
+1513925a9f255ef0793dbf2f78bb4533c9f184bdd0ad19763fd7f47a400a7c55  Python-3.13.1.tgz
+6f01cc520e3d782f44933dc38f6ccaa6efaad3e5fee98b1852cf7dbb20924182  Python-3.13.1.tgz.asc
+ce537008e420f0e220038ed97ee238abcdd3c60bb06ccafd4c49f0a7e6f984b0  Python-3.13.1.tgz.crt
+0df3094bdb7450d8d3d1a631ae2eb9eab27c9c99df1d01b6cd0143f2173a515b  Python-3.13.1.tgz.sig
+d9b5bd2660e8fd84c2ca257c914f9529586409653f22710b6e9f260425027dcc  Python-3.13.1.tgz.sigstore
+52a4c0e639d4d7670166533332cc09bebe730029133d6380f68ed080f423292f  Python-3.13.1.tgz.spdx.json
+6f01cc520e3d782f44933dc38f6ccaa6efaad3e5fee98b1852cf7dbb20924182  Python-3.13.1.tgz.asc
+ce537008e420f0e220038ed97ee238abcdd3c60bb06ccafd4c49f0a7e6f984b0  Python-3.13.1.tgz.crt
+0df3094bdb7450d8d3d1a631ae2eb9eab27c9c99df1d01b6cd0143f2173a515b  Python-3.13.1.tgz.sig
+d9b5bd2660e8fd84c2ca257c914f9529586409653f22710b6e9f260425027dcc  Python-3.13.1.tgz.sigstore
+d9b5bd2660e8fd84c2ca257c914f9529586409653f22710b6e9f260425027dcc  Python-3.13.1.tgz.sigstore
+52a4c0e639d4d7670166533332cc09bebe730029133d6380f68ed080f423292f  Python-3.13.1.tgz.spdx.json
+6b293833d1180dd4b87bcbd146f6ffa3d6b7cd95f3c6ce669d5fb3a4917ddc39  python-3.13.1t-amd64.zip
+5c19e40ec30d7c13f56848e6e3939bdf3c12e17129663d93f4510b8d71bf6c92  python-3.13.1t-arm64.zip
+274f2b1f868fcd7771e0ff8b191ef75fc60747e6ad85d42ba02a7dbc98106793  python-3.13.1t-win32.zip
+9aaa1075d0bd3e8abd0623d2d05de692ff00780579e1b232f259028bac19bb51  python-3.13.2-amd64.exe
+2ebd55a5a8d76466224de1ff415c10245102be78f061ced9e48318a4fe29e3b4  python-3.13.2-amd64.exe.asc
+3819ae3a99373946caac14841ca6968d1a3faf13263747a88e1bb26863c702a9  python-3.13.2-amd64.exe.crt
+3cb18afa04b1256e4da9a956ecd79a59c4124e7489b557651b89923df1732e0d  python-3.13.2-amd64.exe.sig
+56696a361b20e4cd71425495b97b4dc45a9528b32b5837ff4e82d922db03ab44  python-3.13.2-amd64.exe.sigstore
+f380a650160e803eea3dac5ba556d1e4347f25e660f320f776dcd47e387fb9ad  python-3.13.2-amd64.exe.spdx.json
+2ebd55a5a8d76466224de1ff415c10245102be78f061ced9e48318a4fe29e3b4  python-3.13.2-amd64.exe.asc
+3819ae3a99373946caac14841ca6968d1a3faf13263747a88e1bb26863c702a9  python-3.13.2-amd64.exe.crt
+3cb18afa04b1256e4da9a956ecd79a59c4124e7489b557651b89923df1732e0d  python-3.13.2-amd64.exe.sig
+56696a361b20e4cd71425495b97b4dc45a9528b32b5837ff4e82d922db03ab44  python-3.13.2-amd64.exe.sigstore
+56696a361b20e4cd71425495b97b4dc45a9528b32b5837ff4e82d922db03ab44  python-3.13.2-amd64.exe.sigstore
+f380a650160e803eea3dac5ba556d1e4347f25e660f320f776dcd47e387fb9ad  python-3.13.2-amd64.exe.spdx.json
+c2c6eccb91d9e7e4ffdec334bdee7507522e8eb14700bfcfb40c176c8a036282  python-3.13.2-amd64.zip
+181c1b4682aa6c674b0b12567dbc5687625ab232322a8b248220b19b17b895ff  python-3.13.2-arm64.exe
+596d0224e94555d2ae3fc2dce185923db3137064b49ac606ff64d3678076e464  python-3.13.2-arm64.exe.asc
+9da46b2ce56643752d7a9890b67df9ceeff767fb1bd76b2a8c4b96ae6b842f81  python-3.13.2-arm64.exe.crt
+681059337098be565dc9f050515bcc07a9b0ecf4e68428eef9b7390fea8c2982  python-3.13.2-arm64.exe.sig
+8e182295dfcd079e359da72d2f4fbf4db61d597342d031078d795a9c55762e60  python-3.13.2-arm64.exe.sigstore
+0b5585c7362fd71be656dfc17494b74248215b89c2cd1dc0e57ae3a8e1f60040  python-3.13.2-arm64.exe.spdx.json
+596d0224e94555d2ae3fc2dce185923db3137064b49ac606ff64d3678076e464  python-3.13.2-arm64.exe.asc
+9da46b2ce56643752d7a9890b67df9ceeff767fb1bd76b2a8c4b96ae6b842f81  python-3.13.2-arm64.exe.crt
+681059337098be565dc9f050515bcc07a9b0ecf4e68428eef9b7390fea8c2982  python-3.13.2-arm64.exe.sig
+8e182295dfcd079e359da72d2f4fbf4db61d597342d031078d795a9c55762e60  python-3.13.2-arm64.exe.sigstore
+8e182295dfcd079e359da72d2f4fbf4db61d597342d031078d795a9c55762e60  python-3.13.2-arm64.exe.sigstore
+0b5585c7362fd71be656dfc17494b74248215b89c2cd1dc0e57ae3a8e1f60040  python-3.13.2-arm64.exe.spdx.json
+7b23df9b2f3e8b7e10d8278406b37a0d53a73165ac7566748b1f2ee3a24580a5  python-3.13.2-arm64.zip
+1e803610b140cbf69dfa2ceaaeb39651bef75a239c381289e827c30862a27b93  python-3.13.2-embed-amd64.zip
+ac0e8db1a754d494d15bc9888db644b77524ada498f8619a4947ee4324f90bd0  python-3.13.2-embed-amd64.zip.asc
+d7865cbfac3a262cb44055a13679fba585f08fea00adea76417f32cdde0aa020  python-3.13.2-embed-amd64.zip.crt
+37f8eeb11e8cc168260056b989925a6475011b8d8fe55827d7cceeff01ab6c9e  python-3.13.2-embed-amd64.zip.sig
+1c1baa629ce116cac22d7d109deca190253a04fcdb7826c353be12b7277017e6  python-3.13.2-embed-amd64.zip.sigstore
+1cd5c4bff58593ab7c15de0a0ad9ea08d92a25a9dd5d098ad42847060c76fbe3  python-3.13.2-embed-amd64.zip.spdx.json
+ac0e8db1a754d494d15bc9888db644b77524ada498f8619a4947ee4324f90bd0  python-3.13.2-embed-amd64.zip.asc
+d7865cbfac3a262cb44055a13679fba585f08fea00adea76417f32cdde0aa020  python-3.13.2-embed-amd64.zip.crt
+37f8eeb11e8cc168260056b989925a6475011b8d8fe55827d7cceeff01ab6c9e  python-3.13.2-embed-amd64.zip.sig
+1c1baa629ce116cac22d7d109deca190253a04fcdb7826c353be12b7277017e6  python-3.13.2-embed-amd64.zip.sigstore
+1c1baa629ce116cac22d7d109deca190253a04fcdb7826c353be12b7277017e6  python-3.13.2-embed-amd64.zip.sigstore
+1cd5c4bff58593ab7c15de0a0ad9ea08d92a25a9dd5d098ad42847060c76fbe3  python-3.13.2-embed-amd64.zip.spdx.json
+120dbfc8f0646ec9fa9bffa2c8f15922ab065148ae77237c99b892f28ed5995d  python-3.13.2-embed-arm64.zip
+ee729edadfa99bbbed52c19410750461292fa9da5b0d65002e76c8f009c0c6bf  python-3.13.2-embed-arm64.zip.asc
+471d8024deff464fbcd942115376dee78b044816cd85b10b1096c299389d5287  python-3.13.2-embed-arm64.zip.crt
+9eb3f8af875e2b80a25b435292e467e5fbfbb3cec5ad94ca2a5f75f901818968  python-3.13.2-embed-arm64.zip.sig
+9d051b45bf9bf443e1613f22662d4631678b64a19c103ba37418cc1dba7b1701  python-3.13.2-embed-arm64.zip.sigstore
+c5585ee291b32da0956f43e55b7146db5df0fd9181fa5e6c961f55bde65e8f61  python-3.13.2-embed-arm64.zip.spdx.json
+ee729edadfa99bbbed52c19410750461292fa9da5b0d65002e76c8f009c0c6bf  python-3.13.2-embed-arm64.zip.asc
+471d8024deff464fbcd942115376dee78b044816cd85b10b1096c299389d5287  python-3.13.2-embed-arm64.zip.crt
+9eb3f8af875e2b80a25b435292e467e5fbfbb3cec5ad94ca2a5f75f901818968  python-3.13.2-embed-arm64.zip.sig
+9d051b45bf9bf443e1613f22662d4631678b64a19c103ba37418cc1dba7b1701  python-3.13.2-embed-arm64.zip.sigstore
+9d051b45bf9bf443e1613f22662d4631678b64a19c103ba37418cc1dba7b1701  python-3.13.2-embed-arm64.zip.sigstore
+c5585ee291b32da0956f43e55b7146db5df0fd9181fa5e6c961f55bde65e8f61  python-3.13.2-embed-arm64.zip.spdx.json
+38d7a5893a8e9f58eeb75ce4bc6e86f4d3def480574d73318bd9bd85dd41e0f2  python-3.13.2-embed-win32.zip
+628b81917ff2ae53d0d135d5a1b02bddad6d2b0d80ed3640714cdc2cfe828d3f  python-3.13.2-embed-win32.zip.asc
+30e903ede935a355d734770c1b375568d07a4b92743f6ac55944e9670b70ec71  python-3.13.2-embed-win32.zip.crt
+c904eab6b0fa2308c661f4c524a6601e74e4d61d27412d3351446ebbc75071af  python-3.13.2-embed-win32.zip.sig
+4ba6e20ce40490440e22e710cdaf5140449423293761ee4fa0cf52245dbf2d16  python-3.13.2-embed-win32.zip.sigstore
+8c339fa91141614ebf3275750cd1355c1fda0b98f570ecc6b5dfc51d97b89d0b  python-3.13.2-embed-win32.zip.spdx.json
+628b81917ff2ae53d0d135d5a1b02bddad6d2b0d80ed3640714cdc2cfe828d3f  python-3.13.2-embed-win32.zip.asc
+30e903ede935a355d734770c1b375568d07a4b92743f6ac55944e9670b70ec71  python-3.13.2-embed-win32.zip.crt
+c904eab6b0fa2308c661f4c524a6601e74e4d61d27412d3351446ebbc75071af  python-3.13.2-embed-win32.zip.sig
+4ba6e20ce40490440e22e710cdaf5140449423293761ee4fa0cf52245dbf2d16  python-3.13.2-embed-win32.zip.sigstore
+4ba6e20ce40490440e22e710cdaf5140449423293761ee4fa0cf52245dbf2d16  python-3.13.2-embed-win32.zip.sigstore
+8c339fa91141614ebf3275750cd1355c1fda0b98f570ecc6b5dfc51d97b89d0b  python-3.13.2-embed-win32.zip.spdx.json
+5e47bd2733e351c337463976c9b36764c790fb28c6e5adf0984d451d3affd737  python-3.13.2-embeddable-amd64.zip
+734be662b43580bb760780f9d449be66d666d079a16a4def87b0d88c5f7aac69  python-3.13.2-embeddable-arm64.zip
+defd7a66f159a031be2e0e00f129f582c8dc9844fc033648035d674c609da5d7  python-3.13.2-embeddable-win32.zip
+6c6792b3780f21284beb2546dca2eb5893bcf5b8d91c0cf0ec1fadeb75cbedea  python-3.13.2-macos11.pkg
+c211d10ef20d39e9f33b023c0d3afadce18bee0d6f0b9f1af53c090ddb41ebad  python-3.13.2-macos11.pkg.asc
+fe01133ea8ffd64b82e579ebf47df41f2422c65fc99f63f0020a320f9d3db76a  python-3.13.2-macos11.pkg.crt
+55a104c79d02e12465151b5467a0d48ac7cbe452cd037a7e903ea719b583b958  python-3.13.2-macos11.pkg.sig
+60528ed336e65d16b26a903370570dbf4fa2154709213d61e0fceac9a4167421  python-3.13.2-macos11.pkg.sigstore
+c211d10ef20d39e9f33b023c0d3afadce18bee0d6f0b9f1af53c090ddb41ebad  python-3.13.2-macos11.pkg.asc
+fe01133ea8ffd64b82e579ebf47df41f2422c65fc99f63f0020a320f9d3db76a  python-3.13.2-macos11.pkg.crt
+55a104c79d02e12465151b5467a0d48ac7cbe452cd037a7e903ea719b583b958  python-3.13.2-macos11.pkg.sig
+60528ed336e65d16b26a903370570dbf4fa2154709213d61e0fceac9a4167421  python-3.13.2-macos11.pkg.sigstore
+60528ed336e65d16b26a903370570dbf4fa2154709213d61e0fceac9a4167421  python-3.13.2-macos11.pkg.sigstore
+64116203561df924de03ab8fdf7013d36b6661a6a7b990505852aabf617ee912  python-3.13.2-test-amd64.zip
+09e2c8703a1b0857e9d23c115792efa13c43cae7b81230bc37829789b18ea854  python-3.13.2-test-arm64.zip
+ddc1c3cb24bfd419aac533b7ea2ad39d31e4c6050d7e21cd711ac0f355379153  python-3.13.2-test-win32.zip
+c9c006acc88c93ab1d06d76e888a05566d25bc38ac1f7831279e4c03ba53e19d  python-3.13.2-win32.zip
+91db843dc0ced6a760ef4ba242cc8b9a0a48c227e799aeac0410fd418e248445  python-3.13.2.exe
+3c105e12bc708e23422cb72e71d9b73cfd858d6fda933628168a486bd2e33043  python-3.13.2.exe.asc
+8aa0bb01d06183b0802a8c21771d6deb88db8e429f959c7a80a4796698aeef3f  python-3.13.2.exe.crt
+792556bb0ea83d37c8928370ee2e6c8917f522545203295e2a62ab2ff1261a80  python-3.13.2.exe.sig
+a8a00e9d620b092792f2aa3fec74beb30a7e752c6635926d12d8d7b9b98de854  python-3.13.2.exe.sigstore
+99bf53433db466ed87dbbbfe471257b4cc2b8d6371f42b37f4e277def524fda9  python-3.13.2.exe.spdx.json
+3c105e12bc708e23422cb72e71d9b73cfd858d6fda933628168a486bd2e33043  python-3.13.2.exe.asc
+8aa0bb01d06183b0802a8c21771d6deb88db8e429f959c7a80a4796698aeef3f  python-3.13.2.exe.crt
+792556bb0ea83d37c8928370ee2e6c8917f522545203295e2a62ab2ff1261a80  python-3.13.2.exe.sig
+a8a00e9d620b092792f2aa3fec74beb30a7e752c6635926d12d8d7b9b98de854  python-3.13.2.exe.sigstore
+a8a00e9d620b092792f2aa3fec74beb30a7e752c6635926d12d8d7b9b98de854  python-3.13.2.exe.sigstore
+99bf53433db466ed87dbbbfe471257b4cc2b8d6371f42b37f4e277def524fda9  python-3.13.2.exe.spdx.json
+d984bcc57cd67caab26f7def42e523b1c015bbc5dc07836cf4f0b63fa159eb56  Python-3.13.2.tar.xz
+5b9ea87ee586301f8bc0ad83b7755257f10994e9f9ba918b47d1b0fac2b29327  Python-3.13.2.tar.xz.asc
+308a7030eb5d030ad24013406ea359a741c965234fd2282e9c38f1387c2dd211  Python-3.13.2.tar.xz.crt
+e4f39182dbad1c277b162963ccfd76380e435e0ad424bbf5e97a304f44f80dfa  Python-3.13.2.tar.xz.sig
+aaa0dd00295fcae0453add65493df78b8bcad94b0891d2116ad63894a68b08f8  Python-3.13.2.tar.xz.sigstore
+085089a268f207e46984c9084680fca3c36163df00eefe0c7c7bdbc93cb77a6c  Python-3.13.2.tar.xz.spdx.json
+5b9ea87ee586301f8bc0ad83b7755257f10994e9f9ba918b47d1b0fac2b29327  Python-3.13.2.tar.xz.asc
+308a7030eb5d030ad24013406ea359a741c965234fd2282e9c38f1387c2dd211  Python-3.13.2.tar.xz.crt
+e4f39182dbad1c277b162963ccfd76380e435e0ad424bbf5e97a304f44f80dfa  Python-3.13.2.tar.xz.sig
+aaa0dd00295fcae0453add65493df78b8bcad94b0891d2116ad63894a68b08f8  Python-3.13.2.tar.xz.sigstore
+aaa0dd00295fcae0453add65493df78b8bcad94b0891d2116ad63894a68b08f8  Python-3.13.2.tar.xz.sigstore
+085089a268f207e46984c9084680fca3c36163df00eefe0c7c7bdbc93cb77a6c  Python-3.13.2.tar.xz.spdx.json
+b8d79530e3b7c96a5cb2d40d431ddb512af4a563e863728d8713039aa50203f9  Python-3.13.2.tgz
+26b15f827183cb90d1e8894e939e72161e5a73766a09d1a22ee40cfb0a0fafa7  Python-3.13.2.tgz.asc
+6f3c989712bd77869f2705ded460009fc7f1c70bcbdcea106c3b8d05b5c16910  Python-3.13.2.tgz.crt
+230a2d3d1d5f91c45eb85be58eccf6f5feb56b9b27e901e29ade2e3229d8b2a9  Python-3.13.2.tgz.sig
+4a36a67b873edbadc1060bdcc4350053433069c4113453949b27b2c3fc1df0ad  Python-3.13.2.tgz.sigstore
+2ad0a9f240f8c94f3bb44d9053d3b04f1b6644d27a39bf37d8517d9ff47853bc  Python-3.13.2.tgz.spdx.json
+26b15f827183cb90d1e8894e939e72161e5a73766a09d1a22ee40cfb0a0fafa7  Python-3.13.2.tgz.asc
+6f3c989712bd77869f2705ded460009fc7f1c70bcbdcea106c3b8d05b5c16910  Python-3.13.2.tgz.crt
+230a2d3d1d5f91c45eb85be58eccf6f5feb56b9b27e901e29ade2e3229d8b2a9  Python-3.13.2.tgz.sig
+4a36a67b873edbadc1060bdcc4350053433069c4113453949b27b2c3fc1df0ad  Python-3.13.2.tgz.sigstore
+4a36a67b873edbadc1060bdcc4350053433069c4113453949b27b2c3fc1df0ad  Python-3.13.2.tgz.sigstore
+2ad0a9f240f8c94f3bb44d9053d3b04f1b6644d27a39bf37d8517d9ff47853bc  Python-3.13.2.tgz.spdx.json
+4eb15a6264842292abcc86c7b26dfda3ae7e05ce2f54ea4fe7a8e110ae021f89  python-3.13.2t-amd64.zip
+af30d88c2f6163a9b76c9b52c37df59dba43a51a755ffa6674c2a1dff786f81b  python-3.13.2t-arm64.zip
+1762f56955b5b2a548dff52d0417919fa20bac258bf30ebfc04c539ff2301aa1  python-3.13.2t-win32.zip
+698f2df46e1a3dd92f393458eea77bd94ef5ff21f0d5bf5cf676f3d28a9b4b6c  python-3.13.3-amd64.exe
+0b3ce7656b6e9fbb32dc405e2523ad0e4113b0c5e2437fe517471bdf50067a6a  python-3.13.3-amd64.exe.asc
+2eeb1996c452b4b10aaa7aba322739a37312de480c0cd3d280151006356bec70  python-3.13.3-amd64.exe.crt
+cff94279381afed0b5106043a68236812e6412d37d74651344b20804d74e0b68  python-3.13.3-amd64.exe.sig
+da9e17a32be06e304cd6d27cb8cea58a8ec0a49ab9ec5ff3808fb21d771987e7  python-3.13.3-amd64.exe.sigstore
+96928695873f36d0c3da08a76725d19f45b3b132d71cea23e3efa48e8e285f69  python-3.13.3-amd64.exe.spdx.json
+0b3ce7656b6e9fbb32dc405e2523ad0e4113b0c5e2437fe517471bdf50067a6a  python-3.13.3-amd64.exe.asc
+2eeb1996c452b4b10aaa7aba322739a37312de480c0cd3d280151006356bec70  python-3.13.3-amd64.exe.crt
+cff94279381afed0b5106043a68236812e6412d37d74651344b20804d74e0b68  python-3.13.3-amd64.exe.sig
+da9e17a32be06e304cd6d27cb8cea58a8ec0a49ab9ec5ff3808fb21d771987e7  python-3.13.3-amd64.exe.sigstore
+da9e17a32be06e304cd6d27cb8cea58a8ec0a49ab9ec5ff3808fb21d771987e7  python-3.13.3-amd64.exe.sigstore
+96928695873f36d0c3da08a76725d19f45b3b132d71cea23e3efa48e8e285f69  python-3.13.3-amd64.exe.spdx.json
+46ae5118b8638ad248d1d30f2263056ea6c198f507f559f5bd781584659cfc1e  python-3.13.3-amd64.zip
+6ceffed3b67f5e2dbcc0833adbe629d61228965b360bb2c026e30d9c6d4af97e  python-3.13.3-arm64.exe
+f1c792b4a67676a6d32227ee1496f4ea266e025de5b9581d04847ceb18c10add  python-3.13.3-arm64.exe.asc
+1b37306a0da168d70d1b57ac692faa0314ea063e2ea5385e9854f04b3f996d2d  python-3.13.3-arm64.exe.crt
+296b897432dd1377275ea9575ae39a26a2d974a224cb5a3110374bf1d09beeaf  python-3.13.3-arm64.exe.sig
+bd63c4628f133d104a063e140dd7ef1ba092b38c74e5f7b2c69575b2df8cb1b5  python-3.13.3-arm64.exe.sigstore
+7cd29c5cb8d5e8c82bc03c994fb68f35fc95e70884dbd2dc16ee8d005a8c6c01  python-3.13.3-arm64.exe.spdx.json
+f1c792b4a67676a6d32227ee1496f4ea266e025de5b9581d04847ceb18c10add  python-3.13.3-arm64.exe.asc
+1b37306a0da168d70d1b57ac692faa0314ea063e2ea5385e9854f04b3f996d2d  python-3.13.3-arm64.exe.crt
+296b897432dd1377275ea9575ae39a26a2d974a224cb5a3110374bf1d09beeaf  python-3.13.3-arm64.exe.sig
+bd63c4628f133d104a063e140dd7ef1ba092b38c74e5f7b2c69575b2df8cb1b5  python-3.13.3-arm64.exe.sigstore
+bd63c4628f133d104a063e140dd7ef1ba092b38c74e5f7b2c69575b2df8cb1b5  python-3.13.3-arm64.exe.sigstore
+7cd29c5cb8d5e8c82bc03c994fb68f35fc95e70884dbd2dc16ee8d005a8c6c01  python-3.13.3-arm64.exe.spdx.json
+69a9351fbce27d9480b31c53e77c7d4f7adfafa1422076d2888fdb03f31110ce  python-3.13.3-arm64.zip
+59ff76e16e6597de47474fb22be69e7191a89116910d728ab735079b078e52db  python-3.13.3-embed-amd64.zip
+9834f72c31817990a977cc7f61c55cbe958cec18b5b78ce57773228da3b6d52b  python-3.13.3-embed-amd64.zip.asc
+bee1ea3d27e7e5015291603d87405ffe6ca549d6de36618a60211f6ec2f0af3a  python-3.13.3-embed-amd64.zip.crt
+dded33a680491904e250bf2a7a95dc1f6046b03fcba464657f8855e51af2f22b  python-3.13.3-embed-amd64.zip.sig
+465fc8612325536a9ad1c56eef1002a9252bcfabbe74870f7163c493a5c1fbbe  python-3.13.3-embed-amd64.zip.sigstore
+c55a47288ea4b8f1a63356e036e9f7a159b3f3ad045ea4ab0312e92a51c8c751  python-3.13.3-embed-amd64.zip.spdx.json
+9834f72c31817990a977cc7f61c55cbe958cec18b5b78ce57773228da3b6d52b  python-3.13.3-embed-amd64.zip.asc
+bee1ea3d27e7e5015291603d87405ffe6ca549d6de36618a60211f6ec2f0af3a  python-3.13.3-embed-amd64.zip.crt
+dded33a680491904e250bf2a7a95dc1f6046b03fcba464657f8855e51af2f22b  python-3.13.3-embed-amd64.zip.sig
+465fc8612325536a9ad1c56eef1002a9252bcfabbe74870f7163c493a5c1fbbe  python-3.13.3-embed-amd64.zip.sigstore
+465fc8612325536a9ad1c56eef1002a9252bcfabbe74870f7163c493a5c1fbbe  python-3.13.3-embed-amd64.zip.sigstore
+c55a47288ea4b8f1a63356e036e9f7a159b3f3ad045ea4ab0312e92a51c8c751  python-3.13.3-embed-amd64.zip.spdx.json
+61ea00621302df8240325657aa0122a3167f6e6b30d367697a68bc4fac1b0926  python-3.13.3-embed-arm64.zip
+54f1bdd6462713f20c7dc08e323bc184fe7c3b1c1f973061f6d75899f7bb14a7  python-3.13.3-embed-arm64.zip.asc
+1b7d7746a9773067c62d6fe9df4f9bfb26cf9cae24cae919fb8e9ef34ef1b5ab  python-3.13.3-embed-arm64.zip.crt
+9c1a92aa7f95a97c8f14be2b208f962a827db1520683da7a5a4993a60a48061d  python-3.13.3-embed-arm64.zip.sig
+0d479ad6baf4ea6e2773ab4e785f04254ada908631baf799778c395dfae010ef  python-3.13.3-embed-arm64.zip.sigstore
+f68d296c26793e785e62475f00a4de873d434a353c8afcfe29e81a64eed9c5dc  python-3.13.3-embed-arm64.zip.spdx.json
+54f1bdd6462713f20c7dc08e323bc184fe7c3b1c1f973061f6d75899f7bb14a7  python-3.13.3-embed-arm64.zip.asc
+1b7d7746a9773067c62d6fe9df4f9bfb26cf9cae24cae919fb8e9ef34ef1b5ab  python-3.13.3-embed-arm64.zip.crt
+9c1a92aa7f95a97c8f14be2b208f962a827db1520683da7a5a4993a60a48061d  python-3.13.3-embed-arm64.zip.sig
+0d479ad6baf4ea6e2773ab4e785f04254ada908631baf799778c395dfae010ef  python-3.13.3-embed-arm64.zip.sigstore
+0d479ad6baf4ea6e2773ab4e785f04254ada908631baf799778c395dfae010ef  python-3.13.3-embed-arm64.zip.sigstore
+f68d296c26793e785e62475f00a4de873d434a353c8afcfe29e81a64eed9c5dc  python-3.13.3-embed-arm64.zip.spdx.json
+9171549d5df7186621446adc18b4037efa82630371dfd4f13334becb41ef44f6  python-3.13.3-embed-win32.zip
+3f8a15e172e81c19451ef9f422cced08d4e5752dcbf5a1dc5a624eaa892108d3  python-3.13.3-embed-win32.zip.asc
+ece505186ff25790652c98b72ecbbae4b9d7f3569da58f532e4e2ba019bced9c  python-3.13.3-embed-win32.zip.crt
+3ba0013ea07603f65bed54cd0972e7c20ce7cbad5fc703fa06ab95a94cce1de8  python-3.13.3-embed-win32.zip.sig
+3ab62ce03399253498e09975ad052147a5a7c36019884dd4a165aebd1f29a877  python-3.13.3-embed-win32.zip.sigstore
+54fd6ad02675cfcb288122e2a762c21e080c25e2cd76dd124be002052a146261  python-3.13.3-embed-win32.zip.spdx.json
+3f8a15e172e81c19451ef9f422cced08d4e5752dcbf5a1dc5a624eaa892108d3  python-3.13.3-embed-win32.zip.asc
+ece505186ff25790652c98b72ecbbae4b9d7f3569da58f532e4e2ba019bced9c  python-3.13.3-embed-win32.zip.crt
+3ba0013ea07603f65bed54cd0972e7c20ce7cbad5fc703fa06ab95a94cce1de8  python-3.13.3-embed-win32.zip.sig
+3ab62ce03399253498e09975ad052147a5a7c36019884dd4a165aebd1f29a877  python-3.13.3-embed-win32.zip.sigstore
+3ab62ce03399253498e09975ad052147a5a7c36019884dd4a165aebd1f29a877  python-3.13.3-embed-win32.zip.sigstore
+54fd6ad02675cfcb288122e2a762c21e080c25e2cd76dd124be002052a146261  python-3.13.3-embed-win32.zip.spdx.json
+e79e895b9678679691d5ac3eca38f183750709259b94ff9f003de22b294194ac  python-3.13.3-embeddable-amd64.zip
+1ec2d226f3f8029cc7da65ce3145e9cc2fe102dbc7965f3795184904f8cb258f  python-3.13.3-embeddable-arm64.zip
+7084c0cbd4e19cd9640f6f52b62ec9b5cf12c1b1186b2f66b791fab3b0404809  python-3.13.3-embeddable-win32.zip
+1d0beccb31e20561db2acf223dce2b0572bb1929abe46cfe931f0fe53a6c5f6a  python-3.13.3-macos11.pkg
+70d29483c3d73d5d5d3e6f1962da013ff97e21bf3da9e743b39bc14ef69c1d0e  python-3.13.3-macos11.pkg.asc
+25292cf60914e9a98f5ecfc6ffe6cfc1a27c2cae5bea731a86fd4a98a1a71903  python-3.13.3-macos11.pkg.crt
+28d856d7a192c04b46d6d49582ac3db05cd080d97eccc36ad569d188cec9b025  python-3.13.3-macos11.pkg.sig
+d98264ebe8524bbc77392cc1c67d73f32b5fe20baf35d3ee00b24b351b680d5a  python-3.13.3-macos11.pkg.sigstore
+70d29483c3d73d5d5d3e6f1962da013ff97e21bf3da9e743b39bc14ef69c1d0e  python-3.13.3-macos11.pkg.asc
+25292cf60914e9a98f5ecfc6ffe6cfc1a27c2cae5bea731a86fd4a98a1a71903  python-3.13.3-macos11.pkg.crt
+28d856d7a192c04b46d6d49582ac3db05cd080d97eccc36ad569d188cec9b025  python-3.13.3-macos11.pkg.sig
+d98264ebe8524bbc77392cc1c67d73f32b5fe20baf35d3ee00b24b351b680d5a  python-3.13.3-macos11.pkg.sigstore
+d98264ebe8524bbc77392cc1c67d73f32b5fe20baf35d3ee00b24b351b680d5a  python-3.13.3-macos11.pkg.sigstore
+01fd951749afc1a10f740b460a7143f55fbea9a64ed5a32683fe551aecc61e17  python-3.13.3-test-amd64.zip
+de2f7cf886b1d54abd75f99e861b2a091fc565b01dffeffd414650b0d91d5f93  python-3.13.3-test-arm64.zip
+d7afc50f1b310626c4eb9c412f7587f1bf7ae9523f982fe299c5bcc4620b51d1  python-3.13.3-test-win32.zip
+edb7c6011c002d8a444f54b9399ee645ff49c3f1ccda9d9ab20938c6ea09e4b2  python-3.13.3-win32.zip
+502f4b3c7e81c6799f45f3d35deeabd5c577a36550289e428633e9dbce7b9d5e  python-3.13.3.exe
+6acd012ce16406c5f21841e41bae7fc6d9fb5bab339f0f991082c43dbb1d1902  python-3.13.3.exe.asc
+192162815147b0f5189ae71f3e0750c252119d88733d3fc9e8f5ec9575d5eef9  python-3.13.3.exe.crt
+756524568440f42be6011ff415dfd98504f19e9599c32f28d008a80aec13520a  python-3.13.3.exe.sig
+829882a4682bbf70d2e46d896fa5d19710938f1c72a8216828a78ef9e5808620  python-3.13.3.exe.sigstore
+a0479bb6932d1f67828bbdfdbf8c090dbeb01e4999a5fc7efb89e650ac3a5fb5  python-3.13.3.exe.spdx.json
+6acd012ce16406c5f21841e41bae7fc6d9fb5bab339f0f991082c43dbb1d1902  python-3.13.3.exe.asc
+192162815147b0f5189ae71f3e0750c252119d88733d3fc9e8f5ec9575d5eef9  python-3.13.3.exe.crt
+756524568440f42be6011ff415dfd98504f19e9599c32f28d008a80aec13520a  python-3.13.3.exe.sig
+829882a4682bbf70d2e46d896fa5d19710938f1c72a8216828a78ef9e5808620  python-3.13.3.exe.sigstore
+829882a4682bbf70d2e46d896fa5d19710938f1c72a8216828a78ef9e5808620  python-3.13.3.exe.sigstore
+a0479bb6932d1f67828bbdfdbf8c090dbeb01e4999a5fc7efb89e650ac3a5fb5  python-3.13.3.exe.spdx.json
+40f868bcbdeb8149a3149580bb9bfd407b3321cd48f0be631af955ac92c0e041  Python-3.13.3.tar.xz
+4195ada13466fdb4e3ca71747bf25817135ba3d94d0aa282f0b75fc6bcd49865  Python-3.13.3.tar.xz.asc
+c1e43c2de2ab8961063cc721f6ac429929f53dff4573ef53efb315651559b18c  Python-3.13.3.tar.xz.crt
+4559f70640100a9144d35d3f2d84e6bb2dbd9f1638be799b431fd678ca278ca2  Python-3.13.3.tar.xz.sig
+e05ef69502808a6262426d4c988f28f142a1ab04258d3d5ab286a34ef5129cd2  Python-3.13.3.tar.xz.sigstore
+64fd80d8c1f8e20915670a5992cbfa67d85132993919b5b0e6dcebfff498b530  Python-3.13.3.tar.xz.spdx.json
+4195ada13466fdb4e3ca71747bf25817135ba3d94d0aa282f0b75fc6bcd49865  Python-3.13.3.tar.xz.asc
+c1e43c2de2ab8961063cc721f6ac429929f53dff4573ef53efb315651559b18c  Python-3.13.3.tar.xz.crt
+4559f70640100a9144d35d3f2d84e6bb2dbd9f1638be799b431fd678ca278ca2  Python-3.13.3.tar.xz.sig
+e05ef69502808a6262426d4c988f28f142a1ab04258d3d5ab286a34ef5129cd2  Python-3.13.3.tar.xz.sigstore
+e05ef69502808a6262426d4c988f28f142a1ab04258d3d5ab286a34ef5129cd2  Python-3.13.3.tar.xz.sigstore
+64fd80d8c1f8e20915670a5992cbfa67d85132993919b5b0e6dcebfff498b530  Python-3.13.3.tar.xz.spdx.json
+988d735a6d33568cbaff1384a65cb22a1fb18a9ecb73d43ef868000193ce23ed  Python-3.13.3.tgz
+a8d513665a8fe70ac42c1dfd5f36725f20dd797a8362363bf16e04a398d837f1  Python-3.13.3.tgz.asc
+b951655a068136332c6bf11ac0d124c3be457bbbc4e30aae5df794e5794297b3  Python-3.13.3.tgz.crt
+9e4bb5bdcd8178be4383d4e49922d50b704c7e766cb2f26366e32594f88307ae  Python-3.13.3.tgz.sig
+88c7df84edf58c0883eab7b8c48a7a8080f3e92e6110572c8f99bf1f38dce21e  Python-3.13.3.tgz.sigstore
+017a1d6e61fee1c8c9676a7b71ba4da6e854c4097d4ccf0cd362f78ee9485f62  Python-3.13.3.tgz.spdx.json
+a8d513665a8fe70ac42c1dfd5f36725f20dd797a8362363bf16e04a398d837f1  Python-3.13.3.tgz.asc
+b951655a068136332c6bf11ac0d124c3be457bbbc4e30aae5df794e5794297b3  Python-3.13.3.tgz.crt
+9e4bb5bdcd8178be4383d4e49922d50b704c7e766cb2f26366e32594f88307ae  Python-3.13.3.tgz.sig
+88c7df84edf58c0883eab7b8c48a7a8080f3e92e6110572c8f99bf1f38dce21e  Python-3.13.3.tgz.sigstore
+88c7df84edf58c0883eab7b8c48a7a8080f3e92e6110572c8f99bf1f38dce21e  Python-3.13.3.tgz.sigstore
+017a1d6e61fee1c8c9676a7b71ba4da6e854c4097d4ccf0cd362f78ee9485f62  Python-3.13.3.tgz.spdx.json
+d57985171297f2a39c8c635fceb4ba7aeafcd8e0264dca594502e7051ce8b976  python-3.13.3t-amd64.zip
+9859426692d7a3ac2eb5c611134d15d1b241f7b4c6c06a80ac55d8644e304bfe  python-3.13.3t-arm64.zip
+745f726f847d8b48422f33ecda78d0952465f1e771aace9a7fd3be1c5e6fbc02  python-3.13.3t-win32.zip
+94f53bb832539ea02d6ce581d7c1fcc36228e04a611b8dcfe797ad4bbc0a45c1  python-3.13.4-amd64.exe
+8638adb04ee937e491945b25e06853872fbb997a1e857d32c3307455813bbe4d  python-3.13.4-amd64.exe.asc
+ab913e79dedd6db4b9cc2baf95c03e3ffc252a5f14acfeec46e2dd70212acd24  python-3.13.4-amd64.exe.crt
+69b3488328d0c66869f4f73f290a57046a1aaea6cc3570ef91fa0fb3e91879c6  python-3.13.4-amd64.exe.sig
+003628d2e9247b5f324ecc95500166ee09d3c5bbb91aea5130c517cc0f5ae231  python-3.13.4-amd64.exe.sigstore
+92c31f2a1998580b3ccb3e2462a411db6cdc74bd2f7628014ac5d611d538a08b  python-3.13.4-amd64.exe.spdx.json
+8638adb04ee937e491945b25e06853872fbb997a1e857d32c3307455813bbe4d  python-3.13.4-amd64.exe.asc
+ab913e79dedd6db4b9cc2baf95c03e3ffc252a5f14acfeec46e2dd70212acd24  python-3.13.4-amd64.exe.crt
+69b3488328d0c66869f4f73f290a57046a1aaea6cc3570ef91fa0fb3e91879c6  python-3.13.4-amd64.exe.sig
+003628d2e9247b5f324ecc95500166ee09d3c5bbb91aea5130c517cc0f5ae231  python-3.13.4-amd64.exe.sigstore
+003628d2e9247b5f324ecc95500166ee09d3c5bbb91aea5130c517cc0f5ae231  python-3.13.4-amd64.exe.sigstore
+92c31f2a1998580b3ccb3e2462a411db6cdc74bd2f7628014ac5d611d538a08b  python-3.13.4-amd64.exe.spdx.json
+6ff7cffcc5c55a14f48ce5865b08abeef1c2afc5b34abb84186709deb1e3306e  python-3.13.4-amd64.zip
+2a91c47d028f5de2746c95967516767321f702706a449454c2b060bbd406c769  python-3.13.4-arm64.exe
+793de49d7ec9e028a56f5947b60edd94763aec8fc77ee04114b58ada8de48330  python-3.13.4-arm64.exe.asc
+fde898d8c5516123f0a250d3b7d531b5cf1240e31166cfd56a500624ae36a074  python-3.13.4-arm64.exe.crt
+c70b60a573ee3cca4a3c4b905116870ed959f93864d593b6656f1db0b29cf9e1  python-3.13.4-arm64.exe.sig
+94c2ac2f07936af6adb2b325e112704e168205fadcd7ffcdfd7ea84cfb5fb9dc  python-3.13.4-arm64.exe.sigstore
+2a59c728c322c7b7968e42a87bd731db883a4b14ca513960141413ddc1182a55  python-3.13.4-arm64.exe.spdx.json
+793de49d7ec9e028a56f5947b60edd94763aec8fc77ee04114b58ada8de48330  python-3.13.4-arm64.exe.asc
+fde898d8c5516123f0a250d3b7d531b5cf1240e31166cfd56a500624ae36a074  python-3.13.4-arm64.exe.crt
+c70b60a573ee3cca4a3c4b905116870ed959f93864d593b6656f1db0b29cf9e1  python-3.13.4-arm64.exe.sig
+94c2ac2f07936af6adb2b325e112704e168205fadcd7ffcdfd7ea84cfb5fb9dc  python-3.13.4-arm64.exe.sigstore
+94c2ac2f07936af6adb2b325e112704e168205fadcd7ffcdfd7ea84cfb5fb9dc  python-3.13.4-arm64.exe.sigstore
+2a59c728c322c7b7968e42a87bd731db883a4b14ca513960141413ddc1182a55  python-3.13.4-arm64.exe.spdx.json
+f5952a47004a76ce26337fc166af60f0cee3386209d7ef51f9fb2d1d77cbd8f1  python-3.13.4-arm64.zip
+514ca14ec356ecb7749a7c0a1ef1eac9fd9c67d57af4812cb1f0822b0d3a85e8  python-3.13.4-embed-amd64.zip
+f39f36f88b8856b847bdbb0c59d7983d985ba6785ffb01091baa7ddb7b4aa994  python-3.13.4-embed-amd64.zip.asc
+729ff6f670bfaef280d9641656b1de1cd821df6020f04d6c82602dc4bbe148c6  python-3.13.4-embed-amd64.zip.crt
+0e8f25ed61db7619b8d53f433dc7c79ed05e10ba35480a2b3e5f0ac5ac34b127  python-3.13.4-embed-amd64.zip.sig
+1595da0df571f4ebdecdf18cded28ac7a69e04f382ae69d2ba540f51a347e7d1  python-3.13.4-embed-amd64.zip.sigstore
+9db0e11927b5e5d7c8c1cf7fbcd5fb5ca747dbe11e10c1a24cad08dc1a98c324  python-3.13.4-embed-amd64.zip.spdx.json
+f39f36f88b8856b847bdbb0c59d7983d985ba6785ffb01091baa7ddb7b4aa994  python-3.13.4-embed-amd64.zip.asc
+729ff6f670bfaef280d9641656b1de1cd821df6020f04d6c82602dc4bbe148c6  python-3.13.4-embed-amd64.zip.crt
+0e8f25ed61db7619b8d53f433dc7c79ed05e10ba35480a2b3e5f0ac5ac34b127  python-3.13.4-embed-amd64.zip.sig
+1595da0df571f4ebdecdf18cded28ac7a69e04f382ae69d2ba540f51a347e7d1  python-3.13.4-embed-amd64.zip.sigstore
+1595da0df571f4ebdecdf18cded28ac7a69e04f382ae69d2ba540f51a347e7d1  python-3.13.4-embed-amd64.zip.sigstore
+9db0e11927b5e5d7c8c1cf7fbcd5fb5ca747dbe11e10c1a24cad08dc1a98c324  python-3.13.4-embed-amd64.zip.spdx.json
+3ad028e6cf16dc396734d6a0d685bc80c5e750dbe2922ec040150a00f9f0fd41  python-3.13.4-embed-arm64.zip
+c5136b6a10124ad9f8583413f2056c6fbf44dd1054b2fab0ad422999375b3f6f  python-3.13.4-embed-arm64.zip.asc
+6703dbdcda0f99fbb50bdfd805c5e5f6f63166183139005c6bae59a406ef1381  python-3.13.4-embed-arm64.zip.crt
+bcf2ba7dad28effec0a12c6b85e43632b4bd7a0d1f17bcaa934f43a2d4fb04a4  python-3.13.4-embed-arm64.zip.sig
+4e4e96dd409ef7c871521c3e4b72c895d5df47ea3da98da1f9e31ed2d98be0d3  python-3.13.4-embed-arm64.zip.sigstore
+372f372ccdba7aafb3c2d3804f5b193549c171025c8371331c5ea385c9e7dffd  python-3.13.4-embed-arm64.zip.spdx.json
+c5136b6a10124ad9f8583413f2056c6fbf44dd1054b2fab0ad422999375b3f6f  python-3.13.4-embed-arm64.zip.asc
+6703dbdcda0f99fbb50bdfd805c5e5f6f63166183139005c6bae59a406ef1381  python-3.13.4-embed-arm64.zip.crt
+bcf2ba7dad28effec0a12c6b85e43632b4bd7a0d1f17bcaa934f43a2d4fb04a4  python-3.13.4-embed-arm64.zip.sig
+4e4e96dd409ef7c871521c3e4b72c895d5df47ea3da98da1f9e31ed2d98be0d3  python-3.13.4-embed-arm64.zip.sigstore
+4e4e96dd409ef7c871521c3e4b72c895d5df47ea3da98da1f9e31ed2d98be0d3  python-3.13.4-embed-arm64.zip.sigstore
+372f372ccdba7aafb3c2d3804f5b193549c171025c8371331c5ea385c9e7dffd  python-3.13.4-embed-arm64.zip.spdx.json
+04ee686076d52a198ef6e671bba0d54683a2da0c230782ae16c950493d1bb9cc  python-3.13.4-embed-win32.zip
+85fc9111c9760217585c4ebdc41ea2cdf646307195cb0da709445847ba021c67  python-3.13.4-embed-win32.zip.asc
+98081492493971124cb8d51794fb8ed32088a93af2109d4155d952f6c962d665  python-3.13.4-embed-win32.zip.crt
+2da29dd43b5b13a108e11f5d8455b19314b7529b1e2e450cb60413e2611869c3  python-3.13.4-embed-win32.zip.sig
+941f7d783a0fc01433347d79e5d6d47b407b61020cb67ce79839740ff6158898  python-3.13.4-embed-win32.zip.sigstore
+5695b98aec27882fd9ab78de29d7cfd3ff1049b656cedd6d5df2e6a9904e232f  python-3.13.4-embed-win32.zip.spdx.json
+85fc9111c9760217585c4ebdc41ea2cdf646307195cb0da709445847ba021c67  python-3.13.4-embed-win32.zip.asc
+98081492493971124cb8d51794fb8ed32088a93af2109d4155d952f6c962d665  python-3.13.4-embed-win32.zip.crt
+2da29dd43b5b13a108e11f5d8455b19314b7529b1e2e450cb60413e2611869c3  python-3.13.4-embed-win32.zip.sig
+941f7d783a0fc01433347d79e5d6d47b407b61020cb67ce79839740ff6158898  python-3.13.4-embed-win32.zip.sigstore
+941f7d783a0fc01433347d79e5d6d47b407b61020cb67ce79839740ff6158898  python-3.13.4-embed-win32.zip.sigstore
+5695b98aec27882fd9ab78de29d7cfd3ff1049b656cedd6d5df2e6a9904e232f  python-3.13.4-embed-win32.zip.spdx.json
+72b533e0461ffa7fff6ee19034dc3e76eb132eeb9619fcc3a2e4044a4555cd8a  python-3.13.4-embeddable-amd64.zip
+7c895d2880713afa3d3b2c27024aaff40a7b8e473eb4ed3b6b2167cd11b3687c  python-3.13.4-embeddable-arm64.zip
+2d1d97e4019bbbeb859d0ef7a3166e3567350843a4ec694f00ecceb419f1f392  python-3.13.4-embeddable-win32.zip
+f6812415a25c440ed48efcb3b698812425425cf9187d3ccbee19a8fe23af3be0  python-3.13.4-macos11.pkg
+1ecbe4e0c1acaae205c2f025e0c7eb91fd03453c65a2630086198e499e4acad5  python-3.13.4-macos11.pkg.asc
+7cfa66b9f35a93829cda7e0e794415fff0cafab88da0324183a705c2b3fb5be3  python-3.13.4-macos11.pkg.crt
+09590f4c50cfbdbbeddd8e30efa1af68a74f3b10cf918b0658065f634a7ffbcb  python-3.13.4-macos11.pkg.sig
+9dec5e4de1adfd1646ded3420698813c4b6465c7c0728a047e2cda78fa17118a  python-3.13.4-macos11.pkg.sigstore
+1ecbe4e0c1acaae205c2f025e0c7eb91fd03453c65a2630086198e499e4acad5  python-3.13.4-macos11.pkg.asc
+7cfa66b9f35a93829cda7e0e794415fff0cafab88da0324183a705c2b3fb5be3  python-3.13.4-macos11.pkg.crt
+09590f4c50cfbdbbeddd8e30efa1af68a74f3b10cf918b0658065f634a7ffbcb  python-3.13.4-macos11.pkg.sig
+9dec5e4de1adfd1646ded3420698813c4b6465c7c0728a047e2cda78fa17118a  python-3.13.4-macos11.pkg.sigstore
+9dec5e4de1adfd1646ded3420698813c4b6465c7c0728a047e2cda78fa17118a  python-3.13.4-macos11.pkg.sigstore
+ee850f835499a11bc2eb30c03e2483b26d45a56cf8486522c8b56868138d1b8f  python-3.13.4-test-amd64.zip
+2967f69acd159b4145f727466a42d4f0e9d5a501da760eb2f645e7f3ecbec5c5  python-3.13.4-test-arm64.zip
+e9ab546f3008c39dd13f2e5263c7e69493cf30ea52c02237361acf986a83c967  python-3.13.4-test-win32.zip
+e95ce55d6b485967aa6756a9b18540910690924213b780d6b0b1fa13991db5e8  python-3.13.4-win32.zip
+b3fece33b3402d563da434e938ce5ce52332bdaeda50696aa31886e8b0486ba6  python-3.13.4.exe
+d31e3e5a4a8b8e0450bdadf2d06d2b31bc2c3f49cf2d5c77d8001a3824bec78d  python-3.13.4.exe.asc
+446dbd4893179b652301ac819efb7d6e376be91c90153fee23c03a937ee01e08  python-3.13.4.exe.crt
+97516219c1d3f54e9d8fb6d6c617cb8035adaa2fc6d7e93e3c0d30a2f9a1d641  python-3.13.4.exe.sig
+8bb18d2a2b560e81b96ae94dec385008035993f20d4ce5cfd2db1303329b23a9  python-3.13.4.exe.sigstore
+34516911c09dffc0fcb9c2df84325dfb855949e5bdf2d6b1ddb5d367c5669626  python-3.13.4.exe.spdx.json
+d31e3e5a4a8b8e0450bdadf2d06d2b31bc2c3f49cf2d5c77d8001a3824bec78d  python-3.13.4.exe.asc
+446dbd4893179b652301ac819efb7d6e376be91c90153fee23c03a937ee01e08  python-3.13.4.exe.crt
+97516219c1d3f54e9d8fb6d6c617cb8035adaa2fc6d7e93e3c0d30a2f9a1d641  python-3.13.4.exe.sig
+8bb18d2a2b560e81b96ae94dec385008035993f20d4ce5cfd2db1303329b23a9  python-3.13.4.exe.sigstore
+8bb18d2a2b560e81b96ae94dec385008035993f20d4ce5cfd2db1303329b23a9  python-3.13.4.exe.sigstore
+34516911c09dffc0fcb9c2df84325dfb855949e5bdf2d6b1ddb5d367c5669626  python-3.13.4.exe.spdx.json
+27b15a797562a2971dce3ffe31bb216042ce0b995b39d768cf15f784cc757365  Python-3.13.4.tar.xz
+e42eb84272667c68f1b533f7b87e51fb588491edeb4ec20d7d3730b3e8bb41aa  Python-3.13.4.tar.xz.asc
+bb178699437c6d555eb4d350e5e728f63a487193b56204fe55123c35cdf313bd  Python-3.13.4.tar.xz.crt
+57d894578f5a7335a12b579ba11b53514c22bc4ffe908b039449c4b5c9d1a4cd  Python-3.13.4.tar.xz.sig
+d8f4bf7d1969b4cb648fd2e3f2ad215d48c0d0737acdc6640835d7939d568f9f  Python-3.13.4.tar.xz.sigstore
+a61aec97126f3b2dbd0fed9cc85a22f7d0cc1d7d85ae62076477dc37473f8fb3  Python-3.13.4.tar.xz.spdx.json
+e42eb84272667c68f1b533f7b87e51fb588491edeb4ec20d7d3730b3e8bb41aa  Python-3.13.4.tar.xz.asc
+bb178699437c6d555eb4d350e5e728f63a487193b56204fe55123c35cdf313bd  Python-3.13.4.tar.xz.crt
+57d894578f5a7335a12b579ba11b53514c22bc4ffe908b039449c4b5c9d1a4cd  Python-3.13.4.tar.xz.sig
+d8f4bf7d1969b4cb648fd2e3f2ad215d48c0d0737acdc6640835d7939d568f9f  Python-3.13.4.tar.xz.sigstore
+d8f4bf7d1969b4cb648fd2e3f2ad215d48c0d0737acdc6640835d7939d568f9f  Python-3.13.4.tar.xz.sigstore
+a61aec97126f3b2dbd0fed9cc85a22f7d0cc1d7d85ae62076477dc37473f8fb3  Python-3.13.4.tar.xz.spdx.json
+2666038f1521b7a8ec34bf2997b363778118d6f3979282c93723e872bcd464e0  Python-3.13.4.tgz
+2747f24d8982065e1cae7cf7cf96b4b88a103a7c35cb82db559438146203b03e  Python-3.13.4.tgz.asc
+52c294aa96ada739fc64b21b842b76e19568a1ed40786c3cf4c7740376e78ef2  Python-3.13.4.tgz.crt
+84c0af041f58a81a1129c56d5e8d5133e94aae19678d4eae015fb5bc890ea0b6  Python-3.13.4.tgz.sig
+a23d7779b5c9a2c3ca25723a6aa598831c5992b1df26fcdff1ea4d764f4cf5db  Python-3.13.4.tgz.sigstore
+20ee5ee001f83ece7da875287d7eab6161b4c319cb20493308489ea7c4421313  Python-3.13.4.tgz.spdx.json
+2747f24d8982065e1cae7cf7cf96b4b88a103a7c35cb82db559438146203b03e  Python-3.13.4.tgz.asc
+52c294aa96ada739fc64b21b842b76e19568a1ed40786c3cf4c7740376e78ef2  Python-3.13.4.tgz.crt
+84c0af041f58a81a1129c56d5e8d5133e94aae19678d4eae015fb5bc890ea0b6  Python-3.13.4.tgz.sig
+a23d7779b5c9a2c3ca25723a6aa598831c5992b1df26fcdff1ea4d764f4cf5db  Python-3.13.4.tgz.sigstore
+a23d7779b5c9a2c3ca25723a6aa598831c5992b1df26fcdff1ea4d764f4cf5db  Python-3.13.4.tgz.sigstore
+20ee5ee001f83ece7da875287d7eab6161b4c319cb20493308489ea7c4421313  Python-3.13.4.tgz.spdx.json
+5b3396e9a90eb51764096376fd10f796c4ef1b0aafa10b4f03ad845758e12c9c  python-3.13.4t-amd64.zip
+f32db53da5c5755b79f257cbb4a50f3813bf3e5c19209e9cfcd692e4e11a54d4  python-3.13.4t-arm64.zip
+e75fed567fff3f9a8fc6483eeae9ce80166366ff5eb146f5ad7bf4573ea65d99  python-3.13.4t-win32.zip
+c1cb40978b28f696b111c36034a1bdeda17d25e35c74a08ef5e5ff405a63fc20  python-3.13.5-amd64.exe
+46c04e925270318924e5451057364edb3caf5da6555a8e2ae4baec1ebd1e13c9  python-3.13.5-amd64.exe.asc
+c0068d3dbc96f19114ae81e2546ae197408e362c63353a6862769bd5598807fd  python-3.13.5-amd64.exe.crt
+0c3558cd23514fbc9eea1d79312cfe61d9d38cb0512546bb8f05b1b1dda7b5ed  python-3.13.5-amd64.exe.sig
+404d54dd4cbc38190f884aa623ce915b404ab416a8f33aa643995330dfa6fe34  python-3.13.5-amd64.exe.sigstore
+7f2e362daca63dd5733aee5fe232cd8422e26e339bf6b0aed58a66e4e8a0c7c1  python-3.13.5-amd64.exe.spdx.json
+46c04e925270318924e5451057364edb3caf5da6555a8e2ae4baec1ebd1e13c9  python-3.13.5-amd64.exe.asc
+c0068d3dbc96f19114ae81e2546ae197408e362c63353a6862769bd5598807fd  python-3.13.5-amd64.exe.crt
+0c3558cd23514fbc9eea1d79312cfe61d9d38cb0512546bb8f05b1b1dda7b5ed  python-3.13.5-amd64.exe.sig
+404d54dd4cbc38190f884aa623ce915b404ab416a8f33aa643995330dfa6fe34  python-3.13.5-amd64.exe.sigstore
+404d54dd4cbc38190f884aa623ce915b404ab416a8f33aa643995330dfa6fe34  python-3.13.5-amd64.exe.sigstore
+7f2e362daca63dd5733aee5fe232cd8422e26e339bf6b0aed58a66e4e8a0c7c1  python-3.13.5-amd64.exe.spdx.json
+092624102fa2e2bcf51c41662a69dfd03571bca0c168c8f349441e385d615509  python-3.13.5-amd64.zip
+0bfe8e690f34765b5c26328781fa722741e9a2170fbb754f73dd1fcad6c271d4  python-3.13.5-arm64.exe
+b7a5821dd85ffc94b2d4ebc291332dfca27659cd647be0cd7268def9fc32e889  python-3.13.5-arm64.exe.asc
+974cd469da3fb3d953fa72a4b71302880b60893b90acbed0c20ff488bd2773bb  python-3.13.5-arm64.exe.crt
+cea29a918ef4ee23add2122e384acb6b2bfa3d7eecff7ed0f7dfe2acd0c396ff  python-3.13.5-arm64.exe.sig
+b341ab73b2f2cf6d9318b54b7067a3b8c78238ba5e004f911ba88e372b092df0  python-3.13.5-arm64.exe.sigstore
+7a1deff281db683b762cf3f29cc024202a81aef2dbdecb0f8311f214e68370e1  python-3.13.5-arm64.exe.spdx.json
+b7a5821dd85ffc94b2d4ebc291332dfca27659cd647be0cd7268def9fc32e889  python-3.13.5-arm64.exe.asc
+974cd469da3fb3d953fa72a4b71302880b60893b90acbed0c20ff488bd2773bb  python-3.13.5-arm64.exe.crt
+cea29a918ef4ee23add2122e384acb6b2bfa3d7eecff7ed0f7dfe2acd0c396ff  python-3.13.5-arm64.exe.sig
+b341ab73b2f2cf6d9318b54b7067a3b8c78238ba5e004f911ba88e372b092df0  python-3.13.5-arm64.exe.sigstore
+b341ab73b2f2cf6d9318b54b7067a3b8c78238ba5e004f911ba88e372b092df0  python-3.13.5-arm64.exe.sigstore
+7a1deff281db683b762cf3f29cc024202a81aef2dbdecb0f8311f214e68370e1  python-3.13.5-arm64.exe.spdx.json
+69835bb17d91c5dddacbca475126a2e0ecab25884c3a4eed804c5cb276c78cd0  python-3.13.5-arm64.zip
+7d2650fd9d1b9d002d4a315d5f354247fd6a44f30517c7ef577b08f57a0fb6d9  python-3.13.5-embed-amd64.zip
+1b64388c96c3b9cf1c2c44c053bed2079bffe014c20b0e32d7c707aafc967cab  python-3.13.5-embed-amd64.zip.asc
+ccbd7a82df2b04d4fd751fa71a028a9ed1dc921007f4ac3483b2389bc71571e7  python-3.13.5-embed-amd64.zip.crt
+aaa679545e249e02590c76baf4eb96837f965a714c18399dffbd6e01be3d4ef0  python-3.13.5-embed-amd64.zip.sig
+5d161764f65873dd985806121813c673495937f1be0a65260261aa2ad25ca977  python-3.13.5-embed-amd64.zip.sigstore
+0fc26ce547dc881a7b2ecb35f9ecd680845236d352ef47c313c6f0865a47b38d  python-3.13.5-embed-amd64.zip.spdx.json
+1b64388c96c3b9cf1c2c44c053bed2079bffe014c20b0e32d7c707aafc967cab  python-3.13.5-embed-amd64.zip.asc
+ccbd7a82df2b04d4fd751fa71a028a9ed1dc921007f4ac3483b2389bc71571e7  python-3.13.5-embed-amd64.zip.crt
+aaa679545e249e02590c76baf4eb96837f965a714c18399dffbd6e01be3d4ef0  python-3.13.5-embed-amd64.zip.sig
+5d161764f65873dd985806121813c673495937f1be0a65260261aa2ad25ca977  python-3.13.5-embed-amd64.zip.sigstore
+5d161764f65873dd985806121813c673495937f1be0a65260261aa2ad25ca977  python-3.13.5-embed-amd64.zip.sigstore
+0fc26ce547dc881a7b2ecb35f9ecd680845236d352ef47c313c6f0865a47b38d  python-3.13.5-embed-amd64.zip.spdx.json
+e355b81e8b58e294905ee3fde188e296337ee19b9a42bea8735298914fa3e4b0  python-3.13.5-embed-arm64.zip
+57ac0aae64767ea01768c4c130822e2b296553d434a24d07c8f4cfb62e07c4bd  python-3.13.5-embed-arm64.zip.asc
+d8193b60aeffd0d83db49e03ad403908cf554ebe9bf61604e893ed2f3e77c33b  python-3.13.5-embed-arm64.zip.crt
+5bc1e4fc569b2c2c409b5440db8766090728880702e44d5f1f80f5f6d4cf67a0  python-3.13.5-embed-arm64.zip.sig
+0272e0f5da2ac7176572764025cbd0c0b60b82fb5db8766c3b1082b0ea752278  python-3.13.5-embed-arm64.zip.sigstore
+e60ee250c0ac8697d6b631319cab4119ecd7fcb898aa29608e0c0598d0187170  python-3.13.5-embed-arm64.zip.spdx.json
+57ac0aae64767ea01768c4c130822e2b296553d434a24d07c8f4cfb62e07c4bd  python-3.13.5-embed-arm64.zip.asc
+d8193b60aeffd0d83db49e03ad403908cf554ebe9bf61604e893ed2f3e77c33b  python-3.13.5-embed-arm64.zip.crt
+5bc1e4fc569b2c2c409b5440db8766090728880702e44d5f1f80f5f6d4cf67a0  python-3.13.5-embed-arm64.zip.sig
+0272e0f5da2ac7176572764025cbd0c0b60b82fb5db8766c3b1082b0ea752278  python-3.13.5-embed-arm64.zip.sigstore
+0272e0f5da2ac7176572764025cbd0c0b60b82fb5db8766c3b1082b0ea752278  python-3.13.5-embed-arm64.zip.sigstore
+e60ee250c0ac8697d6b631319cab4119ecd7fcb898aa29608e0c0598d0187170  python-3.13.5-embed-arm64.zip.spdx.json
+809a2b0ca73765f4477e62007194b4d86b9b47a129d569162c6ae052d40ea84f  python-3.13.5-embed-win32.zip
+29f2991c1a28dfc37c0425df13c746ef852f65d9483c25cf89f92a1824628dc5  python-3.13.5-embed-win32.zip.asc
+452f2f5a9bd1b2124ead1d6cf2f9d178e47e0b2c778727e7514fb739b2ef09e6  python-3.13.5-embed-win32.zip.crt
+ad44ba160307db875252b0d34e2abe7075cb507bb177581bec652fed08cb7950  python-3.13.5-embed-win32.zip.sig
+7cc2f920a573c492ee577b4b885f01cf20120bd4d6570ff36aa2bfeedab8aac5  python-3.13.5-embed-win32.zip.sigstore
+c3f477e508869fe047224984435dd3b4acd482f268e39dcd92ceb9cc9bfd2901  python-3.13.5-embed-win32.zip.spdx.json
+29f2991c1a28dfc37c0425df13c746ef852f65d9483c25cf89f92a1824628dc5  python-3.13.5-embed-win32.zip.asc
+452f2f5a9bd1b2124ead1d6cf2f9d178e47e0b2c778727e7514fb739b2ef09e6  python-3.13.5-embed-win32.zip.crt
+ad44ba160307db875252b0d34e2abe7075cb507bb177581bec652fed08cb7950  python-3.13.5-embed-win32.zip.sig
+7cc2f920a573c492ee577b4b885f01cf20120bd4d6570ff36aa2bfeedab8aac5  python-3.13.5-embed-win32.zip.sigstore
+7cc2f920a573c492ee577b4b885f01cf20120bd4d6570ff36aa2bfeedab8aac5  python-3.13.5-embed-win32.zip.sigstore
+c3f477e508869fe047224984435dd3b4acd482f268e39dcd92ceb9cc9bfd2901  python-3.13.5-embed-win32.zip.spdx.json
+1786304c00011679a533d3644176b3694f2035b4cc37b0dc09dd226ad9ff5f26  python-3.13.5-embeddable-amd64.zip
+1763960668091ddefc0b1842faaf1ca4a5ac26339d212f2945a7c37deac13a2f  python-3.13.5-embeddable-arm64.zip
+3221c4af9112e62b50594afa44d784e2fe3655e7b204d401ce60901a2182b830  python-3.13.5-embeddable-win32.zip
+e754d6cae3f2810dd1818c1395a7ff50ce79ade3ec4887f7ce23ad581cc12e3a  python-3.13.5-macos11.pkg
+3ba69cbb0a9b2354dd00854198d16eba711538bb3eba957132acccb8974e81e4  python-3.13.5-macos11.pkg.asc
+b9b1dd79b27e9bdfed95791e73187120f06d7a9bf64491b32797a0976fa10f64  python-3.13.5-macos11.pkg.crt
+686228b6f315622120cb4370e4e05fc50bc5893ba6890e48ff85d425490b0dd2  python-3.13.5-macos11.pkg.sig
+73ddfc43b1b8b9ec9a999c5b8904b2d913555623d4e2f58bb3d21452d09008ed  python-3.13.5-macos11.pkg.sigstore
+3ba69cbb0a9b2354dd00854198d16eba711538bb3eba957132acccb8974e81e4  python-3.13.5-macos11.pkg.asc
+b9b1dd79b27e9bdfed95791e73187120f06d7a9bf64491b32797a0976fa10f64  python-3.13.5-macos11.pkg.crt
+686228b6f315622120cb4370e4e05fc50bc5893ba6890e48ff85d425490b0dd2  python-3.13.5-macos11.pkg.sig
+73ddfc43b1b8b9ec9a999c5b8904b2d913555623d4e2f58bb3d21452d09008ed  python-3.13.5-macos11.pkg.sigstore
+73ddfc43b1b8b9ec9a999c5b8904b2d913555623d4e2f58bb3d21452d09008ed  python-3.13.5-macos11.pkg.sigstore
+fdb1a72973ce33713834e7ac20e8512d7a8aa6c35a696a2ac23697db2094d8c3  python-3.13.5-test-amd64.zip
+25e2c8212bde6b383d7f6cd5cc6656471d02314815a3c4144def224e1fd9bae6  python-3.13.5-test-arm64.zip
+128b62151e949960b7d2de64ac0e215e5c84173a9ae478831c27facc6fd64629  python-3.13.5-test-win32.zip
+a376af950131939bc4338e8ee769ff3dceacd9210913ae4975aa9f7d2cb6c524  python-3.13.5-win32.zip
+a288ada6f394cc934c2e279b7b0cd5a51c0a4e69134d3cfc79839edc6bf27a7f  python-3.13.5.exe
+6a3854eee69ae8364ae54dfc7b3b9ae55c284936463b1b5280e148080cd9d16d  python-3.13.5.exe.asc
+c9f4d96afed929e771048d64c66c53047f37ce175680153369be200929842cc6  python-3.13.5.exe.crt
+0742dab50e18550b2a45137eea882572f08b10ee840fb4dd8414f380edd2aa13  python-3.13.5.exe.sig
+153460548a543db74db0442ead167b2405f1bd380a963007ec94815755efa4fd  python-3.13.5.exe.sigstore
+5bfe363d7bf0d6e7995f344f1299651b964e31a2deeb0379894887a1b02b6317  python-3.13.5.exe.spdx.json
+6a3854eee69ae8364ae54dfc7b3b9ae55c284936463b1b5280e148080cd9d16d  python-3.13.5.exe.asc
+c9f4d96afed929e771048d64c66c53047f37ce175680153369be200929842cc6  python-3.13.5.exe.crt
+0742dab50e18550b2a45137eea882572f08b10ee840fb4dd8414f380edd2aa13  python-3.13.5.exe.sig
+153460548a543db74db0442ead167b2405f1bd380a963007ec94815755efa4fd  python-3.13.5.exe.sigstore
+153460548a543db74db0442ead167b2405f1bd380a963007ec94815755efa4fd  python-3.13.5.exe.sigstore
+5bfe363d7bf0d6e7995f344f1299651b964e31a2deeb0379894887a1b02b6317  python-3.13.5.exe.spdx.json
+93e583f243454e6e9e4588ca2c2662206ad961659863277afcdb96801647d640  Python-3.13.5.tar.xz
+da6e013d98dcf8fc6696cdb2872b0051fc8fdeb632f73ef9f54d7b5a68647401  Python-3.13.5.tar.xz.asc
+1c0ae407d31f528f827557563f42d2b5fc410e557070c25de46cfefc7a0c792c  Python-3.13.5.tar.xz.crt
+865bd56210ff1d2e79bde65fdc4e95c2e4ba1965d201198e19cac2f2cc980f75  Python-3.13.5.tar.xz.sig
+610fbc2236eabeec9a6285360c65643d00b09579ae0b64eefde0e529a127478e  Python-3.13.5.tar.xz.sigstore
+adcb368f34101b550e776b6744ed6540391288bcae82586e6ec88d495fae9681  Python-3.13.5.tar.xz.spdx.json
+da6e013d98dcf8fc6696cdb2872b0051fc8fdeb632f73ef9f54d7b5a68647401  Python-3.13.5.tar.xz.asc
+1c0ae407d31f528f827557563f42d2b5fc410e557070c25de46cfefc7a0c792c  Python-3.13.5.tar.xz.crt
+865bd56210ff1d2e79bde65fdc4e95c2e4ba1965d201198e19cac2f2cc980f75  Python-3.13.5.tar.xz.sig
+610fbc2236eabeec9a6285360c65643d00b09579ae0b64eefde0e529a127478e  Python-3.13.5.tar.xz.sigstore
+610fbc2236eabeec9a6285360c65643d00b09579ae0b64eefde0e529a127478e  Python-3.13.5.tar.xz.sigstore
+adcb368f34101b550e776b6744ed6540391288bcae82586e6ec88d495fae9681  Python-3.13.5.tar.xz.spdx.json
+e6190f52699b534ee203d9f417bdbca05a92f23e35c19c691a50ed2942835385  Python-3.13.5.tgz
+13e8878a66db5ca89f650012ae97afca50e5f033e0feb92f79d7ecc20f4db8ff  Python-3.13.5.tgz.asc
+cef00b6fb99b48db81e9c70795631b60c787d0640267736aba54a8caa40b3770  Python-3.13.5.tgz.crt
+c5bceefb9ffa2cc1d95767faa75f061a98e10f2f9af3e32f27f992e8429775a2  Python-3.13.5.tgz.sig
+0f084a137d1911d92eb61979044f877494be10024411f202766ed643ede61619  Python-3.13.5.tgz.sigstore
+6e6a88ece31922553b5875eb45cae49e86183c0192dd62601e734caee81cec1e  Python-3.13.5.tgz.spdx.json
+13e8878a66db5ca89f650012ae97afca50e5f033e0feb92f79d7ecc20f4db8ff  Python-3.13.5.tgz.asc
+cef00b6fb99b48db81e9c70795631b60c787d0640267736aba54a8caa40b3770  Python-3.13.5.tgz.crt
+c5bceefb9ffa2cc1d95767faa75f061a98e10f2f9af3e32f27f992e8429775a2  Python-3.13.5.tgz.sig
+0f084a137d1911d92eb61979044f877494be10024411f202766ed643ede61619  Python-3.13.5.tgz.sigstore
+0f084a137d1911d92eb61979044f877494be10024411f202766ed643ede61619  Python-3.13.5.tgz.sigstore
+6e6a88ece31922553b5875eb45cae49e86183c0192dd62601e734caee81cec1e  Python-3.13.5.tgz.spdx.json
+fd01d95fe1d36717929b5a2c8569a74af6bb1550ef9338976883dbd5ff832391  python-3.13.5t-amd64.zip
+c6594ca95fb8030bffb10d3ac9a725317c9bdba3841526768084334a019bf791  python-3.13.5t-arm64.zip
+9dbba40d67868152e16ba9ef032b4623820e236b8e732a100c402293a98053ab  python-3.13.5t-win32.zip
+5edce6f0597a9b250c72790dc076649b06c1dc4754f3c68d7c284a1f10c33f36  python-3.13.6-amd64.exe
+52b496c2ec4f3523e60bad10cf79b1e830efca573d114517b09aab411b45720d  python-3.13.6-amd64.exe.asc
+e3cecc4b9c7edfac3fe9cb6c383914c0b09d9a90cd8ac213357bb425e553e073  python-3.13.6-amd64.exe.crt
+b253377a707ad7d99b44f53dd03080b5034b960880f11e58d0249de7ec3d15d2  python-3.13.6-amd64.exe.sig
+9b2c29255348aa9cfa1b4e8cb97677e9083303f4d5dbe8d31c48b6a1d6353e9b  python-3.13.6-amd64.exe.sigstore
+9d92b173ec89175e43bada85beba9e844c1a52795e03308eee7d4bf72f1f29a7  python-3.13.6-amd64.exe.spdx.json
+52b496c2ec4f3523e60bad10cf79b1e830efca573d114517b09aab411b45720d  python-3.13.6-amd64.exe.asc
+e3cecc4b9c7edfac3fe9cb6c383914c0b09d9a90cd8ac213357bb425e553e073  python-3.13.6-amd64.exe.crt
+b253377a707ad7d99b44f53dd03080b5034b960880f11e58d0249de7ec3d15d2  python-3.13.6-amd64.exe.sig
+9b2c29255348aa9cfa1b4e8cb97677e9083303f4d5dbe8d31c48b6a1d6353e9b  python-3.13.6-amd64.exe.sigstore
+9b2c29255348aa9cfa1b4e8cb97677e9083303f4d5dbe8d31c48b6a1d6353e9b  python-3.13.6-amd64.exe.sigstore
+9d92b173ec89175e43bada85beba9e844c1a52795e03308eee7d4bf72f1f29a7  python-3.13.6-amd64.exe.spdx.json
+880028c10d68b87a809e3b3acfc38ef889e891bbe0353ba8772300d33f385f66  python-3.13.6-amd64.zip
+479502c60d40ba554a2a78e9c4159cf10e2c531f864a245006bf093d3b2b642f  python-3.13.6-arm64.exe
+f94949a0f5326e3b4e570763a6759419ea96315117775b0c44652f3bb751e6d5  python-3.13.6-arm64.exe.asc
+fde18cd5f023d742cc3fadb01beedc1c2f3fc8285eb6fd9c4f5b847d09b7d70b  python-3.13.6-arm64.exe.crt
+3c88f9b5b8b4e7116b62536f4412d8a68178243b439bd91bb5b9c765b8b60cf1  python-3.13.6-arm64.exe.sig
+8c94eebddbe92145402fc84f1465f08ab92e9e29c51782468b9b2720af5bce83  python-3.13.6-arm64.exe.sigstore
+114e3c8fe97fce4fff12286b5513e16de15349c220241fcab54c496aa5f40e16  python-3.13.6-arm64.exe.spdx.json
+f94949a0f5326e3b4e570763a6759419ea96315117775b0c44652f3bb751e6d5  python-3.13.6-arm64.exe.asc
+fde18cd5f023d742cc3fadb01beedc1c2f3fc8285eb6fd9c4f5b847d09b7d70b  python-3.13.6-arm64.exe.crt
+3c88f9b5b8b4e7116b62536f4412d8a68178243b439bd91bb5b9c765b8b60cf1  python-3.13.6-arm64.exe.sig
+8c94eebddbe92145402fc84f1465f08ab92e9e29c51782468b9b2720af5bce83  python-3.13.6-arm64.exe.sigstore
+8c94eebddbe92145402fc84f1465f08ab92e9e29c51782468b9b2720af5bce83  python-3.13.6-arm64.exe.sigstore
+114e3c8fe97fce4fff12286b5513e16de15349c220241fcab54c496aa5f40e16  python-3.13.6-arm64.exe.spdx.json
+1fe4674e63bb4fccd9649377501304b98bcd907becf800b33122f2e494f7b9b2  python-3.13.6-arm64.zip
+d6ab71980c0be5809f2a0edd991e28d999e7ac971dc3b6da676dc2f80eac41dd  python-3.13.6-embed-amd64.zip
+39b1f49bde872ef2d705fdc2cac915972e1e5bd14c732cf00945f1da0bd5457b  python-3.13.6-embed-amd64.zip.asc
+f2d33376a4cb407a5334edb266293fc7443eb7928fd23921907bb9b83daccc8e  python-3.13.6-embed-amd64.zip.crt
+0987b58da88b032ea72e893380ffeed3b1b73ca3560a561ce610c32e8ae52b5c  python-3.13.6-embed-amd64.zip.sig
+f70cb60d9754dd14a2389b68d5c7c9e63c67af200dd9d25744cf67c784b46a9a  python-3.13.6-embed-amd64.zip.sigstore
+bc90f711c1f61cacefc42d5f85927f5200e168b3b724093019c2d0edaf0c55be  python-3.13.6-embed-amd64.zip.spdx.json
+39b1f49bde872ef2d705fdc2cac915972e1e5bd14c732cf00945f1da0bd5457b  python-3.13.6-embed-amd64.zip.asc
+f2d33376a4cb407a5334edb266293fc7443eb7928fd23921907bb9b83daccc8e  python-3.13.6-embed-amd64.zip.crt
+0987b58da88b032ea72e893380ffeed3b1b73ca3560a561ce610c32e8ae52b5c  python-3.13.6-embed-amd64.zip.sig
+f70cb60d9754dd14a2389b68d5c7c9e63c67af200dd9d25744cf67c784b46a9a  python-3.13.6-embed-amd64.zip.sigstore
+f70cb60d9754dd14a2389b68d5c7c9e63c67af200dd9d25744cf67c784b46a9a  python-3.13.6-embed-amd64.zip.sigstore
+bc90f711c1f61cacefc42d5f85927f5200e168b3b724093019c2d0edaf0c55be  python-3.13.6-embed-amd64.zip.spdx.json
+89f3f24efc0e83b4424714350c3c1d1653b1ff1b876b2d7ca4e25e82272b1f6c  python-3.13.6-embed-arm64.zip
+b22af6f7122c762401b486c96ac97e5f8f255bf39262b95e4575cb5c36f673b7  python-3.13.6-embed-arm64.zip.asc
+6cf97eca1ad77aa7794d53db42d493a7bcd4340100e1d0f2ddf3b838ce43da98  python-3.13.6-embed-arm64.zip.crt
+7c0f6600d9fbac9af9bac3ef451253c1001ccbf068c506a148855e685fa7557f  python-3.13.6-embed-arm64.zip.sig
+25bfc548d216b615ec4a162dd0b31fefe8a3020e4b13bbf847abfc577931356c  python-3.13.6-embed-arm64.zip.sigstore
+fd4d4a87f0f4fa7f70efa315c37e4c83a9c0537a932a07a6aa4426cfb64bcbc9  python-3.13.6-embed-arm64.zip.spdx.json
+b22af6f7122c762401b486c96ac97e5f8f255bf39262b95e4575cb5c36f673b7  python-3.13.6-embed-arm64.zip.asc
+6cf97eca1ad77aa7794d53db42d493a7bcd4340100e1d0f2ddf3b838ce43da98  python-3.13.6-embed-arm64.zip.crt
+7c0f6600d9fbac9af9bac3ef451253c1001ccbf068c506a148855e685fa7557f  python-3.13.6-embed-arm64.zip.sig
+25bfc548d216b615ec4a162dd0b31fefe8a3020e4b13bbf847abfc577931356c  python-3.13.6-embed-arm64.zip.sigstore
+25bfc548d216b615ec4a162dd0b31fefe8a3020e4b13bbf847abfc577931356c  python-3.13.6-embed-arm64.zip.sigstore
+fd4d4a87f0f4fa7f70efa315c37e4c83a9c0537a932a07a6aa4426cfb64bcbc9  python-3.13.6-embed-arm64.zip.spdx.json
+2ed1bb291a70a2e898ad19df5db45523704ab4a62cc58562d00dffc26d8bdf56  python-3.13.6-embed-win32.zip
+6b9ee83ac95cce12330e36f955486da6955b857bf503f6f5a34764a3c6907722  python-3.13.6-embed-win32.zip.asc
+98cf78e616bd1f39caba9a8e3c0ad1b44ca10891f407830f25cd49afc23d579c  python-3.13.6-embed-win32.zip.crt
+a2e40bbd362c11eede7fbd3a6822cdbf13a091055f8b0015d49bf0caf280ddd4  python-3.13.6-embed-win32.zip.sig
+ce98d28de355f7b39673c23fd4a37bf7b84c4d15ba14f297fbf8dc5db74d3acb  python-3.13.6-embed-win32.zip.sigstore
+f62c4ce40abffc7f2a3be13e32dcc8bb4db8e38c079ff7f6d590b4dba5f59f25  python-3.13.6-embed-win32.zip.spdx.json
+6b9ee83ac95cce12330e36f955486da6955b857bf503f6f5a34764a3c6907722  python-3.13.6-embed-win32.zip.asc
+98cf78e616bd1f39caba9a8e3c0ad1b44ca10891f407830f25cd49afc23d579c  python-3.13.6-embed-win32.zip.crt
+a2e40bbd362c11eede7fbd3a6822cdbf13a091055f8b0015d49bf0caf280ddd4  python-3.13.6-embed-win32.zip.sig
+ce98d28de355f7b39673c23fd4a37bf7b84c4d15ba14f297fbf8dc5db74d3acb  python-3.13.6-embed-win32.zip.sigstore
+ce98d28de355f7b39673c23fd4a37bf7b84c4d15ba14f297fbf8dc5db74d3acb  python-3.13.6-embed-win32.zip.sigstore
+f62c4ce40abffc7f2a3be13e32dcc8bb4db8e38c079ff7f6d590b4dba5f59f25  python-3.13.6-embed-win32.zip.spdx.json
+d76fc28546175e3a8302c50c23297b5f3661df8fa39ef5deee75bf1690a1c2f7  python-3.13.6-embeddable-amd64.zip
+1dc73932bd4ee232dbd9c7693381952bbc9580bde3ae6bd6d6858539a57204ef  python-3.13.6-embeddable-arm64.zip
+af69572520f46fc2fb6e79a38e402285ae28aceeacb1dfde153b42f7cdf169ac  python-3.13.6-embeddable-win32.zip
+0c5d617ec21513a7fecced40409beca445036d1169345349a97f8bf20f1e3f9c  python-3.13.6-macos11.pkg
+a0f8c4597101f36abc55b2e4cfd0ce5fe3ec11794c202607633eb1badabe7bea  python-3.13.6-macos11.pkg.asc
+6ac5c936a96002e70dbf5110c64cdd9400f0b47c2ce347fd35375a8c175cf29b  python-3.13.6-macos11.pkg.crt
+a12dce4dec81121449eacfccccaf7613bcdb9c2e10e0a72882a8fc652b287765  python-3.13.6-macos11.pkg.sig
+2e7eab1e4543ae6073f97261eaed7b9db00bf57b035d5998f7b9135d70b9af1f  python-3.13.6-macos11.pkg.sigstore
+a0f8c4597101f36abc55b2e4cfd0ce5fe3ec11794c202607633eb1badabe7bea  python-3.13.6-macos11.pkg.asc
+6ac5c936a96002e70dbf5110c64cdd9400f0b47c2ce347fd35375a8c175cf29b  python-3.13.6-macos11.pkg.crt
+a12dce4dec81121449eacfccccaf7613bcdb9c2e10e0a72882a8fc652b287765  python-3.13.6-macos11.pkg.sig
+2e7eab1e4543ae6073f97261eaed7b9db00bf57b035d5998f7b9135d70b9af1f  python-3.13.6-macos11.pkg.sigstore
+2e7eab1e4543ae6073f97261eaed7b9db00bf57b035d5998f7b9135d70b9af1f  python-3.13.6-macos11.pkg.sigstore
+192244fe439e10a01180810c44bfe09e8ebc0f8a123070b69eee1b4d7251ea46  python-3.13.6-test-amd64.zip
+e4cb836bfa6abc312366c5e0af9d7d006fd8c45ea61a063c643c3152209a2858  python-3.13.6-test-arm64.zip
+e33c0b8085e6f87f1c60a1bf18b840da016a7c36cdfca4ef1405598d76871be3  python-3.13.6-test-win32.zip
+92818954dfbd5ebbbf30b7f483a051d12694b81a9f6ff87813f46026644bd711  python-3.13.6-win32.zip
+b9996c0765bd2a05d52deadea0469997437a99c60f5573e2cab76eebcc9fd74b  python-3.13.6.exe
+6f3a285065386717c7831259fba719fd1918ddf9ce0a671f2df3b7919e4dc03a  python-3.13.6.exe.asc
+acfaf52a7267cb5321dc0f20c94387393548d6c56d03cde1c58d16b169d1023c  python-3.13.6.exe.crt
+6bb79c04d36cd2697b82a7a3e4e386ec7ab7aa416b23db30dbef70df9538e8f3  python-3.13.6.exe.sig
+46485bea31e2b05bb778cd07f7e98fbdc03e1bd1d2f3f9366b242ae606a6fe70  python-3.13.6.exe.sigstore
+a3ef518eff9dea467d19a214175d2d768c77504f7be29c03eb9aaa540d863928  python-3.13.6.exe.spdx.json
+6f3a285065386717c7831259fba719fd1918ddf9ce0a671f2df3b7919e4dc03a  python-3.13.6.exe.asc
+acfaf52a7267cb5321dc0f20c94387393548d6c56d03cde1c58d16b169d1023c  python-3.13.6.exe.crt
+6bb79c04d36cd2697b82a7a3e4e386ec7ab7aa416b23db30dbef70df9538e8f3  python-3.13.6.exe.sig
+46485bea31e2b05bb778cd07f7e98fbdc03e1bd1d2f3f9366b242ae606a6fe70  python-3.13.6.exe.sigstore
+46485bea31e2b05bb778cd07f7e98fbdc03e1bd1d2f3f9366b242ae606a6fe70  python-3.13.6.exe.sigstore
+a3ef518eff9dea467d19a214175d2d768c77504f7be29c03eb9aaa540d863928  python-3.13.6.exe.spdx.json
+17ba5508819d8736a14fbfc47d36e184946a877851b2e9c4b6c43acb44a3b104  Python-3.13.6.tar.xz
+2af59263e42e4aea3acd37e1fd73b867b85b738bc83c5417674599ae381a5c40  Python-3.13.6.tar.xz.asc
+74c8decf9eab5ee5d94927174cffb589c01e3dfae5fb7d1a2479794a91cebb6e  Python-3.13.6.tar.xz.crt
+3e204e363b8d59f13902e9ac1ee3f5e7912cefbbf83e6746724dd05218d45cab  Python-3.13.6.tar.xz.sig
+2552151b01d92219ed6ee0775c1be03c44cc40de105f7eb544d040af7b2b225e  Python-3.13.6.tar.xz.sigstore
+06b9159e3dbc3614c5936cb36c94fb3cd5a802d693d2eccad973275b1f22af0d  Python-3.13.6.tar.xz.spdx.json
+2af59263e42e4aea3acd37e1fd73b867b85b738bc83c5417674599ae381a5c40  Python-3.13.6.tar.xz.asc
+74c8decf9eab5ee5d94927174cffb589c01e3dfae5fb7d1a2479794a91cebb6e  Python-3.13.6.tar.xz.crt
+3e204e363b8d59f13902e9ac1ee3f5e7912cefbbf83e6746724dd05218d45cab  Python-3.13.6.tar.xz.sig
+2552151b01d92219ed6ee0775c1be03c44cc40de105f7eb544d040af7b2b225e  Python-3.13.6.tar.xz.sigstore
+2552151b01d92219ed6ee0775c1be03c44cc40de105f7eb544d040af7b2b225e  Python-3.13.6.tar.xz.sigstore
+06b9159e3dbc3614c5936cb36c94fb3cd5a802d693d2eccad973275b1f22af0d  Python-3.13.6.tar.xz.spdx.json
+6cf50672cc03928488817d45af24bc927a48f910fe7893d6f388130e59ba98d7  Python-3.13.6.tgz
+ef708255d904e626e772462ebdd7ea065e470b0daf91b1405806c00482d570b5  Python-3.13.6.tgz.asc
+1bb9d44d1debcd0e3bd26de15a4604dc3fccbe2d13b7803f67004396424b5080  Python-3.13.6.tgz.crt
+5f4d41cb9dee43cb4e7e30b69cb800b908eee2ade69f61c0f27ec15aecbc1e07  Python-3.13.6.tgz.sig
+f4918b15e4e3c447ae339818afe7a7308cf16d581d364d7e8657da5ba84e0093  Python-3.13.6.tgz.sigstore
+4e402d78b9219d07579fb60b724fb57dfade77ebcf4e34103d3cf7e99e2d978e  Python-3.13.6.tgz.spdx.json
+ef708255d904e626e772462ebdd7ea065e470b0daf91b1405806c00482d570b5  Python-3.13.6.tgz.asc
+1bb9d44d1debcd0e3bd26de15a4604dc3fccbe2d13b7803f67004396424b5080  Python-3.13.6.tgz.crt
+5f4d41cb9dee43cb4e7e30b69cb800b908eee2ade69f61c0f27ec15aecbc1e07  Python-3.13.6.tgz.sig
+f4918b15e4e3c447ae339818afe7a7308cf16d581d364d7e8657da5ba84e0093  Python-3.13.6.tgz.sigstore
+f4918b15e4e3c447ae339818afe7a7308cf16d581d364d7e8657da5ba84e0093  Python-3.13.6.tgz.sigstore
+4e402d78b9219d07579fb60b724fb57dfade77ebcf4e34103d3cf7e99e2d978e  Python-3.13.6.tgz.spdx.json
+da5850dec1a5f3aaed158a04171009d9273efb7fc911da1bf8d0fa8ab0fba7e3  python-3.13.6t-amd64.zip
+291aba8c965c27d95754c94757e10be5ccab4624846363791e05bd8be450ca6b  python-3.13.6t-arm64.zip
+457efce580c9099b002e1432afa1429bde4f134a31154fe0f1b3faad5543b79d  python-3.13.6t-win32.zip
+b12e2e82461ac8e51fc43289050bc8eb937a32d84ce4d242e2c88258c37cf2bb  python-3.13.7-amd64.exe
+66cae5db60879752e47fff0b51c378a292ba1c2ac6a3b202b760669e6d576569  python-3.13.7-amd64.exe.asc
+68c2c3c0f0fd031832c64b92caea65c86bac567b52eec04fdae0d3d8a705e642  python-3.13.7-amd64.exe.crt
+6dada18beb7d565f400598cf8921eb2eebdc3edb0ed83fbe5964d6ca4453fc32  python-3.13.7-amd64.exe.sig
+2f93f3d9168bff08a506e5a1d57ec4b6907cbaf79a1e16703b8af75773d7d37f  python-3.13.7-amd64.exe.sigstore
+47140e33562231eb3f11c9d0b113991148880e3bfe0c217d4b11c65a11e8f6de  python-3.13.7-amd64.exe.spdx.json
+66cae5db60879752e47fff0b51c378a292ba1c2ac6a3b202b760669e6d576569  python-3.13.7-amd64.exe.asc
+68c2c3c0f0fd031832c64b92caea65c86bac567b52eec04fdae0d3d8a705e642  python-3.13.7-amd64.exe.crt
+6dada18beb7d565f400598cf8921eb2eebdc3edb0ed83fbe5964d6ca4453fc32  python-3.13.7-amd64.exe.sig
+2f93f3d9168bff08a506e5a1d57ec4b6907cbaf79a1e16703b8af75773d7d37f  python-3.13.7-amd64.exe.sigstore
+2f93f3d9168bff08a506e5a1d57ec4b6907cbaf79a1e16703b8af75773d7d37f  python-3.13.7-amd64.exe.sigstore
+47140e33562231eb3f11c9d0b113991148880e3bfe0c217d4b11c65a11e8f6de  python-3.13.7-amd64.exe.spdx.json
+99740e9bce8ea47c726a0247800e18467be7cc90d9bd16754066a62320d9e123  python-3.13.7-amd64.zip
+b51bd85374ae87286339cb92e1479710b71d084356419dc3b12fb888599dfa68  python-3.13.7-arm64.exe
+f376ec58bfde294c08efcf8123ac04a661e4d872f6f42d814c8ae22a465af188  python-3.13.7-arm64.exe.asc
+d5a141927d06ebab558e987fcef83d3771c045e094f0d30dab81fe31d5ce02cb  python-3.13.7-arm64.exe.crt
+13d1d95428931da75de2b701a06e76116903f852c64b059b195407c4572aa6e2  python-3.13.7-arm64.exe.sig
+77457569aefe7f89d5d0827ee83a3f21d202b75979d96e44e4ea0e8b4c782470  python-3.13.7-arm64.exe.sigstore
+b980ed0da4f68a85171868e7bcc5cc442b86bf774f2e6f112716ccae73f77ba3  python-3.13.7-arm64.exe.spdx.json
+f376ec58bfde294c08efcf8123ac04a661e4d872f6f42d814c8ae22a465af188  python-3.13.7-arm64.exe.asc
+d5a141927d06ebab558e987fcef83d3771c045e094f0d30dab81fe31d5ce02cb  python-3.13.7-arm64.exe.crt
+13d1d95428931da75de2b701a06e76116903f852c64b059b195407c4572aa6e2  python-3.13.7-arm64.exe.sig
+77457569aefe7f89d5d0827ee83a3f21d202b75979d96e44e4ea0e8b4c782470  python-3.13.7-arm64.exe.sigstore
+77457569aefe7f89d5d0827ee83a3f21d202b75979d96e44e4ea0e8b4c782470  python-3.13.7-arm64.exe.sigstore
+b980ed0da4f68a85171868e7bcc5cc442b86bf774f2e6f112716ccae73f77ba3  python-3.13.7-arm64.exe.spdx.json
+ef679a70273e25949548f13a7c0bad9ddffd0a515a9cad603d1d652bd7ea44d5  python-3.13.7-arm64.zip
+f6cca216a359be84797cabb54149ce5e062afb16cc7567eb7fc51cacb2d86b65  python-3.13.7-embed-amd64.zip
+b1e01f8ed88de77041239c6f833d130d966816100e8899aacf17eb715e935eb4  python-3.13.7-embed-amd64.zip.asc
+5efef95ba0442a3d0a93c43804ad7c6cd4392bedc0025d30442c4de2120bdec4  python-3.13.7-embed-amd64.zip.crt
+8304d775ef60ecdecff057aaa274c25e5ddaa998387c04131d7b6df20eb97a42  python-3.13.7-embed-amd64.zip.sig
+bf3123bab74faef572c35e852d2a1ab5fb424a15258f1fbbe031b25861e0692d  python-3.13.7-embed-amd64.zip.sigstore
+8748203a7c5dfae388145c797a26492656ba16f9bcf9d5f5cc0b3410eea1637d  python-3.13.7-embed-amd64.zip.spdx.json
+b1e01f8ed88de77041239c6f833d130d966816100e8899aacf17eb715e935eb4  python-3.13.7-embed-amd64.zip.asc
+5efef95ba0442a3d0a93c43804ad7c6cd4392bedc0025d30442c4de2120bdec4  python-3.13.7-embed-amd64.zip.crt
+8304d775ef60ecdecff057aaa274c25e5ddaa998387c04131d7b6df20eb97a42  python-3.13.7-embed-amd64.zip.sig
+bf3123bab74faef572c35e852d2a1ab5fb424a15258f1fbbe031b25861e0692d  python-3.13.7-embed-amd64.zip.sigstore
+bf3123bab74faef572c35e852d2a1ab5fb424a15258f1fbbe031b25861e0692d  python-3.13.7-embed-amd64.zip.sigstore
+8748203a7c5dfae388145c797a26492656ba16f9bcf9d5f5cc0b3410eea1637d  python-3.13.7-embed-amd64.zip.spdx.json
+2ddcf25e71f7205e652ebb57439f22fd2bab37d7f5c9152dbe32867bf2c77a50  python-3.13.7-embed-arm64.zip
+cbb2a79e6be3635e1ffb09e939f84199f7f4d09353bdb9880dfe08af7c30095d  python-3.13.7-embed-arm64.zip.asc
+bc56987cca37464ab477388fc97d3ea3cdb5dfa88f0f64012626c1e860dd2d34  python-3.13.7-embed-arm64.zip.crt
+830743809bff85deef6878558591d704b33938f55ab6406dfa3bf2dffe701962  python-3.13.7-embed-arm64.zip.sig
+22483bc697e252773ff9101c8a5698a4a74638e63db2547124dd58d808cd3503  python-3.13.7-embed-arm64.zip.sigstore
+98a2498cfbb5d51b4c9a5bb91118d4e724165f9615bba361b28c37c66a68062f  python-3.13.7-embed-arm64.zip.spdx.json
+cbb2a79e6be3635e1ffb09e939f84199f7f4d09353bdb9880dfe08af7c30095d  python-3.13.7-embed-arm64.zip.asc
+bc56987cca37464ab477388fc97d3ea3cdb5dfa88f0f64012626c1e860dd2d34  python-3.13.7-embed-arm64.zip.crt
+830743809bff85deef6878558591d704b33938f55ab6406dfa3bf2dffe701962  python-3.13.7-embed-arm64.zip.sig
+22483bc697e252773ff9101c8a5698a4a74638e63db2547124dd58d808cd3503  python-3.13.7-embed-arm64.zip.sigstore
+22483bc697e252773ff9101c8a5698a4a74638e63db2547124dd58d808cd3503  python-3.13.7-embed-arm64.zip.sigstore
+98a2498cfbb5d51b4c9a5bb91118d4e724165f9615bba361b28c37c66a68062f  python-3.13.7-embed-arm64.zip.spdx.json
+19248889d63e1599bc6ae132a40a737d9143e4917d79156e157418f5efc50019  python-3.13.7-embed-win32.zip
+753ebb1bf441e8bafd6b78e4d3af47eb58f08fd732e0b3949efe1a13cbdb8905  python-3.13.7-embed-win32.zip.asc
+3f95983afdcdcd24f1febb82a2e4aecd71894521d2b0a2f315104fd08348fe31  python-3.13.7-embed-win32.zip.crt
+f83f73d889a9b036be40077d7da7e15f311f881bca5aeb4722d620701dd6ce9a  python-3.13.7-embed-win32.zip.sig
+5e45f82a3af947cad5d740bde10430ba18ff4040afa7e8ee60d2c5152c8f4c01  python-3.13.7-embed-win32.zip.sigstore
+47f7258287b264b049c3c51c74061b5008adc85010cc52152bd7abd547009238  python-3.13.7-embed-win32.zip.spdx.json
+753ebb1bf441e8bafd6b78e4d3af47eb58f08fd732e0b3949efe1a13cbdb8905  python-3.13.7-embed-win32.zip.asc
+3f95983afdcdcd24f1febb82a2e4aecd71894521d2b0a2f315104fd08348fe31  python-3.13.7-embed-win32.zip.crt
+f83f73d889a9b036be40077d7da7e15f311f881bca5aeb4722d620701dd6ce9a  python-3.13.7-embed-win32.zip.sig
+5e45f82a3af947cad5d740bde10430ba18ff4040afa7e8ee60d2c5152c8f4c01  python-3.13.7-embed-win32.zip.sigstore
+5e45f82a3af947cad5d740bde10430ba18ff4040afa7e8ee60d2c5152c8f4c01  python-3.13.7-embed-win32.zip.sigstore
+47f7258287b264b049c3c51c74061b5008adc85010cc52152bd7abd547009238  python-3.13.7-embed-win32.zip.spdx.json
+e201b2da753a88c1af29d87f9f48af4d64a0fc8522a204ae672bd2c382496701  python-3.13.7-embeddable-amd64.zip
+82008a900d034a50ee86d235141df40d116c144e9e769df9d13a6fa860e4882c  python-3.13.7-embeddable-arm64.zip
+d13bbb62d9b7b52240377b5d462a1b03ca5b9703f6049710385a3bd1ffc3d827  python-3.13.7-embeddable-win32.zip
+f7e8c8d63ab0a4e736b5864aa369098b16af622042c079addb2f1a08400560c5  python-3.13.7-macos11.pkg
+82667cb1e7152f5738df89a7e7b7715c10a1bca009dce50a974e62d274d212d9  python-3.13.7-macos11.pkg.asc
+014fda3d2760301083f1f780278daeb2ea898683da7a7073a3709860b1b2d081  python-3.13.7-macos11.pkg.crt
+6bfd61c9ace422e7638202e1f858424ddacf592c1fbf23dcef40182efed7d9e3  python-3.13.7-macos11.pkg.sig
+a231f086f57a30700fa3d761aed30349e2c8b4f6e44bbf9e4642ca57a7d3969d  python-3.13.7-macos11.pkg.sigstore
+82667cb1e7152f5738df89a7e7b7715c10a1bca009dce50a974e62d274d212d9  python-3.13.7-macos11.pkg.asc
+014fda3d2760301083f1f780278daeb2ea898683da7a7073a3709860b1b2d081  python-3.13.7-macos11.pkg.crt
+6bfd61c9ace422e7638202e1f858424ddacf592c1fbf23dcef40182efed7d9e3  python-3.13.7-macos11.pkg.sig
+a231f086f57a30700fa3d761aed30349e2c8b4f6e44bbf9e4642ca57a7d3969d  python-3.13.7-macos11.pkg.sigstore
+a231f086f57a30700fa3d761aed30349e2c8b4f6e44bbf9e4642ca57a7d3969d  python-3.13.7-macos11.pkg.sigstore
+5c4ccb0948856905819c55f3ab797be39674ad4859513965c89a82d2ec3c92bb  python-3.13.7-test-amd64.zip
+6df24cf6e4e121f0a5d16716a957cf01023d92a377045e98d86f75cca56c8395  python-3.13.7-test-arm64.zip
+5f9de62ae6041d0b9edbe47ffbaafb6b1fa80985514c264322ffbdbd8897a272  python-3.13.7-test-win32.zip
+11c8d822f49f5ddf9cd7d5b667c7d7bd9be4e1a366212223e0ca4d01cfb34ddb  python-3.13.7-win32.zip
+e31949f61d00ab398c93b21739209477b750b1f5716318e996062816ac2cfcd9  python-3.13.7.exe
+743bb861b9656c5827a4bfc1cb69ec56ee99ef21f57efbeca00cc1c66c6f5744  python-3.13.7.exe.asc
+d8774db5befc9cdbf629152e445ccf2141af607b5f18893181606ca8b4a5f390  python-3.13.7.exe.crt
+30cc7c4fe50ddddd098b5338e9607f8d06ad3682619517e98a85a13e9d2fa0e0  python-3.13.7.exe.sig
+654a11c64a7f3b6bc93778cfcba9c03d007d6bc2850f377e87eaba966b5c130e  python-3.13.7.exe.sigstore
+ff2d2b20f9d321962a7a1abbe81908daa4e805fde6c904f5619846e37a98f2b5  python-3.13.7.exe.spdx.json
+743bb861b9656c5827a4bfc1cb69ec56ee99ef21f57efbeca00cc1c66c6f5744  python-3.13.7.exe.asc
+d8774db5befc9cdbf629152e445ccf2141af607b5f18893181606ca8b4a5f390  python-3.13.7.exe.crt
+30cc7c4fe50ddddd098b5338e9607f8d06ad3682619517e98a85a13e9d2fa0e0  python-3.13.7.exe.sig
+654a11c64a7f3b6bc93778cfcba9c03d007d6bc2850f377e87eaba966b5c130e  python-3.13.7.exe.sigstore
+654a11c64a7f3b6bc93778cfcba9c03d007d6bc2850f377e87eaba966b5c130e  python-3.13.7.exe.sigstore
+ff2d2b20f9d321962a7a1abbe81908daa4e805fde6c904f5619846e37a98f2b5  python-3.13.7.exe.spdx.json
+5462f9099dfd30e238def83c71d91897d8caa5ff6ebc7a50f14d4802cdaaa79a  Python-3.13.7.tar.xz
+5e8fd918d50d4d403f9908ac86933f0c6e2a8f4070586f94bfa7baabee431e7d  Python-3.13.7.tar.xz.asc
+d55dc7710edacbcd75e48495f735fee463aa585ff5ca3e44cd886512984b2faf  Python-3.13.7.tar.xz.crt
+104fe336dc1b26da6d8b2cc1cb60cb41bebd592ffd2e95fe1c18a7eded96b542  Python-3.13.7.tar.xz.sig
+4c1c96187221ef2445f3e8a5dd0e06772e65a094719323564c36a158ab4fadb4  Python-3.13.7.tar.xz.sigstore
+8d0da86266551bd9e59b292edc63848f12bead5ded80951b48956822433523c1  Python-3.13.7.tar.xz.spdx.json
+5e8fd918d50d4d403f9908ac86933f0c6e2a8f4070586f94bfa7baabee431e7d  Python-3.13.7.tar.xz.asc
+d55dc7710edacbcd75e48495f735fee463aa585ff5ca3e44cd886512984b2faf  Python-3.13.7.tar.xz.crt
+104fe336dc1b26da6d8b2cc1cb60cb41bebd592ffd2e95fe1c18a7eded96b542  Python-3.13.7.tar.xz.sig
+4c1c96187221ef2445f3e8a5dd0e06772e65a094719323564c36a158ab4fadb4  Python-3.13.7.tar.xz.sigstore
+4c1c96187221ef2445f3e8a5dd0e06772e65a094719323564c36a158ab4fadb4  Python-3.13.7.tar.xz.sigstore
+8d0da86266551bd9e59b292edc63848f12bead5ded80951b48956822433523c1  Python-3.13.7.tar.xz.spdx.json
+6c9d80839cfa20024f34d9a6dd31ae2a9cd97ff5e980e969209746037a5153b2  Python-3.13.7.tgz
+05633124aa305c0a05ef8b59b035f574581a636820e6d838eadc9fda7a0d221b  Python-3.13.7.tgz.asc
+8bc1d208c93b6d8d5d886053c33a1ec3e37a406e91e04d3066fd115a5373d40a  Python-3.13.7.tgz.crt
+9daa2b01641c148a3a1088e404e113f42f61aa37b5645e8ddcb426ec4251dd57  Python-3.13.7.tgz.sig
+3f2c2b3cfcbe73181b2fc224e1b64ae1b507fc5b0a3b6e51f0602a9de9d63ec8  Python-3.13.7.tgz.sigstore
+b237d7783381c41b526a8df9b33a33160d0544e1f2d5183950a0533a3ab08a57  Python-3.13.7.tgz.spdx.json
+05633124aa305c0a05ef8b59b035f574581a636820e6d838eadc9fda7a0d221b  Python-3.13.7.tgz.asc
+8bc1d208c93b6d8d5d886053c33a1ec3e37a406e91e04d3066fd115a5373d40a  Python-3.13.7.tgz.crt
+9daa2b01641c148a3a1088e404e113f42f61aa37b5645e8ddcb426ec4251dd57  Python-3.13.7.tgz.sig
+3f2c2b3cfcbe73181b2fc224e1b64ae1b507fc5b0a3b6e51f0602a9de9d63ec8  Python-3.13.7.tgz.sigstore
+3f2c2b3cfcbe73181b2fc224e1b64ae1b507fc5b0a3b6e51f0602a9de9d63ec8  Python-3.13.7.tgz.sigstore
+b237d7783381c41b526a8df9b33a33160d0544e1f2d5183950a0533a3ab08a57  Python-3.13.7.tgz.spdx.json
+cfdaa7382616c998d7a51b334ce040b0de32e31d5d67c29ed2a5247825cbd9f0  python-3.13.7t-amd64.zip
+deb3cc3a2ce207ef073f91c0f2cdfdf02d1c4961e464e8a565d6f01e40024594  python-3.13.7t-arm64.zip
+ae03c4cd3142f3d789915d2bb53008157554cbe8df4c8948836f6694a024fc1e  python-3.13.7t-win32.zip
+f17f216f057ed805b653f80a607c0d97d52884b4ed00380acabf199f0c025b14  python-3.13.8-amd64.exe
+ae485065becd67232ad76275e585fd8f65369df17d118f9d90840dbee9043cb5  python-3.13.8-amd64.exe.asc
+55e375cd78b778dc7a474a7b5c673736223766b4541ea63399581fd4c0a02963  python-3.13.8-amd64.exe.crt
+d9f08a1e192196b1eaf51a80e76342b608eb5808ed2b3ea8fdff006517a152f2  python-3.13.8-amd64.exe.sig
+c62a81f8522ba0f42033379300ff7b7c069683443b1e81c92ad92ef1fef696ee  python-3.13.8-amd64.exe.sigstore
+1395959b2adbcda7db50e8fecffbcee7f00e7fdd0629874e206d99831d8e1a92  python-3.13.8-amd64.exe.spdx.json
+ae485065becd67232ad76275e585fd8f65369df17d118f9d90840dbee9043cb5  python-3.13.8-amd64.exe.asc
+55e375cd78b778dc7a474a7b5c673736223766b4541ea63399581fd4c0a02963  python-3.13.8-amd64.exe.crt
+d9f08a1e192196b1eaf51a80e76342b608eb5808ed2b3ea8fdff006517a152f2  python-3.13.8-amd64.exe.sig
+c62a81f8522ba0f42033379300ff7b7c069683443b1e81c92ad92ef1fef696ee  python-3.13.8-amd64.exe.sigstore
+c62a81f8522ba0f42033379300ff7b7c069683443b1e81c92ad92ef1fef696ee  python-3.13.8-amd64.exe.sigstore
+1395959b2adbcda7db50e8fecffbcee7f00e7fdd0629874e206d99831d8e1a92  python-3.13.8-amd64.exe.spdx.json
+6cc2b1a7eda38c8899c1f94dbe191cf27218d619a7c834f2967eac774c52f413  python-3.13.8-amd64.zip
+de8e3ac07c4fe547722cc8d7e0996987d69cb2670c9aa2fbbefcda60e4a2f749  python-3.13.8-arm64.exe
+2557fd4a06758f3e2d64f23b79849be5768db19bb308cc73d25c684ea951a07f  python-3.13.8-arm64.exe.asc
+01984335d51caec7c3b0add7a7ac2fd0214c5a47f7c08d6d255194fa2f4de32c  python-3.13.8-arm64.exe.crt
+a485e6667bd9283ea7b95c4c2b926f2778e82653dfbc0ca4ba96295f2c2d1cdb  python-3.13.8-arm64.exe.sig
+375b83eaa402e48b4827851bc4f412c158fdc95b2b286437483c662e383e4735  python-3.13.8-arm64.exe.sigstore
+77f86f5fbd89709f5d8a601291abb9ee1940fc0910f2a2d25a883406a2b6a1e4  python-3.13.8-arm64.exe.spdx.json
+2557fd4a06758f3e2d64f23b79849be5768db19bb308cc73d25c684ea951a07f  python-3.13.8-arm64.exe.asc
+01984335d51caec7c3b0add7a7ac2fd0214c5a47f7c08d6d255194fa2f4de32c  python-3.13.8-arm64.exe.crt
+a485e6667bd9283ea7b95c4c2b926f2778e82653dfbc0ca4ba96295f2c2d1cdb  python-3.13.8-arm64.exe.sig
+375b83eaa402e48b4827851bc4f412c158fdc95b2b286437483c662e383e4735  python-3.13.8-arm64.exe.sigstore
+375b83eaa402e48b4827851bc4f412c158fdc95b2b286437483c662e383e4735  python-3.13.8-arm64.exe.sigstore
+77f86f5fbd89709f5d8a601291abb9ee1940fc0910f2a2d25a883406a2b6a1e4  python-3.13.8-arm64.exe.spdx.json
+fb2f68c35f7ba6d3894675726b88f033c37e75a49b63e0894989b7b80152f7bb  python-3.13.8-arm64.zip
+3de305b550bdc582f7c31a0f286f5b08c453ae5628ef2800a1bb1f86a42b746c  python-3.13.8-embed-amd64.zip
+ee7247f8cb27963b48a17c70108efee81566acbeba25ca4f6726889fcbfdd15d  python-3.13.8-embed-amd64.zip.asc
+f13af59e28fbfcd6909cbbad855e6c6c071d77f52213e5af96a9634b5709e855  python-3.13.8-embed-amd64.zip.crt
+41ff067666159598815d4d3a4b6a13a5dfd739a8eb26e6ebd572d0b461cb3487  python-3.13.8-embed-amd64.zip.sig
+955e88e5119a36de48f78749cd5b17fafd0cb9db5de16718bd7765827548fe5a  python-3.13.8-embed-amd64.zip.sigstore
+6acfe97635d8fd9ac6212ae139e4630ca0481d6d13770151330cb86f5c11fe52  python-3.13.8-embed-amd64.zip.spdx.json
+ee7247f8cb27963b48a17c70108efee81566acbeba25ca4f6726889fcbfdd15d  python-3.13.8-embed-amd64.zip.asc
+f13af59e28fbfcd6909cbbad855e6c6c071d77f52213e5af96a9634b5709e855  python-3.13.8-embed-amd64.zip.crt
+41ff067666159598815d4d3a4b6a13a5dfd739a8eb26e6ebd572d0b461cb3487  python-3.13.8-embed-amd64.zip.sig
+955e88e5119a36de48f78749cd5b17fafd0cb9db5de16718bd7765827548fe5a  python-3.13.8-embed-amd64.zip.sigstore
+955e88e5119a36de48f78749cd5b17fafd0cb9db5de16718bd7765827548fe5a  python-3.13.8-embed-amd64.zip.sigstore
+6acfe97635d8fd9ac6212ae139e4630ca0481d6d13770151330cb86f5c11fe52  python-3.13.8-embed-amd64.zip.spdx.json
+88db551f5e7bc33b982e5552f62f08125818ee1eefd038afa2e2183bb698ccc8  python-3.13.8-embed-arm64.zip
+7ec937f83d7fb67206027cff8e01db34ebb2700b8d2fff2f076dced26ea0d544  python-3.13.8-embed-arm64.zip.asc
+bb79cf77164c9af1544efb5f81ee6be1bc0050e96c71ff327aefeb8dab860129  python-3.13.8-embed-arm64.zip.crt
+f99626f5a8615a66888e9a729a999f65333508cf3316e3e241cfff41524d9671  python-3.13.8-embed-arm64.zip.sig
+162cc2fb2e17f30982e6a3a841e69a31a01a36d7a9dd555599c89fb4428ab596  python-3.13.8-embed-arm64.zip.sigstore
+7858af44e8b0a469f74780b1e5493926c2054f31c243e1e4f45a5cf0312039b1  python-3.13.8-embed-arm64.zip.spdx.json
+7ec937f83d7fb67206027cff8e01db34ebb2700b8d2fff2f076dced26ea0d544  python-3.13.8-embed-arm64.zip.asc
+bb79cf77164c9af1544efb5f81ee6be1bc0050e96c71ff327aefeb8dab860129  python-3.13.8-embed-arm64.zip.crt
+f99626f5a8615a66888e9a729a999f65333508cf3316e3e241cfff41524d9671  python-3.13.8-embed-arm64.zip.sig
+162cc2fb2e17f30982e6a3a841e69a31a01a36d7a9dd555599c89fb4428ab596  python-3.13.8-embed-arm64.zip.sigstore
+162cc2fb2e17f30982e6a3a841e69a31a01a36d7a9dd555599c89fb4428ab596  python-3.13.8-embed-arm64.zip.sigstore
+7858af44e8b0a469f74780b1e5493926c2054f31c243e1e4f45a5cf0312039b1  python-3.13.8-embed-arm64.zip.spdx.json
+ca1c3e06ddb817d43c0311da69df280ac0f544b063e9c314db62e6642b0f9fb2  python-3.13.8-embed-win32.zip
+4d4c04cbfa0c5b9b87cb1a43773f521d99a21d0e892db2f9eabb6c618e31a969  python-3.13.8-embed-win32.zip.asc
+3000f277b82ad4d442c8fc56ebbd2259e11f7c732a8862011d115d95d53e5a1b  python-3.13.8-embed-win32.zip.crt
+28ed29f97c6b4fc7fb9819a7bac7fccda8d43cb4c630539255167319d4cc2366  python-3.13.8-embed-win32.zip.sig
+5556657bdf910ef52fe92c615d9917e5cf81c8cf15319a3f2e154b6f26d23bef  python-3.13.8-embed-win32.zip.sigstore
+a778bf0d34842548d33deb2ecd2852ee82df67493cfbc44c4027779f7296a1cb  python-3.13.8-embed-win32.zip.spdx.json
+4d4c04cbfa0c5b9b87cb1a43773f521d99a21d0e892db2f9eabb6c618e31a969  python-3.13.8-embed-win32.zip.asc
+3000f277b82ad4d442c8fc56ebbd2259e11f7c732a8862011d115d95d53e5a1b  python-3.13.8-embed-win32.zip.crt
+28ed29f97c6b4fc7fb9819a7bac7fccda8d43cb4c630539255167319d4cc2366  python-3.13.8-embed-win32.zip.sig
+5556657bdf910ef52fe92c615d9917e5cf81c8cf15319a3f2e154b6f26d23bef  python-3.13.8-embed-win32.zip.sigstore
+5556657bdf910ef52fe92c615d9917e5cf81c8cf15319a3f2e154b6f26d23bef  python-3.13.8-embed-win32.zip.sigstore
+a778bf0d34842548d33deb2ecd2852ee82df67493cfbc44c4027779f7296a1cb  python-3.13.8-embed-win32.zip.spdx.json
+84753a150aef6eeec06454cb177e2dd0610b061f575dfe4da3b10953908e6dc0  python-3.13.8-embeddable-amd64.zip
+9f8658e2b3b3c3b261c929015a40ebfe592c9154e7e19076447c51dbd269d78e  python-3.13.8-embeddable-arm64.zip
+a3995a8dfbcbe774799de479ff3a1c73e5b5bfe713b0806cd2aa14971faa2bd7  python-3.13.8-embeddable-win32.zip
+9d85e61fc7dce5025da9264b2241cded3dcd26d0bb33eeffbdc7ad7cc07af3db  python-3.13.8-macos11.pkg
+05a11a2f30beb5fa731e25b9402d6cfcbe34265290922806c9ef46c7bddaab4d  python-3.13.8-macos11.pkg.asc
+feacba4a6a06906f55c7d9232bccad915152cdaec9f19d1a1e2892d2d169e593  python-3.13.8-macos11.pkg.crt
+ca13c74388ea49c0a46e5926910cae0a9b97046d9113317aecddc78e6f3881ad  python-3.13.8-macos11.pkg.sig
+aff974ddd0f251ac8aa3519550e6aa0b89b2aefe3cdd65818045421ef4b4b9a0  python-3.13.8-macos11.pkg.sigstore
+05a11a2f30beb5fa731e25b9402d6cfcbe34265290922806c9ef46c7bddaab4d  python-3.13.8-macos11.pkg.asc
+feacba4a6a06906f55c7d9232bccad915152cdaec9f19d1a1e2892d2d169e593  python-3.13.8-macos11.pkg.crt
+ca13c74388ea49c0a46e5926910cae0a9b97046d9113317aecddc78e6f3881ad  python-3.13.8-macos11.pkg.sig
+aff974ddd0f251ac8aa3519550e6aa0b89b2aefe3cdd65818045421ef4b4b9a0  python-3.13.8-macos11.pkg.sigstore
+aff974ddd0f251ac8aa3519550e6aa0b89b2aefe3cdd65818045421ef4b4b9a0  python-3.13.8-macos11.pkg.sigstore
+3b314e1d0ae11496188dcea8f3154a6432c26e9f7ca00ae4b70a7a86de59d2df  python-3.13.8-test-amd64.zip
+acadacba12d86faf505c36e20ca427e4abba2bf0a90d20ae5e8681fec38cef42  python-3.13.8-test-arm64.zip
+2b7942992e50d148449ea48e5ebffaeb43665102a9621df13489d93cced69611  python-3.13.8-test-win32.zip
+9677775c96e278a8f30342601f28350123b6fc73a28307bdf99e6b2a952547f8  python-3.13.8-win32.zip
+7fae02f38ea0907edeb3d9b501883e11f2ed38e9a8459f048a35dcd6e05d9036  python-3.13.8.exe
+54d6f69c30ca4ae7552764822429f3fb06aa1b3f75d9f2c4f031154f5fe54048  python-3.13.8.exe.asc
+3004e78b751a2d008be8f08c10052c86bd625e12af51cab530df4a6519522962  python-3.13.8.exe.crt
+2d6a68fd88f39a0f46b6b6ae413669909ff9f7df4d83ec2d275de64d445773b6  python-3.13.8.exe.sig
+e8f9d689c87473d1208c0e25d9329c92c0b638fbb6f99c7b922447cfffa3ec43  python-3.13.8.exe.sigstore
+fa81129944e5c3257f9587cc79f6e1a5d2f9af2d6f4bd21b1d244c6972960bda  python-3.13.8.exe.spdx.json
+54d6f69c30ca4ae7552764822429f3fb06aa1b3f75d9f2c4f031154f5fe54048  python-3.13.8.exe.asc
+3004e78b751a2d008be8f08c10052c86bd625e12af51cab530df4a6519522962  python-3.13.8.exe.crt
+2d6a68fd88f39a0f46b6b6ae413669909ff9f7df4d83ec2d275de64d445773b6  python-3.13.8.exe.sig
+e8f9d689c87473d1208c0e25d9329c92c0b638fbb6f99c7b922447cfffa3ec43  python-3.13.8.exe.sigstore
+e8f9d689c87473d1208c0e25d9329c92c0b638fbb6f99c7b922447cfffa3ec43  python-3.13.8.exe.sigstore
+fa81129944e5c3257f9587cc79f6e1a5d2f9af2d6f4bd21b1d244c6972960bda  python-3.13.8.exe.spdx.json
+b9910730526b298299b46b35595ced9055722df60c06ad6301f6a4e2c728a252  Python-3.13.8.tar.xz
+741978566e632b39ba64d522f5e2356e0fca96b0517186a7db64658f38634f8e  Python-3.13.8.tar.xz.asc
+ca13945c8e31e52374c5c55251d3a1ad0093bbe930022b0a8d8faeb08a1d1516  Python-3.13.8.tar.xz.crt
+3608692a0e65076fd899d7add86661805509b42877aa3f4a64e7ba3bfd21267b  Python-3.13.8.tar.xz.sig
+06f376236e1482f0cae667f94019e9c8f07034729c35d734ed869a62828f5a9b  Python-3.13.8.tar.xz.sigstore
+e20e5144962678fe7632f276d7f3558396a8f33abb08180e96f74d584a44b411  Python-3.13.8.tar.xz.spdx.json
+741978566e632b39ba64d522f5e2356e0fca96b0517186a7db64658f38634f8e  Python-3.13.8.tar.xz.asc
+ca13945c8e31e52374c5c55251d3a1ad0093bbe930022b0a8d8faeb08a1d1516  Python-3.13.8.tar.xz.crt
+3608692a0e65076fd899d7add86661805509b42877aa3f4a64e7ba3bfd21267b  Python-3.13.8.tar.xz.sig
+06f376236e1482f0cae667f94019e9c8f07034729c35d734ed869a62828f5a9b  Python-3.13.8.tar.xz.sigstore
+06f376236e1482f0cae667f94019e9c8f07034729c35d734ed869a62828f5a9b  Python-3.13.8.tar.xz.sigstore
+e20e5144962678fe7632f276d7f3558396a8f33abb08180e96f74d584a44b411  Python-3.13.8.tar.xz.spdx.json
+06108fe96f4089b7d9e0096cb4ca9c81ddcd5135f779a7de94cf59abcaa4b53f  Python-3.13.8.tgz
+6730c5bad0a97b27c6c8ec014b0baaf73b40251a1351c3027efc6ca5bd2f1aa4  Python-3.13.8.tgz.asc
+91b487af02dc8f745d1500b8b311409782a4b436619e9746877cbe882bb57139  Python-3.13.8.tgz.crt
+2e79d1137a5e295f3ddf0c1ceb3cc1517de143808f162ef6ec03f2b4f98810af  Python-3.13.8.tgz.sig
+92bb815435d8441c8811127e86de0206ea576a9b15f715ef643800582e22ad2d  Python-3.13.8.tgz.sigstore
+96c62a4d10f0460969dd576ab5effad8cada7dddab2428a0b867b4c866a572bd  Python-3.13.8.tgz.spdx.json
+6730c5bad0a97b27c6c8ec014b0baaf73b40251a1351c3027efc6ca5bd2f1aa4  Python-3.13.8.tgz.asc
+91b487af02dc8f745d1500b8b311409782a4b436619e9746877cbe882bb57139  Python-3.13.8.tgz.crt
+2e79d1137a5e295f3ddf0c1ceb3cc1517de143808f162ef6ec03f2b4f98810af  Python-3.13.8.tgz.sig
+92bb815435d8441c8811127e86de0206ea576a9b15f715ef643800582e22ad2d  Python-3.13.8.tgz.sigstore
+92bb815435d8441c8811127e86de0206ea576a9b15f715ef643800582e22ad2d  Python-3.13.8.tgz.sigstore
+96c62a4d10f0460969dd576ab5effad8cada7dddab2428a0b867b4c866a572bd  Python-3.13.8.tgz.spdx.json
+ff3238e5c2444624a2181f4bde5d5be0c567548abe73c640712864e19622b3bf  python-3.13.8t-amd64.zip
+338b97e120e0b208ed9634cec879b7ef4572aaba1c02a2a854d6f6a2a9c35ffa  python-3.13.8t-arm64.zip
+251c178424e78da98fb9777658d3e02f5f2025cffb40840b1e8e7d29cc6b2b84  python-3.13.8t-win32.zip
+200ddff856bbff949d2cc1be42e8807c07538abd6b6966d5113a094cf628c5c5  python-3.13.9-amd64.exe
+993ef1724766095f59fc54649f633bae7d03b2f62e4e55f4dcea6fccfe8934a5  python-3.13.9-amd64.exe.asc
+740d118739c25e09d8243d97b7ec9a0d0f079d704823e88f27bb44134342c202  python-3.13.9-amd64.exe.crt
+43637b2281ef35bd20093f617f0f415dab61339ad74e0625a31d03aabd49089c  python-3.13.9-amd64.exe.sig
+41ad318b4aa31e5bc1e4d9756f78abe4507aa7f32b618198cc39eb46c7fb31b2  python-3.13.9-amd64.exe.sigstore
+a7d7936ec308e977653b94f554e1bbc6b42cd4c64f250c6462a796525a4e548d  python-3.13.9-amd64.exe.spdx.json
+993ef1724766095f59fc54649f633bae7d03b2f62e4e55f4dcea6fccfe8934a5  python-3.13.9-amd64.exe.asc
+740d118739c25e09d8243d97b7ec9a0d0f079d704823e88f27bb44134342c202  python-3.13.9-amd64.exe.crt
+43637b2281ef35bd20093f617f0f415dab61339ad74e0625a31d03aabd49089c  python-3.13.9-amd64.exe.sig
+41ad318b4aa31e5bc1e4d9756f78abe4507aa7f32b618198cc39eb46c7fb31b2  python-3.13.9-amd64.exe.sigstore
+41ad318b4aa31e5bc1e4d9756f78abe4507aa7f32b618198cc39eb46c7fb31b2  python-3.13.9-amd64.exe.sigstore
+a7d7936ec308e977653b94f554e1bbc6b42cd4c64f250c6462a796525a4e548d  python-3.13.9-amd64.exe.spdx.json
+b87eb2b5d7a31220b56f3ab19b1817065af3dd57997aff752132bc13e7832915  python-3.13.9-amd64.zip
+576feacd21fa3f68953540308918e1a8c54c7c8b3d5b6e1cc931082a99dbd591  python-3.13.9-arm64.exe
+c71c6f34d90e29bbef48f133dcf560f84a91e7fdbe42d3730dc96bac27fa018b  python-3.13.9-arm64.exe.asc
+bbff15093293a8ea591209fa8e616b67ee1c82540f270c235ac4df09371df9c2  python-3.13.9-arm64.exe.crt
+ad4f0989fc0c9e73da6ad217e107f208dd52f10e0e1dabaae29f24a506aac556  python-3.13.9-arm64.exe.sig
+a69560d0cd76e342b995be6f44273ea03664ee7369c48bd6b6b5d6ceb776e42e  python-3.13.9-arm64.exe.sigstore
+de0da10cf3ed7f6c59cc0ed0ea72a22e96fd67992cb3ebb477daa12a0992e790  python-3.13.9-arm64.exe.spdx.json
+c71c6f34d90e29bbef48f133dcf560f84a91e7fdbe42d3730dc96bac27fa018b  python-3.13.9-arm64.exe.asc
+bbff15093293a8ea591209fa8e616b67ee1c82540f270c235ac4df09371df9c2  python-3.13.9-arm64.exe.crt
+ad4f0989fc0c9e73da6ad217e107f208dd52f10e0e1dabaae29f24a506aac556  python-3.13.9-arm64.exe.sig
+a69560d0cd76e342b995be6f44273ea03664ee7369c48bd6b6b5d6ceb776e42e  python-3.13.9-arm64.exe.sigstore
+a69560d0cd76e342b995be6f44273ea03664ee7369c48bd6b6b5d6ceb776e42e  python-3.13.9-arm64.exe.sigstore
+de0da10cf3ed7f6c59cc0ed0ea72a22e96fd67992cb3ebb477daa12a0992e790  python-3.13.9-arm64.exe.spdx.json
+a2c9be03ed6ef59e16f3fc59d86464070c9738bd7ae7a893ec146c1427567169  python-3.13.9-arm64.zip
+91d828c2da3a029b41699e918674a0cb379c02cf20dab9c501306885f837402a  python-3.13.9-embed-amd64.zip
+96e122ae29b7a4c8fa9e2e54e47dbbb1bc61878f7aaf45418018b5f764958826  python-3.13.9-embed-amd64.zip.asc
+10af58fd2661f8cc2d909a85b0c157d783888b69f9e44ecf4619eb22294b49ab  python-3.13.9-embed-amd64.zip.crt
+89fc09f8cf2ce06770144416d804058eff1a4930542acb2a1487f48923401f07  python-3.13.9-embed-amd64.zip.sig
+463cc22f680773d791e5bc027bbcc58c42e54970b8c60af5bf4c2509a3276592  python-3.13.9-embed-amd64.zip.sigstore
+1817b6ade074f8e6413685811acb87bd15bb37e4882c8791e55033fd6f29c088  python-3.13.9-embed-amd64.zip.spdx.json
+96e122ae29b7a4c8fa9e2e54e47dbbb1bc61878f7aaf45418018b5f764958826  python-3.13.9-embed-amd64.zip.asc
+10af58fd2661f8cc2d909a85b0c157d783888b69f9e44ecf4619eb22294b49ab  python-3.13.9-embed-amd64.zip.crt
+89fc09f8cf2ce06770144416d804058eff1a4930542acb2a1487f48923401f07  python-3.13.9-embed-amd64.zip.sig
+463cc22f680773d791e5bc027bbcc58c42e54970b8c60af5bf4c2509a3276592  python-3.13.9-embed-amd64.zip.sigstore
+463cc22f680773d791e5bc027bbcc58c42e54970b8c60af5bf4c2509a3276592  python-3.13.9-embed-amd64.zip.sigstore
+1817b6ade074f8e6413685811acb87bd15bb37e4882c8791e55033fd6f29c088  python-3.13.9-embed-amd64.zip.spdx.json
+cba392bd5c7aed68b26d1b523822cc3d80802c085481dfde79262ebfc7179d26  python-3.13.9-embed-arm64.zip
+2e885161ca96a59c6530e9d28cbe22f74a995c3c9544eabd1af63505e942ffa1  python-3.13.9-embed-arm64.zip.asc
+7d38deabae7dae41df1e83799b4a3700581dc2c9d0cfb4b9a18891dee55f10c4  python-3.13.9-embed-arm64.zip.crt
+7cbb061a27fe52cb0f38328f890345cdae8b56bc4064c6afd815c33bee63a241  python-3.13.9-embed-arm64.zip.sig
+2fadebee0fa104fb17085e4798c252ee15a8d61ed8b1a26edf7b918c6525da9a  python-3.13.9-embed-arm64.zip.sigstore
+d86ac8ddca557eabcb5bfcd6174581742842905fc3354a6526ab1d742ed2ec22  python-3.13.9-embed-arm64.zip.spdx.json
+2e885161ca96a59c6530e9d28cbe22f74a995c3c9544eabd1af63505e942ffa1  python-3.13.9-embed-arm64.zip.asc
+7d38deabae7dae41df1e83799b4a3700581dc2c9d0cfb4b9a18891dee55f10c4  python-3.13.9-embed-arm64.zip.crt
+7cbb061a27fe52cb0f38328f890345cdae8b56bc4064c6afd815c33bee63a241  python-3.13.9-embed-arm64.zip.sig
+2fadebee0fa104fb17085e4798c252ee15a8d61ed8b1a26edf7b918c6525da9a  python-3.13.9-embed-arm64.zip.sigstore
+2fadebee0fa104fb17085e4798c252ee15a8d61ed8b1a26edf7b918c6525da9a  python-3.13.9-embed-arm64.zip.sigstore
+d86ac8ddca557eabcb5bfcd6174581742842905fc3354a6526ab1d742ed2ec22  python-3.13.9-embed-arm64.zip.spdx.json
+66b895cc1b7878207d7a51a0b9bc4ba329a6a89d8e41ff6b66a505267d7ba57a  python-3.13.9-embed-win32.zip
+fc496d8ba3ffc8a342786349839b5e07c476427b321829072c98bc6eff7231d9  python-3.13.9-embed-win32.zip.asc
+d09ccab81d9ce92347c176df035fb8d10f036e175b0cd05aba3a0e7ca32e96b7  python-3.13.9-embed-win32.zip.crt
+920849aad94f6414f11667e46edecc0e82bbf5f466660a1b90ea78514e8c85c0  python-3.13.9-embed-win32.zip.sig
+d155e584b90afde85506bdd5389c566e4335ecc28b361237de779ca07c01430e  python-3.13.9-embed-win32.zip.sigstore
+74a6bbe82fa7749819bc138b0c8c532d1285e9085988364ac3199bb5c90ae2d4  python-3.13.9-embed-win32.zip.spdx.json
+fc496d8ba3ffc8a342786349839b5e07c476427b321829072c98bc6eff7231d9  python-3.13.9-embed-win32.zip.asc
+d09ccab81d9ce92347c176df035fb8d10f036e175b0cd05aba3a0e7ca32e96b7  python-3.13.9-embed-win32.zip.crt
+920849aad94f6414f11667e46edecc0e82bbf5f466660a1b90ea78514e8c85c0  python-3.13.9-embed-win32.zip.sig
+d155e584b90afde85506bdd5389c566e4335ecc28b361237de779ca07c01430e  python-3.13.9-embed-win32.zip.sigstore
+d155e584b90afde85506bdd5389c566e4335ecc28b361237de779ca07c01430e  python-3.13.9-embed-win32.zip.sigstore
+74a6bbe82fa7749819bc138b0c8c532d1285e9085988364ac3199bb5c90ae2d4  python-3.13.9-embed-win32.zip.spdx.json
+760875a79acd02de62d2408e6e2d242d85748c1fc28b72032dca486f8290442a  python-3.13.9-embeddable-amd64.zip
+988fadbf111cff76a55e03aef9f2a69753ae18e6e46682d8446af419abc15190  python-3.13.9-embeddable-arm64.zip
+0e8986d9bdceb000eab9ba9980b2d25ed9675d0819a0b6b2e9f3757b14f9c70a  python-3.13.9-embeddable-win32.zip
+dafebf62b8737f341f6b7eca2d6d1153a50a6b1bfbfa4b8aaf0e62adc73e5017  python-3.13.9-macos11.pkg
+2fbcd5f6daa300c14bd4e4867f09d5f1a5e36e437cc4dbb101c7931c11eadc08  python-3.13.9-macos11.pkg.asc
+7e32babf6bcfab65d6a2c07422f94c452182d5bbff6c011acb2151b5d0ae0303  python-3.13.9-macos11.pkg.crt
+425211ae0cb91e3b837ce84acfc142f4fe05fc33de950c572ad7f30c8235a404  python-3.13.9-macos11.pkg.sig
+4350ab2fc6512ba9bcb69c5c0989fc24d5b7d9dffc1cda423569713d14aba04b  python-3.13.9-macos11.pkg.sigstore
+2fbcd5f6daa300c14bd4e4867f09d5f1a5e36e437cc4dbb101c7931c11eadc08  python-3.13.9-macos11.pkg.asc
+7e32babf6bcfab65d6a2c07422f94c452182d5bbff6c011acb2151b5d0ae0303  python-3.13.9-macos11.pkg.crt
+425211ae0cb91e3b837ce84acfc142f4fe05fc33de950c572ad7f30c8235a404  python-3.13.9-macos11.pkg.sig
+4350ab2fc6512ba9bcb69c5c0989fc24d5b7d9dffc1cda423569713d14aba04b  python-3.13.9-macos11.pkg.sigstore
+4350ab2fc6512ba9bcb69c5c0989fc24d5b7d9dffc1cda423569713d14aba04b  python-3.13.9-macos11.pkg.sigstore
+c9946945c4081662502c7151af82aaaca3eebe1f427cf2e07cb9c89185751b12  python-3.13.9-test-amd64.zip
+6497616b14e6961c090ab877af36775b72db7860673c990095398dd396dbb2a0  python-3.13.9-test-arm64.zip
+d80abf25be290ac8afada1adf0f1997dd6a0802b14a7ab1a022632b81361b12e  python-3.13.9-test-win32.zip
+5585fcbfaf636f4595c1ae6e5d507b6c64cdd469237370580d63197ccdf90ad9  python-3.13.9-win32.zip
+2ea6d14d994602c83306e39d792e74637612240cfa77096da1ac5ba9bacf613c  python-3.13.9.exe
+5b3c2749c667f242d92252fe4ac9a875713920dcdf4fb8cc77f399c680230261  python-3.13.9.exe.asc
+2845a64494634baca45a54c4a9e9798ee165149e01575bcd826216e3139a52d4  python-3.13.9.exe.crt
+886e3b5803498c3c887d9d8c0eea4ea412f743d11f9bfd4ddfe07fded5d0b105  python-3.13.9.exe.sig
+3cf18fa9afa74f02d7fcea189b96504bb392f6258b94a74a6df83dc1f3874c36  python-3.13.9.exe.sigstore
+210b8282c01886e87ffd629a6028e5be62abfc0591dd48dde7678d9e1bf38d77  python-3.13.9.exe.spdx.json
+5b3c2749c667f242d92252fe4ac9a875713920dcdf4fb8cc77f399c680230261  python-3.13.9.exe.asc
+2845a64494634baca45a54c4a9e9798ee165149e01575bcd826216e3139a52d4  python-3.13.9.exe.crt
+886e3b5803498c3c887d9d8c0eea4ea412f743d11f9bfd4ddfe07fded5d0b105  python-3.13.9.exe.sig
+3cf18fa9afa74f02d7fcea189b96504bb392f6258b94a74a6df83dc1f3874c36  python-3.13.9.exe.sigstore
+3cf18fa9afa74f02d7fcea189b96504bb392f6258b94a74a6df83dc1f3874c36  python-3.13.9.exe.sigstore
+210b8282c01886e87ffd629a6028e5be62abfc0591dd48dde7678d9e1bf38d77  python-3.13.9.exe.spdx.json
+ed5ef34cda36cfa2f3a340f07cac7e7814f91c7f3c411f6d3562323a866c5c66  Python-3.13.9.tar.xz
+d86001c1eba764f45ff1982b49fa3defaeef6fb7a54930fc98e0270d1a8b6e08  Python-3.13.9.tar.xz.asc
+dc9971caf622855243aeb625ea8a87ea45d0cd7493ea1e59484ca9afd32ba3c8  Python-3.13.9.tar.xz.crt
+396cb7e9df766e9ed1671b9a645bc110565f3000fbdeb1071d722b67841336b0  Python-3.13.9.tar.xz.sig
+9f4c509a0a51f6fb8ce111ac9658fc8effd6a7a109b1833749061daedd6269d8  Python-3.13.9.tar.xz.sigstore
+79b9eb407a4a18f743c042547fe7f4befd1b0d5ef847f77b76470274d4f16897  Python-3.13.9.tar.xz.spdx.json
+d86001c1eba764f45ff1982b49fa3defaeef6fb7a54930fc98e0270d1a8b6e08  Python-3.13.9.tar.xz.asc
+dc9971caf622855243aeb625ea8a87ea45d0cd7493ea1e59484ca9afd32ba3c8  Python-3.13.9.tar.xz.crt
+396cb7e9df766e9ed1671b9a645bc110565f3000fbdeb1071d722b67841336b0  Python-3.13.9.tar.xz.sig
+9f4c509a0a51f6fb8ce111ac9658fc8effd6a7a109b1833749061daedd6269d8  Python-3.13.9.tar.xz.sigstore
+9f4c509a0a51f6fb8ce111ac9658fc8effd6a7a109b1833749061daedd6269d8  Python-3.13.9.tar.xz.sigstore
+79b9eb407a4a18f743c042547fe7f4befd1b0d5ef847f77b76470274d4f16897  Python-3.13.9.tar.xz.spdx.json
+c4c066af19c98fb7835d473bebd7e23be84f6e9874d47db9e39a68ee5d0ce35c  Python-3.13.9.tgz
+f7d0531e959210cee7d9c493333ae2178eb3ca5e4e64ec0c7ded466bed1fdcd2  Python-3.13.9.tgz.asc
+cfef8e547531029000916cb1f411f2b3a9ef69a08860885bc9bb492ce5b3366b  Python-3.13.9.tgz.crt
+dcea5ae2264d93501301a3c053e4647905a420dd66a1157a7febd95b2c821589  Python-3.13.9.tgz.sig
+c9ad08334087f1ec4563625db6458c2c3862bc07f697cfaf086dcbae6f8c0d8a  Python-3.13.9.tgz.sigstore
+05cddd7e62a4649a6434626f495649c4262b7c20d3e65189bcbc55049f79bdb0  Python-3.13.9.tgz.spdx.json
+f7d0531e959210cee7d9c493333ae2178eb3ca5e4e64ec0c7ded466bed1fdcd2  Python-3.13.9.tgz.asc
+cfef8e547531029000916cb1f411f2b3a9ef69a08860885bc9bb492ce5b3366b  Python-3.13.9.tgz.crt
+dcea5ae2264d93501301a3c053e4647905a420dd66a1157a7febd95b2c821589  Python-3.13.9.tgz.sig
+c9ad08334087f1ec4563625db6458c2c3862bc07f697cfaf086dcbae6f8c0d8a  Python-3.13.9.tgz.sigstore
+c9ad08334087f1ec4563625db6458c2c3862bc07f697cfaf086dcbae6f8c0d8a  Python-3.13.9.tgz.sigstore
+05cddd7e62a4649a6434626f495649c4262b7c20d3e65189bcbc55049f79bdb0  Python-3.13.9.tgz.spdx.json
+15111fcd7ae55ba80fbd83e45d35d77539bff1bb64b32d65843feefa6fbeb942  python-3.13.9t-amd64.zip
+318adaa62489311606ad33e3061e1f470a02caadff2059bece2fd81b1f87ee51  python-3.13.9t-arm64.zip
+c0b62cf49ad1151202a9abcd745994cb611bfd6ffe3d7d90b91aa78a8128457d  python-3.13.9t-win32.zip
+ab30cd76655c6c91243b4f4d5a8499020f6503aa58e92b3e2e94ae4af7353257  python-3.13.10-amd64.exe
+b45dc088126e46418d512bc892e336fc7f75602a69f2471f09ecba6b0b0905c1  python-3.13.10-amd64.exe.asc
+afb0ff4d8b63a08e703bc67b4b815ef060abadd2c9d20533948dc28412cb956e  python-3.13.10-amd64.exe.crt
+23087f62624b6edac13c80ca76987645c556943f1bf4178273f8025cf8e1b32d  python-3.13.10-amd64.exe.sig
+3a48ed418e57d23661879fb10fb7c74e1badd3c51114fc90b0ea2c31182c5c7f  python-3.13.10-amd64.exe.sigstore
+e38811b7e98d9be77ecb2bd9464b5668c4b0ae62b491e1ac7ce414ba4fe7f59c  python-3.13.10-amd64.exe.spdx.json
+b45dc088126e46418d512bc892e336fc7f75602a69f2471f09ecba6b0b0905c1  python-3.13.10-amd64.exe.asc
+afb0ff4d8b63a08e703bc67b4b815ef060abadd2c9d20533948dc28412cb956e  python-3.13.10-amd64.exe.crt
+23087f62624b6edac13c80ca76987645c556943f1bf4178273f8025cf8e1b32d  python-3.13.10-amd64.exe.sig
+3a48ed418e57d23661879fb10fb7c74e1badd3c51114fc90b0ea2c31182c5c7f  python-3.13.10-amd64.exe.sigstore
+3a48ed418e57d23661879fb10fb7c74e1badd3c51114fc90b0ea2c31182c5c7f  python-3.13.10-amd64.exe.sigstore
+e38811b7e98d9be77ecb2bd9464b5668c4b0ae62b491e1ac7ce414ba4fe7f59c  python-3.13.10-amd64.exe.spdx.json
+54bcc5741f0b8db3ebd40acc8e16dfb59eebb2fedbafe65d78be57f992f0f4b3  python-3.13.10-amd64.zip
+0bd671c0c1ce279eb7d6d6cb370583899723a0b1a2b5d55ef3464ba865cca8f7  python-3.13.10-arm64.exe
+e24bc0f391d3eab98bf60beac7bc841b841aa46df8fa1fc3e96e8625a9e6218e  python-3.13.10-arm64.exe.asc
+ccdb66912a2779be1f0ec0e18a65bd89532a5103e44b39991f8a3079ad5530fd  python-3.13.10-arm64.exe.crt
+ca9e2bba38d4646f328ee3d08dd7de75b82893ee1379c6c6722336c7e0c78226  python-3.13.10-arm64.exe.sig
+fbadb9f60f606dc894ec197bb4514c190fc39993c2134f65ad8a70af1536ccc6  python-3.13.10-arm64.exe.sigstore
+07936d77d7a52c745f9fec19ff5dc511767c6e7fa2d6f0dc19782ea6a90decac  python-3.13.10-arm64.exe.spdx.json
+e24bc0f391d3eab98bf60beac7bc841b841aa46df8fa1fc3e96e8625a9e6218e  python-3.13.10-arm64.exe.asc
+ccdb66912a2779be1f0ec0e18a65bd89532a5103e44b39991f8a3079ad5530fd  python-3.13.10-arm64.exe.crt
+ca9e2bba38d4646f328ee3d08dd7de75b82893ee1379c6c6722336c7e0c78226  python-3.13.10-arm64.exe.sig
+fbadb9f60f606dc894ec197bb4514c190fc39993c2134f65ad8a70af1536ccc6  python-3.13.10-arm64.exe.sigstore
+fbadb9f60f606dc894ec197bb4514c190fc39993c2134f65ad8a70af1536ccc6  python-3.13.10-arm64.exe.sigstore
+07936d77d7a52c745f9fec19ff5dc511767c6e7fa2d6f0dc19782ea6a90decac  python-3.13.10-arm64.exe.spdx.json
+55c3b21283d01c8608922a06aadd76ab334fb4630bb04364442b38be15a1c9f7  python-3.13.10-arm64.zip
+e0780912ee37496035bfc81120cc18a0d93921842012d5e83a71b42110452965  python-3.13.10-embed-amd64.zip
+df78f4a125b19d2b05c6c4de1c28642ac81039692085f21b9a43e191bb34bdaa  python-3.13.10-embed-amd64.zip.asc
+e4b3b6cb9f350a867e442a94a595f118c561c63424a75942ec9c133ea60a69a3  python-3.13.10-embed-amd64.zip.crt
+8ccd14cee2610bcaa62c34591236e1ddba7b4bb7bd16646d2a3e262eed1d85a3  python-3.13.10-embed-amd64.zip.sig
+6bc0565197194a8a216050f887fa71c68aff6f010b386f4b4c5b8187596ee734  python-3.13.10-embed-amd64.zip.sigstore
+3254e7927a15a630f72ec81a9beb4c61d3a104b202a0a3c1d413b1a01e0d8f9b  python-3.13.10-embed-amd64.zip.spdx.json
+df78f4a125b19d2b05c6c4de1c28642ac81039692085f21b9a43e191bb34bdaa  python-3.13.10-embed-amd64.zip.asc
+e4b3b6cb9f350a867e442a94a595f118c561c63424a75942ec9c133ea60a69a3  python-3.13.10-embed-amd64.zip.crt
+8ccd14cee2610bcaa62c34591236e1ddba7b4bb7bd16646d2a3e262eed1d85a3  python-3.13.10-embed-amd64.zip.sig
+6bc0565197194a8a216050f887fa71c68aff6f010b386f4b4c5b8187596ee734  python-3.13.10-embed-amd64.zip.sigstore
+6bc0565197194a8a216050f887fa71c68aff6f010b386f4b4c5b8187596ee734  python-3.13.10-embed-amd64.zip.sigstore
+3254e7927a15a630f72ec81a9beb4c61d3a104b202a0a3c1d413b1a01e0d8f9b  python-3.13.10-embed-amd64.zip.spdx.json
+ad270ecb9172a93f400e1c46fb0493df7a4d7c276e8f05fc8b5b3ca18c1053f7  python-3.13.10-embed-arm64.zip
+e7bf45360ee95bd5c79a5ba2a3e2d342803931d1737387252fb3ff1cf8ac0408  python-3.13.10-embed-arm64.zip.asc
+16c0f7f11cbd742b3e81ca754e8669068bc8e07663f63e3e212c738a9351e667  python-3.13.10-embed-arm64.zip.crt
+d4fec7837a220e0e5de0cf7881096b02af1e4ebed1334df8df47058328de5561  python-3.13.10-embed-arm64.zip.sig
+dfcf9f5a62cdc2e4f379f1b00999407457449f877ffdfc42edbe8ffe52a0b325  python-3.13.10-embed-arm64.zip.sigstore
+c119fa0d8c057e8a6fbf5dab121528df7f04fdbc81780773e62f62367a07c1e6  python-3.13.10-embed-arm64.zip.spdx.json
+e7bf45360ee95bd5c79a5ba2a3e2d342803931d1737387252fb3ff1cf8ac0408  python-3.13.10-embed-arm64.zip.asc
+16c0f7f11cbd742b3e81ca754e8669068bc8e07663f63e3e212c738a9351e667  python-3.13.10-embed-arm64.zip.crt
+d4fec7837a220e0e5de0cf7881096b02af1e4ebed1334df8df47058328de5561  python-3.13.10-embed-arm64.zip.sig
+dfcf9f5a62cdc2e4f379f1b00999407457449f877ffdfc42edbe8ffe52a0b325  python-3.13.10-embed-arm64.zip.sigstore
+dfcf9f5a62cdc2e4f379f1b00999407457449f877ffdfc42edbe8ffe52a0b325  python-3.13.10-embed-arm64.zip.sigstore
+c119fa0d8c057e8a6fbf5dab121528df7f04fdbc81780773e62f62367a07c1e6  python-3.13.10-embed-arm64.zip.spdx.json
+70bd534e91639d3f72a6136831bc569e194cd4c79c4e538dd655762d16865d0a  python-3.13.10-embed-win32.zip
+65f05350fb4c82cf3c5f13b8c581473296a95c5f7c22a68b82a1968daa80a5cf  python-3.13.10-embed-win32.zip.asc
+6c2d03edc204ee2a025d4746c4d3c0a9545e5ffe98ec340a11bcc36a822e43f5  python-3.13.10-embed-win32.zip.crt
+deafe8f885a0d56511694df7bcff233cf379a10906d379cbb261ce7fe671379d  python-3.13.10-embed-win32.zip.sig
+2c391b107516e8a1554d6e1f3c6fdcdf7b270e5552435319f019c7ffa6ca82b9  python-3.13.10-embed-win32.zip.sigstore
+070a4a229f2945753e6cc18a288728e6ec9f37fa4f72413ec058581ebcf81181  python-3.13.10-embed-win32.zip.spdx.json
+65f05350fb4c82cf3c5f13b8c581473296a95c5f7c22a68b82a1968daa80a5cf  python-3.13.10-embed-win32.zip.asc
+6c2d03edc204ee2a025d4746c4d3c0a9545e5ffe98ec340a11bcc36a822e43f5  python-3.13.10-embed-win32.zip.crt
+deafe8f885a0d56511694df7bcff233cf379a10906d379cbb261ce7fe671379d  python-3.13.10-embed-win32.zip.sig
+2c391b107516e8a1554d6e1f3c6fdcdf7b270e5552435319f019c7ffa6ca82b9  python-3.13.10-embed-win32.zip.sigstore
+2c391b107516e8a1554d6e1f3c6fdcdf7b270e5552435319f019c7ffa6ca82b9  python-3.13.10-embed-win32.zip.sigstore
+070a4a229f2945753e6cc18a288728e6ec9f37fa4f72413ec058581ebcf81181  python-3.13.10-embed-win32.zip.spdx.json
+42a6995f5badcde341d8cf28b1479dc62d97c6cb153aee694eeeef09b56b9f70  python-3.13.10-embeddable-amd64.zip
+988bf3f99c6657b89dcb097c57ba0303f697c15ae88a4a2cfa6b5dad7795ef0e  python-3.13.10-embeddable-arm64.zip
+9125fda3dcd42a340b2b9f3d02317d4878f87c8512d6161caf7f058882934c68  python-3.13.10-embeddable-win32.zip
+33292ac20d157995a501b86575bf8ca663b686863e8f14617323bfa4183f1ba5  python-3.13.10-macos11.pkg
+3fc600d9cc2fc681b71d15356e8dbffbd07ee13ca824f00d29727f9ddcf91a02  python-3.13.10-macos11.pkg.asc
+d99414c48797fab724f257dd155233b5706557cf8e3f7c1004fe8d8f85371f05  python-3.13.10-macos11.pkg.crt
+f0d0f9cc19d5a96639a985c2595b74e96305807cd0177e5543a01acd63cbed14  python-3.13.10-macos11.pkg.sig
+8f1d7217f5bc30d6327315b9cc75642663bdefa18a7879e87cd491b69431644a  python-3.13.10-macos11.pkg.sigstore
+3fc600d9cc2fc681b71d15356e8dbffbd07ee13ca824f00d29727f9ddcf91a02  python-3.13.10-macos11.pkg.asc
+d99414c48797fab724f257dd155233b5706557cf8e3f7c1004fe8d8f85371f05  python-3.13.10-macos11.pkg.crt
+f0d0f9cc19d5a96639a985c2595b74e96305807cd0177e5543a01acd63cbed14  python-3.13.10-macos11.pkg.sig
+8f1d7217f5bc30d6327315b9cc75642663bdefa18a7879e87cd491b69431644a  python-3.13.10-macos11.pkg.sigstore
+8f1d7217f5bc30d6327315b9cc75642663bdefa18a7879e87cd491b69431644a  python-3.13.10-macos11.pkg.sigstore
+dc9771d0878ebaa699733841685c2faef98a8a8e7deabc3dbceae193a6edca9f  python-3.13.10-test-amd64.zip
+32a746de3b7e0e73e5cfa6b04ec89e4202370ceedf951baf0ddabe2b52b9a1c6  python-3.13.10-test-arm64.zip
+45dcac7856a1619ca92f0fb9835daa4e97f3c0f43e9eb865b95083236940a6e5  python-3.13.10-test-win32.zip
+b463690037529dafaba0f004be608b04b807c11601888e1a72e4d13150c3c11d  python-3.13.10-win32.zip
+bdbfaeb8a236f785e643850520c665095a9a1ae15f5e537d8c9413f2677c84f7  python-3.13.10.exe
+3e9e518e7830da91afb3a0ad106475c50d973ceacb12c5382cd6678947b2db8a  python-3.13.10.exe.asc
+dfb4ad004aa5ff870459edcfdedb6273037e7d505694b390e244f4867f96f197  python-3.13.10.exe.crt
+2f2e336d144eda11d84632b19bec06597063b13e3bda0974e6a9b77f6b0543ec  python-3.13.10.exe.sig
+649672dc67ef62199607c3c1370d4f533bdbebdda9d42c9ee6c67f448473959b  python-3.13.10.exe.sigstore
+b3badb869117860f4bacb616956cdc3e2fd066ef4f7f9ee4b9d6a9aa74ee9cee  python-3.13.10.exe.spdx.json
+3e9e518e7830da91afb3a0ad106475c50d973ceacb12c5382cd6678947b2db8a  python-3.13.10.exe.asc
+dfb4ad004aa5ff870459edcfdedb6273037e7d505694b390e244f4867f96f197  python-3.13.10.exe.crt
+2f2e336d144eda11d84632b19bec06597063b13e3bda0974e6a9b77f6b0543ec  python-3.13.10.exe.sig
+649672dc67ef62199607c3c1370d4f533bdbebdda9d42c9ee6c67f448473959b  python-3.13.10.exe.sigstore
+649672dc67ef62199607c3c1370d4f533bdbebdda9d42c9ee6c67f448473959b  python-3.13.10.exe.sigstore
+b3badb869117860f4bacb616956cdc3e2fd066ef4f7f9ee4b9d6a9aa74ee9cee  python-3.13.10.exe.spdx.json
+bc673c04375a1a3f0808c27ba8f0411ab811ad390a8740318ccb9c60fad8fd77  Python-3.13.10.tar.xz
+2d2dc1b76b8fb639290eb71e0f9da065f9a6042231dcf3ff6b690d97dca75489  Python-3.13.10.tar.xz.asc
+79b50f6d4f14698874f2f8312b3206e25bb0d65f7f6c8075e923951719ce2bcc  Python-3.13.10.tar.xz.crt
+d64ff8e77b4bfed5580589064b4dcd6689c7546648f52ed73e6cb45e1d058a5e  Python-3.13.10.tar.xz.sig
+d8d98bc748de686800d62fc9293d5d92dbad3925255c8b4723f9b9518a15ac3e  Python-3.13.10.tar.xz.sigstore
+ac0a78687c442cf3132a0f05b27b22eba2edcdbad7340a0bd759e8896f6da002  Python-3.13.10.tar.xz.spdx.json
+2d2dc1b76b8fb639290eb71e0f9da065f9a6042231dcf3ff6b690d97dca75489  Python-3.13.10.tar.xz.asc
+79b50f6d4f14698874f2f8312b3206e25bb0d65f7f6c8075e923951719ce2bcc  Python-3.13.10.tar.xz.crt
+d64ff8e77b4bfed5580589064b4dcd6689c7546648f52ed73e6cb45e1d058a5e  Python-3.13.10.tar.xz.sig
+d8d98bc748de686800d62fc9293d5d92dbad3925255c8b4723f9b9518a15ac3e  Python-3.13.10.tar.xz.sigstore
+d8d98bc748de686800d62fc9293d5d92dbad3925255c8b4723f9b9518a15ac3e  Python-3.13.10.tar.xz.sigstore
+ac0a78687c442cf3132a0f05b27b22eba2edcdbad7340a0bd759e8896f6da002  Python-3.13.10.tar.xz.spdx.json
+de5930852e95ba8c17b56548e04648470356ac47f7506014664f8f510d7bd61b  Python-3.13.10.tgz
+4643f577970936cb8c0579dcccfff0f05f6796e20a58b9de04b2af5e92701def  Python-3.13.10.tgz.asc
+d7644e09e36bba6d2d27e4e52a1dabcd4790cc6c84bc393ad5a4aeefe611b630  Python-3.13.10.tgz.crt
+a691f671b6220915ea0220f30198718da209f7dded2347beef2f09767d8b538d  Python-3.13.10.tgz.sig
+87b65af5114e391d31bd82c9ba1fa86adaa26e2a9867873770745280d36190f3  Python-3.13.10.tgz.sigstore
+6ebe26d4cfa461d2c6db9ef7a4a0b2401c608a4767fcae3128f840141fbea18f  Python-3.13.10.tgz.spdx.json
+4643f577970936cb8c0579dcccfff0f05f6796e20a58b9de04b2af5e92701def  Python-3.13.10.tgz.asc
+d7644e09e36bba6d2d27e4e52a1dabcd4790cc6c84bc393ad5a4aeefe611b630  Python-3.13.10.tgz.crt
+a691f671b6220915ea0220f30198718da209f7dded2347beef2f09767d8b538d  Python-3.13.10.tgz.sig
+87b65af5114e391d31bd82c9ba1fa86adaa26e2a9867873770745280d36190f3  Python-3.13.10.tgz.sigstore
+87b65af5114e391d31bd82c9ba1fa86adaa26e2a9867873770745280d36190f3  Python-3.13.10.tgz.sigstore
+6ebe26d4cfa461d2c6db9ef7a4a0b2401c608a4767fcae3128f840141fbea18f  Python-3.13.10.tgz.spdx.json
+e436cfaff4230fcb15bfa59a02bc28cae3955b2a89fb59a90df017683fe40b84  python-3.13.10t-amd64.zip
+b2169bc11747a49cf5a64d4f3ff860e05632b968755abaea9b5f85f04e954371  python-3.13.10t-arm64.zip
+21f37b29b6595a70934eb7ddae55ef1b4bf6e088800f95050bc6b9995e84e86e  python-3.13.10t-win32.zip
+30d4654b3eac7ddfdf2682db4c8dcb490f3055f4f33c6906d6b828f680152101  python-3.13.11-amd64.exe
+66e11600f8ab3d504fbff2b202584ae2325ebec2eb8fd99e1358009d24ed917f  python-3.13.11-amd64.exe.asc
+1bc9531b569f54f261e3b8e0130b89582b1962210237b3d942f4226730e46505  python-3.13.11-amd64.exe.crt
+ddcf8acb2a2e4034ee687a467993058efe3631a5dc1743ef4c4a02f6536586a6  python-3.13.11-amd64.exe.sig
+1777106f5ac662b851f34d018945f2ce703fd524848b41cdfe6841b81c3cc93c  python-3.13.11-amd64.exe.sigstore
+a1399e21d4f6968ecbefbda5c2f23a43f88c26d2a7f42faf462640b899a7ce93  python-3.13.11-amd64.exe.spdx.json
+66e11600f8ab3d504fbff2b202584ae2325ebec2eb8fd99e1358009d24ed917f  python-3.13.11-amd64.exe.asc
+1bc9531b569f54f261e3b8e0130b89582b1962210237b3d942f4226730e46505  python-3.13.11-amd64.exe.crt
+ddcf8acb2a2e4034ee687a467993058efe3631a5dc1743ef4c4a02f6536586a6  python-3.13.11-amd64.exe.sig
+1777106f5ac662b851f34d018945f2ce703fd524848b41cdfe6841b81c3cc93c  python-3.13.11-amd64.exe.sigstore
+1777106f5ac662b851f34d018945f2ce703fd524848b41cdfe6841b81c3cc93c  python-3.13.11-amd64.exe.sigstore
+a1399e21d4f6968ecbefbda5c2f23a43f88c26d2a7f42faf462640b899a7ce93  python-3.13.11-amd64.exe.spdx.json
+b09c691405ffe259cefdad449f72091c6c2b351e1e9061e280fe3e21b07c23bf  python-3.13.11-amd64.zip
+7052eaa658b3cba0cd39afdb05a30e89ca84824ff37a4e4a78d4731ae62564aa  python-3.13.11-arm64.exe
+f98114bdd3221032b67f5ac24d938db80bd3394442bfe6c3f30f6fc9663a4ba8  python-3.13.11-arm64.exe.asc
+b3932e25c46fc1f2fefcae65dc81394dab9f545a7c49c688e1706111432dc503  python-3.13.11-arm64.exe.crt
+35d4e11169e9eefba8f1179075635bdec60e772b7a688d41c048de320f6d5031  python-3.13.11-arm64.exe.sig
+9b8c09b1f4bd5d1da5890bb322db444f081c40301f1811dc09a46cc9ceec7f74  python-3.13.11-arm64.exe.sigstore
+d34a0955d24cfc91cd9e4975b1b7cc4ba88c563b5674102919f6a8bd4e5589ca  python-3.13.11-arm64.exe.spdx.json
+f98114bdd3221032b67f5ac24d938db80bd3394442bfe6c3f30f6fc9663a4ba8  python-3.13.11-arm64.exe.asc
+b3932e25c46fc1f2fefcae65dc81394dab9f545a7c49c688e1706111432dc503  python-3.13.11-arm64.exe.crt
+35d4e11169e9eefba8f1179075635bdec60e772b7a688d41c048de320f6d5031  python-3.13.11-arm64.exe.sig
+9b8c09b1f4bd5d1da5890bb322db444f081c40301f1811dc09a46cc9ceec7f74  python-3.13.11-arm64.exe.sigstore
+9b8c09b1f4bd5d1da5890bb322db444f081c40301f1811dc09a46cc9ceec7f74  python-3.13.11-arm64.exe.sigstore
+d34a0955d24cfc91cd9e4975b1b7cc4ba88c563b5674102919f6a8bd4e5589ca  python-3.13.11-arm64.exe.spdx.json
+e4525d1872148fbc86da8766a275d59076e268d73e32d6efb195e7b784da4ba7  python-3.13.11-arm64.zip
+1ec066fb61ba5e8c73e29e048cd07c26850f74585e3a116005135b31b8004890  python-3.13.11-embed-amd64.zip
+522d7279f3db1c242a451665453f8675080ee2823328d8c72c9bb34a4d9352b1  python-3.13.11-embed-amd64.zip.asc
+471e6bb58dcb9f48a7f492bb5122e1cc97dff76c6812f550c7110b3507db40ab  python-3.13.11-embed-amd64.zip.crt
+f605c2155fc4b4b70debafb22b50229afe4bbe8118d47b7755b973ccf97f15e5  python-3.13.11-embed-amd64.zip.sig
+b5a71ce52900e98eda5399a3c96a2376e483c134abc96d2c58279ced1b339418  python-3.13.11-embed-amd64.zip.sigstore
+8463d4ed38650b1bca91ce5a7461130c6875b78b142e8bf85b2f75ed848619e9  python-3.13.11-embed-amd64.zip.spdx.json
+522d7279f3db1c242a451665453f8675080ee2823328d8c72c9bb34a4d9352b1  python-3.13.11-embed-amd64.zip.asc
+471e6bb58dcb9f48a7f492bb5122e1cc97dff76c6812f550c7110b3507db40ab  python-3.13.11-embed-amd64.zip.crt
+f605c2155fc4b4b70debafb22b50229afe4bbe8118d47b7755b973ccf97f15e5  python-3.13.11-embed-amd64.zip.sig
+b5a71ce52900e98eda5399a3c96a2376e483c134abc96d2c58279ced1b339418  python-3.13.11-embed-amd64.zip.sigstore
+b5a71ce52900e98eda5399a3c96a2376e483c134abc96d2c58279ced1b339418  python-3.13.11-embed-amd64.zip.sigstore
+8463d4ed38650b1bca91ce5a7461130c6875b78b142e8bf85b2f75ed848619e9  python-3.13.11-embed-amd64.zip.spdx.json
+82e03e56e45fa76d1a6c4700434adb46a041f8291e1dfa23fdd9e9a43655c7bf  python-3.13.11-embed-arm64.zip
+4beafd3cc0d8441519889ab2ffb04414ade42058529cd2b9e6f14ecba32054a7  python-3.13.11-embed-arm64.zip.asc
+e23c2b83a3b9ed40addf0f98f73342e4b66f2a3fdcbfef52cd3a58a126787078  python-3.13.11-embed-arm64.zip.crt
+d4999db4dd60c9302c34bc273a9a093fbbf205ed91e4770d9b4aef3751a0471b  python-3.13.11-embed-arm64.zip.sig
+7e5b21dbbac3f1ebd422c1e2998883e0c6edeafecdf5c7ed3840cb20d0c460db  python-3.13.11-embed-arm64.zip.sigstore
+eedaa0c492e7884a38bb95def94172589a7c76998ec88628ba4af7f78c40f6c6  python-3.13.11-embed-arm64.zip.spdx.json
+4beafd3cc0d8441519889ab2ffb04414ade42058529cd2b9e6f14ecba32054a7  python-3.13.11-embed-arm64.zip.asc
+e23c2b83a3b9ed40addf0f98f73342e4b66f2a3fdcbfef52cd3a58a126787078  python-3.13.11-embed-arm64.zip.crt
+d4999db4dd60c9302c34bc273a9a093fbbf205ed91e4770d9b4aef3751a0471b  python-3.13.11-embed-arm64.zip.sig
+7e5b21dbbac3f1ebd422c1e2998883e0c6edeafecdf5c7ed3840cb20d0c460db  python-3.13.11-embed-arm64.zip.sigstore
+7e5b21dbbac3f1ebd422c1e2998883e0c6edeafecdf5c7ed3840cb20d0c460db  python-3.13.11-embed-arm64.zip.sigstore
+eedaa0c492e7884a38bb95def94172589a7c76998ec88628ba4af7f78c40f6c6  python-3.13.11-embed-arm64.zip.spdx.json
+eb85bb9e9c9f236a890259269f23e198757281f7ee9c123f96731a88abbe692e  python-3.13.11-embed-win32.zip
+1c03c9977a1bd1f94de77cd72e4055313a3a5b7a92ded1973eb173b9338bb062  python-3.13.11-embed-win32.zip.asc
+819d6476fb7ad77dbf9ed233f838d9ea0733b51f6335dc8aa5dd9e379f3eee77  python-3.13.11-embed-win32.zip.crt
+a0b69fe83b75fb777379ccb9bcb683af2cd15ba851ae99fa69bf1e9fd85eaf0c  python-3.13.11-embed-win32.zip.sig
+0ae0a19101ecdf9cf29c0c1e23e71bf2c4fbef68345a1358571426985dde85d0  python-3.13.11-embed-win32.zip.sigstore
+937902f3e5573d31559e18298db6851936528377095c5e530e44c1f01c62e634  python-3.13.11-embed-win32.zip.spdx.json
+1c03c9977a1bd1f94de77cd72e4055313a3a5b7a92ded1973eb173b9338bb062  python-3.13.11-embed-win32.zip.asc
+819d6476fb7ad77dbf9ed233f838d9ea0733b51f6335dc8aa5dd9e379f3eee77  python-3.13.11-embed-win32.zip.crt
+a0b69fe83b75fb777379ccb9bcb683af2cd15ba851ae99fa69bf1e9fd85eaf0c  python-3.13.11-embed-win32.zip.sig
+0ae0a19101ecdf9cf29c0c1e23e71bf2c4fbef68345a1358571426985dde85d0  python-3.13.11-embed-win32.zip.sigstore
+0ae0a19101ecdf9cf29c0c1e23e71bf2c4fbef68345a1358571426985dde85d0  python-3.13.11-embed-win32.zip.sigstore
+937902f3e5573d31559e18298db6851936528377095c5e530e44c1f01c62e634  python-3.13.11-embed-win32.zip.spdx.json
+73a9e5629ebbb91877be94b80b51139b2bbd39f83360b9b2f8a745627919e070  python-3.13.11-embeddable-amd64.zip
+184a08d517ed22728752aab9eaf7f9350356b928f13a677eaad147784509612a  python-3.13.11-embeddable-arm64.zip
+bdfb53a66beffd2a614cc214234ff2610a1c9a22c09938f0801a92bcfaa6bc94  python-3.13.11-embeddable-win32.zip
+23fc42230cfe139346516402e395af381ed093032a43a1231c43bca864f006bd  python-3.13.11-macos11.pkg
+ccefcd8d150c8d6d0c4efaf5a285277b48eefa645d97b8951fb5d1f35b890705  python-3.13.11-macos11.pkg.asc
+20cdfa568b025af396fcec4731da4c2f5f438e3ca6917b14c1fc8908b8e1ea57  python-3.13.11-macos11.pkg.crt
+5da1481ba09a7ac114fd16212a6833bf055ce4984ea00c7445450aeff3824720  python-3.13.11-macos11.pkg.sig
+2941612c9b079898867d40ff28bebbca043ab99a21864dfca8fb8d0014eb9624  python-3.13.11-macos11.pkg.sigstore
+ccefcd8d150c8d6d0c4efaf5a285277b48eefa645d97b8951fb5d1f35b890705  python-3.13.11-macos11.pkg.asc
+20cdfa568b025af396fcec4731da4c2f5f438e3ca6917b14c1fc8908b8e1ea57  python-3.13.11-macos11.pkg.crt
+5da1481ba09a7ac114fd16212a6833bf055ce4984ea00c7445450aeff3824720  python-3.13.11-macos11.pkg.sig
+2941612c9b079898867d40ff28bebbca043ab99a21864dfca8fb8d0014eb9624  python-3.13.11-macos11.pkg.sigstore
+2941612c9b079898867d40ff28bebbca043ab99a21864dfca8fb8d0014eb9624  python-3.13.11-macos11.pkg.sigstore
+3cb55fc01521028578fccf2c9ca835701e21d24479377ec37d6a94a50707ad07  python-3.13.11-test-amd64.zip
+c547064996ebc8a485dda0118a9fe1036c6fef782fcbc37d22c66b97ffaa25c7  python-3.13.11-test-arm64.zip
+eef92a89bf4491bee368b71faa9309af4b7068af006f11543f62750041614de3  python-3.13.11-test-win32.zip
+57cde799bc0176775fd31eb86246a892f0504bd98d5680113715008ea4db1fe9  python-3.13.11-win32.zip
+41b14012c34303b5f66f6f0e7d8ff3a4db1e4dd7ca662caf7d6035223a74ed44  python-3.13.11.exe
+498aa8e2bc2a98895c2009b1de09f8ea50d994c045a66be52a40f7192665d5fa  python-3.13.11.exe.asc
+7b06a598ef6b671e3cb21bb5ece6c4c3175c279161a4baa3ea3c6beb9156f556  python-3.13.11.exe.crt
+852325a078214d18d0beac711bd923e5a1435d521637ce7903c5be6370e215a2  python-3.13.11.exe.sig
+b4f06c394de6a0aff075739ee1d09884cff9ba383ebfeaf8b0a460fb9d595b45  python-3.13.11.exe.sigstore
+bed36a07142e04e359d8665ee9a6cb21d1adea70e63470fb010c2c04edea59f5  python-3.13.11.exe.spdx.json
+498aa8e2bc2a98895c2009b1de09f8ea50d994c045a66be52a40f7192665d5fa  python-3.13.11.exe.asc
+7b06a598ef6b671e3cb21bb5ece6c4c3175c279161a4baa3ea3c6beb9156f556  python-3.13.11.exe.crt
+852325a078214d18d0beac711bd923e5a1435d521637ce7903c5be6370e215a2  python-3.13.11.exe.sig
+b4f06c394de6a0aff075739ee1d09884cff9ba383ebfeaf8b0a460fb9d595b45  python-3.13.11.exe.sigstore
+b4f06c394de6a0aff075739ee1d09884cff9ba383ebfeaf8b0a460fb9d595b45  python-3.13.11.exe.sigstore
+bed36a07142e04e359d8665ee9a6cb21d1adea70e63470fb010c2c04edea59f5  python-3.13.11.exe.spdx.json
+16ede7bb7cdbfa895d11b0642fa0e523f291e6487194d53cf6d3b338c3a17ea2  Python-3.13.11.tar.xz
+49508930206f812526482208c7ba44c80514ac3a5b8dab4505bd5a308439b16d  Python-3.13.11.tar.xz.asc
+510c563f9b15387ffddd9200ac34779b41b2a90537904bd98a5609874134cbaa  Python-3.13.11.tar.xz.crt
+c46216d5b3bfaa08b8970a91cc13252ff2b66c1cc4423814167225c1fafa22dd  Python-3.13.11.tar.xz.sig
+e8b4431b75fcb9909975a3da70e7edfd6410b9ad0dc70c8830d6f4be20b1fd5c  Python-3.13.11.tar.xz.sigstore
+0731bb84f5e809bd139ce6f52726742ce1e2e33d91295f5b9c3de99df1e164bd  Python-3.13.11.tar.xz.spdx.json
+49508930206f812526482208c7ba44c80514ac3a5b8dab4505bd5a308439b16d  Python-3.13.11.tar.xz.asc
+510c563f9b15387ffddd9200ac34779b41b2a90537904bd98a5609874134cbaa  Python-3.13.11.tar.xz.crt
+c46216d5b3bfaa08b8970a91cc13252ff2b66c1cc4423814167225c1fafa22dd  Python-3.13.11.tar.xz.sig
+e8b4431b75fcb9909975a3da70e7edfd6410b9ad0dc70c8830d6f4be20b1fd5c  Python-3.13.11.tar.xz.sigstore
+e8b4431b75fcb9909975a3da70e7edfd6410b9ad0dc70c8830d6f4be20b1fd5c  Python-3.13.11.tar.xz.sigstore
+0731bb84f5e809bd139ce6f52726742ce1e2e33d91295f5b9c3de99df1e164bd  Python-3.13.11.tar.xz.spdx.json
+03cfedbe06ce21bc44ce09245e091a77f2fee9ec9be5c52069048a181300b202  Python-3.13.11.tgz
+054b3964eb3b8aca789e468b02117edeb59b449e9151817189e741dd3188485c  Python-3.13.11.tgz.asc
+7090dc20818217cae56789ddd1809d3013ffc9416fa5eb341dc576df873fe3af  Python-3.13.11.tgz.crt
+8bf4416660dc1536f894776bdc8cbac103e93df8a6d54c12988b55bf90645c08  Python-3.13.11.tgz.sig
+bfef9f6f1835a1c9037d160ab9b069a414e5370e4baa1c953ae8d89d1cc35183  Python-3.13.11.tgz.sigstore
+8755bcdc123fb34341f8653bccfbd3ec5e37ce722abeeac575199ff18563a51e  Python-3.13.11.tgz.spdx.json
+054b3964eb3b8aca789e468b02117edeb59b449e9151817189e741dd3188485c  Python-3.13.11.tgz.asc
+7090dc20818217cae56789ddd1809d3013ffc9416fa5eb341dc576df873fe3af  Python-3.13.11.tgz.crt
+8bf4416660dc1536f894776bdc8cbac103e93df8a6d54c12988b55bf90645c08  Python-3.13.11.tgz.sig
+bfef9f6f1835a1c9037d160ab9b069a414e5370e4baa1c953ae8d89d1cc35183  Python-3.13.11.tgz.sigstore
+bfef9f6f1835a1c9037d160ab9b069a414e5370e4baa1c953ae8d89d1cc35183  Python-3.13.11.tgz.sigstore
+8755bcdc123fb34341f8653bccfbd3ec5e37ce722abeeac575199ff18563a51e  Python-3.13.11.tgz.spdx.json
+e0671ab8312d2954a1996f01a7e97ccec4ca0926dd07d341ffbca326b1aa6d10  python-3.13.11t-amd64.zip
+b4181fb45f22dfe37a01f7e4268607974ea5529b16f342f44d1390689716915e  python-3.13.11t-arm64.zip
+0a3db99a0eb11c96beac68d1491c649a00bbdf6d0e757eb04b018c3a283fcd1f  python-3.13.11t-win32.zip
+96159fcb523ae404b707186a75b4104ee23851e476a5e838e14584cf1e03f981  python-3.13.12-amd64.exe
+9d5ce6742367d688b05034f628cca3e76ee4cf6bcb2526ce5ca8072fde0340a7  python-3.13.12-amd64.exe.asc
+816371be8835023c4277c39a429bc8bc7422cdf91f63c671e34f53f226b0e207  python-3.13.12-amd64.exe.crt
+ddd90b019d097da44a35508e9b1a767e17b69e1ed65ed3ad53d5d482a62a3b79  python-3.13.12-amd64.exe.sig
+6416124ee77e3f1db8215f647c6484ecb2f8022ec08d36522730362b4a0a4118  python-3.13.12-amd64.exe.sigstore
+e8cabf65ddba36ee823bc821ec2e8372f5d3e77e7fef03503a1b218b187b689d  python-3.13.12-amd64.exe.spdx.json
+9d5ce6742367d688b05034f628cca3e76ee4cf6bcb2526ce5ca8072fde0340a7  python-3.13.12-amd64.exe.asc
+816371be8835023c4277c39a429bc8bc7422cdf91f63c671e34f53f226b0e207  python-3.13.12-amd64.exe.crt
+ddd90b019d097da44a35508e9b1a767e17b69e1ed65ed3ad53d5d482a62a3b79  python-3.13.12-amd64.exe.sig
+6416124ee77e3f1db8215f647c6484ecb2f8022ec08d36522730362b4a0a4118  python-3.13.12-amd64.exe.sigstore
+6416124ee77e3f1db8215f647c6484ecb2f8022ec08d36522730362b4a0a4118  python-3.13.12-amd64.exe.sigstore
+e8cabf65ddba36ee823bc821ec2e8372f5d3e77e7fef03503a1b218b187b689d  python-3.13.12-amd64.exe.spdx.json
+9089c1f0d720f7c913cd4caf600e6761b0a4d5b90ccf34229fe418ff64a5da5f  python-3.13.12-amd64.zip
+a4476454abcc329b04d330a296995cce5530544d3d2fc006d89f17ae9437fb8c  python-3.13.12-arm64.exe
+15549d3f2a02aea800c17b606d74799a6ffb9ec5423fa957c510c7f00423da12  python-3.13.12-arm64.exe.asc
+5204587d67ac1ae89ff9b5b9968c989d6cbf09f24246e082c1306b0f2bb23550  python-3.13.12-arm64.exe.crt
+91d4d7b8e3eed4130f2277b11e3d83eaf180d5efc2ff5152f2fbf6db97e0b263  python-3.13.12-arm64.exe.sig
+02545598e0f128158478f1e8efd6dba0c32abb57345c1492032eb237a4c10bbe  python-3.13.12-arm64.exe.sigstore
+d48eafd51c54767b2e9fd94cf611ede404ebd79edbfa743ce81138370855f55f  python-3.13.12-arm64.exe.spdx.json
+15549d3f2a02aea800c17b606d74799a6ffb9ec5423fa957c510c7f00423da12  python-3.13.12-arm64.exe.asc
+5204587d67ac1ae89ff9b5b9968c989d6cbf09f24246e082c1306b0f2bb23550  python-3.13.12-arm64.exe.crt
+91d4d7b8e3eed4130f2277b11e3d83eaf180d5efc2ff5152f2fbf6db97e0b263  python-3.13.12-arm64.exe.sig
+02545598e0f128158478f1e8efd6dba0c32abb57345c1492032eb237a4c10bbe  python-3.13.12-arm64.exe.sigstore
+02545598e0f128158478f1e8efd6dba0c32abb57345c1492032eb237a4c10bbe  python-3.13.12-arm64.exe.sigstore
+d48eafd51c54767b2e9fd94cf611ede404ebd79edbfa743ce81138370855f55f  python-3.13.12-arm64.exe.spdx.json
+219f0f991d7765c459d613a9f761bc7d859b1a3b44081248323bacd43c70a5b0  python-3.13.12-arm64.zip
+76f238f606250c87c6beac75dccd35ee99070a13490555936abb6cb64ecce3d0  python-3.13.12-embed-amd64.zip
+ec0661a83700a9905dd549c55202ffef32f8dd973a236a7a433b7c487c2550f6  python-3.13.12-embed-amd64.zip.asc
+17ef3ab3550a47b06169e15cf287f1cea5860e057c69110e1b1c5b70120a7d29  python-3.13.12-embed-amd64.zip.crt
+54059ec68c8d58e83ac2248682f0c4a58effa535f107a4f93cdb428b8727d5d7  python-3.13.12-embed-amd64.zip.sig
+9d1ff3a2aa4e82a08057ddf6dfa6aafed04b169c10d4504b39a7a9884ebce246  python-3.13.12-embed-amd64.zip.sigstore
+77d9c3178214fa388af16c29d64feadee7dcbc8472022f95cf00aefa6a37064a  python-3.13.12-embed-amd64.zip.spdx.json
+ec0661a83700a9905dd549c55202ffef32f8dd973a236a7a433b7c487c2550f6  python-3.13.12-embed-amd64.zip.asc
+17ef3ab3550a47b06169e15cf287f1cea5860e057c69110e1b1c5b70120a7d29  python-3.13.12-embed-amd64.zip.crt
+54059ec68c8d58e83ac2248682f0c4a58effa535f107a4f93cdb428b8727d5d7  python-3.13.12-embed-amd64.zip.sig
+9d1ff3a2aa4e82a08057ddf6dfa6aafed04b169c10d4504b39a7a9884ebce246  python-3.13.12-embed-amd64.zip.sigstore
+9d1ff3a2aa4e82a08057ddf6dfa6aafed04b169c10d4504b39a7a9884ebce246  python-3.13.12-embed-amd64.zip.sigstore
+77d9c3178214fa388af16c29d64feadee7dcbc8472022f95cf00aefa6a37064a  python-3.13.12-embed-amd64.zip.spdx.json
+b034042d46e20de57dab22de1813d56bde286899d9d9991255a7c0e1f7efbfa0  python-3.13.12-embed-arm64.zip
+537cec47ddd721807d0eee5d5e24ed0f277fdfefc2c764210938125c88633023  python-3.13.12-embed-arm64.zip.asc
+3d1ca4b76dd854bacd3e645fc51fc8741e9e977d12908f78ebd1eaa92dadc4a9  python-3.13.12-embed-arm64.zip.crt
+203b6bb9898234a62788c771b55c6ee125a075deda165cc73b99604b19b1de55  python-3.13.12-embed-arm64.zip.sig
+65440b80a021ca4731b3a0de28673a1574a3585294203f17dbf636a298690022  python-3.13.12-embed-arm64.zip.sigstore
+0b28c4bb024f2b18112a189a1b9aefa69a82710bae4844cb5a9feb05c12c476c  python-3.13.12-embed-arm64.zip.spdx.json
+537cec47ddd721807d0eee5d5e24ed0f277fdfefc2c764210938125c88633023  python-3.13.12-embed-arm64.zip.asc
+3d1ca4b76dd854bacd3e645fc51fc8741e9e977d12908f78ebd1eaa92dadc4a9  python-3.13.12-embed-arm64.zip.crt
+203b6bb9898234a62788c771b55c6ee125a075deda165cc73b99604b19b1de55  python-3.13.12-embed-arm64.zip.sig
+65440b80a021ca4731b3a0de28673a1574a3585294203f17dbf636a298690022  python-3.13.12-embed-arm64.zip.sigstore
+65440b80a021ca4731b3a0de28673a1574a3585294203f17dbf636a298690022  python-3.13.12-embed-arm64.zip.sigstore
+0b28c4bb024f2b18112a189a1b9aefa69a82710bae4844cb5a9feb05c12c476c  python-3.13.12-embed-arm64.zip.spdx.json
+51ec4c741212f9488d678033bd2c8a67fc27cf7d36abffee7cb9f4481c9fb52b  python-3.13.12-embed-win32.zip
+0a32f802e977f569f81a082ac352bc5836a70087881b0c6b0a35c67a7f77bbac  python-3.13.12-embed-win32.zip.asc
+c270fc087b6b845ec78c827060e2662480787636115babfe8eb5db329b824730  python-3.13.12-embed-win32.zip.crt
+ba13c387ff1e59345d15167e068a1baac5f111658b0b90ce653ac190376e44cf  python-3.13.12-embed-win32.zip.sig
+938dc914364d4084252b4a0fa183b08eb612814cec0dc0e21b5865eaecf9c361  python-3.13.12-embed-win32.zip.sigstore
+aa8f185c1434cb9ede111de1a3a0ba8b6c8f4e3198a0ac8eedecd4caed60bd4d  python-3.13.12-embed-win32.zip.spdx.json
+0a32f802e977f569f81a082ac352bc5836a70087881b0c6b0a35c67a7f77bbac  python-3.13.12-embed-win32.zip.asc
+c270fc087b6b845ec78c827060e2662480787636115babfe8eb5db329b824730  python-3.13.12-embed-win32.zip.crt
+ba13c387ff1e59345d15167e068a1baac5f111658b0b90ce653ac190376e44cf  python-3.13.12-embed-win32.zip.sig
+938dc914364d4084252b4a0fa183b08eb612814cec0dc0e21b5865eaecf9c361  python-3.13.12-embed-win32.zip.sigstore
+938dc914364d4084252b4a0fa183b08eb612814cec0dc0e21b5865eaecf9c361  python-3.13.12-embed-win32.zip.sigstore
+aa8f185c1434cb9ede111de1a3a0ba8b6c8f4e3198a0ac8eedecd4caed60bd4d  python-3.13.12-embed-win32.zip.spdx.json
+f0b5a8e2662f51cfedefaf7cc0b8c22f05b776efa4a392042946422662e3a23c  python-3.13.12-embeddable-amd64.zip
+552e0653c6dd3c8e6b4e735a0d8550bef50d86079033619f377b841d57276a18  python-3.13.12-embeddable-arm64.zip
+cf6e9a3717d581c1be96003bb75ea8bbc1cb4fa6e1c8f24a554e497f386e138b  python-3.13.12-embeddable-win32.zip
+b8d2eb5b6eabf583dce703027f6d4ed4b71c9bd1b05ad35d1f0c23f78e9aea76  python-3.13.12-macos11.pkg
+82a9035fca7245f0e2d8b1f79fc7a2ab22670589fce36cae4e953011018ededc  python-3.13.12-macos11.pkg.asc
+6d77750550db1e337df8a1291c4a0565bf5cda2044c5e68b5ea9c540f9d02a73  python-3.13.12-macos11.pkg.crt
+785f016b1514269093cbef1b3fe2ae84afe0dd8851979fe084cbfa8f31c6e37a  python-3.13.12-macos11.pkg.sig
+1cbd325a377aa0050f4e3c878ea4b66c575d744acd39ee7b7ede694519196ec9  python-3.13.12-macos11.pkg.sigstore
+82a9035fca7245f0e2d8b1f79fc7a2ab22670589fce36cae4e953011018ededc  python-3.13.12-macos11.pkg.asc
+6d77750550db1e337df8a1291c4a0565bf5cda2044c5e68b5ea9c540f9d02a73  python-3.13.12-macos11.pkg.crt
+785f016b1514269093cbef1b3fe2ae84afe0dd8851979fe084cbfa8f31c6e37a  python-3.13.12-macos11.pkg.sig
+1cbd325a377aa0050f4e3c878ea4b66c575d744acd39ee7b7ede694519196ec9  python-3.13.12-macos11.pkg.sigstore
+1cbd325a377aa0050f4e3c878ea4b66c575d744acd39ee7b7ede694519196ec9  python-3.13.12-macos11.pkg.sigstore
+aaf2a7586a51e8e274d3af71be8a3a23da94be0fc0d411080361156f23f633a8  python-3.13.12-test-amd64.zip
+04dae06f205d327e93266c5b79a621babcce29059d0ecfe026a807d5fe5df1b2  python-3.13.12-test-arm64.zip
+91852f2940a6de82d1941745d6a6705924a0c30677a7fe68c42f132151d6e543  python-3.13.12-test-win32.zip
+2bcf0c5556f06bf0b64fde8d87cdf0125e66112eeb5f94ca62e1d1970987cf14  python-3.13.12-win32.zip
+9203d78e635e4f348d62f574a01cc58c7a1ba87d30252f5e0e1f5c0330667a6e  python-3.13.12.exe
+4f1e9eef511074fde9c6375f61e74c57a457113ffde4dfaa1b3423e5bc94d71a  python-3.13.12.exe.asc
+5375e28d6c2d8a0af79947d331c91f1cb7ea0caf3e9a5f728d7aabd043c27ab1  python-3.13.12.exe.crt
+7095f3717a2ceee00e7c36551762c00487f00ffc17a06103bc7cf4dd39cc8750  python-3.13.12.exe.sig
+adfe56c4a855af7e02900298b44770dfe8011fc96dda4de923917164b4922733  python-3.13.12.exe.sigstore
+fdb29dce6b85faee2d3a6890faf7f15a56439807c33c9fcb0ae75640c94e6a00  python-3.13.12.exe.spdx.json
+4f1e9eef511074fde9c6375f61e74c57a457113ffde4dfaa1b3423e5bc94d71a  python-3.13.12.exe.asc
+5375e28d6c2d8a0af79947d331c91f1cb7ea0caf3e9a5f728d7aabd043c27ab1  python-3.13.12.exe.crt
+7095f3717a2ceee00e7c36551762c00487f00ffc17a06103bc7cf4dd39cc8750  python-3.13.12.exe.sig
+adfe56c4a855af7e02900298b44770dfe8011fc96dda4de923917164b4922733  python-3.13.12.exe.sigstore
+adfe56c4a855af7e02900298b44770dfe8011fc96dda4de923917164b4922733  python-3.13.12.exe.sigstore
+fdb29dce6b85faee2d3a6890faf7f15a56439807c33c9fcb0ae75640c94e6a00  python-3.13.12.exe.spdx.json
+2a84cd31dd8d8ea8aaff75de66fc1b4b0127dd5799aa50a64ae9a313885b4593  Python-3.13.12.tar.xz
+1a0f233d4f31ad9cdda8bfd4db856c74654704304816c00e5ca159e28fb1c925  Python-3.13.12.tar.xz.asc
+3517733aa687f0169ea6e0d238e66b1a9d51e2c4ddb6255756b136e14f1aeb7f  Python-3.13.12.tar.xz.crt
+01d6c3d0e37849a0d1632b2baa067ecd7b65e9e3574d5622ac6d033edaf38042  Python-3.13.12.tar.xz.sig
+8158fce599e647dbcd6f88345f743af3e09011d58132cf9b33be9f974e9405b3  Python-3.13.12.tar.xz.sigstore
+0e2ce042cea538f320fe824103c09be66212a0657a9f20750c61b215d398fb31  Python-3.13.12.tar.xz.spdx.json
+1a0f233d4f31ad9cdda8bfd4db856c74654704304816c00e5ca159e28fb1c925  Python-3.13.12.tar.xz.asc
+3517733aa687f0169ea6e0d238e66b1a9d51e2c4ddb6255756b136e14f1aeb7f  Python-3.13.12.tar.xz.crt
+01d6c3d0e37849a0d1632b2baa067ecd7b65e9e3574d5622ac6d033edaf38042  Python-3.13.12.tar.xz.sig
+8158fce599e647dbcd6f88345f743af3e09011d58132cf9b33be9f974e9405b3  Python-3.13.12.tar.xz.sigstore
+8158fce599e647dbcd6f88345f743af3e09011d58132cf9b33be9f974e9405b3  Python-3.13.12.tar.xz.sigstore
+0e2ce042cea538f320fe824103c09be66212a0657a9f20750c61b215d398fb31  Python-3.13.12.tar.xz.spdx.json
+12e7cb170ad2d1a69aee96a1cc7fc8de5b1e97a2bdac51683a3db016ec9a2996  Python-3.13.12.tgz
+54aecdd524763ffda49b83ac0469836661d7ec7a4990087fedee3b6b4a01cd25  Python-3.13.12.tgz.asc
+b0a92c9a61b908a8da4942b0d567dc6644b9a05dcc356a9b9caa7dd19b6e7707  Python-3.13.12.tgz.crt
+fb20891ded6c135842513bcb95422a0527cb1cbc82c9325745ebe0a0085b2882  Python-3.13.12.tgz.sig
+da88d50a2cb2a6f67c381eca4d87da5d31d5053615cc8d6c637a35e1c2a054a4  Python-3.13.12.tgz.sigstore
+4cfe3cf6183bb815c3b6ce4582aaec2327e5fa28b8467038702dc5fb331fe218  Python-3.13.12.tgz.spdx.json
+54aecdd524763ffda49b83ac0469836661d7ec7a4990087fedee3b6b4a01cd25  Python-3.13.12.tgz.asc
+b0a92c9a61b908a8da4942b0d567dc6644b9a05dcc356a9b9caa7dd19b6e7707  Python-3.13.12.tgz.crt
+fb20891ded6c135842513bcb95422a0527cb1cbc82c9325745ebe0a0085b2882  Python-3.13.12.tgz.sig
+da88d50a2cb2a6f67c381eca4d87da5d31d5053615cc8d6c637a35e1c2a054a4  Python-3.13.12.tgz.sigstore
+da88d50a2cb2a6f67c381eca4d87da5d31d5053615cc8d6c637a35e1c2a054a4  Python-3.13.12.tgz.sigstore
+4cfe3cf6183bb815c3b6ce4582aaec2327e5fa28b8467038702dc5fb331fe218  Python-3.13.12.tgz.spdx.json
+5b3d67efe324ad66974a0ae254e450f87984709fc508964560b6e449d6156534  python-3.13.12t-amd64.zip
+7e26de5c3f91876ddf210a00ab2b992b6822e8df7bb807527b2716fcb426d31a  python-3.13.12t-arm64.zip
+e4a41da97c2da186b84fd5113e76d3af762219155f8b8e769cfcf51a5145133f  python-3.13.12t-win32.zip
+f09bd8ae86f408580881ae224e848805c267bb65b3111dc77b41bda79456da6c  python-3.14.0-aarch64-linux-android.tar.gz
+1ee8b49d8081fc74ad12ba430c1aa26253498f4368dadd0265bf0448fb5d6a78  python-3.14.0-aarch64-linux-android.tar.gz.crt
+e8f32049bdb2990aebe29bf6c074136c7fa15f477eafc437bbca055c58d3d9fe  python-3.14.0-aarch64-linux-android.tar.gz.sig
+85e46ba92191a6725a07616bae2eb868be2eec9b1ad05412a642a8830f3110b7  python-3.14.0-aarch64-linux-android.tar.gz.sigstore
+1ee8b49d8081fc74ad12ba430c1aa26253498f4368dadd0265bf0448fb5d6a78  python-3.14.0-aarch64-linux-android.tar.gz.crt
+e8f32049bdb2990aebe29bf6c074136c7fa15f477eafc437bbca055c58d3d9fe  python-3.14.0-aarch64-linux-android.tar.gz.sig
+85e46ba92191a6725a07616bae2eb868be2eec9b1ad05412a642a8830f3110b7  python-3.14.0-aarch64-linux-android.tar.gz.sigstore
+85e46ba92191a6725a07616bae2eb868be2eec9b1ad05412a642a8830f3110b7  python-3.14.0-aarch64-linux-android.tar.gz.sigstore
+52ceb249f65009d936e6504f97cce42870c11358cb6e48825e893f54e11620aa  python-3.14.0-amd64.exe
+18f95b7e66fd738344b5b98c327c5839e0f98c026f10f0624a67c774d278fdfe  python-3.14.0-amd64.exe.crt
+5b53d6094d68a6cd30a22b4eb083a29726086aefcbf38a9908a16ee407f9ae7b  python-3.14.0-amd64.exe.sig
+1c6b2512f84192e30f569256b952586155ca95ca1543231ebd3750211b5b09f8  python-3.14.0-amd64.exe.sigstore
+c4bad556b608227211d507eb72626319ff3d0d061f98dce556787ab7a4dbae20  python-3.14.0-amd64.exe.spdx.json
+18f95b7e66fd738344b5b98c327c5839e0f98c026f10f0624a67c774d278fdfe  python-3.14.0-amd64.exe.crt
+5b53d6094d68a6cd30a22b4eb083a29726086aefcbf38a9908a16ee407f9ae7b  python-3.14.0-amd64.exe.sig
+1c6b2512f84192e30f569256b952586155ca95ca1543231ebd3750211b5b09f8  python-3.14.0-amd64.exe.sigstore
+1c6b2512f84192e30f569256b952586155ca95ca1543231ebd3750211b5b09f8  python-3.14.0-amd64.exe.sigstore
+c4bad556b608227211d507eb72626319ff3d0d061f98dce556787ab7a4dbae20  python-3.14.0-amd64.exe.spdx.json
+80387540694fe8e598afd5c6a18975081b0ccc6b57f752ed22216498f4205ce0  python-3.14.0-amd64.zip
+11d26af62bb95dd7db174b9cb83aa0384facbc6839016cd17c11fd1b28031e3a  python-3.14.0-arm64.exe
+60c2d8756d4fd0111519445a8eb7404cb51ee2a5e523d499b5a5c55eac99e286  python-3.14.0-arm64.exe.crt
+f0e3e9473c2460640118f8e435358ab56da587f61235af60d7a34952ea86864e  python-3.14.0-arm64.exe.sig
+5673c80b465280e154a7d6439ef004eb95b26fd0e6245cc4136f52b83edc9b4e  python-3.14.0-arm64.exe.sigstore
+c362389a14f5eeeb041abdf1805f6cf0a0c7f4e5949470fb01faa34373c02e84  python-3.14.0-arm64.exe.spdx.json
+60c2d8756d4fd0111519445a8eb7404cb51ee2a5e523d499b5a5c55eac99e286  python-3.14.0-arm64.exe.crt
+f0e3e9473c2460640118f8e435358ab56da587f61235af60d7a34952ea86864e  python-3.14.0-arm64.exe.sig
+5673c80b465280e154a7d6439ef004eb95b26fd0e6245cc4136f52b83edc9b4e  python-3.14.0-arm64.exe.sigstore
+5673c80b465280e154a7d6439ef004eb95b26fd0e6245cc4136f52b83edc9b4e  python-3.14.0-arm64.exe.sigstore
+c362389a14f5eeeb041abdf1805f6cf0a0c7f4e5949470fb01faa34373c02e84  python-3.14.0-arm64.exe.spdx.json
+c1593c89125ecc914e0857366a3dd4fb7e044a42f7ba2297b50233c249443062  python-3.14.0-arm64.zip
+8d4d3590c10449d78aa4375f534e6d5f3027d67fdc362dd1a882279db6f90fdf  python-3.14.0-embed-amd64.zip
+ab149ef8090c5be5fc4ab921b4f99cdae7255ac2edaaba35b28e2a0ac411a082  python-3.14.0-embed-amd64.zip.crt
+859656864a914b856db884539b66e9d09dbc5506eee70f0a202589e1a559c942  python-3.14.0-embed-amd64.zip.sig
+6ea58006179719c7fd492bf6d1b14afd8e429f9ac930d3d72929cdaf95b85054  python-3.14.0-embed-amd64.zip.sigstore
+685b86f3bdfcbef50c643846f089329a5b7982a1842d3659a30cb4580a73c9a2  python-3.14.0-embed-amd64.zip.spdx.json
+ab149ef8090c5be5fc4ab921b4f99cdae7255ac2edaaba35b28e2a0ac411a082  python-3.14.0-embed-amd64.zip.crt
+859656864a914b856db884539b66e9d09dbc5506eee70f0a202589e1a559c942  python-3.14.0-embed-amd64.zip.sig
+6ea58006179719c7fd492bf6d1b14afd8e429f9ac930d3d72929cdaf95b85054  python-3.14.0-embed-amd64.zip.sigstore
+6ea58006179719c7fd492bf6d1b14afd8e429f9ac930d3d72929cdaf95b85054  python-3.14.0-embed-amd64.zip.sigstore
+685b86f3bdfcbef50c643846f089329a5b7982a1842d3659a30cb4580a73c9a2  python-3.14.0-embed-amd64.zip.spdx.json
+d9e14c00a4d6fdbed96ece861998eb84b3ac3ca540b077b3cdf9bb0bfcea8e07  python-3.14.0-embed-arm64.zip
+8acb14d731349c6d4baed1b22797e47da4ff92458d39bdc6a1ecf87ca86f4a5a  python-3.14.0-embed-arm64.zip.crt
+a8484a85ec21c2deccf2902efa5464fe788596a1d7e11f3e13f4163dececa05a  python-3.14.0-embed-arm64.zip.sig
+39f08abb1fe57739f4107a6c76884c4c02eaa6cda2257b5858adcff5114b08d1  python-3.14.0-embed-arm64.zip.sigstore
+d40d1e5c633919f7bcbc6c7c8fbf0d645931472b6525c3b45c81c60570414c6f  python-3.14.0-embed-arm64.zip.spdx.json
+8acb14d731349c6d4baed1b22797e47da4ff92458d39bdc6a1ecf87ca86f4a5a  python-3.14.0-embed-arm64.zip.crt
+a8484a85ec21c2deccf2902efa5464fe788596a1d7e11f3e13f4163dececa05a  python-3.14.0-embed-arm64.zip.sig
+39f08abb1fe57739f4107a6c76884c4c02eaa6cda2257b5858adcff5114b08d1  python-3.14.0-embed-arm64.zip.sigstore
+39f08abb1fe57739f4107a6c76884c4c02eaa6cda2257b5858adcff5114b08d1  python-3.14.0-embed-arm64.zip.sigstore
+d40d1e5c633919f7bcbc6c7c8fbf0d645931472b6525c3b45c81c60570414c6f  python-3.14.0-embed-arm64.zip.spdx.json
+e34567e60d8bcee53c8d0ceac85e1bc085e1f6129c3fb330f030878165cad692  python-3.14.0-embed-win32.zip
+fb7b42f41f86631239b8d557b3e85ce755cfd32c675548c75768a9e8ed0fd967  python-3.14.0-embed-win32.zip.crt
+b2dad835ba7e6d43664f1f6ba885c1cb49526983118358b8278820d1aeec2912  python-3.14.0-embed-win32.zip.sig
+98c259895c667a44ec423e9f99cc44cd1d4e74835d88c4128d8b5b192dd6d6d0  python-3.14.0-embed-win32.zip.sigstore
+a77ce6827aefa55a5debaa83d60376135c5267495bb2c233421d1b9649a2eaaa  python-3.14.0-embed-win32.zip.spdx.json
+fb7b42f41f86631239b8d557b3e85ce755cfd32c675548c75768a9e8ed0fd967  python-3.14.0-embed-win32.zip.crt
+b2dad835ba7e6d43664f1f6ba885c1cb49526983118358b8278820d1aeec2912  python-3.14.0-embed-win32.zip.sig
+98c259895c667a44ec423e9f99cc44cd1d4e74835d88c4128d8b5b192dd6d6d0  python-3.14.0-embed-win32.zip.sigstore
+98c259895c667a44ec423e9f99cc44cd1d4e74835d88c4128d8b5b192dd6d6d0  python-3.14.0-embed-win32.zip.sigstore
+a77ce6827aefa55a5debaa83d60376135c5267495bb2c233421d1b9649a2eaaa  python-3.14.0-embed-win32.zip.spdx.json
+d12b48967ab48e78c5bb7d7aead048c809e5004f68c6cb50811fd3961bb0f6ed  python-3.14.0-embeddable-amd64.zip
+ff89cf321f3b51c9512718915946ffd3763ae80d36a98747c2bd67d515b69d6e  python-3.14.0-embeddable-arm64.zip
+c75c5e71f7cd129d6e56745f2a5ec0eb3db364dec981f4b4359713b69e41c7be  python-3.14.0-embeddable-win32.zip
+d2c02d66a8b57370bfe414da12e8888ba73ded91d786bf9008e0554466e629c2  python-3.14.0-macos11.pkg
+f8b1478834ff36075198ffa6bba9713626c5b05ca610f9cdd0bc5643a70987bf  python-3.14.0-macos11.pkg.crt
+9a3113af15051dac8d53026d5dc3d3225e20ea034cf1e6ef7ff89af2f5524fe7  python-3.14.0-macos11.pkg.sig
+bf4400cb96120bf1b83466c311db047729bba8c4919f43e04487093b342c7416  python-3.14.0-macos11.pkg.sigstore
+f8b1478834ff36075198ffa6bba9713626c5b05ca610f9cdd0bc5643a70987bf  python-3.14.0-macos11.pkg.crt
+9a3113af15051dac8d53026d5dc3d3225e20ea034cf1e6ef7ff89af2f5524fe7  python-3.14.0-macos11.pkg.sig
+bf4400cb96120bf1b83466c311db047729bba8c4919f43e04487093b342c7416  python-3.14.0-macos11.pkg.sigstore
+bf4400cb96120bf1b83466c311db047729bba8c4919f43e04487093b342c7416  python-3.14.0-macos11.pkg.sigstore
+602e0df41f22a26bc141fde0b92c8d0b7a29dd5b62e16e426a1545ea3581d4e9  python-3.14.0-test-amd64.zip
+4b1bd311dcdcdc6ff99889ab50b0e0f0d7420c657723455bf733dd9ab3fbce73  python-3.14.0-test-arm64.zip
+1d5d74fe5e720cb99711ebb252ba307240deb87affc9cf24712f46a14c6db261  python-3.14.0-test-win32.zip
+8916bc27574bf3d9cbeb61b012d06fa06197afd63e237c3326a8eaac6911a97c  python-3.14.0-win32.zip
+5c953df43e47c43ce55888acc5f09f6cac67f2e292480b906be37c14381516e7  python-3.14.0-x86_64-linux-android.tar.gz
+6b437ca5f7990b484679e191993816e6e04c2e455247889c496ceb5cceaffec1  python-3.14.0-x86_64-linux-android.tar.gz.crt
+503177bea3d3707b29c5bc5518a448939fe70f6dd9d0607957fc13b0f6542f34  python-3.14.0-x86_64-linux-android.tar.gz.sig
+bfd481999e43c44c100b6fe6b9eed29bf753043695087c3903cc0a8d8eab20a7  python-3.14.0-x86_64-linux-android.tar.gz.sigstore
+6b437ca5f7990b484679e191993816e6e04c2e455247889c496ceb5cceaffec1  python-3.14.0-x86_64-linux-android.tar.gz.crt
+503177bea3d3707b29c5bc5518a448939fe70f6dd9d0607957fc13b0f6542f34  python-3.14.0-x86_64-linux-android.tar.gz.sig
+bfd481999e43c44c100b6fe6b9eed29bf753043695087c3903cc0a8d8eab20a7  python-3.14.0-x86_64-linux-android.tar.gz.sigstore
+bfd481999e43c44c100b6fe6b9eed29bf753043695087c3903cc0a8d8eab20a7  python-3.14.0-x86_64-linux-android.tar.gz.sigstore
+0320e7643fa81ed889d72756bc3b41143ea84c3f1f7f95f3ac541153fff210fc  python-3.14.0.exe
+cc216f82298bf9be9cdc0559bea823208477371c3468f5788b23d570dc2783c8  python-3.14.0.exe.crt
+44a177d4861873ee3dc9ac57c853ffd567e53ece596948ab07f7ed5ea0b7c57b  python-3.14.0.exe.sig
+68737ed3cb5b8dd08d07be30892c539719037b0ba025db0746f4216ff8512dac  python-3.14.0.exe.sigstore
+55c2833fd2c0409698f5e97cacba1e771a180c9bf616c623bca763bf99b46b1e  python-3.14.0.exe.spdx.json
+cc216f82298bf9be9cdc0559bea823208477371c3468f5788b23d570dc2783c8  python-3.14.0.exe.crt
+44a177d4861873ee3dc9ac57c853ffd567e53ece596948ab07f7ed5ea0b7c57b  python-3.14.0.exe.sig
+68737ed3cb5b8dd08d07be30892c539719037b0ba025db0746f4216ff8512dac  python-3.14.0.exe.sigstore
+68737ed3cb5b8dd08d07be30892c539719037b0ba025db0746f4216ff8512dac  python-3.14.0.exe.sigstore
+55c2833fd2c0409698f5e97cacba1e771a180c9bf616c623bca763bf99b46b1e  python-3.14.0.exe.spdx.json
+2299dae542d395ce3883aca00d3c910307cd68e0b2f7336098c8e7b7eee9f3e9  Python-3.14.0.tar.xz
+8eb603f01018314fffc1023bba5a8a87c3d5cfa2e831da7c409cacd7c8382540  Python-3.14.0.tar.xz.crt
+b76d041c6d79168769a25ff7de599602ac87f0e3ebf30c97cae244f3c6d56e59  Python-3.14.0.tar.xz.sig
+83cf46269926bf166ca1b67e5647c44152a300a0f6d30cbbce147099e072bf41  Python-3.14.0.tar.xz.sigstore
+19a6666addb295bd111fe3f77ec43d792a2afefdc629435e0ea54cb8573ec27e  Python-3.14.0.tar.xz.spdx.json
+8eb603f01018314fffc1023bba5a8a87c3d5cfa2e831da7c409cacd7c8382540  Python-3.14.0.tar.xz.crt
+b76d041c6d79168769a25ff7de599602ac87f0e3ebf30c97cae244f3c6d56e59  Python-3.14.0.tar.xz.sig
+83cf46269926bf166ca1b67e5647c44152a300a0f6d30cbbce147099e072bf41  Python-3.14.0.tar.xz.sigstore
+83cf46269926bf166ca1b67e5647c44152a300a0f6d30cbbce147099e072bf41  Python-3.14.0.tar.xz.sigstore
+19a6666addb295bd111fe3f77ec43d792a2afefdc629435e0ea54cb8573ec27e  Python-3.14.0.tar.xz.spdx.json
+88d2da4eed42fa9a5f42ff58a8bc8988881bd6c547e297e46682c2687638a851  Python-3.14.0.tgz
+0b4b67a59f99c42a0594cb286af11afeba837b3f1bebe5117801f01507a70bbd  Python-3.14.0.tgz.crt
+f03247147547af88ce9f3914d86d9bec2346ba0c96935aacf376e3f712ff3112  Python-3.14.0.tgz.sig
+0ee25a1103a2301847f610574405d7ac6d38e801e7b7c9fe1196a4e60fe70f21  Python-3.14.0.tgz.sigstore
+77441ce09be3ac0d9cc61eba9f0cfc19548f92919ee10e7f57aba2671cfd775d  Python-3.14.0.tgz.spdx.json
+0b4b67a59f99c42a0594cb286af11afeba837b3f1bebe5117801f01507a70bbd  Python-3.14.0.tgz.crt
+f03247147547af88ce9f3914d86d9bec2346ba0c96935aacf376e3f712ff3112  Python-3.14.0.tgz.sig
+0ee25a1103a2301847f610574405d7ac6d38e801e7b7c9fe1196a4e60fe70f21  Python-3.14.0.tgz.sigstore
+0ee25a1103a2301847f610574405d7ac6d38e801e7b7c9fe1196a4e60fe70f21  Python-3.14.0.tgz.sigstore
+77441ce09be3ac0d9cc61eba9f0cfc19548f92919ee10e7f57aba2671cfd775d  Python-3.14.0.tgz.spdx.json
 2fe7499b46b679f0619df53661894e409961f78a50d9ad5b573022657127e5c0  Python-3.14.0a0.tar.xz
 3014e5c9ec14468b6fcf574df2a45ac873ce85585a3ea56061eb147a921fc63e  Python-3.14.0a0.tar.xz.spdx.json
 3014e5c9ec14468b6fcf574df2a45ac873ce85585a3ea56061eb147a921fc63e  Python-3.14.0a0.tar.xz.spdx.json
 7c5b916e94c0c004235cda0eade90dbf97377d04a8b5be1d9bd066549bf74a12  Python-3.14.0a0.tgz
 9d6d0e53446b293dbcd8f06f82d35df27a31fd17421afcc75feb67c8f63199bb  Python-3.14.0a0.tgz.spdx.json
 9d6d0e53446b293dbcd8f06f82d35df27a31fd17421afcc75feb67c8f63199bb  Python-3.14.0a0.tgz.spdx.json
+c02e8f6f118bcfd216cddeeb7243203202be7ee8004d1465140195fbdac92e55  python-3.14.0a1-amd64.exe
+17c61e74502a030cd5f16973a2602f18c92f53f62e98e96cb4f15bb13106f5bd  python-3.14.0a1-amd64.exe.crt
+cde0bd9b95528b225f77fef443b3af1afdf576739a8b6cdac71d7aee228989e1  python-3.14.0a1-amd64.exe.sig
+f2a9e25e459f23d105cd4049033fd1dce6882ffcaae471ee7289905c6c5e0994  python-3.14.0a1-amd64.exe.sigstore
+fa6def38d2196efb79ee4967ca8ccbeaf5ffc7aef306a0e02f75ee5250da89a3  python-3.14.0a1-amd64.exe.spdx.json
+17c61e74502a030cd5f16973a2602f18c92f53f62e98e96cb4f15bb13106f5bd  python-3.14.0a1-amd64.exe.crt
+cde0bd9b95528b225f77fef443b3af1afdf576739a8b6cdac71d7aee228989e1  python-3.14.0a1-amd64.exe.sig
+f2a9e25e459f23d105cd4049033fd1dce6882ffcaae471ee7289905c6c5e0994  python-3.14.0a1-amd64.exe.sigstore
+f2a9e25e459f23d105cd4049033fd1dce6882ffcaae471ee7289905c6c5e0994  python-3.14.0a1-amd64.exe.sigstore
+fa6def38d2196efb79ee4967ca8ccbeaf5ffc7aef306a0e02f75ee5250da89a3  python-3.14.0a1-amd64.exe.spdx.json
+1c18007afdeb0d7dd0de436f2dcd3c0f5156e103eafcae8e51edd255b61297de  python-3.14.0a1-amd64.zip
+8699b234d89eebd4c09795d666c8da2d9bbf86c48f77b1c1e7f3c2a1e998c05a  python-3.14.0a1-arm64.exe
+d616fc68b9b63482684440157b19f85acb8e941e38c0995e162bed3383af8d08  python-3.14.0a1-arm64.exe.crt
+57d531a58c6b458a814198a804d137d586df731c7078e9a88a4d96e3ff29b115  python-3.14.0a1-arm64.exe.sig
+6049c4668ae28a8a77e719bb2fc0c88816a90aaecd2991af6362fccb43d94b07  python-3.14.0a1-arm64.exe.sigstore
+95f6ad0b6ebacd70736fd0dddbcd5b844c43cd4d5998f68c81c0a59d64281c93  python-3.14.0a1-arm64.exe.spdx.json
+d616fc68b9b63482684440157b19f85acb8e941e38c0995e162bed3383af8d08  python-3.14.0a1-arm64.exe.crt
+57d531a58c6b458a814198a804d137d586df731c7078e9a88a4d96e3ff29b115  python-3.14.0a1-arm64.exe.sig
+6049c4668ae28a8a77e719bb2fc0c88816a90aaecd2991af6362fccb43d94b07  python-3.14.0a1-arm64.exe.sigstore
+6049c4668ae28a8a77e719bb2fc0c88816a90aaecd2991af6362fccb43d94b07  python-3.14.0a1-arm64.exe.sigstore
+95f6ad0b6ebacd70736fd0dddbcd5b844c43cd4d5998f68c81c0a59d64281c93  python-3.14.0a1-arm64.exe.spdx.json
+b663333f57a9a907a31367d3c3c47fb7ffdf743598c36c6317aa534381736732  python-3.14.0a1-arm64.zip
+980b43e39c50a65f78560f9f0c75151070dffd3d9f9d2a9ac7b56f59b319da2b  python-3.14.0a1-embed-amd64.zip
+c51b91148422d66c73d33af003e97c143d3cbb8ff10f939fc6c81581debd0f69  python-3.14.0a1-embed-amd64.zip.crt
+6477a9ef154f25b25f7bfda91a9bdd5b3e0ebd3436fb249b1375b2ed82db03a0  python-3.14.0a1-embed-amd64.zip.sig
+e725beae41ee9e4c9e8a38e7864ce531ea24729667d3cc604a0a4b695cfccf30  python-3.14.0a1-embed-amd64.zip.sigstore
+15b23f5b4bd9d2d2701ba56b402957da7e6f310470e8a881994bdd6505df80c6  python-3.14.0a1-embed-amd64.zip.spdx.json
+c51b91148422d66c73d33af003e97c143d3cbb8ff10f939fc6c81581debd0f69  python-3.14.0a1-embed-amd64.zip.crt
+6477a9ef154f25b25f7bfda91a9bdd5b3e0ebd3436fb249b1375b2ed82db03a0  python-3.14.0a1-embed-amd64.zip.sig
+e725beae41ee9e4c9e8a38e7864ce531ea24729667d3cc604a0a4b695cfccf30  python-3.14.0a1-embed-amd64.zip.sigstore
+e725beae41ee9e4c9e8a38e7864ce531ea24729667d3cc604a0a4b695cfccf30  python-3.14.0a1-embed-amd64.zip.sigstore
+15b23f5b4bd9d2d2701ba56b402957da7e6f310470e8a881994bdd6505df80c6  python-3.14.0a1-embed-amd64.zip.spdx.json
+726fa59952ab85d3d25fb045066a8ea60bd371993aef5c05a853fee2c46f16a6  python-3.14.0a1-embed-arm64.zip
+8d2cec160637d3ccd8caf2f507d5e06b00dc27a8114031b21d94231881d4a306  python-3.14.0a1-embed-arm64.zip.crt
+3ee12024ce098e88a38d3bf3edbee353e2a48431303ebc5b5e19b011592691fa  python-3.14.0a1-embed-arm64.zip.sig
+ab265bba7a5cf0a7718ed6152110428c788f6ee4c1c4a61691163dde61415900  python-3.14.0a1-embed-arm64.zip.sigstore
+c394982578a77850b962e3c9eb61e02b5c0f3d4932d48a0fdd297f1bda72c660  python-3.14.0a1-embed-arm64.zip.spdx.json
+8d2cec160637d3ccd8caf2f507d5e06b00dc27a8114031b21d94231881d4a306  python-3.14.0a1-embed-arm64.zip.crt
+3ee12024ce098e88a38d3bf3edbee353e2a48431303ebc5b5e19b011592691fa  python-3.14.0a1-embed-arm64.zip.sig
+ab265bba7a5cf0a7718ed6152110428c788f6ee4c1c4a61691163dde61415900  python-3.14.0a1-embed-arm64.zip.sigstore
+ab265bba7a5cf0a7718ed6152110428c788f6ee4c1c4a61691163dde61415900  python-3.14.0a1-embed-arm64.zip.sigstore
+c394982578a77850b962e3c9eb61e02b5c0f3d4932d48a0fdd297f1bda72c660  python-3.14.0a1-embed-arm64.zip.spdx.json
+59df8875ca65fb0501fe198852c1271e701c112d307aa9dac533181d96a9d95e  python-3.14.0a1-embed-win32.zip
+102d449b61b62afad112f7916d763a8bfc4cf367d8d5b4afae0ca68df6f50a11  python-3.14.0a1-embed-win32.zip.crt
+2271676cf85b4472500060d251849e94c4767886a20194287b510958531e97a8  python-3.14.0a1-embed-win32.zip.sig
+ee3ed22dab1a28723a1456358391bdc22cd0a17d0df503497a147ded52537fca  python-3.14.0a1-embed-win32.zip.sigstore
+e49fafbeeb1565df40d8d8e69d4529321bb1c7d87ade849e56906fc69573834e  python-3.14.0a1-embed-win32.zip.spdx.json
+102d449b61b62afad112f7916d763a8bfc4cf367d8d5b4afae0ca68df6f50a11  python-3.14.0a1-embed-win32.zip.crt
+2271676cf85b4472500060d251849e94c4767886a20194287b510958531e97a8  python-3.14.0a1-embed-win32.zip.sig
+ee3ed22dab1a28723a1456358391bdc22cd0a17d0df503497a147ded52537fca  python-3.14.0a1-embed-win32.zip.sigstore
+ee3ed22dab1a28723a1456358391bdc22cd0a17d0df503497a147ded52537fca  python-3.14.0a1-embed-win32.zip.sigstore
+e49fafbeeb1565df40d8d8e69d4529321bb1c7d87ade849e56906fc69573834e  python-3.14.0a1-embed-win32.zip.spdx.json
+5e8eeb82a1a06804305949cdfd734ce62f7353ed0461b774d1c634cb4faf8471  python-3.14.0a1-embeddable-amd64.zip
+91f3f708993f3012b9fa982ad35f5fa915e2b1409fa055dd4ad46810994e5771  python-3.14.0a1-embeddable-arm64.zip
+965b9f948d4052036e8c75b8d512cf048d56880fe5470f37f149b98d5b1dc3e5  python-3.14.0a1-embeddable-win32.zip
+63b9c77e1299b1612881bb427aeeb1b12f57dfd0178eb57114c192568ef35441  python-3.14.0a1-macos11.pkg
+34597511907f63d60a4afbd98607ae954044c6079241c7c8f9ac2fb364315f49  python-3.14.0a1-macos11.pkg.crt
+9bd2e5c17fbed7113b23ac2314778d6c12053b5b90f10d53f8a41f6e41944166  python-3.14.0a1-macos11.pkg.sig
+6c773258cd2aa9d2bd9c080c8310d90ef0810bb91d7ab341ed9ee1f1ce38cb37  python-3.14.0a1-macos11.pkg.sigstore
+34597511907f63d60a4afbd98607ae954044c6079241c7c8f9ac2fb364315f49  python-3.14.0a1-macos11.pkg.crt
+9bd2e5c17fbed7113b23ac2314778d6c12053b5b90f10d53f8a41f6e41944166  python-3.14.0a1-macos11.pkg.sig
+6c773258cd2aa9d2bd9c080c8310d90ef0810bb91d7ab341ed9ee1f1ce38cb37  python-3.14.0a1-macos11.pkg.sigstore
+6c773258cd2aa9d2bd9c080c8310d90ef0810bb91d7ab341ed9ee1f1ce38cb37  python-3.14.0a1-macos11.pkg.sigstore
+e67f46eda7718d4e82b444914f715b140b945386bac2b12dacc9b0644932ec65  python-3.14.0a1-test-amd64.zip
+6bb1f812ba0b5f292000e21f6e5e419adfdb87c5c29b261cdb5b1ea11b418967  python-3.14.0a1-test-arm64.zip
+c7ad74fa75da448864660c3bef9411ced8c276a4e228eacc73c05f20593fd4d2  python-3.14.0a1-test-win32.zip
+852dc5aec2fe90aa1ac266dcba1d512ede861237da2c727af2f3358ed7a4c180  python-3.14.0a1-win32.zip
+e28baca49d0bf20a2c8c102c946fec651e45a32e9d2e6feb6ebb47e192738b69  python-3.14.0a1.exe
+473ca6edb908af62c9ba5d46bb8840e6df5fc4d54831c4ee6106cde0ee3edad3  python-3.14.0a1.exe.crt
+4057fb64a12fb444045faa6aadaca431c145d2df7a88fca49524ac50769387d2  python-3.14.0a1.exe.sig
+bb2060a52406beed9c235629a7408e5cfd7d461862fb68c7e178a4171acde248  python-3.14.0a1.exe.sigstore
+50c09bf697c2e3dfa816d001beb468130757ba6572aa5706ae683aa258fd85aa  python-3.14.0a1.exe.spdx.json
+473ca6edb908af62c9ba5d46bb8840e6df5fc4d54831c4ee6106cde0ee3edad3  python-3.14.0a1.exe.crt
+4057fb64a12fb444045faa6aadaca431c145d2df7a88fca49524ac50769387d2  python-3.14.0a1.exe.sig
+bb2060a52406beed9c235629a7408e5cfd7d461862fb68c7e178a4171acde248  python-3.14.0a1.exe.sigstore
+bb2060a52406beed9c235629a7408e5cfd7d461862fb68c7e178a4171acde248  python-3.14.0a1.exe.sigstore
+50c09bf697c2e3dfa816d001beb468130757ba6572aa5706ae683aa258fd85aa  python-3.14.0a1.exe.spdx.json
+3e464b0cbb7535e2db34262fd19a0a393d0e62be0f43b1513ed98379b054ead4  Python-3.14.0a1.tar.xz
+af961dd8d01f4d168f56c420cc870ca3ae09ab4adf6443df0cb2ddccc4c814fe  Python-3.14.0a1.tar.xz.crt
+bfd6f00b5465e6b8a30f6dada1c819075322503e0410322564157a8fb62a2bd6  Python-3.14.0a1.tar.xz.sig
+0140a6f2743849b3fdc4f58c5e867770c4470c7c69c89658aa7f788abe4ed08c  Python-3.14.0a1.tar.xz.sigstore
+b1474eaca7c68993e8fb6c9da103dd7c536fe9e192a4fffb8634536e01b548e2  Python-3.14.0a1.tar.xz.spdx.json
+af961dd8d01f4d168f56c420cc870ca3ae09ab4adf6443df0cb2ddccc4c814fe  Python-3.14.0a1.tar.xz.crt
+bfd6f00b5465e6b8a30f6dada1c819075322503e0410322564157a8fb62a2bd6  Python-3.14.0a1.tar.xz.sig
+0140a6f2743849b3fdc4f58c5e867770c4470c7c69c89658aa7f788abe4ed08c  Python-3.14.0a1.tar.xz.sigstore
+0140a6f2743849b3fdc4f58c5e867770c4470c7c69c89658aa7f788abe4ed08c  Python-3.14.0a1.tar.xz.sigstore
+b1474eaca7c68993e8fb6c9da103dd7c536fe9e192a4fffb8634536e01b548e2  Python-3.14.0a1.tar.xz.spdx.json
+6edf6c54c118daff03de81d60b227545de89732c2d131ed243ce5593fa9682b7  Python-3.14.0a1.tgz
+ebc47e2bc58349f9cb496735df7ee21db8851aa050e9aee7e686bbd528ec04b2  Python-3.14.0a1.tgz.crt
+187c0c25a2036917bb29a3ce59cd71ba23eb0b1c9788785c08d356b19744bdae  Python-3.14.0a1.tgz.sig
+2e7683e2a79171205c10a2751dc77225fdcb3877071d8b92f6dc2941e5b9539f  Python-3.14.0a1.tgz.sigstore
+49de7042e8d7f964b530cdf16e9b663680ac7096d5f40f815ca836f85a40e7f7  Python-3.14.0a1.tgz.spdx.json
+ebc47e2bc58349f9cb496735df7ee21db8851aa050e9aee7e686bbd528ec04b2  Python-3.14.0a1.tgz.crt
+187c0c25a2036917bb29a3ce59cd71ba23eb0b1c9788785c08d356b19744bdae  Python-3.14.0a1.tgz.sig
+2e7683e2a79171205c10a2751dc77225fdcb3877071d8b92f6dc2941e5b9539f  Python-3.14.0a1.tgz.sigstore
+2e7683e2a79171205c10a2751dc77225fdcb3877071d8b92f6dc2941e5b9539f  Python-3.14.0a1.tgz.sigstore
+49de7042e8d7f964b530cdf16e9b663680ac7096d5f40f815ca836f85a40e7f7  Python-3.14.0a1.tgz.spdx.json
+a25077310768bb26aa4b98396ffa527dad5828a00a1a8a4f60d7bba2d22c9e7a  python-3.14.0a1t-amd64.zip
+2739a1c496214206647467a8113ae42522f95ecaadca848c2c48361d689d1483  python-3.14.0a1t-arm64.zip
+19c5979b8072d215071485c2ba7e32ae94ec584aa19244fcd651a64b9153f0ff  python-3.14.0a1t-win32.zip
+869891954841208d743696ab314a1e80e28c29524a96b259c71baaf26ce73981  python-3.14.0a2-amd64.exe
+710faa5d8ba31c7e95dadfa2f0f92fb8f88b0e6d1ba8c468daa175f50afb756f  python-3.14.0a2-amd64.exe.crt
+9254a56b0da1cd6f5544711d70d56b999abb8fff4d5a7de1f38b13c80ecaa2b2  python-3.14.0a2-amd64.exe.sig
+c606a0701135e443a710e20cdff86a50ef69d1e063718ae11dc6cf15a42f0249  python-3.14.0a2-amd64.exe.sigstore
+ece0be249e90193925a98c8f97d7c9637befa8a53514e9a60862ddbcb9227cd3  python-3.14.0a2-amd64.exe.spdx.json
+710faa5d8ba31c7e95dadfa2f0f92fb8f88b0e6d1ba8c468daa175f50afb756f  python-3.14.0a2-amd64.exe.crt
+9254a56b0da1cd6f5544711d70d56b999abb8fff4d5a7de1f38b13c80ecaa2b2  python-3.14.0a2-amd64.exe.sig
+c606a0701135e443a710e20cdff86a50ef69d1e063718ae11dc6cf15a42f0249  python-3.14.0a2-amd64.exe.sigstore
+c606a0701135e443a710e20cdff86a50ef69d1e063718ae11dc6cf15a42f0249  python-3.14.0a2-amd64.exe.sigstore
+ece0be249e90193925a98c8f97d7c9637befa8a53514e9a60862ddbcb9227cd3  python-3.14.0a2-amd64.exe.spdx.json
+f80dbc2b265f0d4bd39a93fd3c10fd56b2d0bcf357f7db100dd0d7645bf400d1  python-3.14.0a2-amd64.zip
+244a08a0605e7f56eac7eed0795caeecfa83a1546750f0ab16a380c2ca734db5  python-3.14.0a2-arm64.exe
+f6f359ca0b479ac9be3d9b26e9aee6a92972ef4cad2a3dcfbe029e8def2569e0  python-3.14.0a2-arm64.exe.crt
+635520121eb51478e7c9e2ce85b653e42262e328937fce8382227ae30056cd5d  python-3.14.0a2-arm64.exe.sig
+5a4b576e49bdd493deae1a9c32491769fbf69e83fe209de4a356c99496457772  python-3.14.0a2-arm64.exe.sigstore
+2e69b50a9615d0e88ff0ddf30788fdc60777d609c5f96c150ad6b8dbf96f4e39  python-3.14.0a2-arm64.exe.spdx.json
+f6f359ca0b479ac9be3d9b26e9aee6a92972ef4cad2a3dcfbe029e8def2569e0  python-3.14.0a2-arm64.exe.crt
+635520121eb51478e7c9e2ce85b653e42262e328937fce8382227ae30056cd5d  python-3.14.0a2-arm64.exe.sig
+5a4b576e49bdd493deae1a9c32491769fbf69e83fe209de4a356c99496457772  python-3.14.0a2-arm64.exe.sigstore
+5a4b576e49bdd493deae1a9c32491769fbf69e83fe209de4a356c99496457772  python-3.14.0a2-arm64.exe.sigstore
+2e69b50a9615d0e88ff0ddf30788fdc60777d609c5f96c150ad6b8dbf96f4e39  python-3.14.0a2-arm64.exe.spdx.json
+e695c829f498aa61ce321c863444085a3f6f518e16f5c491ae3c73a1a3dc36f0  python-3.14.0a2-arm64.zip
+34d605ae22ce00d7d75ed7720060c96cb9d388e854c847efdc02c3d6b76d0c7a  python-3.14.0a2-embed-amd64.zip
+7552592586a6af1033df8c93951ef06f2a50b5caa2c62bc4b4d3cb19a984ec3b  python-3.14.0a2-embed-amd64.zip.crt
+36b4710c51265f82a39cffe479583460237d2535bbd797cc7d4905cce2d4ea63  python-3.14.0a2-embed-amd64.zip.sig
+a017ec1fc2706706a197e7fcfd913c4a0084cd8510a8596a852792c853cc054e  python-3.14.0a2-embed-amd64.zip.sigstore
+d33ed77c659055abfa7821bcbfe07b67486b0736e368bfb50e7266b3f2a667f7  python-3.14.0a2-embed-amd64.zip.spdx.json
+7552592586a6af1033df8c93951ef06f2a50b5caa2c62bc4b4d3cb19a984ec3b  python-3.14.0a2-embed-amd64.zip.crt
+36b4710c51265f82a39cffe479583460237d2535bbd797cc7d4905cce2d4ea63  python-3.14.0a2-embed-amd64.zip.sig
+a017ec1fc2706706a197e7fcfd913c4a0084cd8510a8596a852792c853cc054e  python-3.14.0a2-embed-amd64.zip.sigstore
+a017ec1fc2706706a197e7fcfd913c4a0084cd8510a8596a852792c853cc054e  python-3.14.0a2-embed-amd64.zip.sigstore
+d33ed77c659055abfa7821bcbfe07b67486b0736e368bfb50e7266b3f2a667f7  python-3.14.0a2-embed-amd64.zip.spdx.json
+2dd50e8b8024425fd1e8aeffd4d6484406c0169f70656e167b46fde87f431ee7  python-3.14.0a2-embed-arm64.zip
+c8904a467c311297c21570079d970c19c68d78c11d03e56e527009694941dc66  python-3.14.0a2-embed-arm64.zip.crt
+e2548fd1d13f144152f629b7f9ead66d8a8b352a6bb4c9e7c910522aa563a299  python-3.14.0a2-embed-arm64.zip.sig
+74b8b5920627fb4614004c11497ae0303e7d9d829786d53d95b1b41ae95092ba  python-3.14.0a2-embed-arm64.zip.sigstore
+86084ba8ffef43a999b41baa4d0b05d0c4df37e975c25594b8d6216b7f03b8fe  python-3.14.0a2-embed-arm64.zip.spdx.json
+c8904a467c311297c21570079d970c19c68d78c11d03e56e527009694941dc66  python-3.14.0a2-embed-arm64.zip.crt
+e2548fd1d13f144152f629b7f9ead66d8a8b352a6bb4c9e7c910522aa563a299  python-3.14.0a2-embed-arm64.zip.sig
+74b8b5920627fb4614004c11497ae0303e7d9d829786d53d95b1b41ae95092ba  python-3.14.0a2-embed-arm64.zip.sigstore
+74b8b5920627fb4614004c11497ae0303e7d9d829786d53d95b1b41ae95092ba  python-3.14.0a2-embed-arm64.zip.sigstore
+86084ba8ffef43a999b41baa4d0b05d0c4df37e975c25594b8d6216b7f03b8fe  python-3.14.0a2-embed-arm64.zip.spdx.json
+0b6f80904645e5bfb64b01656acb0d997940025afac60d081d7d9a311c08c35b  python-3.14.0a2-embed-win32.zip
+f7d21068f8b89b445144c6e86310a33f6785fe0bbd474c9ee2ed06e9cdddda8d  python-3.14.0a2-embed-win32.zip.crt
+0d86818e4655b76671f846edca25e28ec4e55d5aa104a77d055db7cdacdaa630  python-3.14.0a2-embed-win32.zip.sig
+5f0ef83fa0b6ffa2a6f0f8ee8c0a4d0ab4fb01a6c98e4e79e960b5ba4014c6d2  python-3.14.0a2-embed-win32.zip.sigstore
+9a66d5f3a12f884e78cbb8031060f755ee8eca55b907263c0a076966581be22e  python-3.14.0a2-embed-win32.zip.spdx.json
+f7d21068f8b89b445144c6e86310a33f6785fe0bbd474c9ee2ed06e9cdddda8d  python-3.14.0a2-embed-win32.zip.crt
+0d86818e4655b76671f846edca25e28ec4e55d5aa104a77d055db7cdacdaa630  python-3.14.0a2-embed-win32.zip.sig
+5f0ef83fa0b6ffa2a6f0f8ee8c0a4d0ab4fb01a6c98e4e79e960b5ba4014c6d2  python-3.14.0a2-embed-win32.zip.sigstore
+5f0ef83fa0b6ffa2a6f0f8ee8c0a4d0ab4fb01a6c98e4e79e960b5ba4014c6d2  python-3.14.0a2-embed-win32.zip.sigstore
+9a66d5f3a12f884e78cbb8031060f755ee8eca55b907263c0a076966581be22e  python-3.14.0a2-embed-win32.zip.spdx.json
+aae492d81e48e6518aaba59ae90252e8dad5069a7f00fd9cc9e06398951a1ac0  python-3.14.0a2-embeddable-amd64.zip
+b66ef4614e4617e468c242bdf02232c0717d7aa09a9906412704b00ee8c1e812  python-3.14.0a2-embeddable-arm64.zip
+53b78d8cd4c960f1a9d8c476c403d4f9e85af78eb897232bc14844cdc76c6154  python-3.14.0a2-embeddable-win32.zip
+36b33097fb416fcc1c3bf9c8dece53aa5591bfb975137ab55cb4043048344a5f  python-3.14.0a2-macos11.pkg
+c7b13835cee4597d41a06d64b2b8099aeef0e1e194b89dc6e600100f04bd2948  python-3.14.0a2-macos11.pkg.crt
+0862674ab4557633c3bcd66b1701a5ddfc25048d951485c6fbccb24ea0636d05  python-3.14.0a2-macos11.pkg.sig
+38b0d22222731b3be608859da82fc7482ab8ececf1075167f05e4448368bb9d9  python-3.14.0a2-macos11.pkg.sigstore
+c7b13835cee4597d41a06d64b2b8099aeef0e1e194b89dc6e600100f04bd2948  python-3.14.0a2-macos11.pkg.crt
+0862674ab4557633c3bcd66b1701a5ddfc25048d951485c6fbccb24ea0636d05  python-3.14.0a2-macos11.pkg.sig
+38b0d22222731b3be608859da82fc7482ab8ececf1075167f05e4448368bb9d9  python-3.14.0a2-macos11.pkg.sigstore
+38b0d22222731b3be608859da82fc7482ab8ececf1075167f05e4448368bb9d9  python-3.14.0a2-macos11.pkg.sigstore
+0c2fd6df4917d02ee0a243f970cd6293d3948800e331c23484bb5e6386888de4  python-3.14.0a2-test-amd64.zip
+238c795b42fb0db2c5938b3e0fc5e716cb864de8a701b5355fcc2e51b3a6b787  python-3.14.0a2-test-arm64.zip
+2f90ed30a56b3a5411061f4767ce28ccd44a10f01227d9f86edb88d9b2ed6b71  python-3.14.0a2-test-win32.zip
+0a4a76134d1d312296bbba1df1b17ab41bdd050ade73b55cd28a300f245b3f99  python-3.14.0a2-win32.zip
+659148fb5cc6a1ca30afb59b6da20456ff5467626958e4ef929a64487f2996f8  python-3.14.0a2.exe
+db244e7ce3c3931612f9d89fee3f425094ecf70b33de77264cbdf574b2b39a5c  python-3.14.0a2.exe.crt
+459ff69a482e384a6e8ba1c11a205b3a311907426d388bfe2f8d3b94f5fab6a9  python-3.14.0a2.exe.sig
+180677d14c27a3e4bcf0bbd64fbdc2706c91786d554b9c6f1228743008d6abe0  python-3.14.0a2.exe.sigstore
+0a3e5f53fe230542930731698952e6aff8eefb617af15762cce730ab20b18304  python-3.14.0a2.exe.spdx.json
+db244e7ce3c3931612f9d89fee3f425094ecf70b33de77264cbdf574b2b39a5c  python-3.14.0a2.exe.crt
+459ff69a482e384a6e8ba1c11a205b3a311907426d388bfe2f8d3b94f5fab6a9  python-3.14.0a2.exe.sig
+180677d14c27a3e4bcf0bbd64fbdc2706c91786d554b9c6f1228743008d6abe0  python-3.14.0a2.exe.sigstore
+180677d14c27a3e4bcf0bbd64fbdc2706c91786d554b9c6f1228743008d6abe0  python-3.14.0a2.exe.sigstore
+0a3e5f53fe230542930731698952e6aff8eefb617af15762cce730ab20b18304  python-3.14.0a2.exe.spdx.json
+2ff9e10147342b3efd69f5cd9cc06ec46250f2a046587599d18e2cac69c05920  Python-3.14.0a2.tar.xz
+1b7010b8c3a49d77a2010f8cd8653e711782689b953ce8e77f42c15ad17dbd33  Python-3.14.0a2.tar.xz.crt
+d08c82d316f0a879d04214777c6642c671eabbfa556e622dd09fefe154907496  Python-3.14.0a2.tar.xz.sig
+22d8205e0336d79b8ec205840bbc19ca9e4ba709fb54bd74bdc56fce8f243efa  Python-3.14.0a2.tar.xz.sigstore
+767df51322ecc85cd05299b5a524a952bd632736426b8a83ba54f52411f72e13  Python-3.14.0a2.tar.xz.spdx.json
+1b7010b8c3a49d77a2010f8cd8653e711782689b953ce8e77f42c15ad17dbd33  Python-3.14.0a2.tar.xz.crt
+d08c82d316f0a879d04214777c6642c671eabbfa556e622dd09fefe154907496  Python-3.14.0a2.tar.xz.sig
+22d8205e0336d79b8ec205840bbc19ca9e4ba709fb54bd74bdc56fce8f243efa  Python-3.14.0a2.tar.xz.sigstore
+22d8205e0336d79b8ec205840bbc19ca9e4ba709fb54bd74bdc56fce8f243efa  Python-3.14.0a2.tar.xz.sigstore
+767df51322ecc85cd05299b5a524a952bd632736426b8a83ba54f52411f72e13  Python-3.14.0a2.tar.xz.spdx.json
+b038eab7823e8a1c0500e3a26c95265656c2b8dd0bfa098aa341e9812be8f89c  Python-3.14.0a2.tgz
+0191f4533412f699178c810109ab2c15527b4627860dd98550d024e844c3bb0c  Python-3.14.0a2.tgz.crt
+d9fb25c9b490c499d4973addc6f9d583ffd9b433092e30c25654a0da4101c7e7  Python-3.14.0a2.tgz.sig
+0d2edb124b74fda039ddd787117fd181ed6119fa90705d72410c4dac86a0ba61  Python-3.14.0a2.tgz.sigstore
+e03f22f500b0fb37008a30bd64101362e3e99e3ac2bc7f31de6eb0611b48a716  Python-3.14.0a2.tgz.spdx.json
+0191f4533412f699178c810109ab2c15527b4627860dd98550d024e844c3bb0c  Python-3.14.0a2.tgz.crt
+d9fb25c9b490c499d4973addc6f9d583ffd9b433092e30c25654a0da4101c7e7  Python-3.14.0a2.tgz.sig
+0d2edb124b74fda039ddd787117fd181ed6119fa90705d72410c4dac86a0ba61  Python-3.14.0a2.tgz.sigstore
+0d2edb124b74fda039ddd787117fd181ed6119fa90705d72410c4dac86a0ba61  Python-3.14.0a2.tgz.sigstore
+e03f22f500b0fb37008a30bd64101362e3e99e3ac2bc7f31de6eb0611b48a716  Python-3.14.0a2.tgz.spdx.json
+cb41e3256a6878075c8e0eeb6e35116649db018b1ae286ccc624bb21a230f31d  python-3.14.0a2t-amd64.zip
+ec0edd953697eb0bafd83cc3fca9b88cb3cb3d4461e2becae8388b411c5f8a2a  python-3.14.0a2t-arm64.zip
+186630efeebb3c1fef8693e560b758d6145d2f66045e8911e898d869daefcb46  python-3.14.0a2t-win32.zip
+b5ba25a9973a5cff264e62024a50633ce87c58c3baaab298f1d47d47890d6fe7  python-3.14.0a3-amd64.exe
+0205c3fc34f3a0e0c1661d7e95224dc392e99bfd2f92adf06e98ed053c1b1b7c  python-3.14.0a3-amd64.exe.crt
+4025ab61019fd1fd171d10456c5e7ee9ba9817009663b2c825c60b1a98c5b743  python-3.14.0a3-amd64.exe.sig
+814d9ada9a51f3c373148bb647c0c5695b584fa7882b42038a72a66865371a0a  python-3.14.0a3-amd64.exe.sigstore
+3ecc2cc1841b0a7ff8a6f76f464aa82f02d2a367d6e627fe0252de23f945b6f3  python-3.14.0a3-amd64.exe.spdx.json
+0205c3fc34f3a0e0c1661d7e95224dc392e99bfd2f92adf06e98ed053c1b1b7c  python-3.14.0a3-amd64.exe.crt
+4025ab61019fd1fd171d10456c5e7ee9ba9817009663b2c825c60b1a98c5b743  python-3.14.0a3-amd64.exe.sig
+814d9ada9a51f3c373148bb647c0c5695b584fa7882b42038a72a66865371a0a  python-3.14.0a3-amd64.exe.sigstore
+814d9ada9a51f3c373148bb647c0c5695b584fa7882b42038a72a66865371a0a  python-3.14.0a3-amd64.exe.sigstore
+3ecc2cc1841b0a7ff8a6f76f464aa82f02d2a367d6e627fe0252de23f945b6f3  python-3.14.0a3-amd64.exe.spdx.json
+4bb62a35046710b4df4cb7fe5048e0990b8eb958829ef099d59daa6b2b3ffca8  python-3.14.0a3-amd64.zip
+dc0acebd4f10d6df6c84ccc3f7b8dd7b0f05a7922f4f882cce5e6e8972ec29d0  python-3.14.0a3-arm64.exe
+5e2e3386348d74905c1f9a2e1983d4e414afa1beb661220adf8b8b8e334d89e9  python-3.14.0a3-arm64.exe.crt
+02251ffbadca50f8bc61976d17cb813ff1b1aa1f21fb05c17e47720f45404448  python-3.14.0a3-arm64.exe.sig
+f764aede3795e00abb4508b263852a41cc5b30e13aad6805574844c075317c40  python-3.14.0a3-arm64.exe.sigstore
+17278a3e1a41aafc60231d89678b45ac11f72b7393019a0d46e83d7592f70418  python-3.14.0a3-arm64.exe.spdx.json
+5e2e3386348d74905c1f9a2e1983d4e414afa1beb661220adf8b8b8e334d89e9  python-3.14.0a3-arm64.exe.crt
+02251ffbadca50f8bc61976d17cb813ff1b1aa1f21fb05c17e47720f45404448  python-3.14.0a3-arm64.exe.sig
+f764aede3795e00abb4508b263852a41cc5b30e13aad6805574844c075317c40  python-3.14.0a3-arm64.exe.sigstore
+f764aede3795e00abb4508b263852a41cc5b30e13aad6805574844c075317c40  python-3.14.0a3-arm64.exe.sigstore
+17278a3e1a41aafc60231d89678b45ac11f72b7393019a0d46e83d7592f70418  python-3.14.0a3-arm64.exe.spdx.json
+456e69a957a8de246cb7c9f90cea30925b64e53be6929dd9785523713a83a4d4  python-3.14.0a3-arm64.zip
+4790ad47697c2e15eb9aea7b3556062079532eadbbbbd7a406dd469d2310dee7  python-3.14.0a3-embed-amd64.zip
+9fcb7f8e7944f084e383ab15d6f66b88169f5999f3a5c7faad67c27cb6ee7fca  python-3.14.0a3-embed-amd64.zip.crt
+9c9202498abe70ff0719b754228ec0218d3391f1aa6d0da9ccc33f181a238599  python-3.14.0a3-embed-amd64.zip.sig
+e08ccb8f300d685a69da3b93457150241bc4392e5e80cefbefaa30a31b00c357  python-3.14.0a3-embed-amd64.zip.sigstore
+012f55a01bde3121742afa9c7b014a2c805e21988133bec66ac455a2bc238e6b  python-3.14.0a3-embed-amd64.zip.spdx.json
+9fcb7f8e7944f084e383ab15d6f66b88169f5999f3a5c7faad67c27cb6ee7fca  python-3.14.0a3-embed-amd64.zip.crt
+9c9202498abe70ff0719b754228ec0218d3391f1aa6d0da9ccc33f181a238599  python-3.14.0a3-embed-amd64.zip.sig
+e08ccb8f300d685a69da3b93457150241bc4392e5e80cefbefaa30a31b00c357  python-3.14.0a3-embed-amd64.zip.sigstore
+e08ccb8f300d685a69da3b93457150241bc4392e5e80cefbefaa30a31b00c357  python-3.14.0a3-embed-amd64.zip.sigstore
+012f55a01bde3121742afa9c7b014a2c805e21988133bec66ac455a2bc238e6b  python-3.14.0a3-embed-amd64.zip.spdx.json
+1f96394b42cde598c4962d0f6a35405f92749032eefb1c340d356d4b7324f222  python-3.14.0a3-embed-arm64.zip
+34e7b0cbbf0a2f20c7c376202e8a9f735b7719d00c2e2a00b8075f64d5252977  python-3.14.0a3-embed-arm64.zip.crt
+028f5ac9d7dd865d5a60d5a0f50f4d63c75ed0d06ac5ce6aa175934a60586653  python-3.14.0a3-embed-arm64.zip.sig
+c95ae1a163c0cf4593c6ec12dda0033cacb042248be83a1444470c7e55cef992  python-3.14.0a3-embed-arm64.zip.sigstore
+48bc087dedd7dcfb856977fa51ceac14ed7ad33936ed4774603ce9c2a032e2a0  python-3.14.0a3-embed-arm64.zip.spdx.json
+34e7b0cbbf0a2f20c7c376202e8a9f735b7719d00c2e2a00b8075f64d5252977  python-3.14.0a3-embed-arm64.zip.crt
+028f5ac9d7dd865d5a60d5a0f50f4d63c75ed0d06ac5ce6aa175934a60586653  python-3.14.0a3-embed-arm64.zip.sig
+c95ae1a163c0cf4593c6ec12dda0033cacb042248be83a1444470c7e55cef992  python-3.14.0a3-embed-arm64.zip.sigstore
+c95ae1a163c0cf4593c6ec12dda0033cacb042248be83a1444470c7e55cef992  python-3.14.0a3-embed-arm64.zip.sigstore
+48bc087dedd7dcfb856977fa51ceac14ed7ad33936ed4774603ce9c2a032e2a0  python-3.14.0a3-embed-arm64.zip.spdx.json
+b5b113f9bd71de712a3f3703ed669d6fe1eb60e73d3c83be4f854ea239bbfc58  python-3.14.0a3-embed-win32.zip
+9a8e12db33f623f41bfb7cac7ed135eb648359167e82dd90907addcec698eeb3  python-3.14.0a3-embed-win32.zip.crt
+caf382f86435639036031a8e123ae5bf6e980cbd57c43ef2626969cbe5c814e2  python-3.14.0a3-embed-win32.zip.sig
+f597a43361d6ae34aa6e38c3217cc9508840150e05cc3a412099d222d76b5be8  python-3.14.0a3-embed-win32.zip.sigstore
+b859f6d1d7a74900b1166991126107fee382853e69d80d8c65615ef0a7d4ca82  python-3.14.0a3-embed-win32.zip.spdx.json
+9a8e12db33f623f41bfb7cac7ed135eb648359167e82dd90907addcec698eeb3  python-3.14.0a3-embed-win32.zip.crt
+caf382f86435639036031a8e123ae5bf6e980cbd57c43ef2626969cbe5c814e2  python-3.14.0a3-embed-win32.zip.sig
+f597a43361d6ae34aa6e38c3217cc9508840150e05cc3a412099d222d76b5be8  python-3.14.0a3-embed-win32.zip.sigstore
+f597a43361d6ae34aa6e38c3217cc9508840150e05cc3a412099d222d76b5be8  python-3.14.0a3-embed-win32.zip.sigstore
+b859f6d1d7a74900b1166991126107fee382853e69d80d8c65615ef0a7d4ca82  python-3.14.0a3-embed-win32.zip.spdx.json
+d2051b3ed45919882dd9b0879e2a9b15f8adab0452b34e040ecd90a69c1d96a5  python-3.14.0a3-embeddable-amd64.zip
+6e4e59d7a39712cda490a2a361d784c896477780fe0b3f4e08548dd1afb4d601  python-3.14.0a3-embeddable-arm64.zip
+06c991f67eff851be31e23b825009d1d93e0ab4671f96507e20e0ab02aabd5b1  python-3.14.0a3-embeddable-win32.zip
+5a8cdba058c6e126feb3a70adc13070d2b52745e6647f6e7e844ffa2be9604ef  python-3.14.0a3-macos11.pkg
+7761801a15bee6cac892bfec1c09a9e77fd27d5dca9c6af071322af8fc50b31d  python-3.14.0a3-macos11.pkg.crt
+fa844a254fd515a478efad1c89259a05c7237a89a4c9904c7ce728adbee1ceb7  python-3.14.0a3-macos11.pkg.sig
+ad7c9f5bf797694d3b7e366cd839ece9b4d90f5a0ba77a43bc305a47c2c92f6d  python-3.14.0a3-macos11.pkg.sigstore
+7761801a15bee6cac892bfec1c09a9e77fd27d5dca9c6af071322af8fc50b31d  python-3.14.0a3-macos11.pkg.crt
+fa844a254fd515a478efad1c89259a05c7237a89a4c9904c7ce728adbee1ceb7  python-3.14.0a3-macos11.pkg.sig
+ad7c9f5bf797694d3b7e366cd839ece9b4d90f5a0ba77a43bc305a47c2c92f6d  python-3.14.0a3-macos11.pkg.sigstore
+ad7c9f5bf797694d3b7e366cd839ece9b4d90f5a0ba77a43bc305a47c2c92f6d  python-3.14.0a3-macos11.pkg.sigstore
+31f2718a524df0d9f0a4b97a08fcb23896b5c5f747dc8268468ffe72f925ff4e  python-3.14.0a3-test-amd64.zip
+b45eb012e63a855529164070930885beef6ac01926dc8355e9992d28fd4e2564  python-3.14.0a3-test-arm64.zip
+d0bdd1a613fe1b1b6d84322f1afd84b24efccd020f7f2e310b8d74ba5dbe580a  python-3.14.0a3-test-win32.zip
+fe2f71bf96c70649def75f6e697b85ab6b5143dbfdf100fb46bf77eae5e707e3  python-3.14.0a3-win32.zip
+ca10ab2dbeef9abbf5bc4cd3d0dcb360428ff43ac04cdc07cb4327dcec428025  python-3.14.0a3.exe
+9d8c5c3e06fa53280c0afd10159985f4bbd558f65a9e37e012f0addb9481d17b  python-3.14.0a3.exe.crt
+1626ff2daa8ef1a27a8576c1dba87f5717798c7207c6eb366c66560c7042df39  python-3.14.0a3.exe.sig
+a4c9729c2e8626d7412c97e21ab9cdee973ddb64c69a398fa8916ad73dc02559  python-3.14.0a3.exe.sigstore
+c31c47dbb384a553a0969c05b946da8c0eeb29c24677f3877e792ab3fb0d4622  python-3.14.0a3.exe.spdx.json
+9d8c5c3e06fa53280c0afd10159985f4bbd558f65a9e37e012f0addb9481d17b  python-3.14.0a3.exe.crt
+1626ff2daa8ef1a27a8576c1dba87f5717798c7207c6eb366c66560c7042df39  python-3.14.0a3.exe.sig
+a4c9729c2e8626d7412c97e21ab9cdee973ddb64c69a398fa8916ad73dc02559  python-3.14.0a3.exe.sigstore
+a4c9729c2e8626d7412c97e21ab9cdee973ddb64c69a398fa8916ad73dc02559  python-3.14.0a3.exe.sigstore
+c31c47dbb384a553a0969c05b946da8c0eeb29c24677f3877e792ab3fb0d4622  python-3.14.0a3.exe.spdx.json
+94349df207456a575a8867c20b4ca434f870e1920dcdcc8fdf797e1af49abe90  Python-3.14.0a3.tar.xz
+0c9093dd9315fc0e4397d838f3a0cb10d770eeae66ce776d4c53b59a38b08dc9  Python-3.14.0a3.tar.xz.crt
+e00a01ffc6bd4729c9ced7f441ccebfe5504111db48e952c30418aeabece701d  Python-3.14.0a3.tar.xz.sig
+b03a73ddb29261ade32d8f8eaadf2883aa24ee53ee63aa15bc52f31502cb8516  Python-3.14.0a3.tar.xz.sigstore
+6c2e75703c0fd6e69e5707386b6af4f188b03e76610eceaaae7c78116109b5e7  Python-3.14.0a3.tar.xz.spdx.json
+0c9093dd9315fc0e4397d838f3a0cb10d770eeae66ce776d4c53b59a38b08dc9  Python-3.14.0a3.tar.xz.crt
+e00a01ffc6bd4729c9ced7f441ccebfe5504111db48e952c30418aeabece701d  Python-3.14.0a3.tar.xz.sig
+b03a73ddb29261ade32d8f8eaadf2883aa24ee53ee63aa15bc52f31502cb8516  Python-3.14.0a3.tar.xz.sigstore
+b03a73ddb29261ade32d8f8eaadf2883aa24ee53ee63aa15bc52f31502cb8516  Python-3.14.0a3.tar.xz.sigstore
+6c2e75703c0fd6e69e5707386b6af4f188b03e76610eceaaae7c78116109b5e7  Python-3.14.0a3.tar.xz.spdx.json
+6ecc4203d8de18c7295c4cdd012e4a4acff83261f8a99bdf15318af9bb1cc811  Python-3.14.0a3.tgz
+e73cccd6574e23b012ec3431d67994358db70576e5e32436458bcaa96682b63c  Python-3.14.0a3.tgz.crt
+59ef5690e5956d2b649109913e18b31576ed6d9731a7b48cb5a5b1cacdefc192  Python-3.14.0a3.tgz.sig
+70789900d70ccfce29d5d4f60ddd4f7eb843ff7eb768886834729d9d21591c50  Python-3.14.0a3.tgz.sigstore
+2b834ba763b0c14c0dc4034b6d1d175ca4fcd505ebe8749a8a05d8d5db3f5111  Python-3.14.0a3.tgz.spdx.json
+e73cccd6574e23b012ec3431d67994358db70576e5e32436458bcaa96682b63c  Python-3.14.0a3.tgz.crt
+59ef5690e5956d2b649109913e18b31576ed6d9731a7b48cb5a5b1cacdefc192  Python-3.14.0a3.tgz.sig
+70789900d70ccfce29d5d4f60ddd4f7eb843ff7eb768886834729d9d21591c50  Python-3.14.0a3.tgz.sigstore
+70789900d70ccfce29d5d4f60ddd4f7eb843ff7eb768886834729d9d21591c50  Python-3.14.0a3.tgz.sigstore
+2b834ba763b0c14c0dc4034b6d1d175ca4fcd505ebe8749a8a05d8d5db3f5111  Python-3.14.0a3.tgz.spdx.json
+44e391340507b3e4bf2bd47850fa031a4d24e392369fe37d48b876f20657b23b  python-3.14.0a3t-amd64.zip
+c54327d8adb20bc6ac30b30e062e6564a4a69c9eebcb49e149fc2330a1b44e2e  python-3.14.0a3t-arm64.zip
+c8e2d6e16b29fe3c200772c10b3d0fd42c265dd4ac4da2bfe61aa1eb20663718  python-3.14.0a3t-win32.zip
+282062869ce0bf0710451280a63b9b98e04e78be2f493010f19b3a2447946d99  python-3.14.0a4-amd64.exe
+d4d0e1cbd24cac531da8640a4066b742cec36781891a3cf0fdddb9c4447d2a88  python-3.14.0a4-amd64.exe.crt
+9c27f1df89020a0af6463ad706427e5adbf2d0044b731035c47781edf90d0f9a  python-3.14.0a4-amd64.exe.sig
+baecb14149a305a9444b4bc32975bab9e5f586e175ca31be5331c828e1be3c3e  python-3.14.0a4-amd64.exe.sigstore
+e6bc044ab9966b7ef5ed24e5899d5a52916d7d371d2863948dcfd5acd35a425f  python-3.14.0a4-amd64.exe.spdx.json
+d4d0e1cbd24cac531da8640a4066b742cec36781891a3cf0fdddb9c4447d2a88  python-3.14.0a4-amd64.exe.crt
+9c27f1df89020a0af6463ad706427e5adbf2d0044b731035c47781edf90d0f9a  python-3.14.0a4-amd64.exe.sig
+baecb14149a305a9444b4bc32975bab9e5f586e175ca31be5331c828e1be3c3e  python-3.14.0a4-amd64.exe.sigstore
+baecb14149a305a9444b4bc32975bab9e5f586e175ca31be5331c828e1be3c3e  python-3.14.0a4-amd64.exe.sigstore
+e6bc044ab9966b7ef5ed24e5899d5a52916d7d371d2863948dcfd5acd35a425f  python-3.14.0a4-amd64.exe.spdx.json
+1ac18756e9a3bd8b5ca7af991f1c78e1ab728269d1f83c560018487b995343e9  python-3.14.0a4-amd64.zip
+a96fb4e186627ca211bb951839ecca782f0ec606bfd1b70accf18d7aad0f6409  python-3.14.0a4-arm64.exe
+6e129cb5cc0ecba3ccfea7f576793685a47ccf9dcb7c40e07affbea9e71d4e10  python-3.14.0a4-arm64.exe.crt
+fab84faa259702c203f53f73d25b8ecbab3d908e83810cf34ab39e300776a855  python-3.14.0a4-arm64.exe.sig
+4ed2bb95d6ad6dfa5bdca53829b3f13478302db6bb86310531a34bfafeeddd26  python-3.14.0a4-arm64.exe.sigstore
+8ba578858ef4bbb212b58f96bc032659bd929384c6d71e8d85889f70d78aa0a2  python-3.14.0a4-arm64.exe.spdx.json
+6e129cb5cc0ecba3ccfea7f576793685a47ccf9dcb7c40e07affbea9e71d4e10  python-3.14.0a4-arm64.exe.crt
+fab84faa259702c203f53f73d25b8ecbab3d908e83810cf34ab39e300776a855  python-3.14.0a4-arm64.exe.sig
+4ed2bb95d6ad6dfa5bdca53829b3f13478302db6bb86310531a34bfafeeddd26  python-3.14.0a4-arm64.exe.sigstore
+4ed2bb95d6ad6dfa5bdca53829b3f13478302db6bb86310531a34bfafeeddd26  python-3.14.0a4-arm64.exe.sigstore
+8ba578858ef4bbb212b58f96bc032659bd929384c6d71e8d85889f70d78aa0a2  python-3.14.0a4-arm64.exe.spdx.json
+d22a1e628fd0c2f94aad2d4fc881e572e8b5a9d1bd8ea2f69b210a96933b0bd9  python-3.14.0a4-arm64.zip
+7df31e053c6b89b4b930779fdb8c160383728bd572b60c67685d68435fecab61  python-3.14.0a4-embed-amd64.zip
+0a0fe9776cf7f8ee9db144ca701c33cc500ac797ed1c5feadfebff7fdf322fe2  python-3.14.0a4-embed-amd64.zip.crt
+3a739fdd500fd47ebc34082bdd08e80a31f7566a9644ab706332d51a87e7d648  python-3.14.0a4-embed-amd64.zip.sig
+f7128e9e9427c83b6f889b088308b49161e44c136d7bdb79717f03ebb7e7f9f7  python-3.14.0a4-embed-amd64.zip.sigstore
+6165525e42896b16ef172188eb712d5fc946a787c93b2cb7d36549d72d2c335c  python-3.14.0a4-embed-amd64.zip.spdx.json
+0a0fe9776cf7f8ee9db144ca701c33cc500ac797ed1c5feadfebff7fdf322fe2  python-3.14.0a4-embed-amd64.zip.crt
+3a739fdd500fd47ebc34082bdd08e80a31f7566a9644ab706332d51a87e7d648  python-3.14.0a4-embed-amd64.zip.sig
+f7128e9e9427c83b6f889b088308b49161e44c136d7bdb79717f03ebb7e7f9f7  python-3.14.0a4-embed-amd64.zip.sigstore
+f7128e9e9427c83b6f889b088308b49161e44c136d7bdb79717f03ebb7e7f9f7  python-3.14.0a4-embed-amd64.zip.sigstore
+6165525e42896b16ef172188eb712d5fc946a787c93b2cb7d36549d72d2c335c  python-3.14.0a4-embed-amd64.zip.spdx.json
+c4d18c74e18987044aa48e2448bafea797593789d1c035b19e82c751aed19d8f  python-3.14.0a4-embed-arm64.zip
+5b720255e3d8c63f917d5e967915a9a44cc384537d5936a25ad71e0aba0b6890  python-3.14.0a4-embed-arm64.zip.crt
+81a0b0077f817f8e894d2a0eb34ea90ee959eb71713b480db1512b4f5796d5ca  python-3.14.0a4-embed-arm64.zip.sig
+f434c7d89a3b168c1ea8fbaf1a685ecc73a61693ebbefd8947cb77fc4e7350c9  python-3.14.0a4-embed-arm64.zip.sigstore
+07bc507a91640ca8a8e1f87b63de605ba704d3dbcba56438ddaee0daf91b3ead  python-3.14.0a4-embed-arm64.zip.spdx.json
+5b720255e3d8c63f917d5e967915a9a44cc384537d5936a25ad71e0aba0b6890  python-3.14.0a4-embed-arm64.zip.crt
+81a0b0077f817f8e894d2a0eb34ea90ee959eb71713b480db1512b4f5796d5ca  python-3.14.0a4-embed-arm64.zip.sig
+f434c7d89a3b168c1ea8fbaf1a685ecc73a61693ebbefd8947cb77fc4e7350c9  python-3.14.0a4-embed-arm64.zip.sigstore
+f434c7d89a3b168c1ea8fbaf1a685ecc73a61693ebbefd8947cb77fc4e7350c9  python-3.14.0a4-embed-arm64.zip.sigstore
+07bc507a91640ca8a8e1f87b63de605ba704d3dbcba56438ddaee0daf91b3ead  python-3.14.0a4-embed-arm64.zip.spdx.json
+b41839615bc6f7a3052049f6677bf2c0751407f4e17536c7581973447c7fcf2e  python-3.14.0a4-embed-win32.zip
+87fdaea8b02b9cf937c82a0bb8af9d67246599f217461c906363f919c21ff4da  python-3.14.0a4-embed-win32.zip.crt
+26171155418786ad33cf12fb5aeef754c92b94a25feefcfcd6d343b91837d578  python-3.14.0a4-embed-win32.zip.sig
+e32d3537d5fd363e80ac4fdff9f67a7874642938d20265e573ba63d6fba51c99  python-3.14.0a4-embed-win32.zip.sigstore
+3213e429992c970adca321bb998367a00612a2a75158d7ec9a650df9aeb1ce2c  python-3.14.0a4-embed-win32.zip.spdx.json
+87fdaea8b02b9cf937c82a0bb8af9d67246599f217461c906363f919c21ff4da  python-3.14.0a4-embed-win32.zip.crt
+26171155418786ad33cf12fb5aeef754c92b94a25feefcfcd6d343b91837d578  python-3.14.0a4-embed-win32.zip.sig
+e32d3537d5fd363e80ac4fdff9f67a7874642938d20265e573ba63d6fba51c99  python-3.14.0a4-embed-win32.zip.sigstore
+e32d3537d5fd363e80ac4fdff9f67a7874642938d20265e573ba63d6fba51c99  python-3.14.0a4-embed-win32.zip.sigstore
+3213e429992c970adca321bb998367a00612a2a75158d7ec9a650df9aeb1ce2c  python-3.14.0a4-embed-win32.zip.spdx.json
+a3bcb9cf5efddba313391cbe32daf4c8f8ffcfa5ca5110c2dd40c1de99184043  python-3.14.0a4-embeddable-amd64.zip
+c678aec29080f2d4dffc6c709e3b23472cb94870090a53bf36b3545bae03d55a  python-3.14.0a4-embeddable-arm64.zip
+2fe19fa1ec24ebf64e195013d733de7fde6a836d3fa474d9d7a87f57be98bdc4  python-3.14.0a4-embeddable-win32.zip
+9366f086837723123bc0934b7e0575375283da63b907e2431a9190d49ef949fc  python-3.14.0a4-macos11.pkg
+da181808b4d7449874a44ff322d5a01954234aaf033fc5198c1034369820ab08  python-3.14.0a4-macos11.pkg.crt
+627c708a4c429f6e5bc97a1c9a0b17cd18aaa47ab63b21bfc940e1b8b99d81b4  python-3.14.0a4-macos11.pkg.sig
+a568bc50ebd81599cfb69f0e2b6072cc2249f94b1abffab12a89680802979e64  python-3.14.0a4-macos11.pkg.sigstore
+da181808b4d7449874a44ff322d5a01954234aaf033fc5198c1034369820ab08  python-3.14.0a4-macos11.pkg.crt
+627c708a4c429f6e5bc97a1c9a0b17cd18aaa47ab63b21bfc940e1b8b99d81b4  python-3.14.0a4-macos11.pkg.sig
+a568bc50ebd81599cfb69f0e2b6072cc2249f94b1abffab12a89680802979e64  python-3.14.0a4-macos11.pkg.sigstore
+a568bc50ebd81599cfb69f0e2b6072cc2249f94b1abffab12a89680802979e64  python-3.14.0a4-macos11.pkg.sigstore
+e0d17c1fc6a03c47aa708b112e0c9f73811deded9a0bf241df39eea1fa47e9d3  python-3.14.0a4-test-amd64.zip
+92fcfdd5a8ede966aa5969f31696add382e8ba802656d84cc74857e1f19f4c72  python-3.14.0a4-test-arm64.zip
+97c34f329323ecc1cabc6bf7f869a2139c021f6332830050fd6c7cd18a168325  python-3.14.0a4-test-win32.zip
+431eb0e7968d65650517cb01af108303c90d9c9aea6661f5da2f17ec08188784  python-3.14.0a4-win32.zip
+8ec90d92a55550cb70ae9f1628dfcc5622b8d06736ea8ad22f6a4bfc2c1ca2e2  python-3.14.0a4.exe
+860ccbf7fa69f463094cfc94f2cb79eb1a68a3ca1b36e074e098d188f7c01041  python-3.14.0a4.exe.crt
+e41c14369a7fc6cd3938c419fd4778ca2fa0ae6270e70f3a9809cd2468da554c  python-3.14.0a4.exe.sig
+e4bdc6a550b02b4c760ab2ece34feb618bc2901fff9bb653a0e7695087e035f4  python-3.14.0a4.exe.sigstore
+222876cae9844eddb70466fa84907e1fd719e9312536b9192135db8d5121fc1f  python-3.14.0a4.exe.spdx.json
+860ccbf7fa69f463094cfc94f2cb79eb1a68a3ca1b36e074e098d188f7c01041  python-3.14.0a4.exe.crt
+e41c14369a7fc6cd3938c419fd4778ca2fa0ae6270e70f3a9809cd2468da554c  python-3.14.0a4.exe.sig
+e4bdc6a550b02b4c760ab2ece34feb618bc2901fff9bb653a0e7695087e035f4  python-3.14.0a4.exe.sigstore
+e4bdc6a550b02b4c760ab2ece34feb618bc2901fff9bb653a0e7695087e035f4  python-3.14.0a4.exe.sigstore
+222876cae9844eddb70466fa84907e1fd719e9312536b9192135db8d5121fc1f  python-3.14.0a4.exe.spdx.json
+c24f07881873c1d460228795ca6ca8c99130e30c773c91463d30d7ea8ff0e70b  Python-3.14.0a4.tar.xz
+339f55c1af68df8b409918a55dbfd4a960548e88e696cd5a58ade46eac80e460  Python-3.14.0a4.tar.xz.crt
+f52dd414b9ab973c0d78f82e77a25f94f77ff141dc6a4b0f915bb39baabee939  Python-3.14.0a4.tar.xz.sig
+a0e06e40db1cdc90959871137c591ba3b1be0a683ee08514fdffc146403aba3a  Python-3.14.0a4.tar.xz.sigstore
+7bb78e8260c875d1730ddba14794d3aac087bc55cc1167be6d16e0c0362e47be  Python-3.14.0a4.tar.xz.spdx.json
+339f55c1af68df8b409918a55dbfd4a960548e88e696cd5a58ade46eac80e460  Python-3.14.0a4.tar.xz.crt
+f52dd414b9ab973c0d78f82e77a25f94f77ff141dc6a4b0f915bb39baabee939  Python-3.14.0a4.tar.xz.sig
+a0e06e40db1cdc90959871137c591ba3b1be0a683ee08514fdffc146403aba3a  Python-3.14.0a4.tar.xz.sigstore
+a0e06e40db1cdc90959871137c591ba3b1be0a683ee08514fdffc146403aba3a  Python-3.14.0a4.tar.xz.sigstore
+7bb78e8260c875d1730ddba14794d3aac087bc55cc1167be6d16e0c0362e47be  Python-3.14.0a4.tar.xz.spdx.json
+cc9dcee27cc27fc6ef4ff47eb93abf48f158396a70aa67f1504893232911b4e2  Python-3.14.0a4.tgz
+7c450537cad486eab9990a7b6110a69803524d7b47a10480de2a5703f6560548  Python-3.14.0a4.tgz.crt
+a5316a7304281e8f8e2e454c094bfc20ffbe22a2ecb5f392c34c351de9aa278c  Python-3.14.0a4.tgz.sig
+af1671b5b4ab1a70408730b5df9299bcd15ad1de60c49af09789946ff13242c4  Python-3.14.0a4.tgz.sigstore
+eeeed32ba89e57caf7790331d1d2e3ad01ed2d867d9457929a7218d288264618  Python-3.14.0a4.tgz.spdx.json
+7c450537cad486eab9990a7b6110a69803524d7b47a10480de2a5703f6560548  Python-3.14.0a4.tgz.crt
+a5316a7304281e8f8e2e454c094bfc20ffbe22a2ecb5f392c34c351de9aa278c  Python-3.14.0a4.tgz.sig
+af1671b5b4ab1a70408730b5df9299bcd15ad1de60c49af09789946ff13242c4  Python-3.14.0a4.tgz.sigstore
+af1671b5b4ab1a70408730b5df9299bcd15ad1de60c49af09789946ff13242c4  Python-3.14.0a4.tgz.sigstore
+eeeed32ba89e57caf7790331d1d2e3ad01ed2d867d9457929a7218d288264618  Python-3.14.0a4.tgz.spdx.json
+0acdcccdc98773ad85e60b8825b69b4425fb6485cacfed8b28920bdddb361d83  python-3.14.0a4t-amd64.zip
+e3f839b66e5c10f6d4b46c5e2e26242456f19a0f1574fe242876d8f39c61dd73  python-3.14.0a4t-arm64.zip
+a56564db68fb68949fb48541d3c0ea3dd28d37802418d01afaa71413984d530b  python-3.14.0a4t-win32.zip
+42fc7082816cbad0cf88cc2ee1f0c81ae72b184e5667ffbc340f1fb17b663537  python-3.14.0a5-amd64.exe
+9ec659775efe10f446ca3db054f68372e7d1e9cc4a0b52040fa650dd6c901bc4  python-3.14.0a5-amd64.exe.crt
+bf8c3189fa3956e1a5011bcbb7bbd88907beb508fd210d51f85fefd875661038  python-3.14.0a5-amd64.exe.sig
+3361d7c6d8b82ac091eb505b9d9580798e7e0ba2d2eb74987ee64627c7c850e8  python-3.14.0a5-amd64.exe.sigstore
+9aa81772c3c68ed5bb3f6bc6a466b213445f901a9120334a0de0100579c7b8f8  python-3.14.0a5-amd64.exe.spdx.json
+9ec659775efe10f446ca3db054f68372e7d1e9cc4a0b52040fa650dd6c901bc4  python-3.14.0a5-amd64.exe.crt
+bf8c3189fa3956e1a5011bcbb7bbd88907beb508fd210d51f85fefd875661038  python-3.14.0a5-amd64.exe.sig
+3361d7c6d8b82ac091eb505b9d9580798e7e0ba2d2eb74987ee64627c7c850e8  python-3.14.0a5-amd64.exe.sigstore
+3361d7c6d8b82ac091eb505b9d9580798e7e0ba2d2eb74987ee64627c7c850e8  python-3.14.0a5-amd64.exe.sigstore
+9aa81772c3c68ed5bb3f6bc6a466b213445f901a9120334a0de0100579c7b8f8  python-3.14.0a5-amd64.exe.spdx.json
+d9e682ae2592f67f61c0b47748f257ed0316bc8b99a7a7a73c9cace6948fc6a1  python-3.14.0a5-arm64.exe
+1d5d993511466e2ccb77a8eb7c05927d650c59216a1699cbb85e17d8320fdd43  python-3.14.0a5-arm64.exe.crt
+c11bb2729197c6bfcd48db8d5687c44fced42b1c7869b1213f090d6e2f54d3e0  python-3.14.0a5-arm64.exe.sig
+c2787b3cc141fa0d65f2986613baf4dc34ae967665e7e0b37d7be0fd1004ad79  python-3.14.0a5-arm64.exe.sigstore
+8653ce77a37f203ae631f514390c27cf0e0894cf7f9a8d6668058401cc1e1d73  python-3.14.0a5-arm64.exe.spdx.json
+1d5d993511466e2ccb77a8eb7c05927d650c59216a1699cbb85e17d8320fdd43  python-3.14.0a5-arm64.exe.crt
+c11bb2729197c6bfcd48db8d5687c44fced42b1c7869b1213f090d6e2f54d3e0  python-3.14.0a5-arm64.exe.sig
+c2787b3cc141fa0d65f2986613baf4dc34ae967665e7e0b37d7be0fd1004ad79  python-3.14.0a5-arm64.exe.sigstore
+c2787b3cc141fa0d65f2986613baf4dc34ae967665e7e0b37d7be0fd1004ad79  python-3.14.0a5-arm64.exe.sigstore
+8653ce77a37f203ae631f514390c27cf0e0894cf7f9a8d6668058401cc1e1d73  python-3.14.0a5-arm64.exe.spdx.json
+0fcdda0e08338889d7d095667786cdeea4618537ab68d3d2bdee963eaff1dba0  python-3.14.0a5-embed-amd64.zip
+f44bde50a2feb30e53af841672038e3165a7e0f278cb44bfc637af3a2ffdeb4a  python-3.14.0a5-embed-amd64.zip.crt
+d119d36c3a42aebecbbe551e32c11d6a72453afe33bb6d6836b5bc9174e7c498  python-3.14.0a5-embed-amd64.zip.sig
+bde7bb97307b882b8a2655a9aac9817b7088cf303a8f1b0be66cfee9230975e7  python-3.14.0a5-embed-amd64.zip.sigstore
+590f2e2d454195fcf00461e6af39fa9d6345d92ae8131203ff44637d145168bd  python-3.14.0a5-embed-amd64.zip.spdx.json
+f44bde50a2feb30e53af841672038e3165a7e0f278cb44bfc637af3a2ffdeb4a  python-3.14.0a5-embed-amd64.zip.crt
+d119d36c3a42aebecbbe551e32c11d6a72453afe33bb6d6836b5bc9174e7c498  python-3.14.0a5-embed-amd64.zip.sig
+bde7bb97307b882b8a2655a9aac9817b7088cf303a8f1b0be66cfee9230975e7  python-3.14.0a5-embed-amd64.zip.sigstore
+bde7bb97307b882b8a2655a9aac9817b7088cf303a8f1b0be66cfee9230975e7  python-3.14.0a5-embed-amd64.zip.sigstore
+590f2e2d454195fcf00461e6af39fa9d6345d92ae8131203ff44637d145168bd  python-3.14.0a5-embed-amd64.zip.spdx.json
+e8751e005350ccba7ff9cf079fce2dd809cda2f1c90f935db72849065c454b75  python-3.14.0a5-embed-arm64.zip
+5bcf4bfa56129016ee449ba2ba3d7d23fd67b72d463f9008f392514e33e27432  python-3.14.0a5-embed-arm64.zip.crt
+f147685ebc7c6e72cbd178a1b79b929345299b9d5a8e920e682c9c08080be2aa  python-3.14.0a5-embed-arm64.zip.sig
+e570222625fcb871182ebb8db5b62f2fc6ab1a8086f68f18c48f869a79a63c5a  python-3.14.0a5-embed-arm64.zip.sigstore
+92c5907ba45166ca1c0b01c2e7f4236616e8612455b96da371c831f4eebdb472  python-3.14.0a5-embed-arm64.zip.spdx.json
+5bcf4bfa56129016ee449ba2ba3d7d23fd67b72d463f9008f392514e33e27432  python-3.14.0a5-embed-arm64.zip.crt
+f147685ebc7c6e72cbd178a1b79b929345299b9d5a8e920e682c9c08080be2aa  python-3.14.0a5-embed-arm64.zip.sig
+e570222625fcb871182ebb8db5b62f2fc6ab1a8086f68f18c48f869a79a63c5a  python-3.14.0a5-embed-arm64.zip.sigstore
+e570222625fcb871182ebb8db5b62f2fc6ab1a8086f68f18c48f869a79a63c5a  python-3.14.0a5-embed-arm64.zip.sigstore
+92c5907ba45166ca1c0b01c2e7f4236616e8612455b96da371c831f4eebdb472  python-3.14.0a5-embed-arm64.zip.spdx.json
+3ff6f0fe54670ad5a6955dc9a35120708fc10f4990e4f3b3552936bd2dc02781  python-3.14.0a5-embed-win32.zip
+45ba8657355ed59a723fa195c33e5a6118a9c8c2e333ade39cc7c4fa012887b8  python-3.14.0a5-embed-win32.zip.crt
+cbfbfcdbbce029fb8332e0cc048a8b3e894f77c97eee81bae07a9fc4af0d0b9b  python-3.14.0a5-embed-win32.zip.sig
+88d0751601840fea9d231d9388f393dd8286636197604b040e80a7f81ecc92c5  python-3.14.0a5-embed-win32.zip.sigstore
+eca0fe264a4fcd2673da7fc4f526fb4bc893b8cee7cb15e43fb24441343b6d32  python-3.14.0a5-embed-win32.zip.spdx.json
+45ba8657355ed59a723fa195c33e5a6118a9c8c2e333ade39cc7c4fa012887b8  python-3.14.0a5-embed-win32.zip.crt
+cbfbfcdbbce029fb8332e0cc048a8b3e894f77c97eee81bae07a9fc4af0d0b9b  python-3.14.0a5-embed-win32.zip.sig
+88d0751601840fea9d231d9388f393dd8286636197604b040e80a7f81ecc92c5  python-3.14.0a5-embed-win32.zip.sigstore
+88d0751601840fea9d231d9388f393dd8286636197604b040e80a7f81ecc92c5  python-3.14.0a5-embed-win32.zip.sigstore
+eca0fe264a4fcd2673da7fc4f526fb4bc893b8cee7cb15e43fb24441343b6d32  python-3.14.0a5-embed-win32.zip.spdx.json
+2e23aa746b59459374bfd754bca0a642be7c9dfc06a088ba3da40a17116ad629  python-3.14.0a5-macos11.pkg
+7c7e6af01e921070c15e378ae76ad8212817a3c5124886d17ec4ca4faeadcbbe  python-3.14.0a5-macos11.pkg.crt
+d8389c855bd76ad835cdc18302d082e724010a12b9928ba1bccf062d7c9d1e05  python-3.14.0a5-macos11.pkg.sig
+f17de102019397bea101abba4f1a2e839e7252114831874010cc1280b492b8ec  python-3.14.0a5-macos11.pkg.sigstore
+7c7e6af01e921070c15e378ae76ad8212817a3c5124886d17ec4ca4faeadcbbe  python-3.14.0a5-macos11.pkg.crt
+d8389c855bd76ad835cdc18302d082e724010a12b9928ba1bccf062d7c9d1e05  python-3.14.0a5-macos11.pkg.sig
+f17de102019397bea101abba4f1a2e839e7252114831874010cc1280b492b8ec  python-3.14.0a5-macos11.pkg.sigstore
+f17de102019397bea101abba4f1a2e839e7252114831874010cc1280b492b8ec  python-3.14.0a5-macos11.pkg.sigstore
+2504bde7a92c00c899b98cd21edde6c012ade0fe8160a1614e5a928291453bac  python-3.14.0a5.exe
+80d7bbe939a811ff653ea80e0bdd782fb33fa6d15d94bbd99eb81fc3fec038a3  python-3.14.0a5.exe.crt
+d2bcab55282c0d05c5187211b2b60faf104e568b86d0bf83005c8801a9ffca9b  python-3.14.0a5.exe.sig
+cb6a5c7923db67095dafb4df7f0d3cec4ea99a275b42c82c653eb65508007bd7  python-3.14.0a5.exe.sigstore
+4fdc0108031c70840df8de93fcca3fac1ab4ae81e96c899f8b5d09d0a0de093e  python-3.14.0a5.exe.spdx.json
+80d7bbe939a811ff653ea80e0bdd782fb33fa6d15d94bbd99eb81fc3fec038a3  python-3.14.0a5.exe.crt
+d2bcab55282c0d05c5187211b2b60faf104e568b86d0bf83005c8801a9ffca9b  python-3.14.0a5.exe.sig
+cb6a5c7923db67095dafb4df7f0d3cec4ea99a275b42c82c653eb65508007bd7  python-3.14.0a5.exe.sigstore
+cb6a5c7923db67095dafb4df7f0d3cec4ea99a275b42c82c653eb65508007bd7  python-3.14.0a5.exe.sigstore
+4fdc0108031c70840df8de93fcca3fac1ab4ae81e96c899f8b5d09d0a0de093e  python-3.14.0a5.exe.spdx.json
+74e83f26de1e4fb9eef1b56492cff92508834bb71ac13f5c580438ce9f093682  Python-3.14.0a5.tar.xz
+e377c357af2ac1fee9e5760c7b3946bc9b20f47ce93d805bcf4d87d0bd41a10c  Python-3.14.0a5.tar.xz.crt
+d9eb30c2c19271eaf87518b27b5a1f8fd2404cb5af776307a531971633b2aea3  Python-3.14.0a5.tar.xz.sig
+59bdc18bdedf1e06246a89ecf2254bc0603de2e9c9d773624306dd68fad619ce  Python-3.14.0a5.tar.xz.sigstore
+c34820ad1862477267a2908425c9b96e15cf9fd132ce80abfd6fda41f0661e26  Python-3.14.0a5.tar.xz.spdx.json
+e377c357af2ac1fee9e5760c7b3946bc9b20f47ce93d805bcf4d87d0bd41a10c  Python-3.14.0a5.tar.xz.crt
+d9eb30c2c19271eaf87518b27b5a1f8fd2404cb5af776307a531971633b2aea3  Python-3.14.0a5.tar.xz.sig
+59bdc18bdedf1e06246a89ecf2254bc0603de2e9c9d773624306dd68fad619ce  Python-3.14.0a5.tar.xz.sigstore
+59bdc18bdedf1e06246a89ecf2254bc0603de2e9c9d773624306dd68fad619ce  Python-3.14.0a5.tar.xz.sigstore
+c34820ad1862477267a2908425c9b96e15cf9fd132ce80abfd6fda41f0661e26  Python-3.14.0a5.tar.xz.spdx.json
+fba0418c29c6ff0c1e7b3c6872a8a611aab472373adbdb831b99456f87549800  Python-3.14.0a5.tgz
+45d32f4a3bb1ed90ef1c0929873a0425628ca70f6c5899f365fc325b35e4c7a4  Python-3.14.0a5.tgz.crt
+d7bd1e7e0b05f51fb40b447c1626a8960bc7aab60ec2d704e81b02101e5ab296  Python-3.14.0a5.tgz.sig
+90303bd47e7abfb96b87fb15d6670bf96d54abd88af48d379231ba0735d5d15c  Python-3.14.0a5.tgz.sigstore
+d73eaa3d728463476b6c3ebaf605adad4afed323914d851ceaa8d86a7e6dace7  Python-3.14.0a5.tgz.spdx.json
+45d32f4a3bb1ed90ef1c0929873a0425628ca70f6c5899f365fc325b35e4c7a4  Python-3.14.0a5.tgz.crt
+d7bd1e7e0b05f51fb40b447c1626a8960bc7aab60ec2d704e81b02101e5ab296  Python-3.14.0a5.tgz.sig
+90303bd47e7abfb96b87fb15d6670bf96d54abd88af48d379231ba0735d5d15c  Python-3.14.0a5.tgz.sigstore
+90303bd47e7abfb96b87fb15d6670bf96d54abd88af48d379231ba0735d5d15c  Python-3.14.0a5.tgz.sigstore
+d73eaa3d728463476b6c3ebaf605adad4afed323914d851ceaa8d86a7e6dace7  Python-3.14.0a5.tgz.spdx.json
+17fa8fabd7d926ffd634f48c40050ff3b0d61364a1719150ccbb45b732fd7afd  python-3.14.0a6-amd64.exe
+8e09e7de836d16330876c4bac92f103c6728ae37a3778c393158630d775bbd9e  python-3.14.0a6-amd64.exe.crt
+c98ad58e63c7ab89ff447001045d3e9f0bf27ca46d6c371ae4918207f16f157b  python-3.14.0a6-amd64.exe.sig
+a096cf6f7ac9f634350c5e45b1f13563590400f3ed0d33f5644c133bd4a98a54  python-3.14.0a6-amd64.exe.sigstore
+4ab07b4256f3557d1fa4ce3d151afc32e9ebd8855ce56b64c60db2e138492f17  python-3.14.0a6-amd64.exe.spdx.json
+8e09e7de836d16330876c4bac92f103c6728ae37a3778c393158630d775bbd9e  python-3.14.0a6-amd64.exe.crt
+c98ad58e63c7ab89ff447001045d3e9f0bf27ca46d6c371ae4918207f16f157b  python-3.14.0a6-amd64.exe.sig
+a096cf6f7ac9f634350c5e45b1f13563590400f3ed0d33f5644c133bd4a98a54  python-3.14.0a6-amd64.exe.sigstore
+a096cf6f7ac9f634350c5e45b1f13563590400f3ed0d33f5644c133bd4a98a54  python-3.14.0a6-amd64.exe.sigstore
+4ab07b4256f3557d1fa4ce3d151afc32e9ebd8855ce56b64c60db2e138492f17  python-3.14.0a6-amd64.exe.spdx.json
+6204b4c1d16c29f11cb1a80118b8f58413cf0f500bb199909d2ddc38928cac4d  python-3.14.0a6-amd64.zip
+27f4fcbf04a31d29ccb9bf50a5ce84e3ceb03f8bab35d3cff5395594c0d0e77f  python-3.14.0a6-arm64.exe
+eff42cf13b1e809632bce849c346aa6c437c48ee37220aedd765f44bd53dfdab  python-3.14.0a6-arm64.exe.crt
+0136be1322c870088c82ee7829cbb0af416e04be5a5bca5d4ee4a1c567e48bfa  python-3.14.0a6-arm64.exe.sig
+2f81e7f4596c14bd191b82f414ff1c81e792cc5fb170acccd61c8014a0300cec  python-3.14.0a6-arm64.exe.sigstore
+90648144b6af110d99063534b5d9926bf216f5e1834d27180fc8296f23cddea2  python-3.14.0a6-arm64.exe.spdx.json
+eff42cf13b1e809632bce849c346aa6c437c48ee37220aedd765f44bd53dfdab  python-3.14.0a6-arm64.exe.crt
+0136be1322c870088c82ee7829cbb0af416e04be5a5bca5d4ee4a1c567e48bfa  python-3.14.0a6-arm64.exe.sig
+2f81e7f4596c14bd191b82f414ff1c81e792cc5fb170acccd61c8014a0300cec  python-3.14.0a6-arm64.exe.sigstore
+2f81e7f4596c14bd191b82f414ff1c81e792cc5fb170acccd61c8014a0300cec  python-3.14.0a6-arm64.exe.sigstore
+90648144b6af110d99063534b5d9926bf216f5e1834d27180fc8296f23cddea2  python-3.14.0a6-arm64.exe.spdx.json
+0df154b1ff2c6b5fd7e41d66f1934d074543eae96738eee942e20d7a53b7b449  python-3.14.0a6-arm64.zip
+f37ee25ee94517cab22dbf638318dd9b443543228e6ec2d5b3a055cb119cf05b  python-3.14.0a6-embed-amd64.zip
+37843ee6eaa3b972769123cd234b924caff81abf74793d404d153ab15fde0452  python-3.14.0a6-embed-amd64.zip.crt
+bca984dc4cc0bbc3129f0d16719e56fabfc404f8f7f7a876b8a2ca7d19d6446b  python-3.14.0a6-embed-amd64.zip.sig
+180585ce572c2281658018696c934aaed2f1496f79806ffd8730b16b800e122c  python-3.14.0a6-embed-amd64.zip.sigstore
+bb7452784f2190ca3e32386c5d14c0ab4d2c0b2fe82d61e4ef35cde82ae5ed90  python-3.14.0a6-embed-amd64.zip.spdx.json
+37843ee6eaa3b972769123cd234b924caff81abf74793d404d153ab15fde0452  python-3.14.0a6-embed-amd64.zip.crt
+bca984dc4cc0bbc3129f0d16719e56fabfc404f8f7f7a876b8a2ca7d19d6446b  python-3.14.0a6-embed-amd64.zip.sig
+180585ce572c2281658018696c934aaed2f1496f79806ffd8730b16b800e122c  python-3.14.0a6-embed-amd64.zip.sigstore
+180585ce572c2281658018696c934aaed2f1496f79806ffd8730b16b800e122c  python-3.14.0a6-embed-amd64.zip.sigstore
+bb7452784f2190ca3e32386c5d14c0ab4d2c0b2fe82d61e4ef35cde82ae5ed90  python-3.14.0a6-embed-amd64.zip.spdx.json
+a246f3c2389adf3fdb2f564bf5351cbbae2310c84c1ae7720b1706f05984a7f7  python-3.14.0a6-embed-arm64.zip
+26682aa928075bfce54534024ed2550371e2c5f56d8b89ec1282194298d5ae06  python-3.14.0a6-embed-arm64.zip.crt
+5cfc5938b649a605610e069118941424b663795b4bf9a1c06f17593ebd23ee43  python-3.14.0a6-embed-arm64.zip.sig
+2235af54374494215c1e2127beb8d372af911c5f8e50c192df7c0064c1602af4  python-3.14.0a6-embed-arm64.zip.sigstore
+25b82e327c1d162fba73f307511420530c1f297a0afa7bc40006cf570a39af20  python-3.14.0a6-embed-arm64.zip.spdx.json
+26682aa928075bfce54534024ed2550371e2c5f56d8b89ec1282194298d5ae06  python-3.14.0a6-embed-arm64.zip.crt
+5cfc5938b649a605610e069118941424b663795b4bf9a1c06f17593ebd23ee43  python-3.14.0a6-embed-arm64.zip.sig
+2235af54374494215c1e2127beb8d372af911c5f8e50c192df7c0064c1602af4  python-3.14.0a6-embed-arm64.zip.sigstore
+2235af54374494215c1e2127beb8d372af911c5f8e50c192df7c0064c1602af4  python-3.14.0a6-embed-arm64.zip.sigstore
+25b82e327c1d162fba73f307511420530c1f297a0afa7bc40006cf570a39af20  python-3.14.0a6-embed-arm64.zip.spdx.json
+2da7a85b1c8d1a9b8483a7032f81d410ed7440ad20fdda00b450f0d1124d46ae  python-3.14.0a6-embed-win32.zip
+8c98786b6c43d88d951f3d1ffd8772019527dcb70fd4966a0164844f58f14f67  python-3.14.0a6-embed-win32.zip.crt
+277d0ace669acdf0f603680001457dc1223c42d38ec7a1dffec065dfe8b591ea  python-3.14.0a6-embed-win32.zip.sig
+892b3a5442d03e9386804a143aa2b217a046c2ec7386383314745919483a3551  python-3.14.0a6-embed-win32.zip.sigstore
+cd2c786e3fcd58858b3b10e9d160d2fb819852df66554a16bf65ecb5f66941c8  python-3.14.0a6-embed-win32.zip.spdx.json
+8c98786b6c43d88d951f3d1ffd8772019527dcb70fd4966a0164844f58f14f67  python-3.14.0a6-embed-win32.zip.crt
+277d0ace669acdf0f603680001457dc1223c42d38ec7a1dffec065dfe8b591ea  python-3.14.0a6-embed-win32.zip.sig
+892b3a5442d03e9386804a143aa2b217a046c2ec7386383314745919483a3551  python-3.14.0a6-embed-win32.zip.sigstore
+892b3a5442d03e9386804a143aa2b217a046c2ec7386383314745919483a3551  python-3.14.0a6-embed-win32.zip.sigstore
+cd2c786e3fcd58858b3b10e9d160d2fb819852df66554a16bf65ecb5f66941c8  python-3.14.0a6-embed-win32.zip.spdx.json
+f6b1cd59ac6cf685767b54c97e6fcae490d3b7e14e7815a03d39ef6635a053c9  python-3.14.0a6-embeddable-amd64.zip
+960198f90e72eaa16ee0ca3cb117b0d929fdfa10902a91cf7b2a3191b12e59e8  python-3.14.0a6-embeddable-arm64.zip
+f0496a9a92b98da0bf3cbe0d88b14d6d7ba499ab510b11088ff10fb4e2114b40  python-3.14.0a6-embeddable-win32.zip
+04af358f5c4144ec36876f93c6b89621b1f94626e2e46338e2eb71bdfcee4387  python-3.14.0a6-macos11.pkg
+41f33c94207c4f5ee2615e2c412b9428b91f702962a51c1ba9f6bfb53273e1f5  python-3.14.0a6-macos11.pkg.crt
+9b727df7fc30c911acc6cf1649b96a20490dd5538f7fe59e4681dd470eb19ccb  python-3.14.0a6-macos11.pkg.sig
+5cabb6314a680136f99b25ba40ff5b2e6f18b661a4f87f9298feae7d29972a47  python-3.14.0a6-macos11.pkg.sigstore
+41f33c94207c4f5ee2615e2c412b9428b91f702962a51c1ba9f6bfb53273e1f5  python-3.14.0a6-macos11.pkg.crt
+9b727df7fc30c911acc6cf1649b96a20490dd5538f7fe59e4681dd470eb19ccb  python-3.14.0a6-macos11.pkg.sig
+5cabb6314a680136f99b25ba40ff5b2e6f18b661a4f87f9298feae7d29972a47  python-3.14.0a6-macos11.pkg.sigstore
+5cabb6314a680136f99b25ba40ff5b2e6f18b661a4f87f9298feae7d29972a47  python-3.14.0a6-macos11.pkg.sigstore
+1278efd6930e87b90d97b827a94a211120813260401acec93a3af60d385a3aba  python-3.14.0a6-test-amd64.zip
+c8a236b819917694e4e842878e7beedbbd234392179e709512b0c8c301ee58f4  python-3.14.0a6-test-arm64.zip
+fdb77706bcade4a6311ca1d9033cddb21c247790eb83f0c17795ef6437bc8545  python-3.14.0a6-test-win32.zip
+2f0944ccf1002e95d67a0a6537c76f9c98cca4ea44929d0659e9128ace202800  python-3.14.0a6-win32.zip
+d1cb458da1cf79ef2532b6c0d24e8b65eeff4b726098c846a646c8dd965ebeeb  python-3.14.0a6.exe
+6ae379d71c557a8ce7da34f464c81db39b42e966ac180ce4052ee8b0251bde05  python-3.14.0a6.exe.crt
+b756e526645b69c19e1fc22faee1266b86e6870fce57760f1a914e96f20a8c3d  python-3.14.0a6.exe.sig
+34f8478619f3fafbebd7353ad15cfc776ded66dcda7965e8d4b5fefe0cd9dd04  python-3.14.0a6.exe.sigstore
+19a933b1b5bb20751efe37946cb0f45a9be7f18b37f2a7d06423e9f05c6943ee  python-3.14.0a6.exe.spdx.json
+6ae379d71c557a8ce7da34f464c81db39b42e966ac180ce4052ee8b0251bde05  python-3.14.0a6.exe.crt
+b756e526645b69c19e1fc22faee1266b86e6870fce57760f1a914e96f20a8c3d  python-3.14.0a6.exe.sig
+34f8478619f3fafbebd7353ad15cfc776ded66dcda7965e8d4b5fefe0cd9dd04  python-3.14.0a6.exe.sigstore
+34f8478619f3fafbebd7353ad15cfc776ded66dcda7965e8d4b5fefe0cd9dd04  python-3.14.0a6.exe.sigstore
+19a933b1b5bb20751efe37946cb0f45a9be7f18b37f2a7d06423e9f05c6943ee  python-3.14.0a6.exe.spdx.json
+8d6181e5331d9a2cd6ca405ae1230e88589a043f4768ebb443d3889d45c1c35c  Python-3.14.0a6.tar.xz
+acbce283af76dd11006d8678db5cc1db56524171aa1bdc760a2d05e1b1246998  Python-3.14.0a6.tar.xz.crt
+bbd63d9fda77548dd467e07d8f194f2d26a3f2493d29a32b756870be501baa38  Python-3.14.0a6.tar.xz.sig
+5e006ef172c267056ca1e5e082b19ba0d600676f1b5789c576c2fa13707a1458  Python-3.14.0a6.tar.xz.sigstore
+cd803339a026c76b8dbab380010f95c821cb270366f1fade2cba930520b9192e  Python-3.14.0a6.tar.xz.spdx.json
+acbce283af76dd11006d8678db5cc1db56524171aa1bdc760a2d05e1b1246998  Python-3.14.0a6.tar.xz.crt
+bbd63d9fda77548dd467e07d8f194f2d26a3f2493d29a32b756870be501baa38  Python-3.14.0a6.tar.xz.sig
+5e006ef172c267056ca1e5e082b19ba0d600676f1b5789c576c2fa13707a1458  Python-3.14.0a6.tar.xz.sigstore
+5e006ef172c267056ca1e5e082b19ba0d600676f1b5789c576c2fa13707a1458  Python-3.14.0a6.tar.xz.sigstore
+cd803339a026c76b8dbab380010f95c821cb270366f1fade2cba930520b9192e  Python-3.14.0a6.tar.xz.spdx.json
+8129cdb891958eb644856317f91fd1d2f1019745a983b2b01d2506584eb5be3e  Python-3.14.0a6.tgz
+fb247f59d2d1b6f925cdb42f4f97d1bb02c7410fec64b3a5d717e9950859f93b  Python-3.14.0a6.tgz.crt
+b3df2ad12c96357a8c1b85bff00f74e185dc1ce24822a6c8f879f3142b8ee96f  Python-3.14.0a6.tgz.sig
+323c29a0d1be62531fd171efcc92db81acf35e71f7b729fc4061ee57c593d11a  Python-3.14.0a6.tgz.sigstore
+46230571207044f56c4380e371df7b22a38efd73003cc34c05edbab03448843d  Python-3.14.0a6.tgz.spdx.json
+fb247f59d2d1b6f925cdb42f4f97d1bb02c7410fec64b3a5d717e9950859f93b  Python-3.14.0a6.tgz.crt
+b3df2ad12c96357a8c1b85bff00f74e185dc1ce24822a6c8f879f3142b8ee96f  Python-3.14.0a6.tgz.sig
+323c29a0d1be62531fd171efcc92db81acf35e71f7b729fc4061ee57c593d11a  Python-3.14.0a6.tgz.sigstore
+323c29a0d1be62531fd171efcc92db81acf35e71f7b729fc4061ee57c593d11a  Python-3.14.0a6.tgz.sigstore
+46230571207044f56c4380e371df7b22a38efd73003cc34c05edbab03448843d  Python-3.14.0a6.tgz.spdx.json
+31abe7c034e74592ba2ecb2befe45a53748cab2a689f5f80e890ac24d887e71f  python-3.14.0a6t-amd64.zip
+451b251db4a89fa3ef82c4e01443a4e6da2e9c7dd453c66887599830dfa19fe8  python-3.14.0a6t-arm64.zip
+9efb9a55e64ff203c21d2d2a047d4947f25bff6966318c62feec97d2a313a3fb  python-3.14.0a6t-win32.zip
+944e24cde04e4067ae728578afc8fbc78d9a0d735e9c9348720c857d61bd8e1e  python-3.14.0a7-amd64.exe
+eb872576e25409c4a946ce2e23257bb4a7e5dc8d67f5e36a24a6697a5c8388f6  python-3.14.0a7-amd64.exe.crt
+43e124969327fbf511f56e4fff3f7ae3983353ad65c3c6b502d4f989fb1868ee  python-3.14.0a7-amd64.exe.sig
+fe7e2575ad523df2b62897ea8872e30dbb1b22bcb25a82a851c1ac1fed8db76d  python-3.14.0a7-amd64.exe.sigstore
+213a8bc4f845b4c919d3d09b45524e308a5ea6e7f243f511c8009f0253d255c4  python-3.14.0a7-amd64.exe.spdx.json
+eb872576e25409c4a946ce2e23257bb4a7e5dc8d67f5e36a24a6697a5c8388f6  python-3.14.0a7-amd64.exe.crt
+43e124969327fbf511f56e4fff3f7ae3983353ad65c3c6b502d4f989fb1868ee  python-3.14.0a7-amd64.exe.sig
+fe7e2575ad523df2b62897ea8872e30dbb1b22bcb25a82a851c1ac1fed8db76d  python-3.14.0a7-amd64.exe.sigstore
+fe7e2575ad523df2b62897ea8872e30dbb1b22bcb25a82a851c1ac1fed8db76d  python-3.14.0a7-amd64.exe.sigstore
+213a8bc4f845b4c919d3d09b45524e308a5ea6e7f243f511c8009f0253d255c4  python-3.14.0a7-amd64.exe.spdx.json
+84545c852b87ad0b0e4b1f98ffcb41866a72ce973322ed4f4f6272e849841267  python-3.14.0a7-amd64.zip
+009191d768467ab7d2402c90f2387947c435c1ec3447a1c4af860500bf35c3fa  python-3.14.0a7-arm64.exe
+954e47263f12f5a6c09605c6a5a2684c78331c1c474cf77ca7ec27a6c55b6988  python-3.14.0a7-arm64.exe.crt
+a5c9187369c8a0b4b697a3d82013ad4f56d7177336b820ab6faa50d27ba0aaf5  python-3.14.0a7-arm64.exe.sig
+c9b4c6a6f289f117d6106e066e1de55a6300dedd2005d0f17f661e3f35daabeb  python-3.14.0a7-arm64.exe.sigstore
+64ab4044ad203da4dfe603c3d969fdc96ed7f200f9bd40ca5ba23e3b25103651  python-3.14.0a7-arm64.exe.spdx.json
+954e47263f12f5a6c09605c6a5a2684c78331c1c474cf77ca7ec27a6c55b6988  python-3.14.0a7-arm64.exe.crt
+a5c9187369c8a0b4b697a3d82013ad4f56d7177336b820ab6faa50d27ba0aaf5  python-3.14.0a7-arm64.exe.sig
+c9b4c6a6f289f117d6106e066e1de55a6300dedd2005d0f17f661e3f35daabeb  python-3.14.0a7-arm64.exe.sigstore
+c9b4c6a6f289f117d6106e066e1de55a6300dedd2005d0f17f661e3f35daabeb  python-3.14.0a7-arm64.exe.sigstore
+64ab4044ad203da4dfe603c3d969fdc96ed7f200f9bd40ca5ba23e3b25103651  python-3.14.0a7-arm64.exe.spdx.json
+699d9eda5131f0f7c65115666ec2f863c50f77dac144741b7c3ec5b6cc16a85c  python-3.14.0a7-arm64.zip
+3d6577455ac2e77de6ef74cb1dfcec7076f6146f522cd1d5d484be64fb876bd4  python-3.14.0a7-embed-amd64.zip
+2284e53220ecf977efb80db327685da9d9c48bf1f1f1b1d0cbab801521a511bd  python-3.14.0a7-embed-amd64.zip.crt
+b20eecefd3e14a4ba0e759deaf9d1c4dd09b7f1defcf5f281627d7a19d60f7c6  python-3.14.0a7-embed-amd64.zip.sig
+0c5c18d23abc31afcce4aa5f144f557153e4763e0961015aa0e0d5c95c696bcd  python-3.14.0a7-embed-amd64.zip.sigstore
+339c617b55f2ae0a7038436af365bb0e6ec95711763a96b9b9bc71cd843ab733  python-3.14.0a7-embed-amd64.zip.spdx.json
+2284e53220ecf977efb80db327685da9d9c48bf1f1f1b1d0cbab801521a511bd  python-3.14.0a7-embed-amd64.zip.crt
+b20eecefd3e14a4ba0e759deaf9d1c4dd09b7f1defcf5f281627d7a19d60f7c6  python-3.14.0a7-embed-amd64.zip.sig
+0c5c18d23abc31afcce4aa5f144f557153e4763e0961015aa0e0d5c95c696bcd  python-3.14.0a7-embed-amd64.zip.sigstore
+0c5c18d23abc31afcce4aa5f144f557153e4763e0961015aa0e0d5c95c696bcd  python-3.14.0a7-embed-amd64.zip.sigstore
+339c617b55f2ae0a7038436af365bb0e6ec95711763a96b9b9bc71cd843ab733  python-3.14.0a7-embed-amd64.zip.spdx.json
+d23d0739f6d5a8e1cc872b63475c88df11ebcbdea292b68bfbe2b5a0cf871da1  python-3.14.0a7-embed-arm64.zip
+72818c2cc6b6ffd20a3190a549fa7409dfbac1f7a8af29bb59cea17d0f207960  python-3.14.0a7-embed-arm64.zip.crt
+48ceb661340a646c83076285f6a62f11e9d19d21c6b26a1d6831c01640fbc1bf  python-3.14.0a7-embed-arm64.zip.sig
+da9cf5e2cb3b077121a54925acfce9a1f77fd23ccc3a542136945cdc99c77d63  python-3.14.0a7-embed-arm64.zip.sigstore
+1ae164a9317b50333ab1e0e0cf52b374e7c35e881d2285c9aaa81a61f817ff67  python-3.14.0a7-embed-arm64.zip.spdx.json
+72818c2cc6b6ffd20a3190a549fa7409dfbac1f7a8af29bb59cea17d0f207960  python-3.14.0a7-embed-arm64.zip.crt
+48ceb661340a646c83076285f6a62f11e9d19d21c6b26a1d6831c01640fbc1bf  python-3.14.0a7-embed-arm64.zip.sig
+da9cf5e2cb3b077121a54925acfce9a1f77fd23ccc3a542136945cdc99c77d63  python-3.14.0a7-embed-arm64.zip.sigstore
+da9cf5e2cb3b077121a54925acfce9a1f77fd23ccc3a542136945cdc99c77d63  python-3.14.0a7-embed-arm64.zip.sigstore
+1ae164a9317b50333ab1e0e0cf52b374e7c35e881d2285c9aaa81a61f817ff67  python-3.14.0a7-embed-arm64.zip.spdx.json
+769a22d817f0b0ed442982292958e6b96b0ee49aba09b9b84239eec33a551c15  python-3.14.0a7-embed-win32.zip
+b0bd9da9c5cc1c115167a6c65f88dc66025a27fe5a6cea880ebec73acacd0bf8  python-3.14.0a7-embed-win32.zip.crt
+d28447d691f6a457e1fa0989b029d811386aa6a25be5a974105ac2179c3c1837  python-3.14.0a7-embed-win32.zip.sig
+0dbb062dfd192ad835cb16e810d39a64caaa73ec09ac4146e19066de14ff6142  python-3.14.0a7-embed-win32.zip.sigstore
+87047b96987a06a08e2294b5b9bc048f53453c08f0da2f55104abdd7636b3668  python-3.14.0a7-embed-win32.zip.spdx.json
+b0bd9da9c5cc1c115167a6c65f88dc66025a27fe5a6cea880ebec73acacd0bf8  python-3.14.0a7-embed-win32.zip.crt
+d28447d691f6a457e1fa0989b029d811386aa6a25be5a974105ac2179c3c1837  python-3.14.0a7-embed-win32.zip.sig
+0dbb062dfd192ad835cb16e810d39a64caaa73ec09ac4146e19066de14ff6142  python-3.14.0a7-embed-win32.zip.sigstore
+0dbb062dfd192ad835cb16e810d39a64caaa73ec09ac4146e19066de14ff6142  python-3.14.0a7-embed-win32.zip.sigstore
+87047b96987a06a08e2294b5b9bc048f53453c08f0da2f55104abdd7636b3668  python-3.14.0a7-embed-win32.zip.spdx.json
+539b559a6bcf868021d5ef4986eb01840c8395f253e5ca25ae424e66aa64c55c  python-3.14.0a7-embeddable-amd64.zip
+8e807dc5b3276317c7f2bc9bd3e610f59792fe63bea71e61676fbf77d037d317  python-3.14.0a7-embeddable-arm64.zip
+0dc70f8d30fd1fc0f5359beaf8d39a1d61e9b99f57208618b458a5518970dcb3  python-3.14.0a7-embeddable-win32.zip
+ce89549bd7445e75459cd55e040055108d47f91ddfcd4244df4dbb3daa19dfe4  python-3.14.0a7-macos11.pkg
+1ee81c7b7ab69d5f214c1f30d65c3bcbcd34e59d68df2fc9dfd1f344da5e1be2  python-3.14.0a7-macos11.pkg.crt
+b086bde8b3edb930bc2525ad85718cb147bf9ab661d7742e8f0f399c098d7719  python-3.14.0a7-macos11.pkg.sig
+9a61cc940099bf6492649419548f03b446500ec660c9a4046fe9dae78887fef8  python-3.14.0a7-macos11.pkg.sigstore
+1ee81c7b7ab69d5f214c1f30d65c3bcbcd34e59d68df2fc9dfd1f344da5e1be2  python-3.14.0a7-macos11.pkg.crt
+b086bde8b3edb930bc2525ad85718cb147bf9ab661d7742e8f0f399c098d7719  python-3.14.0a7-macos11.pkg.sig
+9a61cc940099bf6492649419548f03b446500ec660c9a4046fe9dae78887fef8  python-3.14.0a7-macos11.pkg.sigstore
+9a61cc940099bf6492649419548f03b446500ec660c9a4046fe9dae78887fef8  python-3.14.0a7-macos11.pkg.sigstore
+17c77802c97f290e2280e23c61520aa422aad57085a3b31f0064af5f38bbfee9  python-3.14.0a7-test-amd64.zip
+added68ce37543318729e62c8f84fd48466c9d015c50b2350a83de3fe2ed3ce0  python-3.14.0a7-test-arm64.zip
+d3d7594d38a677dfba7a1c5ebbe48af7a8f16dbedd9c2e74457c39a4716c67a9  python-3.14.0a7-test-win32.zip
+1d9b3985cd12a429a9636815b848e33856031520d9a82972bd715b5ef5474fe0  python-3.14.0a7-win32.zip
+2f54fac0514a35f72805f2dabf022fb383ab5925fdc09dfb253643c0b21e1ce6  python-3.14.0a7.exe
+b93da633677bf38b64d2afac8983fbcdc454798a2d7810a375553614db18d9f5  python-3.14.0a7.exe.crt
+8646e1026025950ec938021868a1937fada62a09576ed69906006490dd0ecd2b  python-3.14.0a7.exe.sig
+ae4009cadd347294b4608c4b2b85010ef8c916d62b4a79fc050ab27be7057a71  python-3.14.0a7.exe.sigstore
+9283acd06240878af64c8846114e8ef8759d513fb2331dae1368f81c3cece2ff  python-3.14.0a7.exe.spdx.json
+b93da633677bf38b64d2afac8983fbcdc454798a2d7810a375553614db18d9f5  python-3.14.0a7.exe.crt
+8646e1026025950ec938021868a1937fada62a09576ed69906006490dd0ecd2b  python-3.14.0a7.exe.sig
+ae4009cadd347294b4608c4b2b85010ef8c916d62b4a79fc050ab27be7057a71  python-3.14.0a7.exe.sigstore
+ae4009cadd347294b4608c4b2b85010ef8c916d62b4a79fc050ab27be7057a71  python-3.14.0a7.exe.sigstore
+9283acd06240878af64c8846114e8ef8759d513fb2331dae1368f81c3cece2ff  python-3.14.0a7.exe.spdx.json
+71adbcec3ac9edf93308e55cfb4184f2eb4b16fda2bb0a5a382929ed29c8386d  Python-3.14.0a7.tar.xz
+f03d60aca0e189b711b3640fdda24c3cb10dc439657b855aec3a4d9666268d1e  Python-3.14.0a7.tar.xz.crt
+f1335acd0ac5420a0e6c58fb4f218192f053803ab3a008cf6418bf2d830b93a0  Python-3.14.0a7.tar.xz.sig
+748c92fc24476c12dbc7eb591121eb877de530a1081f2c5689d689ea2dc24fd9  Python-3.14.0a7.tar.xz.sigstore
+e35e8ff545b200b3ab70fadc921924d975b6857c1dc3f9c9aed54fa81903d0a8  Python-3.14.0a7.tar.xz.spdx.json
+f03d60aca0e189b711b3640fdda24c3cb10dc439657b855aec3a4d9666268d1e  Python-3.14.0a7.tar.xz.crt
+f1335acd0ac5420a0e6c58fb4f218192f053803ab3a008cf6418bf2d830b93a0  Python-3.14.0a7.tar.xz.sig
+748c92fc24476c12dbc7eb591121eb877de530a1081f2c5689d689ea2dc24fd9  Python-3.14.0a7.tar.xz.sigstore
+748c92fc24476c12dbc7eb591121eb877de530a1081f2c5689d689ea2dc24fd9  Python-3.14.0a7.tar.xz.sigstore
+e35e8ff545b200b3ab70fadc921924d975b6857c1dc3f9c9aed54fa81903d0a8  Python-3.14.0a7.tar.xz.spdx.json
+381cc699c1dff5153ab76bff4c6d1f916069be39d0231ee20390f42785b9c046  Python-3.14.0a7.tgz
+fe9003766e50aa422af3a22b91996e54ade6b6098895dc7adf19d8ff2a727006  Python-3.14.0a7.tgz.crt
+909387517aa18e244a3b500394d6901261b81d1a2367ae23640a48643b1f74f7  Python-3.14.0a7.tgz.sig
+0800a7fb01822e829e4976526bd1c8cf7dea17982c95dfe8efff8deba84c79b5  Python-3.14.0a7.tgz.sigstore
+8e9539af30f00aeb43c731b1ae56c3520e5c8ef9402ac1eb340034ed1195729b  Python-3.14.0a7.tgz.spdx.json
+fe9003766e50aa422af3a22b91996e54ade6b6098895dc7adf19d8ff2a727006  Python-3.14.0a7.tgz.crt
+909387517aa18e244a3b500394d6901261b81d1a2367ae23640a48643b1f74f7  Python-3.14.0a7.tgz.sig
+0800a7fb01822e829e4976526bd1c8cf7dea17982c95dfe8efff8deba84c79b5  Python-3.14.0a7.tgz.sigstore
+0800a7fb01822e829e4976526bd1c8cf7dea17982c95dfe8efff8deba84c79b5  Python-3.14.0a7.tgz.sigstore
+8e9539af30f00aeb43c731b1ae56c3520e5c8ef9402ac1eb340034ed1195729b  Python-3.14.0a7.tgz.spdx.json
+95fa1dcb1fdb16d2aea4ef4ec24ee42dd4594733ce2c8577ba8f02a6e3dec6d4  python-3.14.0a7t-amd64.zip
+df117c5485d3c324f0e4c71754e6756e636645c0081b98c7b46af594ecef2d18  python-3.14.0a7t-arm64.zip
+affa81e1825c3097423f5458baf7dd45634088348124e8600ba77369af97dded  python-3.14.0a7t-win32.zip
+a878026c12b1a606d02f5bbf3ed65aa780ee8272964b8f95d8348ffa2d6ca096  python-3.14.0b1-amd64.exe
+3b76cbd02ae0e56e01808e359fe3f08760d81ae25d93f02cc36c07acef2be79f  python-3.14.0b1-amd64.exe.crt
+e725ee7e054f524368355586e8d4ea50ccd4dde8d241d011c50b5e86509927e8  python-3.14.0b1-amd64.exe.sig
+589536abf7be2130f944645297ac0c4f04ed57b4a069d30a6dfdf686c413c49d  python-3.14.0b1-amd64.exe.sigstore
+ccea3adcd538bb3121739fa3c9b011962c257f795dfd9a4994357cdacdf68db6  python-3.14.0b1-amd64.exe.spdx.json
+3b76cbd02ae0e56e01808e359fe3f08760d81ae25d93f02cc36c07acef2be79f  python-3.14.0b1-amd64.exe.crt
+e725ee7e054f524368355586e8d4ea50ccd4dde8d241d011c50b5e86509927e8  python-3.14.0b1-amd64.exe.sig
+589536abf7be2130f944645297ac0c4f04ed57b4a069d30a6dfdf686c413c49d  python-3.14.0b1-amd64.exe.sigstore
+589536abf7be2130f944645297ac0c4f04ed57b4a069d30a6dfdf686c413c49d  python-3.14.0b1-amd64.exe.sigstore
+ccea3adcd538bb3121739fa3c9b011962c257f795dfd9a4994357cdacdf68db6  python-3.14.0b1-amd64.exe.spdx.json
+0f62a9b02f99f7b301c53ad5808e7f8a6dcb3666fd2ebe4563770d7afdfbb40e  python-3.14.0b1-amd64.zip
+3e621679e58d59990a386a5b884bb7e5210e40a648938865e822fe4049ad739b  python-3.14.0b1-arm64.exe
+6a9a964ae97f52d6d291cd04e554c61e6af1ec30775c8e80398475dca62beac1  python-3.14.0b1-arm64.exe.crt
+b3df36eb2fba1aee443102556d94b3753cc4d36cf0fc72323caefce039fae796  python-3.14.0b1-arm64.exe.sig
+fb910c095d315254865cf7187d14eb73fc3440dc52eb9ee2bffcbc04c625aff3  python-3.14.0b1-arm64.exe.sigstore
+9fc75fb445a39ec17fe8cb1ee513c9bb78eb34578f3a4d0085f58af75baf5a62  python-3.14.0b1-arm64.exe.spdx.json
+6a9a964ae97f52d6d291cd04e554c61e6af1ec30775c8e80398475dca62beac1  python-3.14.0b1-arm64.exe.crt
+b3df36eb2fba1aee443102556d94b3753cc4d36cf0fc72323caefce039fae796  python-3.14.0b1-arm64.exe.sig
+fb910c095d315254865cf7187d14eb73fc3440dc52eb9ee2bffcbc04c625aff3  python-3.14.0b1-arm64.exe.sigstore
+fb910c095d315254865cf7187d14eb73fc3440dc52eb9ee2bffcbc04c625aff3  python-3.14.0b1-arm64.exe.sigstore
+9fc75fb445a39ec17fe8cb1ee513c9bb78eb34578f3a4d0085f58af75baf5a62  python-3.14.0b1-arm64.exe.spdx.json
+e391edc9de002266b247c4e66c856ae8cfe0e51f2bc3899af191f51ab722649d  python-3.14.0b1-arm64.zip
+5109fd3418c44d5f183a1b6364c55c71ded4173b771e41428af9fb4018a04847  python-3.14.0b1-embed-amd64.zip
+9e0412b6b8e3e5cfcb8fbe4fec17f496b358cc215fb3bc13320f93f8a26790bb  python-3.14.0b1-embed-amd64.zip.crt
+85fd6fb0e1fd60275d926aadea147deb3ab069b2472460a7ce85675655cfde48  python-3.14.0b1-embed-amd64.zip.sig
+59550172f7830edcca8f708a95ca950fc5dda9da73b1d8d624f4a34b21f5cce2  python-3.14.0b1-embed-amd64.zip.sigstore
+ed25d12f2bd0ed667fd102ddcf4d016e9c96d6504238036569539989dbefbdff  python-3.14.0b1-embed-amd64.zip.spdx.json
+9e0412b6b8e3e5cfcb8fbe4fec17f496b358cc215fb3bc13320f93f8a26790bb  python-3.14.0b1-embed-amd64.zip.crt
+85fd6fb0e1fd60275d926aadea147deb3ab069b2472460a7ce85675655cfde48  python-3.14.0b1-embed-amd64.zip.sig
+59550172f7830edcca8f708a95ca950fc5dda9da73b1d8d624f4a34b21f5cce2  python-3.14.0b1-embed-amd64.zip.sigstore
+59550172f7830edcca8f708a95ca950fc5dda9da73b1d8d624f4a34b21f5cce2  python-3.14.0b1-embed-amd64.zip.sigstore
+ed25d12f2bd0ed667fd102ddcf4d016e9c96d6504238036569539989dbefbdff  python-3.14.0b1-embed-amd64.zip.spdx.json
+c66cf76852c00dffbe58f03d7123a25f08bc46830aa5ae9be357b444c7dbf6db  python-3.14.0b1-embed-arm64.zip
+f2e29027bfa060e2443980b11209faf15bf4be62a5dc8a326f6713fdd3b367f0  python-3.14.0b1-embed-arm64.zip.crt
+dafe2255226161c5dcd678de6b7599ee372fe348c6500edd56dd729d70c9123b  python-3.14.0b1-embed-arm64.zip.sig
+c9fc6d72fb5b61f44569a37bf36eab64d642c0337bd31876258b4e7040069478  python-3.14.0b1-embed-arm64.zip.sigstore
+84d0f9906c62f09763ccf792f4805d4d850f926573e709c9b7f036584e2edb4a  python-3.14.0b1-embed-arm64.zip.spdx.json
+f2e29027bfa060e2443980b11209faf15bf4be62a5dc8a326f6713fdd3b367f0  python-3.14.0b1-embed-arm64.zip.crt
+dafe2255226161c5dcd678de6b7599ee372fe348c6500edd56dd729d70c9123b  python-3.14.0b1-embed-arm64.zip.sig
+c9fc6d72fb5b61f44569a37bf36eab64d642c0337bd31876258b4e7040069478  python-3.14.0b1-embed-arm64.zip.sigstore
+c9fc6d72fb5b61f44569a37bf36eab64d642c0337bd31876258b4e7040069478  python-3.14.0b1-embed-arm64.zip.sigstore
+84d0f9906c62f09763ccf792f4805d4d850f926573e709c9b7f036584e2edb4a  python-3.14.0b1-embed-arm64.zip.spdx.json
+17d87cd9ec0c2e3ad5ab5b27b98edf93df500665baa7f95983f1782b1af7db43  python-3.14.0b1-embed-win32.zip
+d289578205dc8e40b59635f66edf54d3ff5ed536f6731de18d3bf1d51c8add6f  python-3.14.0b1-embed-win32.zip.crt
+eacdb4dadea2e5c43f68389f1e9399e3e4abfa701648cfe79da52f78b3dfc47f  python-3.14.0b1-embed-win32.zip.sig
+33aebba428f32ab20d3f8675f7f6e672bfede0cb359870cd9934e2bd32d77826  python-3.14.0b1-embed-win32.zip.sigstore
+5b3d9f0317558a90f3823b7396ec7d0fb04dc754f906f15c51d567415be86f73  python-3.14.0b1-embed-win32.zip.spdx.json
+d289578205dc8e40b59635f66edf54d3ff5ed536f6731de18d3bf1d51c8add6f  python-3.14.0b1-embed-win32.zip.crt
+eacdb4dadea2e5c43f68389f1e9399e3e4abfa701648cfe79da52f78b3dfc47f  python-3.14.0b1-embed-win32.zip.sig
+33aebba428f32ab20d3f8675f7f6e672bfede0cb359870cd9934e2bd32d77826  python-3.14.0b1-embed-win32.zip.sigstore
+33aebba428f32ab20d3f8675f7f6e672bfede0cb359870cd9934e2bd32d77826  python-3.14.0b1-embed-win32.zip.sigstore
+5b3d9f0317558a90f3823b7396ec7d0fb04dc754f906f15c51d567415be86f73  python-3.14.0b1-embed-win32.zip.spdx.json
+140f8ab08492b8ebf50c2f08b692567339eb2f7e15f7ea6f30372b35464fed10  python-3.14.0b1-embeddable-amd64.zip
+95e612d2223174b395b5f79b07ff065781cd49109a2dc96da6be32ee0a433dd0  python-3.14.0b1-embeddable-arm64.zip
+b7aa687759ab0d230903522bb5d38f92d68db72f5e1cb0397aa4ab2de9259706  python-3.14.0b1-embeddable-win32.zip
+85c38bd0b48e3e5302550186e88f12cb9e9dbbdc4888fae14c5a3de357e5952d  python-3.14.0b1-macos11.pkg
+c89fc2a65a1243a9f61cd2e6e4b7d62e10cf51a94db050774463e58cc20e4184  python-3.14.0b1-macos11.pkg.crt
+703570c178dfcdc3355f38da63c10639e803cb6a3ec690f395f5f88e8fc4d327  python-3.14.0b1-macos11.pkg.sig
+c048f3824cfd51f0b62bdd5ba0b92e51b5d87921df35ca38f15c63312a0e48e1  python-3.14.0b1-macos11.pkg.sigstore
+c89fc2a65a1243a9f61cd2e6e4b7d62e10cf51a94db050774463e58cc20e4184  python-3.14.0b1-macos11.pkg.crt
+703570c178dfcdc3355f38da63c10639e803cb6a3ec690f395f5f88e8fc4d327  python-3.14.0b1-macos11.pkg.sig
+c048f3824cfd51f0b62bdd5ba0b92e51b5d87921df35ca38f15c63312a0e48e1  python-3.14.0b1-macos11.pkg.sigstore
+c048f3824cfd51f0b62bdd5ba0b92e51b5d87921df35ca38f15c63312a0e48e1  python-3.14.0b1-macos11.pkg.sigstore
+de06dd95cfdd14f3b25f9029d50848fae8e7df4a1cc9c8861d68d7774fe102fe  python-3.14.0b1-test-amd64.zip
+f6506cbddcd9bae807ea90a5317c19273e3f4547ce0ecf91b3c3344188399625  python-3.14.0b1-test-arm64.zip
+669a98dcf47f73d5e99a7d451c135e0ba13650236bf3d3e3fdc1af184101aa70  python-3.14.0b1-test-win32.zip
+8784ac0f8aceb4669112ec65a52cd4e4d3343d53cd6ca76cd5cafbcb3c1c88ba  python-3.14.0b1-win32.zip
+914ef5bf6c84c75bc7da3cdf64df8f6e313852500f766579a14c74695969f5ed  python-3.14.0b1.exe
+ec3f88b3ee16bb7cada2dfa4072d776a85aa67012559a1052ff61776e4f5eefe  python-3.14.0b1.exe.crt
+07ab406655f9408608590d117aede07861183b872a450ddd3d1a856eff42deb2  python-3.14.0b1.exe.sig
+ab1d918fd7e70cca795b6738da5a55024a7cb514a6d5ad456ae478872d5eb6e5  python-3.14.0b1.exe.sigstore
+3c38e2a76322722f16bce7f29d9b3fe2601cf9dc3f5a0c90f0c3eb3c56032f23  python-3.14.0b1.exe.spdx.json
+ec3f88b3ee16bb7cada2dfa4072d776a85aa67012559a1052ff61776e4f5eefe  python-3.14.0b1.exe.crt
+07ab406655f9408608590d117aede07861183b872a450ddd3d1a856eff42deb2  python-3.14.0b1.exe.sig
+ab1d918fd7e70cca795b6738da5a55024a7cb514a6d5ad456ae478872d5eb6e5  python-3.14.0b1.exe.sigstore
+ab1d918fd7e70cca795b6738da5a55024a7cb514a6d5ad456ae478872d5eb6e5  python-3.14.0b1.exe.sigstore
+3c38e2a76322722f16bce7f29d9b3fe2601cf9dc3f5a0c90f0c3eb3c56032f23  python-3.14.0b1.exe.spdx.json
+2ddd30a77c9f62e065ce648664a254b9b0c011bcdaa8c1c2787087e644cbeb39  Python-3.14.0b1.tar.xz
+2ff77cf8b2673825403cd7a17a106622371196a055f7575d0c3232fa2933b128  Python-3.14.0b1.tar.xz.crt
+6ab7ecb2145334514d79009a0b57de1ec57fb8c5263cc7735d567f5bbe5af955  Python-3.14.0b1.tar.xz.sig
+336be331073bcce7819bee7d8d632a12caf8cf662c55a5e753d1564757bf64b7  Python-3.14.0b1.tar.xz.sigstore
+da4b46b51394480ee2ec52e7ee94666c6ee291748eb068484b1c1a3a368d4521  Python-3.14.0b1.tar.xz.spdx.json
+2ff77cf8b2673825403cd7a17a106622371196a055f7575d0c3232fa2933b128  Python-3.14.0b1.tar.xz.crt
+6ab7ecb2145334514d79009a0b57de1ec57fb8c5263cc7735d567f5bbe5af955  Python-3.14.0b1.tar.xz.sig
+336be331073bcce7819bee7d8d632a12caf8cf662c55a5e753d1564757bf64b7  Python-3.14.0b1.tar.xz.sigstore
+336be331073bcce7819bee7d8d632a12caf8cf662c55a5e753d1564757bf64b7  Python-3.14.0b1.tar.xz.sigstore
+da4b46b51394480ee2ec52e7ee94666c6ee291748eb068484b1c1a3a368d4521  Python-3.14.0b1.tar.xz.spdx.json
+d6c4473fce72fb6b881c1f50fbfcf157be2caa56102f01bd9dda8a459b880a37  Python-3.14.0b1.tgz
+7740511f4f48469b64fa6efb6f55506eef53b48b1300a635b0889895166e64b2  Python-3.14.0b1.tgz.crt
+23d2f57d1212b0cc93edc1f85adb31c9e73c4f836387dd06d2eb3cf7e84925e8  Python-3.14.0b1.tgz.sig
+088f2818a700415daed2fe88ad7c3b4907c67e10ff445d99f14c2f6e63b3915b  Python-3.14.0b1.tgz.sigstore
+3e3a4eed92e38a2ec735836661684ad3a7bc4bb5cf32681e3ed5f6a05c9c9b1a  Python-3.14.0b1.tgz.spdx.json
+7740511f4f48469b64fa6efb6f55506eef53b48b1300a635b0889895166e64b2  Python-3.14.0b1.tgz.crt
+23d2f57d1212b0cc93edc1f85adb31c9e73c4f836387dd06d2eb3cf7e84925e8  Python-3.14.0b1.tgz.sig
+088f2818a700415daed2fe88ad7c3b4907c67e10ff445d99f14c2f6e63b3915b  Python-3.14.0b1.tgz.sigstore
+088f2818a700415daed2fe88ad7c3b4907c67e10ff445d99f14c2f6e63b3915b  Python-3.14.0b1.tgz.sigstore
+3e3a4eed92e38a2ec735836661684ad3a7bc4bb5cf32681e3ed5f6a05c9c9b1a  Python-3.14.0b1.tgz.spdx.json
+dd4e365b7f40bd0d1e0590e16269758dbeed4c05791fd765d1af4b488fdf96fe  python-3.14.0b1t-amd64.zip
+0f4e2b4ee6341d35c9e14b7d8f05fd3cc167422c6a7985c771a4ed3267e23f23  python-3.14.0b1t-arm64.zip
+323d833f646e66c83663749fc06c9b4f852dee017eed7007e68c083ac801a55d  python-3.14.0b1t-win32.zip
+279b1d0e2b1b6cece6f03e49218aacccfd10367e07b785edeb1d4135507434c1  python-3.14.0b2-amd64.exe
+74c530885518c70bed4a1c82332fdf294b28534aca80ae3c64452a4f2fed5fb6  python-3.14.0b2-amd64.exe.crt
+9841431f56fa11ca983cbe5da8370b8513fd7c06e2cb6d45c637f8e80e82c586  python-3.14.0b2-amd64.exe.sig
+5c06276ac3d476a282fdaa4d8ef7f7379c4236cd366f1ab41a55722858b6b781  python-3.14.0b2-amd64.exe.sigstore
+6df086d5e74cffa7bb6ac9b17e18772daf56779328ed37efe5a812b36798d02e  python-3.14.0b2-amd64.exe.spdx.json
+74c530885518c70bed4a1c82332fdf294b28534aca80ae3c64452a4f2fed5fb6  python-3.14.0b2-amd64.exe.crt
+9841431f56fa11ca983cbe5da8370b8513fd7c06e2cb6d45c637f8e80e82c586  python-3.14.0b2-amd64.exe.sig
+5c06276ac3d476a282fdaa4d8ef7f7379c4236cd366f1ab41a55722858b6b781  python-3.14.0b2-amd64.exe.sigstore
+5c06276ac3d476a282fdaa4d8ef7f7379c4236cd366f1ab41a55722858b6b781  python-3.14.0b2-amd64.exe.sigstore
+6df086d5e74cffa7bb6ac9b17e18772daf56779328ed37efe5a812b36798d02e  python-3.14.0b2-amd64.exe.spdx.json
+e63233f566a734962dc80228f6cdacd6094f721a7658552908d2f98870873f45  python-3.14.0b2-amd64.zip
+8eefd4d9c7985fbe9ec36466c0453211493e9ccdf8f5eef83524101be0fac9d8  python-3.14.0b2-arm64.exe
+cc580615a40b4b9730c45278c70e2d64f7d39c639417bd9cfa528c15058f86fd  python-3.14.0b2-arm64.exe.crt
+6611067950a219e6b3764815d38df2dc25628b28344f6c3283d5188ad70822b1  python-3.14.0b2-arm64.exe.sig
+1df79de5ca30fb114a0898e7a238ba7c53f22fcfe07cdf59eead342844fe0c08  python-3.14.0b2-arm64.exe.sigstore
+9d050205dc38585a16e6e97653835da74926af5eaa0dceb8e12e769ab95b2c49  python-3.14.0b2-arm64.exe.spdx.json
+cc580615a40b4b9730c45278c70e2d64f7d39c639417bd9cfa528c15058f86fd  python-3.14.0b2-arm64.exe.crt
+6611067950a219e6b3764815d38df2dc25628b28344f6c3283d5188ad70822b1  python-3.14.0b2-arm64.exe.sig
+1df79de5ca30fb114a0898e7a238ba7c53f22fcfe07cdf59eead342844fe0c08  python-3.14.0b2-arm64.exe.sigstore
+1df79de5ca30fb114a0898e7a238ba7c53f22fcfe07cdf59eead342844fe0c08  python-3.14.0b2-arm64.exe.sigstore
+9d050205dc38585a16e6e97653835da74926af5eaa0dceb8e12e769ab95b2c49  python-3.14.0b2-arm64.exe.spdx.json
+c10033152e43d8c4890a3a33f4f912d5ff5203138dc9212208fed9eb737cdc03  python-3.14.0b2-arm64.zip
+05293debfd2d5e0face60f6646d50b4985806f70fba573341709a6eebf5dcf98  python-3.14.0b2-embed-amd64.zip
+0fa4b674e98964ac2b1aed64a27a923a13723a2d34857838003d02778135b84a  python-3.14.0b2-embed-amd64.zip.crt
+a3c4dc562f94404fd68d88b62d6404f7d08f92455bad9bad8d4c2d16f344e2aa  python-3.14.0b2-embed-amd64.zip.sig
+365620ef3ad190cd0eff2486c5c4ad236d197e2523b4722b6b2cb00d7526996c  python-3.14.0b2-embed-amd64.zip.sigstore
+59d26c6f6c67ce04b6a5baa32d1c557bd97b2d3c91aa2891bea23243f041d3bb  python-3.14.0b2-embed-amd64.zip.spdx.json
+0fa4b674e98964ac2b1aed64a27a923a13723a2d34857838003d02778135b84a  python-3.14.0b2-embed-amd64.zip.crt
+a3c4dc562f94404fd68d88b62d6404f7d08f92455bad9bad8d4c2d16f344e2aa  python-3.14.0b2-embed-amd64.zip.sig
+365620ef3ad190cd0eff2486c5c4ad236d197e2523b4722b6b2cb00d7526996c  python-3.14.0b2-embed-amd64.zip.sigstore
+365620ef3ad190cd0eff2486c5c4ad236d197e2523b4722b6b2cb00d7526996c  python-3.14.0b2-embed-amd64.zip.sigstore
+59d26c6f6c67ce04b6a5baa32d1c557bd97b2d3c91aa2891bea23243f041d3bb  python-3.14.0b2-embed-amd64.zip.spdx.json
+73b5f87a458bf8d343d3c65df19b2cecb012759d0829920ad8d7d98dcd2e9f57  python-3.14.0b2-embed-arm64.zip
+8ead1e1d8d385e4221ef446f7e1aa1dfcbb1f7b241205213c535ae810b2df5d8  python-3.14.0b2-embed-arm64.zip.crt
+11a39fdf1427c8f46b655f00df3c536819173bcca8280debbe92c1c4c2cf2c86  python-3.14.0b2-embed-arm64.zip.sig
+67f553a44b6ed45f92de3c53d49b7c2c1b2dc068a98ac863617970ecd2154677  python-3.14.0b2-embed-arm64.zip.sigstore
+ec46f61573dc5db0788a0b8578b0aa9b22ca29b387b85ab8452605250937becc  python-3.14.0b2-embed-arm64.zip.spdx.json
+8ead1e1d8d385e4221ef446f7e1aa1dfcbb1f7b241205213c535ae810b2df5d8  python-3.14.0b2-embed-arm64.zip.crt
+11a39fdf1427c8f46b655f00df3c536819173bcca8280debbe92c1c4c2cf2c86  python-3.14.0b2-embed-arm64.zip.sig
+67f553a44b6ed45f92de3c53d49b7c2c1b2dc068a98ac863617970ecd2154677  python-3.14.0b2-embed-arm64.zip.sigstore
+67f553a44b6ed45f92de3c53d49b7c2c1b2dc068a98ac863617970ecd2154677  python-3.14.0b2-embed-arm64.zip.sigstore
+ec46f61573dc5db0788a0b8578b0aa9b22ca29b387b85ab8452605250937becc  python-3.14.0b2-embed-arm64.zip.spdx.json
+8efc4a76ff09c58cdfbbec1210cd686f78e06c66585e19280618a3c4b74b1ce9  python-3.14.0b2-embed-win32.zip
+d1c0c4e7693050933557a98f593ad69d76f10aeb9a1bc76edd32b427c62c01ac  python-3.14.0b2-embed-win32.zip.crt
+af9a78e677dbe3c7dc2775ee55151b9a3c9e4c8661993757ae3cbe31b09c5f12  python-3.14.0b2-embed-win32.zip.sig
+1158fb836489ed7cf12a944fb51b28069eaaded409181435e6744209a34cd07d  python-3.14.0b2-embed-win32.zip.sigstore
+fe2d3cb19a1c2e6708f2d0f4222ceb7fda045012fce04b374de1dd6f5f6a2eab  python-3.14.0b2-embed-win32.zip.spdx.json
+d1c0c4e7693050933557a98f593ad69d76f10aeb9a1bc76edd32b427c62c01ac  python-3.14.0b2-embed-win32.zip.crt
+af9a78e677dbe3c7dc2775ee55151b9a3c9e4c8661993757ae3cbe31b09c5f12  python-3.14.0b2-embed-win32.zip.sig
+1158fb836489ed7cf12a944fb51b28069eaaded409181435e6744209a34cd07d  python-3.14.0b2-embed-win32.zip.sigstore
+1158fb836489ed7cf12a944fb51b28069eaaded409181435e6744209a34cd07d  python-3.14.0b2-embed-win32.zip.sigstore
+fe2d3cb19a1c2e6708f2d0f4222ceb7fda045012fce04b374de1dd6f5f6a2eab  python-3.14.0b2-embed-win32.zip.spdx.json
+c3984d70a7719d7afc72d183cf0d757470b3868502853a936fdf14c5161e7c25  python-3.14.0b2-embeddable-amd64.zip
+9b43f148a87fbeb6c8d95e262a17cdde0d9daf70422baf9aa8914ef164e266d8  python-3.14.0b2-embeddable-arm64.zip
+2b9ae11f662d4f33369c2a944123d18a81785689637a7f0aad1c3cf657fde591  python-3.14.0b2-embeddable-win32.zip
+0575ac9fd561e6a0e7f84ea7b930ffd3e850eba2c0e3de0c3d6bf23522ffe149  python-3.14.0b2-macos11.pkg
+7442de6d6c38b86760126d9d8146eaf72fe645b6a36bdc76efbd718668701a49  python-3.14.0b2-macos11.pkg.crt
+5dcf15122145941a7291ead2e02fe07561bd4a2365b5a556b49454d423eea65e  python-3.14.0b2-macos11.pkg.sig
+ed8547f5dc45e9aa6eca2248f52b69ef397ac5275bc0601e2b0fe599abd78c28  python-3.14.0b2-macos11.pkg.sigstore
+7442de6d6c38b86760126d9d8146eaf72fe645b6a36bdc76efbd718668701a49  python-3.14.0b2-macos11.pkg.crt
+5dcf15122145941a7291ead2e02fe07561bd4a2365b5a556b49454d423eea65e  python-3.14.0b2-macos11.pkg.sig
+ed8547f5dc45e9aa6eca2248f52b69ef397ac5275bc0601e2b0fe599abd78c28  python-3.14.0b2-macos11.pkg.sigstore
+ed8547f5dc45e9aa6eca2248f52b69ef397ac5275bc0601e2b0fe599abd78c28  python-3.14.0b2-macos11.pkg.sigstore
+0fb020a32f68763684b6872a65fb0a0c65fc489dc5d6685367ab5dd772357154  python-3.14.0b2-test-amd64.zip
+f6cf41a75c0d856647012a6134c20b1bd445d561fc4fc82a5f5021a60e85b749  python-3.14.0b2-test-arm64.zip
+6c5e97e9c8a84003ffd4984d610dc8d11d46fed0a5ef49b2712929009f2f3a74  python-3.14.0b2-test-win32.zip
+5674af897054353f9f7ccd5faeb5c48d0540f1e89a788b927e7c1664d66b69ce  python-3.14.0b2-win32.zip
+46fa2a9e42af39ab5d2ab06e85a5c3a3e652afcc96be415d756fe3e83d05e07b  python-3.14.0b2.exe
+d065d34ae9656702b472d993b2b427af249ec43be32ffbce8d88c3804e750e2c  python-3.14.0b2.exe.crt
+f7a2ff427e6491eba14120735f2e8112b69b89bc1da2e66171b0ee4791e1c6f6  python-3.14.0b2.exe.sig
+1428ca3485d874cd3e801f7386eb41f7acc407df1db331a7e02457f835ddba64  python-3.14.0b2.exe.sigstore
+1acbea3e8f8252005ec52f4b93302b7f6de1b1e384082a8d18df50d152e488b5  python-3.14.0b2.exe.spdx.json
+d065d34ae9656702b472d993b2b427af249ec43be32ffbce8d88c3804e750e2c  python-3.14.0b2.exe.crt
+f7a2ff427e6491eba14120735f2e8112b69b89bc1da2e66171b0ee4791e1c6f6  python-3.14.0b2.exe.sig
+1428ca3485d874cd3e801f7386eb41f7acc407df1db331a7e02457f835ddba64  python-3.14.0b2.exe.sigstore
+1428ca3485d874cd3e801f7386eb41f7acc407df1db331a7e02457f835ddba64  python-3.14.0b2.exe.sigstore
+1acbea3e8f8252005ec52f4b93302b7f6de1b1e384082a8d18df50d152e488b5  python-3.14.0b2.exe.spdx.json
+7ac9e84844bbc0a5a8f1f79a37a68b3b8caf2a58b4aa5999c49227cb36e70ea6  Python-3.14.0b2.tar.xz
+e42d73711eb190e2738ce3023be8f9f6f4002a3ac1517ef300ccfdb7bc379882  Python-3.14.0b2.tar.xz.crt
+dbcabbf30241fd3719ef65b643e1e49fafa1a31bed78a9be5cbb6c134a471932  Python-3.14.0b2.tar.xz.sig
+4a66c8c7cfed095065ca60d400ec44b05b396f292d3ec0f248c293faa6e8c30f  Python-3.14.0b2.tar.xz.sigstore
+33008f2b0a3b44489b0a2123732d95480a4900669fc679ddd4898af568db3703  Python-3.14.0b2.tar.xz.spdx.json
+e42d73711eb190e2738ce3023be8f9f6f4002a3ac1517ef300ccfdb7bc379882  Python-3.14.0b2.tar.xz.crt
+dbcabbf30241fd3719ef65b643e1e49fafa1a31bed78a9be5cbb6c134a471932  Python-3.14.0b2.tar.xz.sig
+4a66c8c7cfed095065ca60d400ec44b05b396f292d3ec0f248c293faa6e8c30f  Python-3.14.0b2.tar.xz.sigstore
+4a66c8c7cfed095065ca60d400ec44b05b396f292d3ec0f248c293faa6e8c30f  Python-3.14.0b2.tar.xz.sigstore
+33008f2b0a3b44489b0a2123732d95480a4900669fc679ddd4898af568db3703  Python-3.14.0b2.tar.xz.spdx.json
+395e0daf993ddd6010dddef9ac6851996f69c2681a88c20190fa0dfe3e633930  Python-3.14.0b2.tgz
+36eb9b4720c0dd2ec2dac8f2b271f1eb0a34ef3f3a22ca846d7cdfa8f4bc6f80  Python-3.14.0b2.tgz.crt
+fc95c696fe273953132b89c8548414ad3954c89d7d819345862bd2219563a31a  Python-3.14.0b2.tgz.sig
+35bd422f05e877479922e081dbe4dde7839f7cc86a5e4e430bcc199028f017a0  Python-3.14.0b2.tgz.sigstore
+de414fbd986a52ed53551013f51f522eb61576c421fc5801609d2620f23858c7  Python-3.14.0b2.tgz.spdx.json
+36eb9b4720c0dd2ec2dac8f2b271f1eb0a34ef3f3a22ca846d7cdfa8f4bc6f80  Python-3.14.0b2.tgz.crt
+fc95c696fe273953132b89c8548414ad3954c89d7d819345862bd2219563a31a  Python-3.14.0b2.tgz.sig
+35bd422f05e877479922e081dbe4dde7839f7cc86a5e4e430bcc199028f017a0  Python-3.14.0b2.tgz.sigstore
+35bd422f05e877479922e081dbe4dde7839f7cc86a5e4e430bcc199028f017a0  Python-3.14.0b2.tgz.sigstore
+de414fbd986a52ed53551013f51f522eb61576c421fc5801609d2620f23858c7  Python-3.14.0b2.tgz.spdx.json
+c2439275b7dfb0fd832c1ef75218e1168c7f4f24f59580dcb917ee96523c9449  python-3.14.0b2t-amd64.zip
+0e8d6f41308d0b8f84ac58084f479cf35a81df82b8b2f3e9a8a959514a59bcc2  python-3.14.0b2t-arm64.zip
+4ecc045e32b0dbbfb12aa64ac2a5baf49244ae5197cd5056da6153bbad9ab7f4  python-3.14.0b2t-win32.zip
+c2f136916e45d3bf9c110ddfe0d3787a2e3c73e313aec983c06e03fa2caa8b3f  python-3.14.0b3-amd64.exe
+3b7fca890de6ae7741e64db021874b1b91b23329c290fddc2c79ed8dcd23323b  python-3.14.0b3-amd64.exe.crt
+806d0642c8a1ec46db0d97d496ee46187b4774d9e0ba5056f3a11195758cf9ff  python-3.14.0b3-amd64.exe.sig
+0e830cebc4dd4f952e2647a9723f286cdbda6e00b739da9b5298715da464d754  python-3.14.0b3-amd64.exe.sigstore
+80bb3ab24133cd0eb453bf02cd987a5262efe8045439fc225690ec1d24f409f6  python-3.14.0b3-amd64.exe.spdx.json
+3b7fca890de6ae7741e64db021874b1b91b23329c290fddc2c79ed8dcd23323b  python-3.14.0b3-amd64.exe.crt
+806d0642c8a1ec46db0d97d496ee46187b4774d9e0ba5056f3a11195758cf9ff  python-3.14.0b3-amd64.exe.sig
+0e830cebc4dd4f952e2647a9723f286cdbda6e00b739da9b5298715da464d754  python-3.14.0b3-amd64.exe.sigstore
+0e830cebc4dd4f952e2647a9723f286cdbda6e00b739da9b5298715da464d754  python-3.14.0b3-amd64.exe.sigstore
+80bb3ab24133cd0eb453bf02cd987a5262efe8045439fc225690ec1d24f409f6  python-3.14.0b3-amd64.exe.spdx.json
+479025a46c7a02faf73ad0133de7bae58861d1a826c25ed91cd06e62cec1650a  python-3.14.0b3-amd64.zip
+552e0d5c37e0013407c20d9bdd041b28f41316302c5420d8bef703509cffe4ba  python-3.14.0b3-arm64.exe
+46233ce771efd7f4f2a1896aab3175f128645f3f0f47d3bd9b509442f5881d17  python-3.14.0b3-arm64.exe.crt
+ce253ff37fcdf6d5b51f48b027f09f10271e6e3d25d9601d96f704e2bfaa31ea  python-3.14.0b3-arm64.exe.sig
+c365c08bf4c92ea9f4ba685403346f6b343d90d229c8989094e981b822f6cf1d  python-3.14.0b3-arm64.exe.sigstore
+e39a983210ca5e4b5a1c2de6b6fe69359a1a81138bf9307bd67aec679c7bbdfd  python-3.14.0b3-arm64.exe.spdx.json
+46233ce771efd7f4f2a1896aab3175f128645f3f0f47d3bd9b509442f5881d17  python-3.14.0b3-arm64.exe.crt
+ce253ff37fcdf6d5b51f48b027f09f10271e6e3d25d9601d96f704e2bfaa31ea  python-3.14.0b3-arm64.exe.sig
+c365c08bf4c92ea9f4ba685403346f6b343d90d229c8989094e981b822f6cf1d  python-3.14.0b3-arm64.exe.sigstore
+c365c08bf4c92ea9f4ba685403346f6b343d90d229c8989094e981b822f6cf1d  python-3.14.0b3-arm64.exe.sigstore
+e39a983210ca5e4b5a1c2de6b6fe69359a1a81138bf9307bd67aec679c7bbdfd  python-3.14.0b3-arm64.exe.spdx.json
+b1cd1e888f0d97b1ed5b44faf75bad950bd95e4a5c3dd44b1b70f6f662e88fcb  python-3.14.0b3-arm64.zip
+a8dcd27176706093062faaa9c9e2894a19e226eb708a61944e0d38f6c6662a7e  python-3.14.0b3-embed-amd64.zip
+6970073deeeab061b2f588d87a932ae329dfa2eb9ae23b63c56a19822c0c4e4d  python-3.14.0b3-embed-amd64.zip.crt
+496dbb278e3ddc8cc33fadf0704aa8689858ba9801054d2ae759317f7c2385a8  python-3.14.0b3-embed-amd64.zip.sig
+4fb3cdd2ba2e066bc43cd956df4f6e9fc5946db4e77ecee7689e6668e81ddab5  python-3.14.0b3-embed-amd64.zip.sigstore
+28fb78b71c4f11e234d9eb951b3d3182b4db1e85d39a24bfb4d2909cae052c51  python-3.14.0b3-embed-amd64.zip.spdx.json
+6970073deeeab061b2f588d87a932ae329dfa2eb9ae23b63c56a19822c0c4e4d  python-3.14.0b3-embed-amd64.zip.crt
+496dbb278e3ddc8cc33fadf0704aa8689858ba9801054d2ae759317f7c2385a8  python-3.14.0b3-embed-amd64.zip.sig
+4fb3cdd2ba2e066bc43cd956df4f6e9fc5946db4e77ecee7689e6668e81ddab5  python-3.14.0b3-embed-amd64.zip.sigstore
+4fb3cdd2ba2e066bc43cd956df4f6e9fc5946db4e77ecee7689e6668e81ddab5  python-3.14.0b3-embed-amd64.zip.sigstore
+28fb78b71c4f11e234d9eb951b3d3182b4db1e85d39a24bfb4d2909cae052c51  python-3.14.0b3-embed-amd64.zip.spdx.json
+7eba03bb295d422547ad29e67b88a073311c86f6c4fed6cce9b6af6b9e71d666  python-3.14.0b3-embed-arm64.zip
+cd8206a65e8914d3fde991cb4a986a18dd450aac51816fd36810e3cf048d2518  python-3.14.0b3-embed-arm64.zip.crt
+e5b1690170ffd09a7363f8c370922d93d513443a599be36f10b2ef896341f9bd  python-3.14.0b3-embed-arm64.zip.sig
+2fad8e01a76660291a5ef264bbc7cca2a52a323aba4b3a68d1f75e5e49d073f5  python-3.14.0b3-embed-arm64.zip.sigstore
+f63b39de9a1ae1372dd7715834764be2fa724ba6a661d401c195e883dff41f54  python-3.14.0b3-embed-arm64.zip.spdx.json
+cd8206a65e8914d3fde991cb4a986a18dd450aac51816fd36810e3cf048d2518  python-3.14.0b3-embed-arm64.zip.crt
+e5b1690170ffd09a7363f8c370922d93d513443a599be36f10b2ef896341f9bd  python-3.14.0b3-embed-arm64.zip.sig
+2fad8e01a76660291a5ef264bbc7cca2a52a323aba4b3a68d1f75e5e49d073f5  python-3.14.0b3-embed-arm64.zip.sigstore
+2fad8e01a76660291a5ef264bbc7cca2a52a323aba4b3a68d1f75e5e49d073f5  python-3.14.0b3-embed-arm64.zip.sigstore
+f63b39de9a1ae1372dd7715834764be2fa724ba6a661d401c195e883dff41f54  python-3.14.0b3-embed-arm64.zip.spdx.json
+d18b1a3f41f6394bc3cdcb4055f1fff50f122b870491be82476d11b42afe487e  python-3.14.0b3-embed-win32.zip
+8e228a556834ec5764c973c6ee3f8badafe611cb2133ce16c73e3324fd3ae5cf  python-3.14.0b3-embed-win32.zip.crt
+e38c0a1a3857bcd7c77fff9232df2b6326eaac8499f3c4205c88c9d3c2e2e4c9  python-3.14.0b3-embed-win32.zip.sig
+92dcbb3d064f71c3ca8aaeb8ed4d166f7b932284ecedd2343750e813f24a4df4  python-3.14.0b3-embed-win32.zip.sigstore
+95f76feeb78e45f200a7bf518d1b4159be496e5d525b38d236c8a964b62833bf  python-3.14.0b3-embed-win32.zip.spdx.json
+8e228a556834ec5764c973c6ee3f8badafe611cb2133ce16c73e3324fd3ae5cf  python-3.14.0b3-embed-win32.zip.crt
+e38c0a1a3857bcd7c77fff9232df2b6326eaac8499f3c4205c88c9d3c2e2e4c9  python-3.14.0b3-embed-win32.zip.sig
+92dcbb3d064f71c3ca8aaeb8ed4d166f7b932284ecedd2343750e813f24a4df4  python-3.14.0b3-embed-win32.zip.sigstore
+92dcbb3d064f71c3ca8aaeb8ed4d166f7b932284ecedd2343750e813f24a4df4  python-3.14.0b3-embed-win32.zip.sigstore
+95f76feeb78e45f200a7bf518d1b4159be496e5d525b38d236c8a964b62833bf  python-3.14.0b3-embed-win32.zip.spdx.json
+13a1a6f6ea564fd2922cb3772ea2a73203d1fc4704213749260facb8c9dddeeb  python-3.14.0b3-embeddable-amd64.zip
+03e3de6144eaa145ae1628df74d6fd45bca956794cf31a1023aac42ec8b45623  python-3.14.0b3-embeddable-arm64.zip
+cc8dfc136e103cfcf1eef4f8ad06265c8e74047ade143342f62c7cd0267c1065  python-3.14.0b3-embeddable-win32.zip
+48532a33882a71440bec08344f92f32dee4b9aab19d50898fc23169ce3757480  python-3.14.0b3-macos11.pkg
+40963dbede31f355147d22f90546521e4d5f07d3c0fe0c0902d26173f524ecfb  python-3.14.0b3-macos11.pkg.crt
+36b6458c19bf259fa288a2f657d14046c2ec59f608cad959ace3f95c224008e6  python-3.14.0b3-macos11.pkg.sig
+824fdfa5c3d73fc390176c0ff811bdf35fa1679f6a87fe881608de76f8e6d049  python-3.14.0b3-macos11.pkg.sigstore
+40963dbede31f355147d22f90546521e4d5f07d3c0fe0c0902d26173f524ecfb  python-3.14.0b3-macos11.pkg.crt
+36b6458c19bf259fa288a2f657d14046c2ec59f608cad959ace3f95c224008e6  python-3.14.0b3-macos11.pkg.sig
+824fdfa5c3d73fc390176c0ff811bdf35fa1679f6a87fe881608de76f8e6d049  python-3.14.0b3-macos11.pkg.sigstore
+824fdfa5c3d73fc390176c0ff811bdf35fa1679f6a87fe881608de76f8e6d049  python-3.14.0b3-macos11.pkg.sigstore
+eee324b483238ec4ea64ef94e78483a0bbb6a19be57515414d589036f6aa68e6  python-3.14.0b3-test-amd64.zip
+e7dc6c63805dfa34d63c709428650df2b8c8e2e3b5a32d5aed775fedb58bc614  python-3.14.0b3-test-arm64.zip
+a52b99fb4632e5940286545e7c0ef53582bd2e84780790a7fd9bbea7f7848a6a  python-3.14.0b3-test-win32.zip
+7f6771473402fa754213dfcfebc0b2ef10f97f2f604e5d8cd28287d22f3e66dc  python-3.14.0b3-win32.zip
+bbbfeef188eb39295d8d81944eba26479c8b3c87126fe4c088278e51b1d7262d  python-3.14.0b3.exe
+d8b0657d06104239b9daa4afb790c18a00c539a912e15a71f60b5351f35545cf  python-3.14.0b3.exe.crt
+76529eb64855f61a8b7c1549822abff6c201abdf88b0bdc582d2fa21ea1b1764  python-3.14.0b3.exe.sig
+6a98354087aa072a84adfffc64f95f86718be3c5423f85612114afcca64803bb  python-3.14.0b3.exe.sigstore
+6de42246f77f3acaf667de38c4bd7bb4462e26d95af1aa5d3c2e31fc1e7ea09f  python-3.14.0b3.exe.spdx.json
+d8b0657d06104239b9daa4afb790c18a00c539a912e15a71f60b5351f35545cf  python-3.14.0b3.exe.crt
+76529eb64855f61a8b7c1549822abff6c201abdf88b0bdc582d2fa21ea1b1764  python-3.14.0b3.exe.sig
+6a98354087aa072a84adfffc64f95f86718be3c5423f85612114afcca64803bb  python-3.14.0b3.exe.sigstore
+6a98354087aa072a84adfffc64f95f86718be3c5423f85612114afcca64803bb  python-3.14.0b3.exe.sigstore
+6de42246f77f3acaf667de38c4bd7bb4462e26d95af1aa5d3c2e31fc1e7ea09f  python-3.14.0b3.exe.spdx.json
+c6f48bf51f01f50d87007a445dd7afe4a4c7a87ab482570be924c1ddfd0d3682  Python-3.14.0b3.tar.xz
+3bde17a567865ea0b3e06295bed34116341a244149953d3a0f7914b75d724403  Python-3.14.0b3.tar.xz.crt
+44c2f22e0dc7c8f5e7903b9ba23619f1398f5a2a8c47dbc187437d9c747a086c  Python-3.14.0b3.tar.xz.sig
+1ef90e4a2383e344c51901d9451b4cdcf6af8bed75c319e9bc5635cd125e510e  Python-3.14.0b3.tar.xz.sigstore
+145da39e674e7b625e67ad8e2062243cd0d3a4f0ba00d621739ef504efd94de9  Python-3.14.0b3.tar.xz.spdx.json
+3bde17a567865ea0b3e06295bed34116341a244149953d3a0f7914b75d724403  Python-3.14.0b3.tar.xz.crt
+44c2f22e0dc7c8f5e7903b9ba23619f1398f5a2a8c47dbc187437d9c747a086c  Python-3.14.0b3.tar.xz.sig
+1ef90e4a2383e344c51901d9451b4cdcf6af8bed75c319e9bc5635cd125e510e  Python-3.14.0b3.tar.xz.sigstore
+1ef90e4a2383e344c51901d9451b4cdcf6af8bed75c319e9bc5635cd125e510e  Python-3.14.0b3.tar.xz.sigstore
+145da39e674e7b625e67ad8e2062243cd0d3a4f0ba00d621739ef504efd94de9  Python-3.14.0b3.tar.xz.spdx.json
+ac25adf76484728527fb621bc14a83c1ddd43f9a7a0a7fdbb07d09722fec5f3d  Python-3.14.0b3.tgz
+c744afc49849f60b7d741283d8e9f32e19fb71e93b3aba54f3b464038157ac97  Python-3.14.0b3.tgz.crt
+43e00f60425ac2b55735665179290523ac8d16aa01458bc1a2c1b1aa64c8e2f6  Python-3.14.0b3.tgz.sig
+9802105e0224be92cdc39970a571c8e9189cc7bff3e27db9bef00643123208e5  Python-3.14.0b3.tgz.sigstore
+135b232c2e60315c8d6562c2f6dbdf54abcd97614db5dde6cb9243795e3cd59a  Python-3.14.0b3.tgz.spdx.json
+c744afc49849f60b7d741283d8e9f32e19fb71e93b3aba54f3b464038157ac97  Python-3.14.0b3.tgz.crt
+43e00f60425ac2b55735665179290523ac8d16aa01458bc1a2c1b1aa64c8e2f6  Python-3.14.0b3.tgz.sig
+9802105e0224be92cdc39970a571c8e9189cc7bff3e27db9bef00643123208e5  Python-3.14.0b3.tgz.sigstore
+9802105e0224be92cdc39970a571c8e9189cc7bff3e27db9bef00643123208e5  Python-3.14.0b3.tgz.sigstore
+135b232c2e60315c8d6562c2f6dbdf54abcd97614db5dde6cb9243795e3cd59a  Python-3.14.0b3.tgz.spdx.json
+53ab0d9f0411ab6245caebbfef0947384d49acf2d6292c86499139e69156dcbe  python-3.14.0b3t-amd64.zip
+f3ead9716df1fb787590146bfd7857e1ab3be3da923c4b1f6edf474c34499570  python-3.14.0b3t-arm64.zip
+287a5b6ce167bb96fb8b01c68921714f11fe21ede9bf2ade327f003f8ef369bb  python-3.14.0b3t-win32.zip
+0f8bbdfd7d1f99a0b8df86278a99e4c0248582b93e9d7d4d6e63e787098dad00  python-3.14.0b4-amd64.exe
+e87a1c5c2bc1c3f6d26cfe0b7bb7c010d9cf6ba8cb312087184002e90e2c33a6  python-3.14.0b4-amd64.exe.crt
+1134ef2d39c8fdba452e1c1127978d16871024274f702a6f9b717579d4d82603  python-3.14.0b4-amd64.exe.sig
+6cb0aee5cbc07f25d1a8b329622643e9686f83b9a1e14d0292e90ca4b289ee36  python-3.14.0b4-amd64.exe.sigstore
+e88936e7ec237db1c3ff208c4d5bf1d1d841437cd665aea32f786ab393721549  python-3.14.0b4-amd64.exe.spdx.json
+e87a1c5c2bc1c3f6d26cfe0b7bb7c010d9cf6ba8cb312087184002e90e2c33a6  python-3.14.0b4-amd64.exe.crt
+1134ef2d39c8fdba452e1c1127978d16871024274f702a6f9b717579d4d82603  python-3.14.0b4-amd64.exe.sig
+6cb0aee5cbc07f25d1a8b329622643e9686f83b9a1e14d0292e90ca4b289ee36  python-3.14.0b4-amd64.exe.sigstore
+6cb0aee5cbc07f25d1a8b329622643e9686f83b9a1e14d0292e90ca4b289ee36  python-3.14.0b4-amd64.exe.sigstore
+e88936e7ec237db1c3ff208c4d5bf1d1d841437cd665aea32f786ab393721549  python-3.14.0b4-amd64.exe.spdx.json
+67523e872e5b9c421f74d159200c34f0c4148b44fc479ac12d2a64a99f666b9d  python-3.14.0b4-amd64.zip
+77f29358936533d3dcd79a72a94548179c93a86a75cd396cc979c901a07fcce9  python-3.14.0b4-arm64.exe
+fdf942a1c8dd6419627e1592c037b13d36dcb7cfc5bdccc379969eae40357f88  python-3.14.0b4-arm64.exe.crt
+961fcf7a9d352733fa5ab6406d289c95548e2822d53a30a0f1a9582673a271a1  python-3.14.0b4-arm64.exe.sig
+7e761fcbcea0b8a3ef1419a2953dbb7772e833eb1b59f481e771393ac9afdb38  python-3.14.0b4-arm64.exe.sigstore
+b823cc1b0dba17937215c80112a53670e6b7bf269198a9eaf2bc8416ec9d0de4  python-3.14.0b4-arm64.exe.spdx.json
+fdf942a1c8dd6419627e1592c037b13d36dcb7cfc5bdccc379969eae40357f88  python-3.14.0b4-arm64.exe.crt
+961fcf7a9d352733fa5ab6406d289c95548e2822d53a30a0f1a9582673a271a1  python-3.14.0b4-arm64.exe.sig
+7e761fcbcea0b8a3ef1419a2953dbb7772e833eb1b59f481e771393ac9afdb38  python-3.14.0b4-arm64.exe.sigstore
+7e761fcbcea0b8a3ef1419a2953dbb7772e833eb1b59f481e771393ac9afdb38  python-3.14.0b4-arm64.exe.sigstore
+b823cc1b0dba17937215c80112a53670e6b7bf269198a9eaf2bc8416ec9d0de4  python-3.14.0b4-arm64.exe.spdx.json
+fc8e03ff299984ad8bfb7336ea70ebceb902eb9266b7a3bb628200074c0a7150  python-3.14.0b4-arm64.zip
+c6e24fcc8729e5405b0b32d03a4280f4b75dd695ff0df270d5253ca407e44433  python-3.14.0b4-embed-amd64.zip
+391a75e5df76f1dcbc6db086f19f0c942824714c487886cee11eaf61510b207e  python-3.14.0b4-embed-amd64.zip.crt
+ac216f855a80b4f43c48f3b3ecd23e9c08abf58893b7c1225d9736fabe9e648c  python-3.14.0b4-embed-amd64.zip.sig
+4ca1df5e9a0d0eec307007587ef2490fae9a2579117f277cbfa69a3990530f13  python-3.14.0b4-embed-amd64.zip.sigstore
+5b57dfccdb44936c78bb9a13fd748a403bd6a5ae6d458df67de7383a632cdd53  python-3.14.0b4-embed-amd64.zip.spdx.json
+391a75e5df76f1dcbc6db086f19f0c942824714c487886cee11eaf61510b207e  python-3.14.0b4-embed-amd64.zip.crt
+ac216f855a80b4f43c48f3b3ecd23e9c08abf58893b7c1225d9736fabe9e648c  python-3.14.0b4-embed-amd64.zip.sig
+4ca1df5e9a0d0eec307007587ef2490fae9a2579117f277cbfa69a3990530f13  python-3.14.0b4-embed-amd64.zip.sigstore
+4ca1df5e9a0d0eec307007587ef2490fae9a2579117f277cbfa69a3990530f13  python-3.14.0b4-embed-amd64.zip.sigstore
+5b57dfccdb44936c78bb9a13fd748a403bd6a5ae6d458df67de7383a632cdd53  python-3.14.0b4-embed-amd64.zip.spdx.json
+91a520fc0be97266712b33e54b8f33229a3746a8535cf769e66eaa11b595c6d3  python-3.14.0b4-embed-arm64.zip
+7ab83ef287ab62ca8b8c12e697aef2287c708e80e539e2087265e3e6a34f637f  python-3.14.0b4-embed-arm64.zip.crt
+9920da86760649c56a78227a6f60cc4a3249cc236d3ac38e92ace5beb282cc50  python-3.14.0b4-embed-arm64.zip.sig
+c73442e3e2aba0ebf36a7bfc3f629b5e2f0b3b2ba632f9cef19f7bb9d65af9c1  python-3.14.0b4-embed-arm64.zip.sigstore
+afbf014d1e61d588598bf63de244ca398f4d8881b55ac77ed44e8e5ad8a4cc6a  python-3.14.0b4-embed-arm64.zip.spdx.json
+7ab83ef287ab62ca8b8c12e697aef2287c708e80e539e2087265e3e6a34f637f  python-3.14.0b4-embed-arm64.zip.crt
+9920da86760649c56a78227a6f60cc4a3249cc236d3ac38e92ace5beb282cc50  python-3.14.0b4-embed-arm64.zip.sig
+c73442e3e2aba0ebf36a7bfc3f629b5e2f0b3b2ba632f9cef19f7bb9d65af9c1  python-3.14.0b4-embed-arm64.zip.sigstore
+c73442e3e2aba0ebf36a7bfc3f629b5e2f0b3b2ba632f9cef19f7bb9d65af9c1  python-3.14.0b4-embed-arm64.zip.sigstore
+afbf014d1e61d588598bf63de244ca398f4d8881b55ac77ed44e8e5ad8a4cc6a  python-3.14.0b4-embed-arm64.zip.spdx.json
+6d7668dd100ba3e6e3f30215f51740a03d684fd15b00ae2c8afaf466df9ced07  python-3.14.0b4-embed-win32.zip
+fe8c9eeb8a58be9a1e7423b4c6a077ba7d1756d8c538e2753a115c6603a28390  python-3.14.0b4-embed-win32.zip.crt
+d57776b3acea51df8a7897201844e743d4967405049baf76af6dfdfd4ce2ca0f  python-3.14.0b4-embed-win32.zip.sig
+9932b4223b5d5b54e23350c86fc452fbb88c4ae81908ead1e0378a2f912e7b66  python-3.14.0b4-embed-win32.zip.sigstore
+efe35d2b44b34454be8a298a1a8e7b3e8bf6f1dcee752fae7ed45cde30553943  python-3.14.0b4-embed-win32.zip.spdx.json
+fe8c9eeb8a58be9a1e7423b4c6a077ba7d1756d8c538e2753a115c6603a28390  python-3.14.0b4-embed-win32.zip.crt
+d57776b3acea51df8a7897201844e743d4967405049baf76af6dfdfd4ce2ca0f  python-3.14.0b4-embed-win32.zip.sig
+9932b4223b5d5b54e23350c86fc452fbb88c4ae81908ead1e0378a2f912e7b66  python-3.14.0b4-embed-win32.zip.sigstore
+9932b4223b5d5b54e23350c86fc452fbb88c4ae81908ead1e0378a2f912e7b66  python-3.14.0b4-embed-win32.zip.sigstore
+efe35d2b44b34454be8a298a1a8e7b3e8bf6f1dcee752fae7ed45cde30553943  python-3.14.0b4-embed-win32.zip.spdx.json
+19ae8c87783615da43db2c205dae03c8d82bd915eb034cc2e161bcba0356a23d  python-3.14.0b4-embeddable-amd64.zip
+7e6382d4371892758b06cf1bdc6c8bc554508961e788406d87d786f9794a8690  python-3.14.0b4-embeddable-arm64.zip
+9fb424b889787476363addc954416a741f86d2edf760a12d172718b20c7209f0  python-3.14.0b4-embeddable-win32.zip
+8a42c057fac403a980100e4b909cbe1da4c4b0f2149e013a952183eede125f30  python-3.14.0b4-macos11.pkg
+c2b7a7d8b651d898677e4122711e6772ef8fc29215e48dd6bde0e1f1c70a0f1c  python-3.14.0b4-macos11.pkg.crt
+127321eb69318ab0bfe82f9ee3439789b5ac917055b3bf43dadaf9e81553741a  python-3.14.0b4-macos11.pkg.sig
+d2ebd42516ceb2953acf17e5d15832788da028ed69f5f3414b46484123d93792  python-3.14.0b4-macos11.pkg.sigstore
+c2b7a7d8b651d898677e4122711e6772ef8fc29215e48dd6bde0e1f1c70a0f1c  python-3.14.0b4-macos11.pkg.crt
+127321eb69318ab0bfe82f9ee3439789b5ac917055b3bf43dadaf9e81553741a  python-3.14.0b4-macos11.pkg.sig
+d2ebd42516ceb2953acf17e5d15832788da028ed69f5f3414b46484123d93792  python-3.14.0b4-macos11.pkg.sigstore
+d2ebd42516ceb2953acf17e5d15832788da028ed69f5f3414b46484123d93792  python-3.14.0b4-macos11.pkg.sigstore
+cfb75a001cb1f72db9cd50e7665cfccebe2f0bcbe9a6746b92a9e210c17565a1  python-3.14.0b4-test-amd64.zip
+a2c700968ee8a4a3edb75201f1551cd323510c9ead95de504eaac5cde4cb1562  python-3.14.0b4-test-arm64.zip
+7bfa18a29ff6e01a2faad60161dda2da6b6e4d458429d506638c0aac4d936d1a  python-3.14.0b4-test-win32.zip
+c4b0fdf58349e4766b90a60039e1f66c378326609e94b4ea249e9103523517e6  python-3.14.0b4-win32.zip
+6750893b6d09043e8bf358c51b17510d99c218ff4ada74994913e3c9b5ed1709  python-3.14.0b4.exe
+f590e1a66baac655bfa234906bc613ee97b7b76b4c8f63f042219d98cdd9250c  python-3.14.0b4.exe.crt
+d3cccf947598e88a1c70fac67bdf1b5e0bf752f092bde91a7bdf2793936c5eaa  python-3.14.0b4.exe.sig
+c527ce056f726bfb31973697a2e82639b4842527d6ccca1238ec3565a5f0a1cc  python-3.14.0b4.exe.sigstore
+c1579d2573ca9a5758d01be555016261025ee527546d0202a3c20bb5000d7a30  python-3.14.0b4.exe.spdx.json
+f590e1a66baac655bfa234906bc613ee97b7b76b4c8f63f042219d98cdd9250c  python-3.14.0b4.exe.crt
+d3cccf947598e88a1c70fac67bdf1b5e0bf752f092bde91a7bdf2793936c5eaa  python-3.14.0b4.exe.sig
+c527ce056f726bfb31973697a2e82639b4842527d6ccca1238ec3565a5f0a1cc  python-3.14.0b4.exe.sigstore
+c527ce056f726bfb31973697a2e82639b4842527d6ccca1238ec3565a5f0a1cc  python-3.14.0b4.exe.sigstore
+c1579d2573ca9a5758d01be555016261025ee527546d0202a3c20bb5000d7a30  python-3.14.0b4.exe.spdx.json
+15e123e056abebba6de5e73cfa304459a8c82cafa85d4fc7fc6de80e6a3e1b39  Python-3.14.0b4.tar.xz
+643e7a021f67bb350a6ce812b9e896a187184c7afaa2eacd4c84868160848d0c  Python-3.14.0b4.tar.xz.crt
+2d52e3338ae607e7494fbd6294ffa0a64271654a851daf7c96c034bca6605592  Python-3.14.0b4.tar.xz.sig
+19f1eed32d50ff9b322ae5bffc414b03cd2c63ff0ccb95674492de0b74bf7919  Python-3.14.0b4.tar.xz.sigstore
+9101560d81bd0d35b1dbf97dccdb5a49685e1095f84f1760f13ace9ef68dd60e  Python-3.14.0b4.tar.xz.spdx.json
+643e7a021f67bb350a6ce812b9e896a187184c7afaa2eacd4c84868160848d0c  Python-3.14.0b4.tar.xz.crt
+2d52e3338ae607e7494fbd6294ffa0a64271654a851daf7c96c034bca6605592  Python-3.14.0b4.tar.xz.sig
+19f1eed32d50ff9b322ae5bffc414b03cd2c63ff0ccb95674492de0b74bf7919  Python-3.14.0b4.tar.xz.sigstore
+19f1eed32d50ff9b322ae5bffc414b03cd2c63ff0ccb95674492de0b74bf7919  Python-3.14.0b4.tar.xz.sigstore
+9101560d81bd0d35b1dbf97dccdb5a49685e1095f84f1760f13ace9ef68dd60e  Python-3.14.0b4.tar.xz.spdx.json
+bd46b9bf6c1552542e8d36afc7661a3101ded03665228cf3f78c929737bb8ddb  Python-3.14.0b4.tgz
+39370ccaa72f899fc1f9071a3f3d83421129b910200b19ac32a7ddec2b7222fe  Python-3.14.0b4.tgz.crt
+57c2825b8a3bbb63aecc9f4d9ae1361b2c0a42ce448242e565ade8098cde779e  Python-3.14.0b4.tgz.sig
+32c19cef67ba2154074c41add6a5860b25ee0749830108735f76f905593e0cf5  Python-3.14.0b4.tgz.sigstore
+cbabfc88dc4a8d5cf49e089e148d3ee6896cccb3aa205eeeaaad50dc9d43153f  Python-3.14.0b4.tgz.spdx.json
+39370ccaa72f899fc1f9071a3f3d83421129b910200b19ac32a7ddec2b7222fe  Python-3.14.0b4.tgz.crt
+57c2825b8a3bbb63aecc9f4d9ae1361b2c0a42ce448242e565ade8098cde779e  Python-3.14.0b4.tgz.sig
+32c19cef67ba2154074c41add6a5860b25ee0749830108735f76f905593e0cf5  Python-3.14.0b4.tgz.sigstore
+32c19cef67ba2154074c41add6a5860b25ee0749830108735f76f905593e0cf5  Python-3.14.0b4.tgz.sigstore
+cbabfc88dc4a8d5cf49e089e148d3ee6896cccb3aa205eeeaaad50dc9d43153f  Python-3.14.0b4.tgz.spdx.json
+5e4e9c79f2f6002a6d62075251d042da663db6f920cb22afc098f165219b70bc  python-3.14.0b4t-amd64.zip
+6d4bde69fbdeb022edbebd322050cc444971d8101a9860643af8e29a93ce74ab  python-3.14.0b4t-arm64.zip
+4618c2102575312aa7ca619042d58c876d97fb23c3ca1ff51e6327c9447755ad  python-3.14.0b4t-win32.zip
+564059f73af7707db1a5b5614d86320eb662036331e37b5a2020b7960895900e  python-3.14.0rc1-amd64.exe
+2e60329a652f543c31f6d83512c8fcdb6e57a46d6718bf323878bc69d1ca8625  python-3.14.0rc1-amd64.exe.crt
+f39111546f05f0215378221c76e0e5c737c36b18f79fd319df926c18a891d140  python-3.14.0rc1-amd64.exe.sig
+d2adb67c7557ac017d96564a8ecd947697afb9a5b9f0f7cddb4e598dc3af64bc  python-3.14.0rc1-amd64.exe.sigstore
+1cc6fb6bff0d452c17e27e1a439884d13a7f7495daff66e3708b43dfa921f451  python-3.14.0rc1-amd64.exe.spdx.json
+2e60329a652f543c31f6d83512c8fcdb6e57a46d6718bf323878bc69d1ca8625  python-3.14.0rc1-amd64.exe.crt
+f39111546f05f0215378221c76e0e5c737c36b18f79fd319df926c18a891d140  python-3.14.0rc1-amd64.exe.sig
+d2adb67c7557ac017d96564a8ecd947697afb9a5b9f0f7cddb4e598dc3af64bc  python-3.14.0rc1-amd64.exe.sigstore
+d2adb67c7557ac017d96564a8ecd947697afb9a5b9f0f7cddb4e598dc3af64bc  python-3.14.0rc1-amd64.exe.sigstore
+1cc6fb6bff0d452c17e27e1a439884d13a7f7495daff66e3708b43dfa921f451  python-3.14.0rc1-amd64.exe.spdx.json
+24903506e9d5c8a2fa73ac93f7328ea1432028d93750b67d474eacc4647acfae  python-3.14.0rc1-amd64.zip
+4c409a9431a47558d12cfb99164baa6a1929f20a1cee81dc7d16143cc9a95662  python-3.14.0rc1-arm64.exe
+f5644a351a507c78b80be2a8a5248eb3b28c849b97599f4ce390c1b67aa1a1ef  python-3.14.0rc1-arm64.exe.crt
+3575fbcf9ab92608d9bdb6281716e336ba11adeadef5f2177978b8fc7d45fe2d  python-3.14.0rc1-arm64.exe.sig
+e6be2e901ae0e9258037191d8993a019cca914f5b42853f5552123f3c7d954dd  python-3.14.0rc1-arm64.exe.sigstore
+6aba1e766df198a0d8ae376839fe47c8294fc472d3a9fe09634dd31e4735c7b8  python-3.14.0rc1-arm64.exe.spdx.json
+f5644a351a507c78b80be2a8a5248eb3b28c849b97599f4ce390c1b67aa1a1ef  python-3.14.0rc1-arm64.exe.crt
+3575fbcf9ab92608d9bdb6281716e336ba11adeadef5f2177978b8fc7d45fe2d  python-3.14.0rc1-arm64.exe.sig
+e6be2e901ae0e9258037191d8993a019cca914f5b42853f5552123f3c7d954dd  python-3.14.0rc1-arm64.exe.sigstore
+e6be2e901ae0e9258037191d8993a019cca914f5b42853f5552123f3c7d954dd  python-3.14.0rc1-arm64.exe.sigstore
+6aba1e766df198a0d8ae376839fe47c8294fc472d3a9fe09634dd31e4735c7b8  python-3.14.0rc1-arm64.exe.spdx.json
+ee511a5169df8645c2e29a5ea8c80543934916a36fa6787c9c2c08a5e02061cd  python-3.14.0rc1-arm64.zip
+96e720d65e7f60a02ac8f1c03ce3ffe964f0298d031d367b30b5ddef7ebfeb90  python-3.14.0rc1-embed-amd64.zip
+e75d3a6bbca725f1065fbe683b8369164e4881e1da0ac082f0a9b2063129a5e1  python-3.14.0rc1-embed-amd64.zip.crt
+4237476653f9ffa0cddf1b72cfcee19d31d0e1dcc38ffb3a449598613e7e9ec1  python-3.14.0rc1-embed-amd64.zip.sig
+5d8ea8df6f9dbe473c97dec8d5c308f92cacedf5f393b95895dcddf9c1c445a8  python-3.14.0rc1-embed-amd64.zip.sigstore
+2dcdef0fc3e4ed279c1eef3348c762ccc6c0fec8ab8e5fc713a31b93d9772c1a  python-3.14.0rc1-embed-amd64.zip.spdx.json
+e75d3a6bbca725f1065fbe683b8369164e4881e1da0ac082f0a9b2063129a5e1  python-3.14.0rc1-embed-amd64.zip.crt
+4237476653f9ffa0cddf1b72cfcee19d31d0e1dcc38ffb3a449598613e7e9ec1  python-3.14.0rc1-embed-amd64.zip.sig
+5d8ea8df6f9dbe473c97dec8d5c308f92cacedf5f393b95895dcddf9c1c445a8  python-3.14.0rc1-embed-amd64.zip.sigstore
+5d8ea8df6f9dbe473c97dec8d5c308f92cacedf5f393b95895dcddf9c1c445a8  python-3.14.0rc1-embed-amd64.zip.sigstore
+2dcdef0fc3e4ed279c1eef3348c762ccc6c0fec8ab8e5fc713a31b93d9772c1a  python-3.14.0rc1-embed-amd64.zip.spdx.json
+361f8d46ab1d4da6fdd8652c02486cf4d1780ea085bce432d9c1b213e813e271  python-3.14.0rc1-embed-arm64.zip
+78d4bd5291785f25da08bd9ab7d8c65404e496b899b0f84d8c39e3c6c8328dc8  python-3.14.0rc1-embed-arm64.zip.crt
+fd83f1dea681529e2e7c53a2a7130535a6854f8e1e6af7aedb02fabb0e2f00b8  python-3.14.0rc1-embed-arm64.zip.sig
+e9e58612d46a6d9073e87b5e5eaba514dbf6fc74fa484429186f40cd3e0d881f  python-3.14.0rc1-embed-arm64.zip.sigstore
+190a43450ab9d8fa895406c159d9ae91b6e6d7683b9ce909cef76349317ba6b9  python-3.14.0rc1-embed-arm64.zip.spdx.json
+78d4bd5291785f25da08bd9ab7d8c65404e496b899b0f84d8c39e3c6c8328dc8  python-3.14.0rc1-embed-arm64.zip.crt
+fd83f1dea681529e2e7c53a2a7130535a6854f8e1e6af7aedb02fabb0e2f00b8  python-3.14.0rc1-embed-arm64.zip.sig
+e9e58612d46a6d9073e87b5e5eaba514dbf6fc74fa484429186f40cd3e0d881f  python-3.14.0rc1-embed-arm64.zip.sigstore
+e9e58612d46a6d9073e87b5e5eaba514dbf6fc74fa484429186f40cd3e0d881f  python-3.14.0rc1-embed-arm64.zip.sigstore
+190a43450ab9d8fa895406c159d9ae91b6e6d7683b9ce909cef76349317ba6b9  python-3.14.0rc1-embed-arm64.zip.spdx.json
+2422425712a924bb671078df2569445088a8e12a29e2c625f8e7a047692b1c03  python-3.14.0rc1-embed-win32.zip
+5a6e5f065b3bfdf818edd54840b4f2a0ec0d86ea1f95bc5947aa4fda28243400  python-3.14.0rc1-embed-win32.zip.crt
+b55c815048bddfed3533de671f9e1e24afad919724ba68d3d3223c0816dc6f2f  python-3.14.0rc1-embed-win32.zip.sig
+ec4d88a6e5de7005205f1cd5c7ee9baa3b2d0aa7d730702fe2aed622873e6b42  python-3.14.0rc1-embed-win32.zip.sigstore
+36e94aca274d98199fa75fe5e2841bc680fa1a886223be24566b93f76af72fb5  python-3.14.0rc1-embed-win32.zip.spdx.json
+5a6e5f065b3bfdf818edd54840b4f2a0ec0d86ea1f95bc5947aa4fda28243400  python-3.14.0rc1-embed-win32.zip.crt
+b55c815048bddfed3533de671f9e1e24afad919724ba68d3d3223c0816dc6f2f  python-3.14.0rc1-embed-win32.zip.sig
+ec4d88a6e5de7005205f1cd5c7ee9baa3b2d0aa7d730702fe2aed622873e6b42  python-3.14.0rc1-embed-win32.zip.sigstore
+ec4d88a6e5de7005205f1cd5c7ee9baa3b2d0aa7d730702fe2aed622873e6b42  python-3.14.0rc1-embed-win32.zip.sigstore
+36e94aca274d98199fa75fe5e2841bc680fa1a886223be24566b93f76af72fb5  python-3.14.0rc1-embed-win32.zip.spdx.json
+b8ac5107a8ec035862e7952de66296be0820525fc44034e23248cff4c7897f9a  python-3.14.0rc1-embeddable-amd64.zip
+678f2b0b83779ba066c2db3ee6ab04e244161d939ab2404500b2af6d4b27f27c  python-3.14.0rc1-embeddable-arm64.zip
+982d47a2da6776e4345e7daa56e63d9abd401a2301c456c6232b325475f276ad  python-3.14.0rc1-embeddable-win32.zip
+cb71c188157ad7b40064e29e91db8b7a0b9b00424b03700cbb20b657ae926c46  python-3.14.0rc1-macos11.pkg
+636423a184903156ced7970c014e4284a8253e402cd12ca3606c974b84ea21ae  python-3.14.0rc1-macos11.pkg.crt
+0ea2f285476862814249d648dd23b696e8f7c7a6e1ae356b70823a2db9d68fc9  python-3.14.0rc1-macos11.pkg.sig
+16a0ed497fb9f0f77d42a6cb52e9875066d8620d6c402b26760c4a0a18f6d90a  python-3.14.0rc1-macos11.pkg.sigstore
+636423a184903156ced7970c014e4284a8253e402cd12ca3606c974b84ea21ae  python-3.14.0rc1-macos11.pkg.crt
+0ea2f285476862814249d648dd23b696e8f7c7a6e1ae356b70823a2db9d68fc9  python-3.14.0rc1-macos11.pkg.sig
+16a0ed497fb9f0f77d42a6cb52e9875066d8620d6c402b26760c4a0a18f6d90a  python-3.14.0rc1-macos11.pkg.sigstore
+16a0ed497fb9f0f77d42a6cb52e9875066d8620d6c402b26760c4a0a18f6d90a  python-3.14.0rc1-macos11.pkg.sigstore
+d83c6ab59f5e3119a8f8dab3e2cacf987adf41249a2573c28f214a57501df7e5  python-3.14.0rc1-test-amd64.zip
+3d133c9704f5ea8ea04f23c28e227df452edae6b66cf950adef8b142928ee93e  python-3.14.0rc1-test-arm64.zip
+721f68449f32b53de9be4915cc1b698490cde772e6f4ad17702e6a4491bac617  python-3.14.0rc1-test-win32.zip
+4abd8e65e3f112ab0a4578a5d4faa783dc2dc36cffe8e808daa8d209be0e8dc4  python-3.14.0rc1-win32.zip
+3a308a7d0407812047b0a52856544b76304449e59f43a6399dd454095e3e676d  python-3.14.0rc1.exe
+19c2e889de7dab3e0c3984742fb42c34a7cab9e662cd3a7ae00b7e731856000d  python-3.14.0rc1.exe.crt
+7f9e2bd39acee0e547e9776dd8821c09ee4d1899a53150a4b46ea3d8c6a094cf  python-3.14.0rc1.exe.sig
+58e62a7abfdc7be31c6679d63de9a1e15106a3bdae12d137c14f386e19599a6f  python-3.14.0rc1.exe.sigstore
+552834b91cdd40d986e662c6c56ae6d154b869d153f5798bde63ce68a773ecf4  python-3.14.0rc1.exe.spdx.json
+19c2e889de7dab3e0c3984742fb42c34a7cab9e662cd3a7ae00b7e731856000d  python-3.14.0rc1.exe.crt
+7f9e2bd39acee0e547e9776dd8821c09ee4d1899a53150a4b46ea3d8c6a094cf  python-3.14.0rc1.exe.sig
+58e62a7abfdc7be31c6679d63de9a1e15106a3bdae12d137c14f386e19599a6f  python-3.14.0rc1.exe.sigstore
+58e62a7abfdc7be31c6679d63de9a1e15106a3bdae12d137c14f386e19599a6f  python-3.14.0rc1.exe.sigstore
+552834b91cdd40d986e662c6c56ae6d154b869d153f5798bde63ce68a773ecf4  python-3.14.0rc1.exe.spdx.json
+8707780ae9f19c5bf5b9f27827181ba11cdad7bb292ea49cad5424331e40ee8b  Python-3.14.0rc1.tar.xz
+13fdc716553da10a3376b57705814662af3cc35ee1b3c8881cc566b02325911b  Python-3.14.0rc1.tar.xz.crt
+d4b6414e1bf79f1f006c7305a5b14389068ecebc33b332e62052253e7ec101f5  Python-3.14.0rc1.tar.xz.sig
+4fe1d17b6e36ed6d1632670177d7af97980a40e3831983344de9b88ae3eb8755  Python-3.14.0rc1.tar.xz.sigstore
+d55da92df36987c70015e82e58b4a094bb4ff1da15587b520edc82df8a718eac  Python-3.14.0rc1.tar.xz.spdx.json
+13fdc716553da10a3376b57705814662af3cc35ee1b3c8881cc566b02325911b  Python-3.14.0rc1.tar.xz.crt
+d4b6414e1bf79f1f006c7305a5b14389068ecebc33b332e62052253e7ec101f5  Python-3.14.0rc1.tar.xz.sig
+4fe1d17b6e36ed6d1632670177d7af97980a40e3831983344de9b88ae3eb8755  Python-3.14.0rc1.tar.xz.sigstore
+4fe1d17b6e36ed6d1632670177d7af97980a40e3831983344de9b88ae3eb8755  Python-3.14.0rc1.tar.xz.sigstore
+d55da92df36987c70015e82e58b4a094bb4ff1da15587b520edc82df8a718eac  Python-3.14.0rc1.tar.xz.spdx.json
+b83dad08c6cdab9af945a063fd6a16b5ed232771a0eb9baad8e45e31185f4d46  Python-3.14.0rc1.tgz
+a4675fdd02ee7e2680c55d5d7bdb2c089efe587be0724280a0ac5f6c50f61a2e  Python-3.14.0rc1.tgz.crt
+4686555c32ba47524751830b2d0f1f701a5467f37b0cad707d318ee67cc14d3f  Python-3.14.0rc1.tgz.sig
+95c27d1ae416c4df2340bc684dcfb3ec80dfe691468949c93357f2d3d4c91696  Python-3.14.0rc1.tgz.sigstore
+97b901bae76e00a117231a82d7cb692cf6cb96db58a988322670a8e52f80b51d  Python-3.14.0rc1.tgz.spdx.json
+a4675fdd02ee7e2680c55d5d7bdb2c089efe587be0724280a0ac5f6c50f61a2e  Python-3.14.0rc1.tgz.crt
+4686555c32ba47524751830b2d0f1f701a5467f37b0cad707d318ee67cc14d3f  Python-3.14.0rc1.tgz.sig
+95c27d1ae416c4df2340bc684dcfb3ec80dfe691468949c93357f2d3d4c91696  Python-3.14.0rc1.tgz.sigstore
+95c27d1ae416c4df2340bc684dcfb3ec80dfe691468949c93357f2d3d4c91696  Python-3.14.0rc1.tgz.sigstore
+97b901bae76e00a117231a82d7cb692cf6cb96db58a988322670a8e52f80b51d  Python-3.14.0rc1.tgz.spdx.json
+173e556b5ba4f66860596e59138ddf941f1923be48060472f818143a103283e4  python-3.14.0rc1t-amd64.zip
+c5f764ffd591840ff4b2fecb36abf46149e60490c940df26b930dca582e4549f  python-3.14.0rc1t-arm64.zip
+fbd0d0186921fd44b2b2cd82e176d60f6befaf536dd0d7d5957e2901191568d6  python-3.14.0rc1t-win32.zip
+4d33ba4e19707c8025ee207cdb9cf07db42e3a50f282dd66a7c799624e6f78c1  python-3.14.0rc2-aarch64-linux-android.tar.gz
+4371a849e90dabf826b43e31a1175a54ff67ad5af3ed590e0257225e9e565a44  python-3.14.0rc2-aarch64-linux-android.tar.gz.crt
+f5d4d17493843df68ec39b1412902f5986dad7cb32aa315e0d1fefe95917c649  python-3.14.0rc2-aarch64-linux-android.tar.gz.sig
+96ce1c5cb510223c90e9f0cec8f82fe47444d611f18b63a4df9a35941db270cd  python-3.14.0rc2-aarch64-linux-android.tar.gz.sigstore
+4371a849e90dabf826b43e31a1175a54ff67ad5af3ed590e0257225e9e565a44  python-3.14.0rc2-aarch64-linux-android.tar.gz.crt
+f5d4d17493843df68ec39b1412902f5986dad7cb32aa315e0d1fefe95917c649  python-3.14.0rc2-aarch64-linux-android.tar.gz.sig
+96ce1c5cb510223c90e9f0cec8f82fe47444d611f18b63a4df9a35941db270cd  python-3.14.0rc2-aarch64-linux-android.tar.gz.sigstore
+96ce1c5cb510223c90e9f0cec8f82fe47444d611f18b63a4df9a35941db270cd  python-3.14.0rc2-aarch64-linux-android.tar.gz.sigstore
+cf4732baba457a6d444f4c084e0bcf9eab4302730b5cab6031e5767bab3a2a7f  python-3.14.0rc2-amd64.exe
+58a9e81cbebf8529e54aff77214cfbe527d1fb66785c625e063f0d05ad5b4b9d  python-3.14.0rc2-amd64.exe.crt
+81fe74e2268df5ab8cf72fa0bc74c14ea55ea2f811b7e436a418689d79ada2b1  python-3.14.0rc2-amd64.exe.sig
+a209203276585d5c3017bacc33ea7f31531b0bed402f56d03fd8e002473a5566  python-3.14.0rc2-amd64.exe.sigstore
+6d37999d0b51f9cee573e9cd802e051e3dd48c4ef387c524e4fb636dfef12c6d  python-3.14.0rc2-amd64.exe.spdx.json
+58a9e81cbebf8529e54aff77214cfbe527d1fb66785c625e063f0d05ad5b4b9d  python-3.14.0rc2-amd64.exe.crt
+81fe74e2268df5ab8cf72fa0bc74c14ea55ea2f811b7e436a418689d79ada2b1  python-3.14.0rc2-amd64.exe.sig
+a209203276585d5c3017bacc33ea7f31531b0bed402f56d03fd8e002473a5566  python-3.14.0rc2-amd64.exe.sigstore
+a209203276585d5c3017bacc33ea7f31531b0bed402f56d03fd8e002473a5566  python-3.14.0rc2-amd64.exe.sigstore
+6d37999d0b51f9cee573e9cd802e051e3dd48c4ef387c524e4fb636dfef12c6d  python-3.14.0rc2-amd64.exe.spdx.json
+7721112c64287cc5689394f619d331b7da479fe94278f51a5ae2bb864e65f26d  python-3.14.0rc2-amd64.zip
+cefb5971e02d749078eadccfe2263b3d7f46a155bb855573a46e22a222751608  python-3.14.0rc2-arm64.exe
+383f647cf7eb3e5c0d5c91cc62d5208592cea8a1252261dc35a6c354abfaa04e  python-3.14.0rc2-arm64.exe.crt
+2475d44f4dd0b021c04e41dacf52e347460e4d13f542c6b87794bdb5ca27bdcf  python-3.14.0rc2-arm64.exe.sig
+a8beb12a934780baff18c71a2d0c62eea5a99584c7107f4f4d1446649d8ffe62  python-3.14.0rc2-arm64.exe.sigstore
+27681924360270da2bf382bceda3c6777b1986a77abeac0da7b3b35c12a1c2fc  python-3.14.0rc2-arm64.exe.spdx.json
+383f647cf7eb3e5c0d5c91cc62d5208592cea8a1252261dc35a6c354abfaa04e  python-3.14.0rc2-arm64.exe.crt
+2475d44f4dd0b021c04e41dacf52e347460e4d13f542c6b87794bdb5ca27bdcf  python-3.14.0rc2-arm64.exe.sig
+a8beb12a934780baff18c71a2d0c62eea5a99584c7107f4f4d1446649d8ffe62  python-3.14.0rc2-arm64.exe.sigstore
+a8beb12a934780baff18c71a2d0c62eea5a99584c7107f4f4d1446649d8ffe62  python-3.14.0rc2-arm64.exe.sigstore
+27681924360270da2bf382bceda3c6777b1986a77abeac0da7b3b35c12a1c2fc  python-3.14.0rc2-arm64.exe.spdx.json
+083f487053d2a76b351185c93f166636e9233ef6dd0693730420acacca5e542c  python-3.14.0rc2-arm64.zip
+57152173db10f444af4dbb457963070a2ab4a6c5d0ed152459dc136c3d4e0138  python-3.14.0rc2-embed-amd64.zip
+d2658277ebea1765a9297c9d8a9d1fafa6be2b1add566f2f0b287cca2e9a31ca  python-3.14.0rc2-embed-amd64.zip.crt
+029f2577f6ca48c680150124f0b120a93fadb18005a0ec82a0f1103c3ee40c3b  python-3.14.0rc2-embed-amd64.zip.sig
+5bc71edca6f3061d510069003073d55c91765df27a87e81c0df3aa6be29ced00  python-3.14.0rc2-embed-amd64.zip.sigstore
+d53189f756606eead1c05b963744087561f161cd574605a08a54ac9440f6678e  python-3.14.0rc2-embed-amd64.zip.spdx.json
+d2658277ebea1765a9297c9d8a9d1fafa6be2b1add566f2f0b287cca2e9a31ca  python-3.14.0rc2-embed-amd64.zip.crt
+029f2577f6ca48c680150124f0b120a93fadb18005a0ec82a0f1103c3ee40c3b  python-3.14.0rc2-embed-amd64.zip.sig
+5bc71edca6f3061d510069003073d55c91765df27a87e81c0df3aa6be29ced00  python-3.14.0rc2-embed-amd64.zip.sigstore
+5bc71edca6f3061d510069003073d55c91765df27a87e81c0df3aa6be29ced00  python-3.14.0rc2-embed-amd64.zip.sigstore
+d53189f756606eead1c05b963744087561f161cd574605a08a54ac9440f6678e  python-3.14.0rc2-embed-amd64.zip.spdx.json
+b12ba3f7e3f20775112abe50d0da21bc55319ac1640a26a7f60b9ae89c40b10a  python-3.14.0rc2-embed-arm64.zip
+78d2e81da22cd8f3de8b795cd3c26f40f698c698e6b9bb37693eca2fc0f1073e  python-3.14.0rc2-embed-arm64.zip.crt
+47b15298a6f606bd7a7b1706fe6b310ad8e79822c5fabb4891bcebff032f69f8  python-3.14.0rc2-embed-arm64.zip.sig
+908f6d69e4211ad3223607e1ead5b327fdb9629d73e5b9130ae1e53d0053f807  python-3.14.0rc2-embed-arm64.zip.sigstore
+3d97b123fe1569d5f5634ec5256e2670afc3d84da1acd74874f8149174c3a225  python-3.14.0rc2-embed-arm64.zip.spdx.json
+78d2e81da22cd8f3de8b795cd3c26f40f698c698e6b9bb37693eca2fc0f1073e  python-3.14.0rc2-embed-arm64.zip.crt
+47b15298a6f606bd7a7b1706fe6b310ad8e79822c5fabb4891bcebff032f69f8  python-3.14.0rc2-embed-arm64.zip.sig
+908f6d69e4211ad3223607e1ead5b327fdb9629d73e5b9130ae1e53d0053f807  python-3.14.0rc2-embed-arm64.zip.sigstore
+908f6d69e4211ad3223607e1ead5b327fdb9629d73e5b9130ae1e53d0053f807  python-3.14.0rc2-embed-arm64.zip.sigstore
+3d97b123fe1569d5f5634ec5256e2670afc3d84da1acd74874f8149174c3a225  python-3.14.0rc2-embed-arm64.zip.spdx.json
+43218a7c92850442b7e635bf75e77cedf70121a7b1162c239206add254311b3f  python-3.14.0rc2-embed-win32.zip
+185aa5fda0ac5eb89de0b1b882089b9c096b6cb5e4c31c38987a88361630be9f  python-3.14.0rc2-embed-win32.zip.crt
+8558c42b79128d3f78d05cbdcdb31b685016b260ce78f4e143576d50b726846c  python-3.14.0rc2-embed-win32.zip.sig
+8669c5690fe01a1b3f08e2f6f6120cd2b61f4c906b6133d8353b1aed3fa7340b  python-3.14.0rc2-embed-win32.zip.sigstore
+0bf55ecf28e357dfe6099ac0d1f76ce1141b79eacc40c436556dbc257acfec2d  python-3.14.0rc2-embed-win32.zip.spdx.json
+185aa5fda0ac5eb89de0b1b882089b9c096b6cb5e4c31c38987a88361630be9f  python-3.14.0rc2-embed-win32.zip.crt
+8558c42b79128d3f78d05cbdcdb31b685016b260ce78f4e143576d50b726846c  python-3.14.0rc2-embed-win32.zip.sig
+8669c5690fe01a1b3f08e2f6f6120cd2b61f4c906b6133d8353b1aed3fa7340b  python-3.14.0rc2-embed-win32.zip.sigstore
+8669c5690fe01a1b3f08e2f6f6120cd2b61f4c906b6133d8353b1aed3fa7340b  python-3.14.0rc2-embed-win32.zip.sigstore
+0bf55ecf28e357dfe6099ac0d1f76ce1141b79eacc40c436556dbc257acfec2d  python-3.14.0rc2-embed-win32.zip.spdx.json
+cee447ca8141f01b23b2ea4d483dcbde10f67daf6e7b9a792e2ac520f4e0c08b  python-3.14.0rc2-embeddable-amd64.zip
+242d8f8ffb3d4debafd51acea53309b3a0c63301eb8cb33e0fe34091e30a7fb6  python-3.14.0rc2-embeddable-arm64.zip
+795c71decd894dd16c256ee26ef113fc24560e9178d78d4276aed4fd619bcfc3  python-3.14.0rc2-embeddable-win32.zip
+64b6bfa864728a9cd6f717acc07f0a03064a8ece634b4ec792ce75d215565afe  python-3.14.0rc2-macos11.pkg
+b19188a8ebc2281275b3d16adef18134ce9d0472c1bba3b007282b4c83400de0  python-3.14.0rc2-macos11.pkg.crt
+01044d79f8805aef9c7eead7a4a90a758c25bd81a8c07e1d0676951f966178c7  python-3.14.0rc2-macos11.pkg.sig
+2f95ebbf5391acaf67e6201fda145ca46a8c0f1d81c5e4bc823c4beffc98010a  python-3.14.0rc2-macos11.pkg.sigstore
+b19188a8ebc2281275b3d16adef18134ce9d0472c1bba3b007282b4c83400de0  python-3.14.0rc2-macos11.pkg.crt
+01044d79f8805aef9c7eead7a4a90a758c25bd81a8c07e1d0676951f966178c7  python-3.14.0rc2-macos11.pkg.sig
+2f95ebbf5391acaf67e6201fda145ca46a8c0f1d81c5e4bc823c4beffc98010a  python-3.14.0rc2-macos11.pkg.sigstore
+2f95ebbf5391acaf67e6201fda145ca46a8c0f1d81c5e4bc823c4beffc98010a  python-3.14.0rc2-macos11.pkg.sigstore
+2ac283f30fa9746345aa3130661c35433f3cfea2d53a38bcda81d3fd94b728b6  python-3.14.0rc2-test-amd64.zip
+f2fe931a66c67935a19cde398a0b05ac11c03a2c8e99e1445fc500ed8b0a8ea1  python-3.14.0rc2-test-arm64.zip
+b34a285cee21e3f2126de02974565e96b2d7f88a0716f146078c8d388dd8ade8  python-3.14.0rc2-test-win32.zip
+df95292d0ea828c868d46c0062022a6e4144bce52beac487048ed3c65e4ae0a6  python-3.14.0rc2-win32.zip
+86ae1fca8da40e55a7dd467bcc83c531cdeb4760c754bdb191c152d2de7b8c9e  python-3.14.0rc2-x86_64-linux-android.tar.gz
+530d8a4b6580fa8cd819ddd9c4295a71082485a2d7595c45da289d271bd61ad0  python-3.14.0rc2-x86_64-linux-android.tar.gz.crt
+3324eafe43082454e6df151a1b94d77d6e76e6f5aaece5e517c60988aaadac29  python-3.14.0rc2-x86_64-linux-android.tar.gz.sig
+659d30108aafbe867fbdb87677a5f10a8a999d0f1576dfc0c9c4bc9e2b71b3f1  python-3.14.0rc2-x86_64-linux-android.tar.gz.sigstore
+530d8a4b6580fa8cd819ddd9c4295a71082485a2d7595c45da289d271bd61ad0  python-3.14.0rc2-x86_64-linux-android.tar.gz.crt
+3324eafe43082454e6df151a1b94d77d6e76e6f5aaece5e517c60988aaadac29  python-3.14.0rc2-x86_64-linux-android.tar.gz.sig
+659d30108aafbe867fbdb87677a5f10a8a999d0f1576dfc0c9c4bc9e2b71b3f1  python-3.14.0rc2-x86_64-linux-android.tar.gz.sigstore
+659d30108aafbe867fbdb87677a5f10a8a999d0f1576dfc0c9c4bc9e2b71b3f1  python-3.14.0rc2-x86_64-linux-android.tar.gz.sigstore
+3e7011ad80362a9c280ff0d0d2aeab11d02fa816d0cc88386a25e43d9a557858  python-3.14.0rc2.exe
+76c2d9148c779dd28973850a2ae497a73ea14d65b5f5caa97661b08aceb0e0e2  python-3.14.0rc2.exe.crt
+418e389df47ffff788b284573ed8e63ead8fec4be53a338943785da01b853894  python-3.14.0rc2.exe.sig
+3f22459c40fa3cbc1e6fb6e2b83e02ca3199a0388ee1f6e668ba3674e98521dc  python-3.14.0rc2.exe.sigstore
+1eb14c5e911a40e61b72b411cb80f28de84bcc1e5771f8c2684dd65e456bf31f  python-3.14.0rc2.exe.spdx.json
+76c2d9148c779dd28973850a2ae497a73ea14d65b5f5caa97661b08aceb0e0e2  python-3.14.0rc2.exe.crt
+418e389df47ffff788b284573ed8e63ead8fec4be53a338943785da01b853894  python-3.14.0rc2.exe.sig
+3f22459c40fa3cbc1e6fb6e2b83e02ca3199a0388ee1f6e668ba3674e98521dc  python-3.14.0rc2.exe.sigstore
+3f22459c40fa3cbc1e6fb6e2b83e02ca3199a0388ee1f6e668ba3674e98521dc  python-3.14.0rc2.exe.sigstore
+1eb14c5e911a40e61b72b411cb80f28de84bcc1e5771f8c2684dd65e456bf31f  python-3.14.0rc2.exe.spdx.json
+bc62854cf232345bd22c9091a68464e01e056c6473a3fffa84572c8a342da656  Python-3.14.0rc2.tar.xz
+3803873a2563417bc161344eacb507a71d1a04ac3e642ceaf4d0c48333f53d36  Python-3.14.0rc2.tar.xz.crt
+54237100c77815033f9336c88b10ddfbafdce3f5682cab3c9a77b5607846b6ce  Python-3.14.0rc2.tar.xz.sig
+c12c31fb52d0dcde43a1f7b471e989ef67a660ceecdf2e8d4cf62f5928630ef9  Python-3.14.0rc2.tar.xz.sigstore
+28086a91396dd438a7a7d6b178d3a467987e842434b06867c92614198d252c02  Python-3.14.0rc2.tar.xz.spdx.json
+3803873a2563417bc161344eacb507a71d1a04ac3e642ceaf4d0c48333f53d36  Python-3.14.0rc2.tar.xz.crt
+54237100c77815033f9336c88b10ddfbafdce3f5682cab3c9a77b5607846b6ce  Python-3.14.0rc2.tar.xz.sig
+c12c31fb52d0dcde43a1f7b471e989ef67a660ceecdf2e8d4cf62f5928630ef9  Python-3.14.0rc2.tar.xz.sigstore
+c12c31fb52d0dcde43a1f7b471e989ef67a660ceecdf2e8d4cf62f5928630ef9  Python-3.14.0rc2.tar.xz.sigstore
+28086a91396dd438a7a7d6b178d3a467987e842434b06867c92614198d252c02  Python-3.14.0rc2.tar.xz.spdx.json
+b336f5d76fcf2725b29108f253d4338fbe4cc6a17cd8baf059deebb5a343dd8f  Python-3.14.0rc2.tgz
+42153ea9cec883a231f73aedbb0cd9fa8726585116741fa8efbf64bf361dae9b  Python-3.14.0rc2.tgz.crt
+f763714862749b61f2509d2ef2365fe258b324b413c246edec8188f0fa414340  Python-3.14.0rc2.tgz.sig
+8e10f6530a08dae006d573f3f043d154fd63ea6493d185840fd8518526e7ac73  Python-3.14.0rc2.tgz.sigstore
+20646ba79e10756b08d2a69b1ce552a9115e3c9bba1f84dddbcc5d3d87a7ec6a  Python-3.14.0rc2.tgz.spdx.json
+42153ea9cec883a231f73aedbb0cd9fa8726585116741fa8efbf64bf361dae9b  Python-3.14.0rc2.tgz.crt
+f763714862749b61f2509d2ef2365fe258b324b413c246edec8188f0fa414340  Python-3.14.0rc2.tgz.sig
+8e10f6530a08dae006d573f3f043d154fd63ea6493d185840fd8518526e7ac73  Python-3.14.0rc2.tgz.sigstore
+8e10f6530a08dae006d573f3f043d154fd63ea6493d185840fd8518526e7ac73  Python-3.14.0rc2.tgz.sigstore
+20646ba79e10756b08d2a69b1ce552a9115e3c9bba1f84dddbcc5d3d87a7ec6a  Python-3.14.0rc2.tgz.spdx.json
+fc5cf65ae14d5c358b0c5a19bb1a668b5651645b33a583f24a8d880ec081522e  python-3.14.0rc2t-amd64.zip
+aeefead773541a33a4c3e9e126a47a6b0c1e776afd43937f9801a66160c9461d  python-3.14.0rc2t-arm64.zip
+571de16c49817a371cfd611206d5610d43f53aac046efd99dccfff249833e90f  python-3.14.0rc2t-win32.zip
+c1cd4cd0bd34be139807c755787c07efc41ead85ecf27046fe7c2209a80a5d4e  python-3.14.0rc3-aarch64-linux-android.tar.gz
+d0545117590361ebee9a5974a1e3d7c01ffc5b0615ff50fd55fd41289f1ff851  python-3.14.0rc3-aarch64-linux-android.tar.gz.crt
+514b36e21c9294d5750ebd66292a87e72da3021206d22ef5e656dff23bc70c94  python-3.14.0rc3-aarch64-linux-android.tar.gz.sig
+17aaa62a5c406d7070e59bd8785db3c334fa10c7548dd61153ad3864f1fe9209  python-3.14.0rc3-aarch64-linux-android.tar.gz.sigstore
+d0545117590361ebee9a5974a1e3d7c01ffc5b0615ff50fd55fd41289f1ff851  python-3.14.0rc3-aarch64-linux-android.tar.gz.crt
+514b36e21c9294d5750ebd66292a87e72da3021206d22ef5e656dff23bc70c94  python-3.14.0rc3-aarch64-linux-android.tar.gz.sig
+17aaa62a5c406d7070e59bd8785db3c334fa10c7548dd61153ad3864f1fe9209  python-3.14.0rc3-aarch64-linux-android.tar.gz.sigstore
+17aaa62a5c406d7070e59bd8785db3c334fa10c7548dd61153ad3864f1fe9209  python-3.14.0rc3-aarch64-linux-android.tar.gz.sigstore
+638ac495e0e43ccbb76f6116f78cb7b27f55ee8461ffcb4d9e7ee0f7b996a144  python-3.14.0rc3-amd64.exe
+68f71969c146a8a3be94867225ac7737df6d6d50fe3d4f38dc926be19e956e81  python-3.14.0rc3-amd64.exe.crt
+e1bb6e23c88df06baea8de3a1ed46d708113246399bc471810885908a6ab41c1  python-3.14.0rc3-amd64.exe.sig
+92df71c5948b2fc14815fb84b1170b97ef450e96d027d466ab647418260a5581  python-3.14.0rc3-amd64.exe.sigstore
+da99d89dd48768836ca91eb93ea70d942e3fc1e980823edbad4aa395d2da2a8a  python-3.14.0rc3-amd64.exe.spdx.json
+68f71969c146a8a3be94867225ac7737df6d6d50fe3d4f38dc926be19e956e81  python-3.14.0rc3-amd64.exe.crt
+e1bb6e23c88df06baea8de3a1ed46d708113246399bc471810885908a6ab41c1  python-3.14.0rc3-amd64.exe.sig
+92df71c5948b2fc14815fb84b1170b97ef450e96d027d466ab647418260a5581  python-3.14.0rc3-amd64.exe.sigstore
+92df71c5948b2fc14815fb84b1170b97ef450e96d027d466ab647418260a5581  python-3.14.0rc3-amd64.exe.sigstore
+da99d89dd48768836ca91eb93ea70d942e3fc1e980823edbad4aa395d2da2a8a  python-3.14.0rc3-amd64.exe.spdx.json
+98e4c20c5150c489c876a91b9d9afa8bbe231a5df4e92fa8d96f63f009043e2f  python-3.14.0rc3-amd64.zip
+a98d6e544f6178223db462b0ac1d7e1787f9dbf7a1a52feb04a8282e572d85bb  python-3.14.0rc3-arm64.exe
+f3d24240e8fabfe531d71b9fc101629ed12ba0c28091b4c8053d5b6d03416275  python-3.14.0rc3-arm64.exe.crt
+58c9c1791dfb5a44f02caeda896c214fecd97efd172c383c822caa5e36be5782  python-3.14.0rc3-arm64.exe.sig
+7187fd5fb8fa854f20e658609b0078a85dc015cd9fb8112790ea728774d6e431  python-3.14.0rc3-arm64.exe.sigstore
+ea7fad31de3a02e6cd7b655c331f0681fbdfa421abffaf9c4b558ea2f90b7dfc  python-3.14.0rc3-arm64.exe.spdx.json
+f3d24240e8fabfe531d71b9fc101629ed12ba0c28091b4c8053d5b6d03416275  python-3.14.0rc3-arm64.exe.crt
+58c9c1791dfb5a44f02caeda896c214fecd97efd172c383c822caa5e36be5782  python-3.14.0rc3-arm64.exe.sig
+7187fd5fb8fa854f20e658609b0078a85dc015cd9fb8112790ea728774d6e431  python-3.14.0rc3-arm64.exe.sigstore
+7187fd5fb8fa854f20e658609b0078a85dc015cd9fb8112790ea728774d6e431  python-3.14.0rc3-arm64.exe.sigstore
+ea7fad31de3a02e6cd7b655c331f0681fbdfa421abffaf9c4b558ea2f90b7dfc  python-3.14.0rc3-arm64.exe.spdx.json
+795f3323cd6009c444af62f12c4214843c38b7bad9b0f1204ccf0eb7d45480c3  python-3.14.0rc3-arm64.zip
+d1de6e4dec6182fcf197c02f32a44dfdbc7169200e7feff43583fc4c63b461e4  python-3.14.0rc3-embed-amd64.zip
+ad9bb20a745b8ddfbd82d89a602e64bc42a90844765b8e679fac98cc46310647  python-3.14.0rc3-embed-amd64.zip.crt
+74d261004c2333fbdeaee140574738bf56b1cc8c8a764e3464f54b8078bcc4fe  python-3.14.0rc3-embed-amd64.zip.sig
+37f22bc15be2be58efa736a3f333d2fc28ab84dba6bce70b817894b503dfe534  python-3.14.0rc3-embed-amd64.zip.sigstore
+068d1c8a9e276c9b2a9b1ea2bfa861b9e675f7cd990a4d8cecabfc0f4c2bf52b  python-3.14.0rc3-embed-amd64.zip.spdx.json
+ad9bb20a745b8ddfbd82d89a602e64bc42a90844765b8e679fac98cc46310647  python-3.14.0rc3-embed-amd64.zip.crt
+74d261004c2333fbdeaee140574738bf56b1cc8c8a764e3464f54b8078bcc4fe  python-3.14.0rc3-embed-amd64.zip.sig
+37f22bc15be2be58efa736a3f333d2fc28ab84dba6bce70b817894b503dfe534  python-3.14.0rc3-embed-amd64.zip.sigstore
+37f22bc15be2be58efa736a3f333d2fc28ab84dba6bce70b817894b503dfe534  python-3.14.0rc3-embed-amd64.zip.sigstore
+068d1c8a9e276c9b2a9b1ea2bfa861b9e675f7cd990a4d8cecabfc0f4c2bf52b  python-3.14.0rc3-embed-amd64.zip.spdx.json
+2205360a3814444acdba8983ceaf4654fa194d710fc7da7599331e6c944b49dd  python-3.14.0rc3-embed-arm64.zip
+1f64ac721f6354b79ae6fad3ab5585b17ecac0a3c43d735965a0accfef3b1048  python-3.14.0rc3-embed-arm64.zip.crt
+11a0e488bdb9d926650a03bbafefe73be16e9b5ec118451f8ccb58dbc4622059  python-3.14.0rc3-embed-arm64.zip.sig
+87c9045e8c815d4f88fa001cd8336bd01ac62d5d5098f2ab6c768345b7f78fa3  python-3.14.0rc3-embed-arm64.zip.sigstore
+750dc2a63353fb2e555c1b39c470139ec8cc2983242928770751ad1d617a4299  python-3.14.0rc3-embed-arm64.zip.spdx.json
+1f64ac721f6354b79ae6fad3ab5585b17ecac0a3c43d735965a0accfef3b1048  python-3.14.0rc3-embed-arm64.zip.crt
+11a0e488bdb9d926650a03bbafefe73be16e9b5ec118451f8ccb58dbc4622059  python-3.14.0rc3-embed-arm64.zip.sig
+87c9045e8c815d4f88fa001cd8336bd01ac62d5d5098f2ab6c768345b7f78fa3  python-3.14.0rc3-embed-arm64.zip.sigstore
+87c9045e8c815d4f88fa001cd8336bd01ac62d5d5098f2ab6c768345b7f78fa3  python-3.14.0rc3-embed-arm64.zip.sigstore
+750dc2a63353fb2e555c1b39c470139ec8cc2983242928770751ad1d617a4299  python-3.14.0rc3-embed-arm64.zip.spdx.json
+1c02cd4f283bf5fd0c746379567cceff79a0078c8bd1ee923b4081e1353cc93d  python-3.14.0rc3-embed-win32.zip
+8dd7bf80bc0840d6cef10a60c0cd1ac4bd08205eb40e8d08965195ae1f4e9c64  python-3.14.0rc3-embed-win32.zip.crt
+f99ae0c5fdab2623d8ad87d9b0886b2ff719fec8588a39917088d0033a32b59a  python-3.14.0rc3-embed-win32.zip.sig
+5770ac968c8a56de324723cdb6bbeceffc613da9e089af59cf7fbb844c6b03fa  python-3.14.0rc3-embed-win32.zip.sigstore
+0060f4098b1a78d88fbc07149290d1fc5938cc54c47dc98ac40223ff700875d8  python-3.14.0rc3-embed-win32.zip.spdx.json
+8dd7bf80bc0840d6cef10a60c0cd1ac4bd08205eb40e8d08965195ae1f4e9c64  python-3.14.0rc3-embed-win32.zip.crt
+f99ae0c5fdab2623d8ad87d9b0886b2ff719fec8588a39917088d0033a32b59a  python-3.14.0rc3-embed-win32.zip.sig
+5770ac968c8a56de324723cdb6bbeceffc613da9e089af59cf7fbb844c6b03fa  python-3.14.0rc3-embed-win32.zip.sigstore
+5770ac968c8a56de324723cdb6bbeceffc613da9e089af59cf7fbb844c6b03fa  python-3.14.0rc3-embed-win32.zip.sigstore
+0060f4098b1a78d88fbc07149290d1fc5938cc54c47dc98ac40223ff700875d8  python-3.14.0rc3-embed-win32.zip.spdx.json
+a032191483d804d6981c4e2cea381dddb96694d1a49f000154a07b4592c47433  python-3.14.0rc3-embeddable-amd64.zip
+26a6a6c124dc5606ba6367da5809b3c1e6335ccc3c300d6714140190cc69d54a  python-3.14.0rc3-embeddable-arm64.zip
+17c32de9ffa69589213de6493f031df342367a62131cd7660359e1e2fee108e6  python-3.14.0rc3-embeddable-win32.zip
+85f59e1c8425d37b46c85bbcfce994e7b0940abdf9c8dd5110b2690061884d9c  python-3.14.0rc3-macos11.pkg
+a4e77a8207ec8ddd5b18c99ad71507d242835ac263772a35be63b9d2befa7858  python-3.14.0rc3-macos11.pkg.crt
+42292f3ac47852ca7291fc2f1ae8bfca9e04e6eedf7ebe8795b7d87dd3730188  python-3.14.0rc3-macos11.pkg.sig
+36d75deb0da11fb2953356837402ec08e7b01888dc4b2eae462e38158dfa7ba9  python-3.14.0rc3-macos11.pkg.sigstore
+a4e77a8207ec8ddd5b18c99ad71507d242835ac263772a35be63b9d2befa7858  python-3.14.0rc3-macos11.pkg.crt
+42292f3ac47852ca7291fc2f1ae8bfca9e04e6eedf7ebe8795b7d87dd3730188  python-3.14.0rc3-macos11.pkg.sig
+36d75deb0da11fb2953356837402ec08e7b01888dc4b2eae462e38158dfa7ba9  python-3.14.0rc3-macos11.pkg.sigstore
+36d75deb0da11fb2953356837402ec08e7b01888dc4b2eae462e38158dfa7ba9  python-3.14.0rc3-macos11.pkg.sigstore
+460053e3aaab1e530f25d79848f020e4b09b50f6964850497f651ede7fa45178  python-3.14.0rc3-test-amd64.zip
+76a63b6def66dd24bd7ea014340657630ee22414d772652881b64fc927fbfa87  python-3.14.0rc3-test-arm64.zip
+15ee370728aee7f6625d78154c99276c2b6c1a3e1cbe625367769ad2570f1ac7  python-3.14.0rc3-test-win32.zip
+6b8f42313cf85a80ec0a3bfe15bdd47474af956f7b9253197035eb4d04ecc23a  python-3.14.0rc3-win32.zip
+f81d86a907a1ecf0ed5f67a208101a58479c8fae17162117a92a6b18850abc01  python-3.14.0rc3-x86_64-linux-android.tar.gz
+74ded701a919e53b1b2710ef53487ff45ab98668acce7e68e6b6171012ea51e6  python-3.14.0rc3-x86_64-linux-android.tar.gz.crt
+779ffb9d231867b50b15435a221db2f8efcfeb46be827e0ace6e2d140b441a2a  python-3.14.0rc3-x86_64-linux-android.tar.gz.sig
+9f64c0bd7fccf26834276bdcf41d534741e50781b49e2e9154d4df0832d3eadb  python-3.14.0rc3-x86_64-linux-android.tar.gz.sigstore
+74ded701a919e53b1b2710ef53487ff45ab98668acce7e68e6b6171012ea51e6  python-3.14.0rc3-x86_64-linux-android.tar.gz.crt
+779ffb9d231867b50b15435a221db2f8efcfeb46be827e0ace6e2d140b441a2a  python-3.14.0rc3-x86_64-linux-android.tar.gz.sig
+9f64c0bd7fccf26834276bdcf41d534741e50781b49e2e9154d4df0832d3eadb  python-3.14.0rc3-x86_64-linux-android.tar.gz.sigstore
+9f64c0bd7fccf26834276bdcf41d534741e50781b49e2e9154d4df0832d3eadb  python-3.14.0rc3-x86_64-linux-android.tar.gz.sigstore
+4a2ed8a0329a798f4e17a7166597561a27b9a9bfa417afc5df743dc30e4c649e  python-3.14.0rc3.exe
+8bcc489d04de6dd886d9dcc0d6224ba60be86d965185d82aba7f88293b9d362d  python-3.14.0rc3.exe.crt
+8cfa5e2baabd2187b025c44c06263e723e132c2c0ba587ee4294e5e9898fbb5a  python-3.14.0rc3.exe.sig
+85301250cde544b153cac25a612684229824bda58be8ea3b38c885fda4f9008b  python-3.14.0rc3.exe.sigstore
+06748a3694a5a1907a46cfa394b36c853355a6ad078595f33a593c96a1df5542  python-3.14.0rc3.exe.spdx.json
+8bcc489d04de6dd886d9dcc0d6224ba60be86d965185d82aba7f88293b9d362d  python-3.14.0rc3.exe.crt
+8cfa5e2baabd2187b025c44c06263e723e132c2c0ba587ee4294e5e9898fbb5a  python-3.14.0rc3.exe.sig
+85301250cde544b153cac25a612684229824bda58be8ea3b38c885fda4f9008b  python-3.14.0rc3.exe.sigstore
+85301250cde544b153cac25a612684229824bda58be8ea3b38c885fda4f9008b  python-3.14.0rc3.exe.sigstore
+06748a3694a5a1907a46cfa394b36c853355a6ad078595f33a593c96a1df5542  python-3.14.0rc3.exe.spdx.json
+646dc945e49c73a141896deda12d43f3f293fd69426774c16fc43496180e8fcd  Python-3.14.0rc3.tar.xz
+f02a18f1c6335f48621e0f52e0ac3f250d0085d76b9aac60a82ce182eb79ecd3  Python-3.14.0rc3.tar.xz.crt
+8820da11d2b40146bbf7d0cc281ddff3813a6a491a21502c7224098d714110bd  Python-3.14.0rc3.tar.xz.sig
+8bf1b61fe770e61593b53c106896b3f48a1dd957ac23664bdaff3f80248f933e  Python-3.14.0rc3.tar.xz.sigstore
+ece913c73012d86ac364e937ab150be6a619de8621563d00fc97d66ed1b71f86  Python-3.14.0rc3.tar.xz.spdx.json
+f02a18f1c6335f48621e0f52e0ac3f250d0085d76b9aac60a82ce182eb79ecd3  Python-3.14.0rc3.tar.xz.crt
+8820da11d2b40146bbf7d0cc281ddff3813a6a491a21502c7224098d714110bd  Python-3.14.0rc3.tar.xz.sig
+8bf1b61fe770e61593b53c106896b3f48a1dd957ac23664bdaff3f80248f933e  Python-3.14.0rc3.tar.xz.sigstore
+8bf1b61fe770e61593b53c106896b3f48a1dd957ac23664bdaff3f80248f933e  Python-3.14.0rc3.tar.xz.sigstore
+ece913c73012d86ac364e937ab150be6a619de8621563d00fc97d66ed1b71f86  Python-3.14.0rc3.tar.xz.spdx.json
+f52c3fa94a02adf9a6228abf53f6a53f09ce06aa168d879a332054c598179853  Python-3.14.0rc3.tgz
+f9e7be49e5dd41da971213714ff7efdb902f55cbf191ff05f8d4bb2955799352  Python-3.14.0rc3.tgz.crt
+971700cf65e0bd75b6d9ddc02904ae403d260481e9f584ae5dab4245800cda21  Python-3.14.0rc3.tgz.sig
+7f1b594b55410fb3214d0255788f42ce8686d0021108fed9dd25b32910098ea4  Python-3.14.0rc3.tgz.sigstore
+5131b08001a0d2d0da47d8ba40cb54471c9706d47c79b234ef7a9d908b89345f  Python-3.14.0rc3.tgz.spdx.json
+f9e7be49e5dd41da971213714ff7efdb902f55cbf191ff05f8d4bb2955799352  Python-3.14.0rc3.tgz.crt
+971700cf65e0bd75b6d9ddc02904ae403d260481e9f584ae5dab4245800cda21  Python-3.14.0rc3.tgz.sig
+7f1b594b55410fb3214d0255788f42ce8686d0021108fed9dd25b32910098ea4  Python-3.14.0rc3.tgz.sigstore
+7f1b594b55410fb3214d0255788f42ce8686d0021108fed9dd25b32910098ea4  Python-3.14.0rc3.tgz.sigstore
+5131b08001a0d2d0da47d8ba40cb54471c9706d47c79b234ef7a9d908b89345f  Python-3.14.0rc3.tgz.spdx.json
+3a87cc54f415a71f094b239e54cc932dee7cd4de69c8e59a34e62331dfc59392  python-3.14.0rc3t-amd64.zip
+72cf1a4044f01f069be0c5204e1456d66eec36c5a2569fe6121023b155358811  python-3.14.0rc3t-arm64.zip
+e5479226eb1abc0f29ef4ede5117e4cf89f07cd4c8fc90be477eef25f018d2cd  python-3.14.0rc3t-win32.zip
+f9d1fd56190aba78eaf9f1d227c29c5d77c899787f32d8c56a0fa1dc17ac299a  python-3.14.0t-amd64.zip
+e2c887718395e7bfbcd45ae548f68ad531c2fbd77014998ec0d4013d2956e6e3  python-3.14.0t-arm64.zip
+761560f0cf163f800575cb6648908222a89e3dd7133f42cdf6b332deda208122  python-3.14.0t-win32.zip
+50d732ddebdd07b79c635c7443e62fd1b6ccefd86847970d9749b98b8a2e4b10  python-3.14.1-aarch64-linux-android.tar.gz
+818b182e3538c65353c97ae3135b78efcea12f3a0afa0fff10461effa65b1c88  python-3.14.1-aarch64-linux-android.tar.gz.crt
+3c70e262c3a1a7b4c5a914a9b1f3f3f347879f23539b2c7068bc02f1903ccc3b  python-3.14.1-aarch64-linux-android.tar.gz.sig
+faa97514a03d6861626107305e886a199fe0734a0d6066866f0a17f7fbc30ea1  python-3.14.1-aarch64-linux-android.tar.gz.sigstore
+818b182e3538c65353c97ae3135b78efcea12f3a0afa0fff10461effa65b1c88  python-3.14.1-aarch64-linux-android.tar.gz.crt
+3c70e262c3a1a7b4c5a914a9b1f3f3f347879f23539b2c7068bc02f1903ccc3b  python-3.14.1-aarch64-linux-android.tar.gz.sig
+faa97514a03d6861626107305e886a199fe0734a0d6066866f0a17f7fbc30ea1  python-3.14.1-aarch64-linux-android.tar.gz.sigstore
+faa97514a03d6861626107305e886a199fe0734a0d6066866f0a17f7fbc30ea1  python-3.14.1-aarch64-linux-android.tar.gz.sigstore
+74e1516408744190fcc12307c150de30902898444f77f85f4c2ac18f36788a80  python-3.14.1-amd64.exe
+86cfce0f39518209178bf067e491791ca6cc12c44f98d146e66bbf088bfc34ac  python-3.14.1-amd64.exe.crt
+dbe361ba28cba67092857e704cbeae07389f46ac47d85019dfd0d921c9bbd517  python-3.14.1-amd64.exe.sig
+d0a35cba593aa58cac1c5caed0b2a9ca9db9b813161fabc10631114eeb65fb9b  python-3.14.1-amd64.exe.sigstore
+00391bc637dd917e60a22e6bb5b7eaefdc7888dd64ae261108e30418a91aeeb0  python-3.14.1-amd64.exe.spdx.json
+86cfce0f39518209178bf067e491791ca6cc12c44f98d146e66bbf088bfc34ac  python-3.14.1-amd64.exe.crt
+dbe361ba28cba67092857e704cbeae07389f46ac47d85019dfd0d921c9bbd517  python-3.14.1-amd64.exe.sig
+d0a35cba593aa58cac1c5caed0b2a9ca9db9b813161fabc10631114eeb65fb9b  python-3.14.1-amd64.exe.sigstore
+d0a35cba593aa58cac1c5caed0b2a9ca9db9b813161fabc10631114eeb65fb9b  python-3.14.1-amd64.exe.sigstore
+00391bc637dd917e60a22e6bb5b7eaefdc7888dd64ae261108e30418a91aeeb0  python-3.14.1-amd64.exe.spdx.json
+46d6514446d0082b5c52961f468df0210af75633d57eb2594bb553a365fb59dd  python-3.14.1-amd64.zip
+75d8dd935ed137915ab6796cc76d6c2e9422c6cd5ec092055ecf606c3cae9eb9  python-3.14.1-arm64.exe
+87b299c462bc48a3291031e45f74084bf1fdec5eb97c92c0cc5f405dfc2441d3  python-3.14.1-arm64.exe.crt
+a4da4d8bfac1094217a2f82283342a7812ad0dfab9af1237b5f2455cf934456f  python-3.14.1-arm64.exe.sig
+e18a958326e96d527858b85b4a535e7f401693ea707ea95b8dd8697a7262da23  python-3.14.1-arm64.exe.sigstore
+5aaa64ba72ec6f65679e2606d2c10abf0f7f6f8a95157c2bbb95a7f8e37fcd11  python-3.14.1-arm64.exe.spdx.json
+87b299c462bc48a3291031e45f74084bf1fdec5eb97c92c0cc5f405dfc2441d3  python-3.14.1-arm64.exe.crt
+a4da4d8bfac1094217a2f82283342a7812ad0dfab9af1237b5f2455cf934456f  python-3.14.1-arm64.exe.sig
+e18a958326e96d527858b85b4a535e7f401693ea707ea95b8dd8697a7262da23  python-3.14.1-arm64.exe.sigstore
+e18a958326e96d527858b85b4a535e7f401693ea707ea95b8dd8697a7262da23  python-3.14.1-arm64.exe.sigstore
+5aaa64ba72ec6f65679e2606d2c10abf0f7f6f8a95157c2bbb95a7f8e37fcd11  python-3.14.1-arm64.exe.spdx.json
+be97dca16525fca8fd07cd4ca0af646974c58d179eeb6502a8e9b1e793e8d31f  python-3.14.1-arm64.zip
+0e613b6c5f332ce3278b6250d56ab0bdbbbacb61b9028b9b0865efe80fca1529  python-3.14.1-embed-amd64.zip
+0835a3637288e1fd4b6e3975dbd6253d688706e3ee239d741a2eaeb5a084c453  python-3.14.1-embed-amd64.zip.crt
+1b84de6cb5c2f80d5226f6f5ce086fe6140e102db4fea2b9082bb4a6f788c714  python-3.14.1-embed-amd64.zip.sig
+5eb86e55eb91b6101f2b5c2690d7d588548230126ca9077a5a6222a0ce1213b1  python-3.14.1-embed-amd64.zip.sigstore
+6eda9e7dbc5a6e7c38048046a65edbd548b9ff80b75388fb8a67632ecedf17a0  python-3.14.1-embed-amd64.zip.spdx.json
+0835a3637288e1fd4b6e3975dbd6253d688706e3ee239d741a2eaeb5a084c453  python-3.14.1-embed-amd64.zip.crt
+1b84de6cb5c2f80d5226f6f5ce086fe6140e102db4fea2b9082bb4a6f788c714  python-3.14.1-embed-amd64.zip.sig
+5eb86e55eb91b6101f2b5c2690d7d588548230126ca9077a5a6222a0ce1213b1  python-3.14.1-embed-amd64.zip.sigstore
+5eb86e55eb91b6101f2b5c2690d7d588548230126ca9077a5a6222a0ce1213b1  python-3.14.1-embed-amd64.zip.sigstore
+6eda9e7dbc5a6e7c38048046a65edbd548b9ff80b75388fb8a67632ecedf17a0  python-3.14.1-embed-amd64.zip.spdx.json
+1e2038ea10bc4271d1c5247dd7b6120e04b1d131d3dd686c96bfe0c5883da798  python-3.14.1-embed-arm64.zip
+1cc2111bf93ebf81cefcd9cfcb86d9881d73e7e362b998facf49a9641b100433  python-3.14.1-embed-arm64.zip.crt
+74c1f9aa53be70405c593a3f6b4e141c44c9dab90f3409e85a6b573e2fd648a3  python-3.14.1-embed-arm64.zip.sig
+e176a9c13d4a29fe5f4a20c796f9518f6898023ce14972e6d9bb693f70b6368f  python-3.14.1-embed-arm64.zip.sigstore
+5180e88421f39168fd970a87711bd8233050ff33684ddbbabfa72ddcba4dd3fb  python-3.14.1-embed-arm64.zip.spdx.json
+1cc2111bf93ebf81cefcd9cfcb86d9881d73e7e362b998facf49a9641b100433  python-3.14.1-embed-arm64.zip.crt
+74c1f9aa53be70405c593a3f6b4e141c44c9dab90f3409e85a6b573e2fd648a3  python-3.14.1-embed-arm64.zip.sig
+e176a9c13d4a29fe5f4a20c796f9518f6898023ce14972e6d9bb693f70b6368f  python-3.14.1-embed-arm64.zip.sigstore
+e176a9c13d4a29fe5f4a20c796f9518f6898023ce14972e6d9bb693f70b6368f  python-3.14.1-embed-arm64.zip.sigstore
+5180e88421f39168fd970a87711bd8233050ff33684ddbbabfa72ddcba4dd3fb  python-3.14.1-embed-arm64.zip.spdx.json
+dae7667ae50d8e9bd1cd4d51122aec0220c5e90572f737eed649282a7efbc588  python-3.14.1-embed-win32.zip
+8b747f8e1bb41a0f7bb8a65778cb71db07c3c563db3eeb09637101dca78a72ef  python-3.14.1-embed-win32.zip.crt
+2f021910f5c92311d1d6d87d829d689aecd4f2b984abb58762ad337deb3b39f3  python-3.14.1-embed-win32.zip.sig
+8b8f544397989add0744f39af169ae4cb8b7a5cdfc85be49cd290a61e14d51f3  python-3.14.1-embed-win32.zip.sigstore
+c27855c2dcd9e69181993c333994a821c3059a4c09d8f3250c6f69ab5f2065f2  python-3.14.1-embed-win32.zip.spdx.json
+8b747f8e1bb41a0f7bb8a65778cb71db07c3c563db3eeb09637101dca78a72ef  python-3.14.1-embed-win32.zip.crt
+2f021910f5c92311d1d6d87d829d689aecd4f2b984abb58762ad337deb3b39f3  python-3.14.1-embed-win32.zip.sig
+8b8f544397989add0744f39af169ae4cb8b7a5cdfc85be49cd290a61e14d51f3  python-3.14.1-embed-win32.zip.sigstore
+8b8f544397989add0744f39af169ae4cb8b7a5cdfc85be49cd290a61e14d51f3  python-3.14.1-embed-win32.zip.sigstore
+c27855c2dcd9e69181993c333994a821c3059a4c09d8f3250c6f69ab5f2065f2  python-3.14.1-embed-win32.zip.spdx.json
+b938449be268a824d0bc2c4037fb8b7c643ae580a264cd4ae047cbc457ba1196  python-3.14.1-embeddable-amd64.zip
+0f1a969d1bd9cc3cc377413300c3f7491e9c9ada1ddbf6bd274d5ea35ecbc575  python-3.14.1-embeddable-arm64.zip
+8ef367de2b1943447a7b41c7f060b0b2463b9a6a929d571958c305e8db5efd92  python-3.14.1-embeddable-win32.zip
+895a4b25b87a75568a5ac2b9fd184692f3cc9780e63a7a02c94a7b93e24e0259  python-3.14.1-macos11.pkg
+32219d6b4ef0ce655848e01da8ec28de5f5207f46f20b6c459fe6de067b76802  python-3.14.1-macos11.pkg.crt
+ffda143a50ee67dbda55af8b8005cd356918c4409960abb11f0f53457f16112d  python-3.14.1-macos11.pkg.sig
+95f2386ee83065badef3d37a5fb51129d82a0e1e3ed36e18830d868dc174d4bd  python-3.14.1-macos11.pkg.sigstore
+32219d6b4ef0ce655848e01da8ec28de5f5207f46f20b6c459fe6de067b76802  python-3.14.1-macos11.pkg.crt
+ffda143a50ee67dbda55af8b8005cd356918c4409960abb11f0f53457f16112d  python-3.14.1-macos11.pkg.sig
+95f2386ee83065badef3d37a5fb51129d82a0e1e3ed36e18830d868dc174d4bd  python-3.14.1-macos11.pkg.sigstore
+95f2386ee83065badef3d37a5fb51129d82a0e1e3ed36e18830d868dc174d4bd  python-3.14.1-macos11.pkg.sigstore
+7c5bd0d51b27b51571c8c0b28fa3d57c8759f2f00c521aa2f278202f2028b647  python-3.14.1-test-amd64.zip
+a624a716f76e0daa9df1600a465b76f9da425ead84d0c3eca4f42956efd2ded2  python-3.14.1-test-arm64.zip
+9c877ccad006a5e0c07fe94399a26c62c30c6af06aad0be28a2a9ae7f8eed6be  python-3.14.1-test-win32.zip
+0a7e406300cea40e1f37b01156b086ba34b06c58d8df6845b347aa5799691307  python-3.14.1-win32.zip
+063d363ba58841d75b821c74f25683cebfd5f7e836e0188234772d7a95972d41  python-3.14.1-x86_64-linux-android.tar.gz
+fee2360eaa794619447d62d0fa296312ec674d7e64d367b697f7751186429e83  python-3.14.1-x86_64-linux-android.tar.gz.crt
+93128719edf775ec1897105bbd0b50f3badc87829ab6c972833e93729eca1a64  python-3.14.1-x86_64-linux-android.tar.gz.sig
+bff87138beec3089d0440d8b18c2b59a15ddc5700589616b4f2f367ec5ce86f1  python-3.14.1-x86_64-linux-android.tar.gz.sigstore
+fee2360eaa794619447d62d0fa296312ec674d7e64d367b697f7751186429e83  python-3.14.1-x86_64-linux-android.tar.gz.crt
+93128719edf775ec1897105bbd0b50f3badc87829ab6c972833e93729eca1a64  python-3.14.1-x86_64-linux-android.tar.gz.sig
+bff87138beec3089d0440d8b18c2b59a15ddc5700589616b4f2f367ec5ce86f1  python-3.14.1-x86_64-linux-android.tar.gz.sigstore
+bff87138beec3089d0440d8b18c2b59a15ddc5700589616b4f2f367ec5ce86f1  python-3.14.1-x86_64-linux-android.tar.gz.sigstore
+cea387fc8f59418aae0764cd89c6b33d60e21ccd4792fac2e21ca08b8225be83  python-3.14.1.exe
+61b5c4512e5b0a60ae6c3115b869915af49f72ecfeeb3a21bf62d3514d911063  python-3.14.1.exe.crt
+7c27c579d80e85535c41f70c8474a1ebfd690f36f9692a17b27626834bf3c94f  python-3.14.1.exe.sig
+9b322192e31ffdbc99bb48731f98684c49c0d0dbd53d77a4acda99c8bb4e8887  python-3.14.1.exe.sigstore
+d8b3bf49750ca1b136153a7996919a66e8583c0936164512ac591382254574e6  python-3.14.1.exe.spdx.json
+61b5c4512e5b0a60ae6c3115b869915af49f72ecfeeb3a21bf62d3514d911063  python-3.14.1.exe.crt
+7c27c579d80e85535c41f70c8474a1ebfd690f36f9692a17b27626834bf3c94f  python-3.14.1.exe.sig
+9b322192e31ffdbc99bb48731f98684c49c0d0dbd53d77a4acda99c8bb4e8887  python-3.14.1.exe.sigstore
+9b322192e31ffdbc99bb48731f98684c49c0d0dbd53d77a4acda99c8bb4e8887  python-3.14.1.exe.sigstore
+d8b3bf49750ca1b136153a7996919a66e8583c0936164512ac591382254574e6  python-3.14.1.exe.spdx.json
+8dfa08b1959d9d15838a1c2dab77dc8d8ff4a553a1ed046dfacbc8095c6d42fc  Python-3.14.1.tar.xz
+67979e9513f680fc0c5069b5ad7257c7236ba9bbb47dbd9d89e1a228e3bc0407  Python-3.14.1.tar.xz.crt
+c8506e26e5c19cf8996d256c33e09a7bc03fb8beadabbff0c57a9dd76198ba83  Python-3.14.1.tar.xz.sig
+34c29420ba27479d9b01606200adccbccf6761c06c8bd4be12077bcfc8571e59  Python-3.14.1.tar.xz.sigstore
+29044027c7aba9bfc7d1e89365f342696a1765e59cce168a1996aabf5bd04a04  Python-3.14.1.tar.xz.spdx.json
+67979e9513f680fc0c5069b5ad7257c7236ba9bbb47dbd9d89e1a228e3bc0407  Python-3.14.1.tar.xz.crt
+c8506e26e5c19cf8996d256c33e09a7bc03fb8beadabbff0c57a9dd76198ba83  Python-3.14.1.tar.xz.sig
+34c29420ba27479d9b01606200adccbccf6761c06c8bd4be12077bcfc8571e59  Python-3.14.1.tar.xz.sigstore
+34c29420ba27479d9b01606200adccbccf6761c06c8bd4be12077bcfc8571e59  Python-3.14.1.tar.xz.sigstore
+29044027c7aba9bfc7d1e89365f342696a1765e59cce168a1996aabf5bd04a04  Python-3.14.1.tar.xz.spdx.json
+8343f001dede23812c7e9c6064f776bade2ef5813f46f0ae4b5a4c10c9069e9a  Python-3.14.1.tgz
+8b6955cdbe9bde534b91e41902a2f6e122ac84723b44d90981d9f6b18f026c52  Python-3.14.1.tgz.crt
+c0b162ce57116900409fadf39dd9b71a91db8ae81525c337f84cbd5f61ef2eae  Python-3.14.1.tgz.sig
+87cbe1655f4a7bc015a3315ee2d26bb45d82478616298975d08d956a8b44b9cf  Python-3.14.1.tgz.sigstore
+19d3d86afd5a300d4e7755d8ad0b0173b91808360a5dde9968254632a3876c88  Python-3.14.1.tgz.spdx.json
+8b6955cdbe9bde534b91e41902a2f6e122ac84723b44d90981d9f6b18f026c52  Python-3.14.1.tgz.crt
+c0b162ce57116900409fadf39dd9b71a91db8ae81525c337f84cbd5f61ef2eae  Python-3.14.1.tgz.sig
+87cbe1655f4a7bc015a3315ee2d26bb45d82478616298975d08d956a8b44b9cf  Python-3.14.1.tgz.sigstore
+87cbe1655f4a7bc015a3315ee2d26bb45d82478616298975d08d956a8b44b9cf  Python-3.14.1.tgz.sigstore
+19d3d86afd5a300d4e7755d8ad0b0173b91808360a5dde9968254632a3876c88  Python-3.14.1.tgz.spdx.json
+1af7d0b460846369d7f4ad28cf41750994f1cb6251df8518b7cda6f445b1b4a3  python-3.14.1t-amd64.zip
+29d675d7889c9bce957cc386d8b7d50c5492a7ce96edf8346803952960e6e37b  python-3.14.1t-arm64.zip
+c9d19671afbc7587768860a729a68cf03f69c460ebf9f00267b02b4e966bd0d6  python-3.14.1t-win32.zip
+d842ed92a662e41f8008ad2ec6b0cb36e5872c64f073f5abfce7f8279a1c761c  python-3.14.2-aarch64-linux-android.tar.gz
+b9b3bb4dca64efdb7284ceaf75e866fae805903f4f99f32e6087e16043bf7f33  python-3.14.2-aarch64-linux-android.tar.gz.crt
+f03894380cec22cd92367cb446b5d382dfdabcaf83b8a3fbdec0fa811de7f700  python-3.14.2-aarch64-linux-android.tar.gz.sig
+6189d679336b92c6e7a6227e838feb616bce3b70cce337a146fd21128b78fd85  python-3.14.2-aarch64-linux-android.tar.gz.sigstore
+b9b3bb4dca64efdb7284ceaf75e866fae805903f4f99f32e6087e16043bf7f33  python-3.14.2-aarch64-linux-android.tar.gz.crt
+f03894380cec22cd92367cb446b5d382dfdabcaf83b8a3fbdec0fa811de7f700  python-3.14.2-aarch64-linux-android.tar.gz.sig
+6189d679336b92c6e7a6227e838feb616bce3b70cce337a146fd21128b78fd85  python-3.14.2-aarch64-linux-android.tar.gz.sigstore
+6189d679336b92c6e7a6227e838feb616bce3b70cce337a146fd21128b78fd85  python-3.14.2-aarch64-linux-android.tar.gz.sigstore
+9db919cefe30a0051658c600a9912acb0cd2b872aaf35842c9ec2bf401efa848  python-3.14.2-amd64.exe
+b041369a4f4e5a40495a6717b69174af413d298156ab723abf9ac94576a76634  python-3.14.2-amd64.exe.crt
+ddd8a0819e7826239982d01b23caf57704c9bd21da8b8afc25eae92c3430aaab  python-3.14.2-amd64.exe.sig
+edaa455a713c0609562f18fad7a5dcd37c4d30a53ae8be2b63299cc12c3adc38  python-3.14.2-amd64.exe.sigstore
+3040f6dc78e9b1170fd197aa32bf916bf6b1d649fa01e6caf6e224807ab751ad  python-3.14.2-amd64.exe.spdx.json
+b041369a4f4e5a40495a6717b69174af413d298156ab723abf9ac94576a76634  python-3.14.2-amd64.exe.crt
+ddd8a0819e7826239982d01b23caf57704c9bd21da8b8afc25eae92c3430aaab  python-3.14.2-amd64.exe.sig
+edaa455a713c0609562f18fad7a5dcd37c4d30a53ae8be2b63299cc12c3adc38  python-3.14.2-amd64.exe.sigstore
+edaa455a713c0609562f18fad7a5dcd37c4d30a53ae8be2b63299cc12c3adc38  python-3.14.2-amd64.exe.sigstore
+3040f6dc78e9b1170fd197aa32bf916bf6b1d649fa01e6caf6e224807ab751ad  python-3.14.2-amd64.exe.spdx.json
+7f9f03032b19222299d04ae5b1ad459bd913bc25e8d1ff070e1a80e09a4feddf  python-3.14.2-amd64.zip
+383328af31563ef1cc0d81cf07a61c45970f81dfa05afc9224dd93205d2c56e9  python-3.14.2-arm64.exe
+60a04669c4977e5d148d70c6dfbe00577a3156350c825770f85874e3bc3d76c4  python-3.14.2-arm64.exe.crt
+5531cd6d52e80b33324c0d4b3f9aff4f23d2924dbc404d6c91cf048438115984  python-3.14.2-arm64.exe.sig
+f9d398f9bd1864311479c5b54cfc285509bf8bdb571a7316e42c5ae276bcb13d  python-3.14.2-arm64.exe.sigstore
+41a2ef497b8604404415e930c84f85e841c0e0ca48a85d062f4d5c7b32cf272b  python-3.14.2-arm64.exe.spdx.json
+60a04669c4977e5d148d70c6dfbe00577a3156350c825770f85874e3bc3d76c4  python-3.14.2-arm64.exe.crt
+5531cd6d52e80b33324c0d4b3f9aff4f23d2924dbc404d6c91cf048438115984  python-3.14.2-arm64.exe.sig
+f9d398f9bd1864311479c5b54cfc285509bf8bdb571a7316e42c5ae276bcb13d  python-3.14.2-arm64.exe.sigstore
+f9d398f9bd1864311479c5b54cfc285509bf8bdb571a7316e42c5ae276bcb13d  python-3.14.2-arm64.exe.sigstore
+41a2ef497b8604404415e930c84f85e841c0e0ca48a85d062f4d5c7b32cf272b  python-3.14.2-arm64.exe.spdx.json
+94b39d7bbbe752a5871463e9abb09ddfaf7f0ed092cfa0f434e95e8bddf859f2  python-3.14.2-arm64.zip
+f05e28d161c6b15af64a7cb7f08b4a22b3a6b03eee71baee24ea557b3bdd5798  python-3.14.2-embed-amd64.zip
+8bc46fd9a6e185335d7ad7fc54a283bf33f4b774761a87e086c340e7e4b91d7b  python-3.14.2-embed-amd64.zip.crt
+701ea0564ee770f5b6050d7eb8bcc7a1efddf33d98215602deffb957a709418a  python-3.14.2-embed-amd64.zip.sig
+30e3d5b6d6aaaf21550dd3e07dbe0fc4300cde19a4d9aee7d0dbf3dfba717ee6  python-3.14.2-embed-amd64.zip.sigstore
+1567ba8ae1ed6e61a35496dc77a607b2ed08665e1c520ba63bdde2ec872d1b71  python-3.14.2-embed-amd64.zip.spdx.json
+8bc46fd9a6e185335d7ad7fc54a283bf33f4b774761a87e086c340e7e4b91d7b  python-3.14.2-embed-amd64.zip.crt
+701ea0564ee770f5b6050d7eb8bcc7a1efddf33d98215602deffb957a709418a  python-3.14.2-embed-amd64.zip.sig
+30e3d5b6d6aaaf21550dd3e07dbe0fc4300cde19a4d9aee7d0dbf3dfba717ee6  python-3.14.2-embed-amd64.zip.sigstore
+30e3d5b6d6aaaf21550dd3e07dbe0fc4300cde19a4d9aee7d0dbf3dfba717ee6  python-3.14.2-embed-amd64.zip.sigstore
+1567ba8ae1ed6e61a35496dc77a607b2ed08665e1c520ba63bdde2ec872d1b71  python-3.14.2-embed-amd64.zip.spdx.json
+d7747e22a2e9508e6a2d7029cbe494cd6c33aca62d5e7d467a595d6e5e9139a4  python-3.14.2-embed-arm64.zip
+cfe1fe61da89c04250c0faf83ebe747374dafdf5da36000367258b3cdecbfd77  python-3.14.2-embed-arm64.zip.crt
+40445a518d824c7190ae380082fe0ae13775d73002c0f07dac485cc71fbbfd84  python-3.14.2-embed-arm64.zip.sig
+a25530b10d131e93b8c56f6b1b0ea5fd50e7bfedbc86d6009c4c71061325fcfc  python-3.14.2-embed-arm64.zip.sigstore
+a195eda542de6a8be7f45abfeb8dc3e6a037ae265b74e9434c8fad5c91ab8d2c  python-3.14.2-embed-arm64.zip.spdx.json
+cfe1fe61da89c04250c0faf83ebe747374dafdf5da36000367258b3cdecbfd77  python-3.14.2-embed-arm64.zip.crt
+40445a518d824c7190ae380082fe0ae13775d73002c0f07dac485cc71fbbfd84  python-3.14.2-embed-arm64.zip.sig
+a25530b10d131e93b8c56f6b1b0ea5fd50e7bfedbc86d6009c4c71061325fcfc  python-3.14.2-embed-arm64.zip.sigstore
+a25530b10d131e93b8c56f6b1b0ea5fd50e7bfedbc86d6009c4c71061325fcfc  python-3.14.2-embed-arm64.zip.sigstore
+a195eda542de6a8be7f45abfeb8dc3e6a037ae265b74e9434c8fad5c91ab8d2c  python-3.14.2-embed-arm64.zip.spdx.json
+a31deddf36d97ef9d6142fc919dd3e3884912563419629e58dacbc5a086f4e76  python-3.14.2-embed-win32.zip
+1f4a6c561c6ebc964c7cc156c3f8190c5f02b2e77e86b37727d67c4bb5bfb45c  python-3.14.2-embed-win32.zip.crt
+8fcba5575f7794c03b43383674d5913d577fdf1e589a99e3734fc6f651b88f85  python-3.14.2-embed-win32.zip.sig
+ed2802298fb1d744529fbd5fc2a405773e9190310472162ce691fd9f74456565  python-3.14.2-embed-win32.zip.sigstore
+4ad4c4d464521e81771929da224b41d50a5a2bc832df2a93319373afb6ac3d7f  python-3.14.2-embed-win32.zip.spdx.json
+1f4a6c561c6ebc964c7cc156c3f8190c5f02b2e77e86b37727d67c4bb5bfb45c  python-3.14.2-embed-win32.zip.crt
+8fcba5575f7794c03b43383674d5913d577fdf1e589a99e3734fc6f651b88f85  python-3.14.2-embed-win32.zip.sig
+ed2802298fb1d744529fbd5fc2a405773e9190310472162ce691fd9f74456565  python-3.14.2-embed-win32.zip.sigstore
+ed2802298fb1d744529fbd5fc2a405773e9190310472162ce691fd9f74456565  python-3.14.2-embed-win32.zip.sigstore
+4ad4c4d464521e81771929da224b41d50a5a2bc832df2a93319373afb6ac3d7f  python-3.14.2-embed-win32.zip.spdx.json
+6051567347379b6ebc6e384d6591f9799a58fa060f735731118e36f8c9525be2  python-3.14.2-embeddable-amd64.zip
+cd818ea738167222e23069693708af4741423cb05e1e18eee2f392d380788136  python-3.14.2-embeddable-arm64.zip
+f23790f25f4cebbc5d00d26b6404250d54f1f13fba6998b6509816affc7dafed  python-3.14.2-embeddable-win32.zip
+fc98ed71cd7b76d1ac19a31ef1641d177854ebec54413ffe3666767ead77ebb7  python-3.14.2-macos11.pkg
+7f65365e719b80da093363f80aab0c1dabd8463ccdc97fa50c8f0431e2d98885  python-3.14.2-macos11.pkg.crt
+c4524611c495dc9b09f8e8d8260c9a003db6f33cf58c9ebc6851bb0d1928c322  python-3.14.2-macos11.pkg.sig
+a8204214a4563b0037763b28aaa00ca26c1e435056aa0bb0cf45e1c1608ee111  python-3.14.2-macos11.pkg.sigstore
+7f65365e719b80da093363f80aab0c1dabd8463ccdc97fa50c8f0431e2d98885  python-3.14.2-macos11.pkg.crt
+c4524611c495dc9b09f8e8d8260c9a003db6f33cf58c9ebc6851bb0d1928c322  python-3.14.2-macos11.pkg.sig
+a8204214a4563b0037763b28aaa00ca26c1e435056aa0bb0cf45e1c1608ee111  python-3.14.2-macos11.pkg.sigstore
+a8204214a4563b0037763b28aaa00ca26c1e435056aa0bb0cf45e1c1608ee111  python-3.14.2-macos11.pkg.sigstore
+be4eb8133bed0e0c0abfb836d2a42c650970c8a95859749b94977c14621d96d2  python-3.14.2-test-amd64.zip
+1cef96938dbfb4cac5d65fa04d3141a19889b486b405dcd11a3d5ec962570527  python-3.14.2-test-arm64.zip
+5d0eaa0b1ea3965812ad954a1e09c8811bb37f685d2413ff4af073d303c19bc4  python-3.14.2-test-win32.zip
+0b9ac50bce7efd1b805704e5fde0faeeca640af3a231f14e3d7e87bbc08fb8f4  python-3.14.2-win32.zip
+622415c0e241fc75bf32ee87f3e0b4fd96044a372c156021191a76e651c1bef4  python-3.14.2-x86_64-linux-android.tar.gz
+d3ca21f432d4a09db1702d6498516cbbab5d7641ac43aa38c6e3dfe100cee92b  python-3.14.2-x86_64-linux-android.tar.gz.crt
+8f8acf39090a744395df5650a1817ce998e91e0b3ff83957d3fe422276d33062  python-3.14.2-x86_64-linux-android.tar.gz.sig
+6aa96cd50fb696d600ccc1c0d5dac6ea4ecc2b5f47de340ddc806ec67045613d  python-3.14.2-x86_64-linux-android.tar.gz.sigstore
+d3ca21f432d4a09db1702d6498516cbbab5d7641ac43aa38c6e3dfe100cee92b  python-3.14.2-x86_64-linux-android.tar.gz.crt
+8f8acf39090a744395df5650a1817ce998e91e0b3ff83957d3fe422276d33062  python-3.14.2-x86_64-linux-android.tar.gz.sig
+6aa96cd50fb696d600ccc1c0d5dac6ea4ecc2b5f47de340ddc806ec67045613d  python-3.14.2-x86_64-linux-android.tar.gz.sigstore
+6aa96cd50fb696d600ccc1c0d5dac6ea4ecc2b5f47de340ddc806ec67045613d  python-3.14.2-x86_64-linux-android.tar.gz.sigstore
+1f408e675682d03b29b74a29857f9ccd7e02c737533c57d921f49174f2f78822  python-3.14.2.exe
+5825c65d7785f7f9c42c58f5fed54fc74cebfa8b30b2d2c4729101512a9f6151  python-3.14.2.exe.crt
+39e315bbc50901032b506a6b3820bc6e18cb940b2387b4428a818daf6efd1fd2  python-3.14.2.exe.sig
+2a1b867eb4fe09a767c32c18034e6cfa546c5cc52dd02560284df96cf91cae50  python-3.14.2.exe.sigstore
+304a26c8f53b7e2046881262a62f8967c5fb5bc9f08e583ffb9fe8c2c74a787a  python-3.14.2.exe.spdx.json
+5825c65d7785f7f9c42c58f5fed54fc74cebfa8b30b2d2c4729101512a9f6151  python-3.14.2.exe.crt
+39e315bbc50901032b506a6b3820bc6e18cb940b2387b4428a818daf6efd1fd2  python-3.14.2.exe.sig
+2a1b867eb4fe09a767c32c18034e6cfa546c5cc52dd02560284df96cf91cae50  python-3.14.2.exe.sigstore
+2a1b867eb4fe09a767c32c18034e6cfa546c5cc52dd02560284df96cf91cae50  python-3.14.2.exe.sigstore
+304a26c8f53b7e2046881262a62f8967c5fb5bc9f08e583ffb9fe8c2c74a787a  python-3.14.2.exe.spdx.json
+ce543ab854bc256b61b71e9b27f831ffd1bfd60a479d639f8be7f9757cf573e9  Python-3.14.2.tar.xz
+861b97be9163c5f462c1e78e6b718e62befe32c28337cdd03a291cd2773a3b05  Python-3.14.2.tar.xz.crt
+2a79afdc588e13ca2bd6331327e651eec8157151d737ce9f62a5eb8affef66d9  Python-3.14.2.tar.xz.sig
+c5d49a82a5a0ca895c4e28de9a23dd27e6a9cd2ee4765f2a732548e24b1cf5e1  Python-3.14.2.tar.xz.sigstore
+ea1f51b9142259ff009e557dad38f02350adb477914bd05a15eeca5cd2c161d6  Python-3.14.2.tar.xz.spdx.json
+861b97be9163c5f462c1e78e6b718e62befe32c28337cdd03a291cd2773a3b05  Python-3.14.2.tar.xz.crt
+2a79afdc588e13ca2bd6331327e651eec8157151d737ce9f62a5eb8affef66d9  Python-3.14.2.tar.xz.sig
+c5d49a82a5a0ca895c4e28de9a23dd27e6a9cd2ee4765f2a732548e24b1cf5e1  Python-3.14.2.tar.xz.sigstore
+c5d49a82a5a0ca895c4e28de9a23dd27e6a9cd2ee4765f2a732548e24b1cf5e1  Python-3.14.2.tar.xz.sigstore
+ea1f51b9142259ff009e557dad38f02350adb477914bd05a15eeca5cd2c161d6  Python-3.14.2.tar.xz.spdx.json
+c609e078adab90e2c6bacb6afafacd5eaf60cd94cf670f1e159565725fcd448d  Python-3.14.2.tgz
+2fc3be1ae4daa8fdc5c50b4698b9678ee7926fe9e3f8d3bd4675a95607c5f169  Python-3.14.2.tgz.crt
+795be075c7a329b206d0c09626a8ebcedc3a4076fc55ff7986be86cb1e0c1cf5  Python-3.14.2.tgz.sig
+d664ddebb6f42063f95eece745838bc51660f770f9f2df6d446a5e34fbdd82a4  Python-3.14.2.tgz.sigstore
+40c9aa37c55144a99a3992ebfadccdfddc4e5d1a7705f0f93484dea74c6c124e  Python-3.14.2.tgz.spdx.json
+2fc3be1ae4daa8fdc5c50b4698b9678ee7926fe9e3f8d3bd4675a95607c5f169  Python-3.14.2.tgz.crt
+795be075c7a329b206d0c09626a8ebcedc3a4076fc55ff7986be86cb1e0c1cf5  Python-3.14.2.tgz.sig
+d664ddebb6f42063f95eece745838bc51660f770f9f2df6d446a5e34fbdd82a4  Python-3.14.2.tgz.sigstore
+d664ddebb6f42063f95eece745838bc51660f770f9f2df6d446a5e34fbdd82a4  Python-3.14.2.tgz.sigstore
+40c9aa37c55144a99a3992ebfadccdfddc4e5d1a7705f0f93484dea74c6c124e  Python-3.14.2.tgz.spdx.json
+a6045bb73ba80b001e202ec978f102a97209e3d119dfaf409b87548eee4d4334  python-3.14.2t-amd64.zip
+6c70cf543ca9aa5103c81d6701e0e916f72ef874b090336a2b0e415f2b92ceec  python-3.14.2t-arm64.zip
+3991a25d05753ab814519d6595baf7b2dda507a9c3ba0d2e6ece19a1987bc08a  python-3.14.2t-win32.zip
+90bc78465ac0fef8493e21da2906434e1e596f5a8d1fc188e3c3611b34850c35  python-3.14.3-aarch64-linux-android.tar.gz
+34198397bdce68c7972fd30919ed5f26e826a9faba711a16be79eaa3b5a5a0e9  python-3.14.3-aarch64-linux-android.tar.gz.crt
+b8d5f31886cf535d30f602b84f9481bd24bb68db6777a15f8fb7b629377586aa  python-3.14.3-aarch64-linux-android.tar.gz.sig
+6462a63dc9e0380d08f2df2aaadd716c014132842a3570f2795c32bd2d4eacda  python-3.14.3-aarch64-linux-android.tar.gz.sigstore
+34198397bdce68c7972fd30919ed5f26e826a9faba711a16be79eaa3b5a5a0e9  python-3.14.3-aarch64-linux-android.tar.gz.crt
+b8d5f31886cf535d30f602b84f9481bd24bb68db6777a15f8fb7b629377586aa  python-3.14.3-aarch64-linux-android.tar.gz.sig
+6462a63dc9e0380d08f2df2aaadd716c014132842a3570f2795c32bd2d4eacda  python-3.14.3-aarch64-linux-android.tar.gz.sigstore
+6462a63dc9e0380d08f2df2aaadd716c014132842a3570f2795c32bd2d4eacda  python-3.14.3-aarch64-linux-android.tar.gz.sigstore
+b68ad91421afbbd1a628105199c8c5f6179b21ba799067a8d8c0bbac3b7defb0  python-3.14.3-amd64.exe
+2d0baa59ade210bc0bd7d2fa32796c96e48225ff477adbe3c8618fc9044727cb  python-3.14.3-amd64.exe.crt
+ac13e445f4c8fa4bf7e6ebab38b76bb27932c683c309e2a3a0e22d0e02974d0d  python-3.14.3-amd64.exe.sig
+37322efd3e2864638a3d953c9143f30b367f430d725dbecd53a2340545f66215  python-3.14.3-amd64.exe.sigstore
+0ca22587ecc26c7942124c76bbcd6b5cfc24cc425eee4eefd450347836bed9de  python-3.14.3-amd64.exe.spdx.json
+2d0baa59ade210bc0bd7d2fa32796c96e48225ff477adbe3c8618fc9044727cb  python-3.14.3-amd64.exe.crt
+ac13e445f4c8fa4bf7e6ebab38b76bb27932c683c309e2a3a0e22d0e02974d0d  python-3.14.3-amd64.exe.sig
+37322efd3e2864638a3d953c9143f30b367f430d725dbecd53a2340545f66215  python-3.14.3-amd64.exe.sigstore
+37322efd3e2864638a3d953c9143f30b367f430d725dbecd53a2340545f66215  python-3.14.3-amd64.exe.sigstore
+0ca22587ecc26c7942124c76bbcd6b5cfc24cc425eee4eefd450347836bed9de  python-3.14.3-amd64.exe.spdx.json
+ec781bb03f9638d136b24da7c83b4db1652ce767848aa856a30bb87cfdb1abe4  python-3.14.3-amd64.zip
+f62a3d28d7070078b3078e2db5777823e1591c6c1a3e596708cebf74ea2b4de6  python-3.14.3-arm64.exe
+98f7746ef4acc6852f57a159f1adea613d298778e8782a84da2357f29657e2a8  python-3.14.3-arm64.exe.crt
+7b57580d1b6b36355403a2ebd9181a91b1d821cd600ef4861246dc6a5f0269d6  python-3.14.3-arm64.exe.sig
+389600689d6fbd8413b4113b3267eacaf5574084a13b5dfc82189dc81eeca88c  python-3.14.3-arm64.exe.sigstore
+96af5bfd56e7be0f109a50ecdf23760e33494f87d1e6d1c85d218431892a84c8  python-3.14.3-arm64.exe.spdx.json
+98f7746ef4acc6852f57a159f1adea613d298778e8782a84da2357f29657e2a8  python-3.14.3-arm64.exe.crt
+7b57580d1b6b36355403a2ebd9181a91b1d821cd600ef4861246dc6a5f0269d6  python-3.14.3-arm64.exe.sig
+389600689d6fbd8413b4113b3267eacaf5574084a13b5dfc82189dc81eeca88c  python-3.14.3-arm64.exe.sigstore
+389600689d6fbd8413b4113b3267eacaf5574084a13b5dfc82189dc81eeca88c  python-3.14.3-arm64.exe.sigstore
+96af5bfd56e7be0f109a50ecdf23760e33494f87d1e6d1c85d218431892a84c8  python-3.14.3-arm64.exe.spdx.json
+90caebfe2ce08728a3684e4e3afda7f52b5b2721c1f0bd2ef7bcf07ae780d251  python-3.14.3-arm64.zip
+ad4961a479dedbeb7c7d113253f8db1b1935586b73c27488712beec4f2c894e6  python-3.14.3-embed-amd64.zip
+5873036634cdfe4dcfc82481254d6f95fb854239f3d565cb51e9b8eec8fae1b7  python-3.14.3-embed-amd64.zip.crt
+7daee7d326537cf8bc1b6e428684d3d0994eb609263b1c420f0d2d5aa84e5f6e  python-3.14.3-embed-amd64.zip.sig
+7591c8a33b19b4bb020236b51760b5f151413cda7e453f2a0c702adb1fcc3bc7  python-3.14.3-embed-amd64.zip.sigstore
+a519c5bce7cf5977145b347065da807ecffd401039f209525a66d5f07fef5f19  python-3.14.3-embed-amd64.zip.spdx.json
+5873036634cdfe4dcfc82481254d6f95fb854239f3d565cb51e9b8eec8fae1b7  python-3.14.3-embed-amd64.zip.crt
+7daee7d326537cf8bc1b6e428684d3d0994eb609263b1c420f0d2d5aa84e5f6e  python-3.14.3-embed-amd64.zip.sig
+7591c8a33b19b4bb020236b51760b5f151413cda7e453f2a0c702adb1fcc3bc7  python-3.14.3-embed-amd64.zip.sigstore
+7591c8a33b19b4bb020236b51760b5f151413cda7e453f2a0c702adb1fcc3bc7  python-3.14.3-embed-amd64.zip.sigstore
+a519c5bce7cf5977145b347065da807ecffd401039f209525a66d5f07fef5f19  python-3.14.3-embed-amd64.zip.spdx.json
+3826ea24fb771a0e15aff90ab9bedcbb914d41a5df280b44ae3a43cd61cb9b02  python-3.14.3-embed-arm64.zip
+ac150b0b2ffb7799f098b3ec0a7651bce3dee3a55792b3548f09a93d7bd5c0c0  python-3.14.3-embed-arm64.zip.crt
+65957f29272afb3743713c20681209efad2701a0b3514d3fd5700d91606dabcb  python-3.14.3-embed-arm64.zip.sig
+b49237b9f1e3f61a0222b5cf0254ee877c2f506278ff61199494dcc808f963c2  python-3.14.3-embed-arm64.zip.sigstore
+605329cef847711dd3663b2d924b44589b7ce0b142385f1c8d349250e1301a09  python-3.14.3-embed-arm64.zip.spdx.json
+ac150b0b2ffb7799f098b3ec0a7651bce3dee3a55792b3548f09a93d7bd5c0c0  python-3.14.3-embed-arm64.zip.crt
+65957f29272afb3743713c20681209efad2701a0b3514d3fd5700d91606dabcb  python-3.14.3-embed-arm64.zip.sig
+b49237b9f1e3f61a0222b5cf0254ee877c2f506278ff61199494dcc808f963c2  python-3.14.3-embed-arm64.zip.sigstore
+b49237b9f1e3f61a0222b5cf0254ee877c2f506278ff61199494dcc808f963c2  python-3.14.3-embed-arm64.zip.sigstore
+605329cef847711dd3663b2d924b44589b7ce0b142385f1c8d349250e1301a09  python-3.14.3-embed-arm64.zip.spdx.json
+b249a32c4c186fef19b86a3ca8e7a9cdcacb3dc341228e44916e7defddb6119d  python-3.14.3-embed-win32.zip
+8bb9e4ebbb472dfaaf7a10d72674836e3eb15f769b76f8277f7673a5f4009440  python-3.14.3-embed-win32.zip.crt
+43c1c55f90481a3e67f9f100d89ddaa31760d6f40166908dc66f4ba2b9c3e5ed  python-3.14.3-embed-win32.zip.sig
+8f5596465cfa0f66355dca343438f263f5ad17acaea0ab2b8e3d8fc41fc411f4  python-3.14.3-embed-win32.zip.sigstore
+09e620e5cf6dfe79ce3d4400954549181647c47d059fb0100b3c9ee47cc432d7  python-3.14.3-embed-win32.zip.spdx.json
+8bb9e4ebbb472dfaaf7a10d72674836e3eb15f769b76f8277f7673a5f4009440  python-3.14.3-embed-win32.zip.crt
+43c1c55f90481a3e67f9f100d89ddaa31760d6f40166908dc66f4ba2b9c3e5ed  python-3.14.3-embed-win32.zip.sig
+8f5596465cfa0f66355dca343438f263f5ad17acaea0ab2b8e3d8fc41fc411f4  python-3.14.3-embed-win32.zip.sigstore
+8f5596465cfa0f66355dca343438f263f5ad17acaea0ab2b8e3d8fc41fc411f4  python-3.14.3-embed-win32.zip.sigstore
+09e620e5cf6dfe79ce3d4400954549181647c47d059fb0100b3c9ee47cc432d7  python-3.14.3-embed-win32.zip.spdx.json
+e69d3609130b1c06948620651d0f0ab2183ff978c2b174ddf3d3cae7ff226b89  python-3.14.3-embeddable-amd64.zip
+6d2bdb1e2ee7db19070e873a20ccbeb42c7026e08a16445a6e69a881494c499b  python-3.14.3-embeddable-arm64.zip
+2884a2fa6526b5f5db3dd53ceb9ce28bc0c73842abeba62a3e46ffd4aaecae50  python-3.14.3-embeddable-win32.zip
+50b709f72cb5ed87d5882901923face981dd657569717761832c36db3bf08238  python-3.14.3-macos11.pkg
+0840d187bcecf1a899ed29db941fba73b10ce4ed94518ec95b22fa54a6a48fbf  python-3.14.3-macos11.pkg.crt
+31959f8fcf2c9b8d706a38425f3048c666406deae369aa5497680762acb8ee84  python-3.14.3-macos11.pkg.sig
+09aea9529b4e945b3ce4c6ce35578db43642d2402bd78b6fc8a97b655d1a41e4  python-3.14.3-macos11.pkg.sigstore
+0840d187bcecf1a899ed29db941fba73b10ce4ed94518ec95b22fa54a6a48fbf  python-3.14.3-macos11.pkg.crt
+31959f8fcf2c9b8d706a38425f3048c666406deae369aa5497680762acb8ee84  python-3.14.3-macos11.pkg.sig
+09aea9529b4e945b3ce4c6ce35578db43642d2402bd78b6fc8a97b655d1a41e4  python-3.14.3-macos11.pkg.sigstore
+09aea9529b4e945b3ce4c6ce35578db43642d2402bd78b6fc8a97b655d1a41e4  python-3.14.3-macos11.pkg.sigstore
+8a2aad571579eff81cfdc7452efd5b867653cb2b6b2c83cbd7184501a29eb832  python-3.14.3-test-amd64.zip
+491defc7bffe97c12db89295cde967c1e483ea757d22eb935735dbf72f3b8908  python-3.14.3-test-arm64.zip
+72b7fd7adac0249e89b5706d7460d92ae6c471525052704ca60463aa21785795  python-3.14.3-test-win32.zip
+c8f858b042be750a2086b5e83e840a773a4b28b820854b03f42572d72e794e7f  python-3.14.3-win32.zip
+72fe02f4c1003dbdd3b4ce130416c25887620320da6920ddd76ff2e25e4ee107  python-3.14.3-x86_64-linux-android.tar.gz
+75cf547af2727646fea3ceb3f29af16c4dc27c7ee5d612cf129238a048c59568  python-3.14.3-x86_64-linux-android.tar.gz.crt
+5e15db69fdec93d2f50c2197b02873d60ba260250098e0f61ea8482779217374  python-3.14.3-x86_64-linux-android.tar.gz.sig
+bdda5bf2bd5a00f558c7920929c1d99ac0fb70187739ce36b60e8451464e05a3  python-3.14.3-x86_64-linux-android.tar.gz.sigstore
+75cf547af2727646fea3ceb3f29af16c4dc27c7ee5d612cf129238a048c59568  python-3.14.3-x86_64-linux-android.tar.gz.crt
+5e15db69fdec93d2f50c2197b02873d60ba260250098e0f61ea8482779217374  python-3.14.3-x86_64-linux-android.tar.gz.sig
+bdda5bf2bd5a00f558c7920929c1d99ac0fb70187739ce36b60e8451464e05a3  python-3.14.3-x86_64-linux-android.tar.gz.sigstore
+bdda5bf2bd5a00f558c7920929c1d99ac0fb70187739ce36b60e8451464e05a3  python-3.14.3-x86_64-linux-android.tar.gz.sigstore
+f3a8e8499725bdba6ffac39bd822647febcf23740d430acdc948c4cbc58b1bfe  python-3.14.3.exe
+760d7960a7c67c92f6d08c0f6fc71d10b9af16a13704f2242bb7a0d0811e0de6  python-3.14.3.exe.crt
+46836861d8ae65ea2f48e4871a4aa8ffc6bc1d1d04319bfa35e18817832934d3  python-3.14.3.exe.sig
+bc05bd399cd67ba936b30798c6b110807b2a9de90e5517a4ec58d64d1bb2073d  python-3.14.3.exe.sigstore
+1c0ac2c87bd23dcc27acf1f9a1e52eeae49fbb801b7e902f1af94cea62d4e37a  python-3.14.3.exe.spdx.json
+760d7960a7c67c92f6d08c0f6fc71d10b9af16a13704f2242bb7a0d0811e0de6  python-3.14.3.exe.crt
+46836861d8ae65ea2f48e4871a4aa8ffc6bc1d1d04319bfa35e18817832934d3  python-3.14.3.exe.sig
+bc05bd399cd67ba936b30798c6b110807b2a9de90e5517a4ec58d64d1bb2073d  python-3.14.3.exe.sigstore
+bc05bd399cd67ba936b30798c6b110807b2a9de90e5517a4ec58d64d1bb2073d  python-3.14.3.exe.sigstore
+1c0ac2c87bd23dcc27acf1f9a1e52eeae49fbb801b7e902f1af94cea62d4e37a  python-3.14.3.exe.spdx.json
+a97d5549e9ad81fe17159ed02c68774ad5d266c72f8d9a0b5a9c371fe85d902b  Python-3.14.3.tar.xz
+12e8ebf54ccc96f88cd6bb947b9c27aabb49979bfaa5a1c76a66de05781d2817  Python-3.14.3.tar.xz.crt
+4bc28cb50ecca30911a58916bbd84a1439b443595fc8758c62490d41ae0c80ce  Python-3.14.3.tar.xz.sig
+d394d8132c28454ac0806612fcdd72551248b406870517ad8f04b7834d6bc7b3  Python-3.14.3.tar.xz.sigstore
+e9b72b768f15913484c5f3294eeec6de7e29a4796bcecdbeff5c259fe7b0eeea  Python-3.14.3.tar.xz.spdx.json
+12e8ebf54ccc96f88cd6bb947b9c27aabb49979bfaa5a1c76a66de05781d2817  Python-3.14.3.tar.xz.crt
+4bc28cb50ecca30911a58916bbd84a1439b443595fc8758c62490d41ae0c80ce  Python-3.14.3.tar.xz.sig
+d394d8132c28454ac0806612fcdd72551248b406870517ad8f04b7834d6bc7b3  Python-3.14.3.tar.xz.sigstore
+d394d8132c28454ac0806612fcdd72551248b406870517ad8f04b7834d6bc7b3  Python-3.14.3.tar.xz.sigstore
+e9b72b768f15913484c5f3294eeec6de7e29a4796bcecdbeff5c259fe7b0eeea  Python-3.14.3.tar.xz.spdx.json
+d7fe130d0501ae047ca318fa92aa642603ab6f217901015a1df6ce650d5470cd  Python-3.14.3.tgz
+2606dd863424df62719a921befe534e9ea014de84a7147a05b4c1d487f38fdb9  Python-3.14.3.tgz.crt
+30a3c29ecbe2d31f92289d3aeb8afb6a4f4ee0f98a4bbce32f0b0199aeeddad5  Python-3.14.3.tgz.sig
+91f8548476463ec3bc4600f0a40be86327bc085d6ea338b41506f5fc89216ca2  Python-3.14.3.tgz.sigstore
+1133d8f6edaa12123f712ecfa3d2eea7555d8b31a2c75c5b63ac0684d9cbc706  Python-3.14.3.tgz.spdx.json
+2606dd863424df62719a921befe534e9ea014de84a7147a05b4c1d487f38fdb9  Python-3.14.3.tgz.crt
+30a3c29ecbe2d31f92289d3aeb8afb6a4f4ee0f98a4bbce32f0b0199aeeddad5  Python-3.14.3.tgz.sig
+91f8548476463ec3bc4600f0a40be86327bc085d6ea338b41506f5fc89216ca2  Python-3.14.3.tgz.sigstore
+91f8548476463ec3bc4600f0a40be86327bc085d6ea338b41506f5fc89216ca2  Python-3.14.3.tgz.sigstore
+1133d8f6edaa12123f712ecfa3d2eea7555d8b31a2c75c5b63ac0684d9cbc706  Python-3.14.3.tgz.spdx.json
+e2ea8937838a8fb71c07f0b8c1f684bc467c2408998049029f795c08eacb9bf0  python-3.14.3t-amd64.zip
+1b61ec3a9651e8560bc59a9ea09593e82166fbd797e7df45c9811dcc00994348  python-3.14.3t-arm64.zip
+b4783a1edaa119ee8f4b640c5a37dd39567d896633bc8f9476eae1be04d3259a  python-3.14.3t-win32.zip
+e8b10111bb4449c6b0faeaf66a1fba72df3404886c0f1feae12a18a66ee8e765  python-3.15.0a1-aarch64-linux-android.tar.gz
+a5a61279e15394d015176f480b03dbd001ca87f5152df4a8946e4a2e2684b125  python-3.15.0a1-aarch64-linux-android.tar.gz.crt
+752a4aea56f1102b767cfda39e993e2e7d6a7ce2ae112faa2b4f6b0a9b30d4ef  python-3.15.0a1-aarch64-linux-android.tar.gz.sig
+485bd6ee16b9aee560c5a52908ea93fb37c103efbcaac196323d5d8f76cdafb8  python-3.15.0a1-aarch64-linux-android.tar.gz.sigstore
+a5a61279e15394d015176f480b03dbd001ca87f5152df4a8946e4a2e2684b125  python-3.15.0a1-aarch64-linux-android.tar.gz.crt
+752a4aea56f1102b767cfda39e993e2e7d6a7ce2ae112faa2b4f6b0a9b30d4ef  python-3.15.0a1-aarch64-linux-android.tar.gz.sig
+485bd6ee16b9aee560c5a52908ea93fb37c103efbcaac196323d5d8f76cdafb8  python-3.15.0a1-aarch64-linux-android.tar.gz.sigstore
+485bd6ee16b9aee560c5a52908ea93fb37c103efbcaac196323d5d8f76cdafb8  python-3.15.0a1-aarch64-linux-android.tar.gz.sigstore
+376a4b54b3b6fd5b0614b5c0d5a5a3d75b89861102e2f3d6166b2bf5c6d925bb  python-3.15.0a1-amd64.exe
+97edfeb8d9164f3922594bdb87f025d3e2d5cdcd602620efe8604379750e4cf9  python-3.15.0a1-amd64.exe.crt
+94af590f3608862f80f4e9987a3ed90f3fde392fac9febb8a6ffc3b1cfd5f957  python-3.15.0a1-amd64.exe.sig
+fb42274a1183f0bebf20c85cc803279d45b2eab3d7dd3db5243817e2d463e36d  python-3.15.0a1-amd64.exe.sigstore
+23ccc84c362ee864882d97b02b17d283523da08f9bca675303eb93adb89f5044  python-3.15.0a1-amd64.exe.spdx.json
+97edfeb8d9164f3922594bdb87f025d3e2d5cdcd602620efe8604379750e4cf9  python-3.15.0a1-amd64.exe.crt
+94af590f3608862f80f4e9987a3ed90f3fde392fac9febb8a6ffc3b1cfd5f957  python-3.15.0a1-amd64.exe.sig
+fb42274a1183f0bebf20c85cc803279d45b2eab3d7dd3db5243817e2d463e36d  python-3.15.0a1-amd64.exe.sigstore
+fb42274a1183f0bebf20c85cc803279d45b2eab3d7dd3db5243817e2d463e36d  python-3.15.0a1-amd64.exe.sigstore
+23ccc84c362ee864882d97b02b17d283523da08f9bca675303eb93adb89f5044  python-3.15.0a1-amd64.exe.spdx.json
+f6da6369e1ee11be4490046a40988b1eb7d70fc54dfdbe770dd180fc05d16944  python-3.15.0a1-amd64.zip
+80329e6ed16a721ffaa8c269c8e3b921e4aba1f4ce90691c6f6f4ab657617fa8  python-3.15.0a1-arm64.exe
+746dcfe78ed9181162ef1c085ce7dafb294c031f32473668bae8d14379137ef4  python-3.15.0a1-arm64.exe.crt
+df94eca08f4cd5d7f4cd663ef7cb99591dd8574c1828f3fbb1d0017a6faaa2d2  python-3.15.0a1-arm64.exe.sig
+d336afd75c9700554f296860655276f563c927ddc2ac36b4f2ac592a9dcee33d  python-3.15.0a1-arm64.exe.sigstore
+f5bf54148eabcc57813b581c81eb8ba97c05ea9ce2e01fddd4c7be312b85113e  python-3.15.0a1-arm64.exe.spdx.json
+746dcfe78ed9181162ef1c085ce7dafb294c031f32473668bae8d14379137ef4  python-3.15.0a1-arm64.exe.crt
+df94eca08f4cd5d7f4cd663ef7cb99591dd8574c1828f3fbb1d0017a6faaa2d2  python-3.15.0a1-arm64.exe.sig
+d336afd75c9700554f296860655276f563c927ddc2ac36b4f2ac592a9dcee33d  python-3.15.0a1-arm64.exe.sigstore
+d336afd75c9700554f296860655276f563c927ddc2ac36b4f2ac592a9dcee33d  python-3.15.0a1-arm64.exe.sigstore
+f5bf54148eabcc57813b581c81eb8ba97c05ea9ce2e01fddd4c7be312b85113e  python-3.15.0a1-arm64.exe.spdx.json
+c1f2b114014676637319ffe3e7c80d134112254a3ebe2445b1cee7dbd78c6550  python-3.15.0a1-arm64.zip
+dda9645e8521f136a928a6ca6a8badeb02c722e4bacf2fab9e00ccfdd423ae0d  python-3.15.0a1-embed-amd64.zip
+84efa17ffab9d6ab62fe8634fb08bd1f5489933951e4f732924bc19f542fe15c  python-3.15.0a1-embed-amd64.zip.crt
+fb5730f5edf9dd3fa2dff0ba2d2397436d6648f821b28d1be3314e95a1b48199  python-3.15.0a1-embed-amd64.zip.sig
+4d3caab7f9d0a286e9ffdcdc5e7e3b06bf4070d8bef285ebf29368c4346af2f8  python-3.15.0a1-embed-amd64.zip.sigstore
+417d9689e79c0b2b27ce8768cd997084c52ca5dee9e93e29a6da679c2924419b  python-3.15.0a1-embed-amd64.zip.spdx.json
+84efa17ffab9d6ab62fe8634fb08bd1f5489933951e4f732924bc19f542fe15c  python-3.15.0a1-embed-amd64.zip.crt
+fb5730f5edf9dd3fa2dff0ba2d2397436d6648f821b28d1be3314e95a1b48199  python-3.15.0a1-embed-amd64.zip.sig
+4d3caab7f9d0a286e9ffdcdc5e7e3b06bf4070d8bef285ebf29368c4346af2f8  python-3.15.0a1-embed-amd64.zip.sigstore
+4d3caab7f9d0a286e9ffdcdc5e7e3b06bf4070d8bef285ebf29368c4346af2f8  python-3.15.0a1-embed-amd64.zip.sigstore
+417d9689e79c0b2b27ce8768cd997084c52ca5dee9e93e29a6da679c2924419b  python-3.15.0a1-embed-amd64.zip.spdx.json
+05fb49617c99512bbc48fdd288338e6980924cdc2fb57e104914dfbc81f81006  python-3.15.0a1-embed-arm64.zip
+98b627aee81f4a63389c8774d5f455c645f8edeebe73fcd4b51d880850b1603f  python-3.15.0a1-embed-arm64.zip.crt
+181663e53d866dea3f8d9be82f633ad57cfe2a3b287988a57fc3585a61b73d60  python-3.15.0a1-embed-arm64.zip.sig
+67fea6b5d8420bd662a1c8978fd8ccdee3802719ca3c938abd49136116348059  python-3.15.0a1-embed-arm64.zip.sigstore
+390b6ce2d2e39d71777b9416938a485f3c620a719ca1f6cf47e712d7c9f66e3c  python-3.15.0a1-embed-arm64.zip.spdx.json
+98b627aee81f4a63389c8774d5f455c645f8edeebe73fcd4b51d880850b1603f  python-3.15.0a1-embed-arm64.zip.crt
+181663e53d866dea3f8d9be82f633ad57cfe2a3b287988a57fc3585a61b73d60  python-3.15.0a1-embed-arm64.zip.sig
+67fea6b5d8420bd662a1c8978fd8ccdee3802719ca3c938abd49136116348059  python-3.15.0a1-embed-arm64.zip.sigstore
+67fea6b5d8420bd662a1c8978fd8ccdee3802719ca3c938abd49136116348059  python-3.15.0a1-embed-arm64.zip.sigstore
+390b6ce2d2e39d71777b9416938a485f3c620a719ca1f6cf47e712d7c9f66e3c  python-3.15.0a1-embed-arm64.zip.spdx.json
+d23aa9efa43b7d89ce1f4d9a3a453d94a1f80aa6941b1c13bdf0b8a22e456711  python-3.15.0a1-embed-win32.zip
+74efca5765004d55f432f2fdfd5c0c89100ef9482d4330706ff0b6395ecf52c4  python-3.15.0a1-embed-win32.zip.crt
+9c451e29bac22f41c2a539b0051e812a4d56cd00cefb7a963e437c9c93ef3d82  python-3.15.0a1-embed-win32.zip.sig
+2d40bfc302468ac40e97260bc0b4d1791292d7fd98bce16c924c3a83790262c0  python-3.15.0a1-embed-win32.zip.sigstore
+3973acd5306dc112d64d8fd930e9aded1b306d5c68835bbc476c58239b174acf  python-3.15.0a1-embed-win32.zip.spdx.json
+74efca5765004d55f432f2fdfd5c0c89100ef9482d4330706ff0b6395ecf52c4  python-3.15.0a1-embed-win32.zip.crt
+9c451e29bac22f41c2a539b0051e812a4d56cd00cefb7a963e437c9c93ef3d82  python-3.15.0a1-embed-win32.zip.sig
+2d40bfc302468ac40e97260bc0b4d1791292d7fd98bce16c924c3a83790262c0  python-3.15.0a1-embed-win32.zip.sigstore
+2d40bfc302468ac40e97260bc0b4d1791292d7fd98bce16c924c3a83790262c0  python-3.15.0a1-embed-win32.zip.sigstore
+3973acd5306dc112d64d8fd930e9aded1b306d5c68835bbc476c58239b174acf  python-3.15.0a1-embed-win32.zip.spdx.json
+2646e27752d2225ceb978d00e9f36e0ee308265700cd3ff027867f8550caa6c8  python-3.15.0a1-embeddable-amd64.zip
+fc24d04cc381f006d999542686b16f2d3212810bcceb0721eb4c40fbb7d0a773  python-3.15.0a1-embeddable-arm64.zip
+8a6a51a0730f7142b63a0813d391912f9e3a8adf0b77f116fef40e8b079a920e  python-3.15.0a1-embeddable-win32.zip
+5d18ef8115bb060809a0a222b3b9f2652961dff6895e2227ce34a6bb5761bb58  python-3.15.0a1-macos11.pkg
+da6ac4cc02325534b10ad59ef8e058846dfe3a2224b1483a08558dc989143e7c  python-3.15.0a1-macos11.pkg.crt
+2b7f533d89f0859b18ccc78377ce7aa7fa4751a66001ec05b07a014d2fdae90c  python-3.15.0a1-macos11.pkg.sig
+42505de906f43dc97a45e1494556f249a7e470d08a6e0e7dfa78a54dfe7050af  python-3.15.0a1-macos11.pkg.sigstore
+da6ac4cc02325534b10ad59ef8e058846dfe3a2224b1483a08558dc989143e7c  python-3.15.0a1-macos11.pkg.crt
+2b7f533d89f0859b18ccc78377ce7aa7fa4751a66001ec05b07a014d2fdae90c  python-3.15.0a1-macos11.pkg.sig
+42505de906f43dc97a45e1494556f249a7e470d08a6e0e7dfa78a54dfe7050af  python-3.15.0a1-macos11.pkg.sigstore
+42505de906f43dc97a45e1494556f249a7e470d08a6e0e7dfa78a54dfe7050af  python-3.15.0a1-macos11.pkg.sigstore
+74adfd242b6090e22a92b448a970b12df8b7876f82199c9ff28d35504d5a8873  python-3.15.0a1-test-amd64.zip
+e8cca6418b984dc8c4c07fd7584a147d6b487137b62f576c9a0ae351aa76eaed  python-3.15.0a1-test-arm64.zip
+78eb3dc47c95d40a4e0597cc832b63b75c2e5b66039bc192cc6d446fe0422e86  python-3.15.0a1-test-win32.zip
+0ca04a5efa77e599071cf71dffbc10beb63fc49335a40014485701bc80083f6f  python-3.15.0a1-win32.zip
+fe2c2ac8d8c6955891572eda6439bbf284b8879a4b3d8042a5cf8ba26923ffc8  python-3.15.0a1-x86_64-linux-android.tar.gz
+4500cf42bd4f85b85209907c6a484b7a7929fe38e7a2e481bf52306218b5c4c9  python-3.15.0a1-x86_64-linux-android.tar.gz.crt
+35b851acdf5ebf750c63602cf61734398b556dfff746efaa94b4cdfbfabc41db  python-3.15.0a1-x86_64-linux-android.tar.gz.sig
+0f1e717a0ab2e43aaae515620e2c71c90ce3d0d9867ad0fb92c2e09a99f9d123  python-3.15.0a1-x86_64-linux-android.tar.gz.sigstore
+4500cf42bd4f85b85209907c6a484b7a7929fe38e7a2e481bf52306218b5c4c9  python-3.15.0a1-x86_64-linux-android.tar.gz.crt
+35b851acdf5ebf750c63602cf61734398b556dfff746efaa94b4cdfbfabc41db  python-3.15.0a1-x86_64-linux-android.tar.gz.sig
+0f1e717a0ab2e43aaae515620e2c71c90ce3d0d9867ad0fb92c2e09a99f9d123  python-3.15.0a1-x86_64-linux-android.tar.gz.sigstore
+0f1e717a0ab2e43aaae515620e2c71c90ce3d0d9867ad0fb92c2e09a99f9d123  python-3.15.0a1-x86_64-linux-android.tar.gz.sigstore
+eb8501ea610a18306541f5d9a8d93116552ca3591f1ddbbc3ce1a196cce4dd01  python-3.15.0a1.exe
+37187704bf0df4f54878a1144e8267f22d7fdcb65cd7d3827805e42e0e91fb12  python-3.15.0a1.exe.crt
+c7d4377e7654e64b075bdcaf7a32deeedae525f6b6a869e66b811bc5b8965a9c  python-3.15.0a1.exe.sig
+2b871b636ea162b216efe9e58f750dc85ecd56d1083db26977cc5d590fa84dfd  python-3.15.0a1.exe.sigstore
+2e6e4787668cb094dc39cba042b5d292ca4b71d8188c7e01ac85804c37e99275  python-3.15.0a1.exe.spdx.json
+37187704bf0df4f54878a1144e8267f22d7fdcb65cd7d3827805e42e0e91fb12  python-3.15.0a1.exe.crt
+c7d4377e7654e64b075bdcaf7a32deeedae525f6b6a869e66b811bc5b8965a9c  python-3.15.0a1.exe.sig
+2b871b636ea162b216efe9e58f750dc85ecd56d1083db26977cc5d590fa84dfd  python-3.15.0a1.exe.sigstore
+2b871b636ea162b216efe9e58f750dc85ecd56d1083db26977cc5d590fa84dfd  python-3.15.0a1.exe.sigstore
+2e6e4787668cb094dc39cba042b5d292ca4b71d8188c7e01ac85804c37e99275  python-3.15.0a1.exe.spdx.json
+3194939d488eeaeefdcf990d35542d9ad1ce788789c4e2305a2060eb7058e5a4  Python-3.15.0a1.tar.xz
+2be343efecbd1c49c5baf01b009489c6b6d34a96c9080d6f9c9005b605d28e84  Python-3.15.0a1.tar.xz.crt
+955941081c7d58404f460df99fe7d8929add8e339a85547ac06035198e659f39  Python-3.15.0a1.tar.xz.sig
+f944cf584260745f887e84a7d62f5c7a4ff41c207b8f315ca89b45cc6d638090  Python-3.15.0a1.tar.xz.sigstore
+7aa3b4f3992b3bc105a3d89bc08663323476b5c44017afe3e515caad6d16c662  Python-3.15.0a1.tar.xz.spdx.json
+2be343efecbd1c49c5baf01b009489c6b6d34a96c9080d6f9c9005b605d28e84  Python-3.15.0a1.tar.xz.crt
+955941081c7d58404f460df99fe7d8929add8e339a85547ac06035198e659f39  Python-3.15.0a1.tar.xz.sig
+f944cf584260745f887e84a7d62f5c7a4ff41c207b8f315ca89b45cc6d638090  Python-3.15.0a1.tar.xz.sigstore
+f944cf584260745f887e84a7d62f5c7a4ff41c207b8f315ca89b45cc6d638090  Python-3.15.0a1.tar.xz.sigstore
+7aa3b4f3992b3bc105a3d89bc08663323476b5c44017afe3e515caad6d16c662  Python-3.15.0a1.tar.xz.spdx.json
+d70f3895c97db60d058bbdfa3a55fadd385bcb1c1269e686040858e3c109c993  Python-3.15.0a1.tgz
+dc50b72d1b7ad2c66c0beb34ed716dd03e8895b88a6f4ef7e0a635fbceccabfd  Python-3.15.0a1.tgz.crt
+9c136e29f130a8679a5e32407d606897ebb16957fe650fb2a8493e896b5dd641  Python-3.15.0a1.tgz.sig
+9ab931bb530a91669a9f3fa61367b6a6662bdf6ce5d50653f113ee10ce5e4ead  Python-3.15.0a1.tgz.sigstore
+80390adb5ad294c6a51c3d717e876696848df14b972f104867e615afaf1b523d  Python-3.15.0a1.tgz.spdx.json
+dc50b72d1b7ad2c66c0beb34ed716dd03e8895b88a6f4ef7e0a635fbceccabfd  Python-3.15.0a1.tgz.crt
+9c136e29f130a8679a5e32407d606897ebb16957fe650fb2a8493e896b5dd641  Python-3.15.0a1.tgz.sig
+9ab931bb530a91669a9f3fa61367b6a6662bdf6ce5d50653f113ee10ce5e4ead  Python-3.15.0a1.tgz.sigstore
+9ab931bb530a91669a9f3fa61367b6a6662bdf6ce5d50653f113ee10ce5e4ead  Python-3.15.0a1.tgz.sigstore
+80390adb5ad294c6a51c3d717e876696848df14b972f104867e615afaf1b523d  Python-3.15.0a1.tgz.spdx.json
+33889bc278c15f38b3448871d663290fd8c14735c30da6e1516e51dbfa686141  python-3.15.0a1t-amd64.zip
+54bc35a94c7b0f6576947aaa25867ed82c2d9227d88d15eb2414d0359cf36800  python-3.15.0a1t-arm64.zip
+3430387f64a2f6dc6b02d09fb7fa0b285a09a080783fbc87f5a8ee3adeb67146  python-3.15.0a1t-win32.zip
+bf618b033c397f3126e77fa9a905e8748e53310a16107a37f78de0e5564cb744  python-3.15.0a2-aarch64-linux-android.tar.gz
+d9dc69a23a64f1d2019d9d5f8331ee897330978a6c1d17e3b07ab369446530d4  python-3.15.0a2-aarch64-linux-android.tar.gz.crt
+aa57aa3c49d7cc37539d6e18e4eb55dbbc87d7fc57f280d8cd050daed65f66eb  python-3.15.0a2-aarch64-linux-android.tar.gz.sig
+6216967a7d49c43c0a79d340035bace00dcf354678e0e577cccb76ffebcc196c  python-3.15.0a2-aarch64-linux-android.tar.gz.sigstore
+d9dc69a23a64f1d2019d9d5f8331ee897330978a6c1d17e3b07ab369446530d4  python-3.15.0a2-aarch64-linux-android.tar.gz.crt
+aa57aa3c49d7cc37539d6e18e4eb55dbbc87d7fc57f280d8cd050daed65f66eb  python-3.15.0a2-aarch64-linux-android.tar.gz.sig
+6216967a7d49c43c0a79d340035bace00dcf354678e0e577cccb76ffebcc196c  python-3.15.0a2-aarch64-linux-android.tar.gz.sigstore
+6216967a7d49c43c0a79d340035bace00dcf354678e0e577cccb76ffebcc196c  python-3.15.0a2-aarch64-linux-android.tar.gz.sigstore
+21bcbd1e66b16d96e9c90ba3f563f4a09c3e44a4892f93f467f2814117ba244e  python-3.15.0a2-amd64.exe
+bbf7d5622875cecd7d82e32d9916f7a0edd8b6206b3a3765e2d41825def6b645  python-3.15.0a2-amd64.exe.crt
+2ce8d65b143db40245cf3e4694d0ff06b7bedf8b2a293317899fec00ea842d5a  python-3.15.0a2-amd64.exe.sig
+9bef680899f3df5a68321c02d6e9923b42e86519e03dee609875e63626a2922d  python-3.15.0a2-amd64.exe.sigstore
+aa62a24e283bb860ea4eec9a0f41eb9ad5f708257f7a92574463affafee13644  python-3.15.0a2-amd64.exe.spdx.json
+bbf7d5622875cecd7d82e32d9916f7a0edd8b6206b3a3765e2d41825def6b645  python-3.15.0a2-amd64.exe.crt
+2ce8d65b143db40245cf3e4694d0ff06b7bedf8b2a293317899fec00ea842d5a  python-3.15.0a2-amd64.exe.sig
+9bef680899f3df5a68321c02d6e9923b42e86519e03dee609875e63626a2922d  python-3.15.0a2-amd64.exe.sigstore
+9bef680899f3df5a68321c02d6e9923b42e86519e03dee609875e63626a2922d  python-3.15.0a2-amd64.exe.sigstore
+aa62a24e283bb860ea4eec9a0f41eb9ad5f708257f7a92574463affafee13644  python-3.15.0a2-amd64.exe.spdx.json
+7e87cfb36f056d7e6585e1621628eb0b7be169f5f8f69518bc0c3bdde33fbae5  python-3.15.0a2-amd64.zip
+c54c4ecd613384c3195fbe7cb126fe080838e552fc3b6fdac944c9d2cfb55c42  python-3.15.0a2-arm64.exe
+fc7007c92b72ca580b8849742ed1770c70538f90f038c721b9f729c2b5ea2ab6  python-3.15.0a2-arm64.exe.crt
+84e97dc9209bf526a54cd8ecf7257baff2c7e84551530bc6aa7feea20d315120  python-3.15.0a2-arm64.exe.sig
+0c947637261dbc2df9898ae2e0ef655a1a5172396878def57cf5d7cd58fdbd30  python-3.15.0a2-arm64.exe.sigstore
+a1da7267c8059281e29d337f31dfe4fc1cd2f1912d4876ebdd0abe885db314fd  python-3.15.0a2-arm64.exe.spdx.json
+fc7007c92b72ca580b8849742ed1770c70538f90f038c721b9f729c2b5ea2ab6  python-3.15.0a2-arm64.exe.crt
+84e97dc9209bf526a54cd8ecf7257baff2c7e84551530bc6aa7feea20d315120  python-3.15.0a2-arm64.exe.sig
+0c947637261dbc2df9898ae2e0ef655a1a5172396878def57cf5d7cd58fdbd30  python-3.15.0a2-arm64.exe.sigstore
+0c947637261dbc2df9898ae2e0ef655a1a5172396878def57cf5d7cd58fdbd30  python-3.15.0a2-arm64.exe.sigstore
+a1da7267c8059281e29d337f31dfe4fc1cd2f1912d4876ebdd0abe885db314fd  python-3.15.0a2-arm64.exe.spdx.json
+bc42c65827b116927c5f4b925cbb4dc9183970df1a52e2bbba7dd4a511f58828  python-3.15.0a2-arm64.zip
+6de8d5193b7a749f51346d4d485543fd7ea88672ad66e7b738f9886dfced22d4  python-3.15.0a2-embed-amd64.zip
+63d350a8808728f0d673f7e3b88b3cb5f0e3c1b7ccba7d4554d805d0ca798f5e  python-3.15.0a2-embed-amd64.zip.crt
+a6a1234b31088f09051bc40490280538dfccaaf8b1108c4a5cf4a584a1c9dc68  python-3.15.0a2-embed-amd64.zip.sig
+b47618691ce16d2ec85c3fa183c596d3c8037191cd4884fafce45d31308ea022  python-3.15.0a2-embed-amd64.zip.sigstore
+21435540a2157e0e4b8e3094b5c2712c1d805aecd867357533e63d57c95d4e5c  python-3.15.0a2-embed-amd64.zip.spdx.json
+63d350a8808728f0d673f7e3b88b3cb5f0e3c1b7ccba7d4554d805d0ca798f5e  python-3.15.0a2-embed-amd64.zip.crt
+a6a1234b31088f09051bc40490280538dfccaaf8b1108c4a5cf4a584a1c9dc68  python-3.15.0a2-embed-amd64.zip.sig
+b47618691ce16d2ec85c3fa183c596d3c8037191cd4884fafce45d31308ea022  python-3.15.0a2-embed-amd64.zip.sigstore
+b47618691ce16d2ec85c3fa183c596d3c8037191cd4884fafce45d31308ea022  python-3.15.0a2-embed-amd64.zip.sigstore
+21435540a2157e0e4b8e3094b5c2712c1d805aecd867357533e63d57c95d4e5c  python-3.15.0a2-embed-amd64.zip.spdx.json
+318161a913de23efd92a55e472c55355be433b1ede2bbecbe9cdb00e8e45ac92  python-3.15.0a2-embed-arm64.zip
+4060e96b34e42191fb0843cb576f2eb225ff6fcb1f9b5a2ebf42cc5823db3b77  python-3.15.0a2-embed-arm64.zip.crt
+53fd60bc40365a7967bd9d3b9e9b519a66e97f75ebb1c1b9625bd5e67dcd12a1  python-3.15.0a2-embed-arm64.zip.sig
+b040ca37794cd6e102feaa2ff572cf87f65d8e0b5e65e06dfb1f86788bf4c942  python-3.15.0a2-embed-arm64.zip.sigstore
+4cae1921049825f5b58f340bd2bdeb7b0603ab0897ea3a8ad174f5d55907f7ab  python-3.15.0a2-embed-arm64.zip.spdx.json
+4060e96b34e42191fb0843cb576f2eb225ff6fcb1f9b5a2ebf42cc5823db3b77  python-3.15.0a2-embed-arm64.zip.crt
+53fd60bc40365a7967bd9d3b9e9b519a66e97f75ebb1c1b9625bd5e67dcd12a1  python-3.15.0a2-embed-arm64.zip.sig
+b040ca37794cd6e102feaa2ff572cf87f65d8e0b5e65e06dfb1f86788bf4c942  python-3.15.0a2-embed-arm64.zip.sigstore
+b040ca37794cd6e102feaa2ff572cf87f65d8e0b5e65e06dfb1f86788bf4c942  python-3.15.0a2-embed-arm64.zip.sigstore
+4cae1921049825f5b58f340bd2bdeb7b0603ab0897ea3a8ad174f5d55907f7ab  python-3.15.0a2-embed-arm64.zip.spdx.json
+4b6e14eb961292436e43849c2bdbecb1f1e40efe0f052caf992c2b77171a637f  python-3.15.0a2-embed-win32.zip
+f08b71766b1b0d2435d37336b67cda3cc48b646e433afca3633881d8a4110492  python-3.15.0a2-embed-win32.zip.crt
+80c3aa5fc22a33d99ac689e367fb68843404735cad11c258ee48e001c6863e91  python-3.15.0a2-embed-win32.zip.sig
+70bfddebe643439cdb7e3966421e72e61d0ec9d6ffae333d65ecb9b5137f9958  python-3.15.0a2-embed-win32.zip.sigstore
+386ceea328616c2bbf454d564e64ee7efb99eb1b807c398629ae7338cf82cc6b  python-3.15.0a2-embed-win32.zip.spdx.json
+f08b71766b1b0d2435d37336b67cda3cc48b646e433afca3633881d8a4110492  python-3.15.0a2-embed-win32.zip.crt
+80c3aa5fc22a33d99ac689e367fb68843404735cad11c258ee48e001c6863e91  python-3.15.0a2-embed-win32.zip.sig
+70bfddebe643439cdb7e3966421e72e61d0ec9d6ffae333d65ecb9b5137f9958  python-3.15.0a2-embed-win32.zip.sigstore
+70bfddebe643439cdb7e3966421e72e61d0ec9d6ffae333d65ecb9b5137f9958  python-3.15.0a2-embed-win32.zip.sigstore
+386ceea328616c2bbf454d564e64ee7efb99eb1b807c398629ae7338cf82cc6b  python-3.15.0a2-embed-win32.zip.spdx.json
+772cd2b2e4bd0b1df6e277b088716c5bd360e0f5a56cc45f2f3a7117aab5a3e0  python-3.15.0a2-embeddable-amd64.zip
+542c88cbb26ebe23ebb5b312badb69e86c14a5d012df144e7e26e81f5efb67c4  python-3.15.0a2-embeddable-arm64.zip
+3d8c5c609d7f6f49a0f213392dff3bf4b15914db0f4b9ce1e55d40a0843846f6  python-3.15.0a2-embeddable-win32.zip
+9d3b5055425e0a312d43037adc1b97e7a897a31161369f97442ebe57c6c3e748  python-3.15.0a2-macos11.pkg
+87c7904908d03849ccf8d1945e2cd8fb8344bc1b522b442e416fa5e164ee80b8  python-3.15.0a2-macos11.pkg.crt
+54972c4ce270fa9d49f12afab16738bd49c789b0dc15c7a81d784e231bdeaaf6  python-3.15.0a2-macos11.pkg.sig
+8ff3b265d3a24914910e8aa43ddce3142fb06fa884cf4f894ca2acde9a0e407d  python-3.15.0a2-macos11.pkg.sigstore
+87c7904908d03849ccf8d1945e2cd8fb8344bc1b522b442e416fa5e164ee80b8  python-3.15.0a2-macos11.pkg.crt
+54972c4ce270fa9d49f12afab16738bd49c789b0dc15c7a81d784e231bdeaaf6  python-3.15.0a2-macos11.pkg.sig
+8ff3b265d3a24914910e8aa43ddce3142fb06fa884cf4f894ca2acde9a0e407d  python-3.15.0a2-macos11.pkg.sigstore
+8ff3b265d3a24914910e8aa43ddce3142fb06fa884cf4f894ca2acde9a0e407d  python-3.15.0a2-macos11.pkg.sigstore
+3fdd8f407a1844a1b50cd403906e5bfe329c2e5b4282767848603f9eff6cd5f0  python-3.15.0a2-test-amd64.zip
+5701504a07a741c07cf40ca8b723fe5f599f78630d5547d8aaf770b8f651580f  python-3.15.0a2-test-arm64.zip
+cf849d3f4cae6ff8a3a023ea8b8e5a3f23d14731fe4809f7303088029494f6e7  python-3.15.0a2-test-win32.zip
+c45135701d0482cadceb6d0e3da23535700b47879febbd208545a8b37857f840  python-3.15.0a2-win32.zip
+f06e85a9f56a3f857b12dd5a0f881c77196f70d2f4031e5da096d9dfb0619bf7  python-3.15.0a2-x86_64-linux-android.tar.gz
+2ae8b0e1b5b97faf2a2ce2a887e508fe4b78b8c184128157ed360f45194b01ae  python-3.15.0a2-x86_64-linux-android.tar.gz.crt
+9ac602a871952a4730e4675c44e5b3a300d5dea434680386cae05640ed5ac123  python-3.15.0a2-x86_64-linux-android.tar.gz.sig
+e58b1a6accc63cad5046d4878e1deae210e253f0f3adcd237e3add736ab47551  python-3.15.0a2-x86_64-linux-android.tar.gz.sigstore
+2ae8b0e1b5b97faf2a2ce2a887e508fe4b78b8c184128157ed360f45194b01ae  python-3.15.0a2-x86_64-linux-android.tar.gz.crt
+9ac602a871952a4730e4675c44e5b3a300d5dea434680386cae05640ed5ac123  python-3.15.0a2-x86_64-linux-android.tar.gz.sig
+e58b1a6accc63cad5046d4878e1deae210e253f0f3adcd237e3add736ab47551  python-3.15.0a2-x86_64-linux-android.tar.gz.sigstore
+e58b1a6accc63cad5046d4878e1deae210e253f0f3adcd237e3add736ab47551  python-3.15.0a2-x86_64-linux-android.tar.gz.sigstore
+e4e56d2db6960e1155b4fcc574c5bf6bccd63361fa1b722381b3c3fb8e06f841  python-3.15.0a2.exe
+d567a238f70acad4c3c3fe0cce27debb549973afa55c078638c59dcaaafac0f6  python-3.15.0a2.exe.crt
+8a5dd127a1b9f09fa2c0f648f7ddb0ed8b63ca83b3006ec453eac1df8646f810  python-3.15.0a2.exe.sig
+89f51855605235c5018a7c71998ef6d4bef126b43acd80dcd366bb0643193ce3  python-3.15.0a2.exe.sigstore
+4e43f71606e2825538789fcd6188dbe9ed3ad920b8f42ee135da38996ce5a7e2  python-3.15.0a2.exe.spdx.json
+d567a238f70acad4c3c3fe0cce27debb549973afa55c078638c59dcaaafac0f6  python-3.15.0a2.exe.crt
+8a5dd127a1b9f09fa2c0f648f7ddb0ed8b63ca83b3006ec453eac1df8646f810  python-3.15.0a2.exe.sig
+89f51855605235c5018a7c71998ef6d4bef126b43acd80dcd366bb0643193ce3  python-3.15.0a2.exe.sigstore
+89f51855605235c5018a7c71998ef6d4bef126b43acd80dcd366bb0643193ce3  python-3.15.0a2.exe.sigstore
+4e43f71606e2825538789fcd6188dbe9ed3ad920b8f42ee135da38996ce5a7e2  python-3.15.0a2.exe.spdx.json
+d8a0a2f4a7f3d7090cf195e81814efe95f70554955557f40e149d8694a662751  Python-3.15.0a2.tar.xz
+5f918cea8ca6634772b33247a69065ce19fd9ae0a6e190d5d8a6dc64b10b6f58  Python-3.15.0a2.tar.xz.crt
+ec598d7a8804c01b26ca0c55c8ddde7b74518478113cd9831b427155d1a80945  Python-3.15.0a2.tar.xz.sig
+242e352509bef6d5924b03f24d1aad13330268e79715f9ae3d8efa83235042c5  Python-3.15.0a2.tar.xz.sigstore
+ff8de12aceab3c8fd7d378fe877eb58f924e2db64f94656cf178f41adc368908  Python-3.15.0a2.tar.xz.spdx.json
+5f918cea8ca6634772b33247a69065ce19fd9ae0a6e190d5d8a6dc64b10b6f58  Python-3.15.0a2.tar.xz.crt
+ec598d7a8804c01b26ca0c55c8ddde7b74518478113cd9831b427155d1a80945  Python-3.15.0a2.tar.xz.sig
+242e352509bef6d5924b03f24d1aad13330268e79715f9ae3d8efa83235042c5  Python-3.15.0a2.tar.xz.sigstore
+242e352509bef6d5924b03f24d1aad13330268e79715f9ae3d8efa83235042c5  Python-3.15.0a2.tar.xz.sigstore
+ff8de12aceab3c8fd7d378fe877eb58f924e2db64f94656cf178f41adc368908  Python-3.15.0a2.tar.xz.spdx.json
+484924d5f963f3d4215ca50c13634b6a7067e9f273893145a6209fe7c93b78ff  Python-3.15.0a2.tgz
+1c595ce71b102496a7687a52a536b62d8db2b9e6205a638a52c68b8c9a8c4bf1  Python-3.15.0a2.tgz.crt
+cb61135323a9cf0c167b45d12801f9eba7e3ba5aca9ae40904dbe31726a1a412  Python-3.15.0a2.tgz.sig
+9709a6d0c2789627aaca27cbd37dac4f681e9fa5859a2dea514c688f62bac48d  Python-3.15.0a2.tgz.sigstore
+2b047ff6cef14d2151343dc328b5b82f23c26bfa6fa40e843598852ce25b6995  Python-3.15.0a2.tgz.spdx.json
+1c595ce71b102496a7687a52a536b62d8db2b9e6205a638a52c68b8c9a8c4bf1  Python-3.15.0a2.tgz.crt
+cb61135323a9cf0c167b45d12801f9eba7e3ba5aca9ae40904dbe31726a1a412  Python-3.15.0a2.tgz.sig
+9709a6d0c2789627aaca27cbd37dac4f681e9fa5859a2dea514c688f62bac48d  Python-3.15.0a2.tgz.sigstore
+9709a6d0c2789627aaca27cbd37dac4f681e9fa5859a2dea514c688f62bac48d  Python-3.15.0a2.tgz.sigstore
+2b047ff6cef14d2151343dc328b5b82f23c26bfa6fa40e843598852ce25b6995  Python-3.15.0a2.tgz.spdx.json
+c8e1c812bf1b4f4f40e4a36abfccf7cdde6081df621d83d1d2afa557b3367c5d  python-3.15.0a2t-amd64.zip
+6455a22c2cf2fa6583ee0bc158d42a90f5f13a89dbe5135eb0123d3a21f75051  python-3.15.0a2t-arm64.zip
+deb76f2219258a650f6ed937c8b92491f4a9b5f1e46e4dd94de922d88f4cc68d  python-3.15.0a2t-win32.zip
+20a1c06cb6c2101e74244672bb440b131eba817d40e4570666269bc378ba7998  python-3.15.0a3-aarch64-linux-android.tar.gz
+ca20c2e64668fff6d8e1dbff83232371f5a83c4bd115c7a31e1b3e8b563abd13  python-3.15.0a3-aarch64-linux-android.tar.gz.crt
+9e4bd1ee799b827e01a0ff60d9c786132dce0dff284d21abc1070bb14e1435de  python-3.15.0a3-aarch64-linux-android.tar.gz.sig
+185eef4b7d89c927a52e836e78f327cb887b35894e01aa02487e81e8632c5f02  python-3.15.0a3-aarch64-linux-android.tar.gz.sigstore
+ca20c2e64668fff6d8e1dbff83232371f5a83c4bd115c7a31e1b3e8b563abd13  python-3.15.0a3-aarch64-linux-android.tar.gz.crt
+9e4bd1ee799b827e01a0ff60d9c786132dce0dff284d21abc1070bb14e1435de  python-3.15.0a3-aarch64-linux-android.tar.gz.sig
+185eef4b7d89c927a52e836e78f327cb887b35894e01aa02487e81e8632c5f02  python-3.15.0a3-aarch64-linux-android.tar.gz.sigstore
+185eef4b7d89c927a52e836e78f327cb887b35894e01aa02487e81e8632c5f02  python-3.15.0a3-aarch64-linux-android.tar.gz.sigstore
+05d0a8932ca359e349571b193858be1af72a3cff086bfe08cbe6d1e2140726c9  python-3.15.0a3-amd64.exe
+59eb75a6d56fb9314ca93c4c2f4b93e1d86af31839860b828f33f30d212e89c7  python-3.15.0a3-amd64.exe.crt
+63b600336f05003ea440cb43ff295e2be0ded560b0940558523c3483e37939e6  python-3.15.0a3-amd64.exe.sig
+0ec095059490a1fd9deb43bcdaa68104164cd9dd277e8121e6b6878cf164018d  python-3.15.0a3-amd64.exe.sigstore
+6bba0e9e8cf56f94d8a7327e647bd898088cc8343fb7a0fd6060ab64bdc2b243  python-3.15.0a3-amd64.exe.spdx.json
+59eb75a6d56fb9314ca93c4c2f4b93e1d86af31839860b828f33f30d212e89c7  python-3.15.0a3-amd64.exe.crt
+63b600336f05003ea440cb43ff295e2be0ded560b0940558523c3483e37939e6  python-3.15.0a3-amd64.exe.sig
+0ec095059490a1fd9deb43bcdaa68104164cd9dd277e8121e6b6878cf164018d  python-3.15.0a3-amd64.exe.sigstore
+0ec095059490a1fd9deb43bcdaa68104164cd9dd277e8121e6b6878cf164018d  python-3.15.0a3-amd64.exe.sigstore
+6bba0e9e8cf56f94d8a7327e647bd898088cc8343fb7a0fd6060ab64bdc2b243  python-3.15.0a3-amd64.exe.spdx.json
+14f1443e047f9bb2fa54dbf5ad6bbe4e2d82565876ec4de0db8a267ab4d63450  python-3.15.0a3-amd64.zip
+fbb5d890dd0be97cd2e00a7d4ac3e5394e69fdd98fb93b2a1cde178bafe8897a  python-3.15.0a3-arm64.exe
+399c08b7089438a229606be073cc025ac18fb7efa3f658a441d08bf1e6069e2b  python-3.15.0a3-arm64.exe.crt
+918029629fe95fdf98eda534fa930833ed5521e9f1b997125e2196b0973f904b  python-3.15.0a3-arm64.exe.sig
+1c06048a446ba14428d504dbc39fe5041d45eaaa1e15e17f04b5ef173044689b  python-3.15.0a3-arm64.exe.sigstore
+20db2c3a2a2196cf57dbf63b7949a20a6cf1f4f9993edaa0a1caf406bbf4cc30  python-3.15.0a3-arm64.exe.spdx.json
+399c08b7089438a229606be073cc025ac18fb7efa3f658a441d08bf1e6069e2b  python-3.15.0a3-arm64.exe.crt
+918029629fe95fdf98eda534fa930833ed5521e9f1b997125e2196b0973f904b  python-3.15.0a3-arm64.exe.sig
+1c06048a446ba14428d504dbc39fe5041d45eaaa1e15e17f04b5ef173044689b  python-3.15.0a3-arm64.exe.sigstore
+1c06048a446ba14428d504dbc39fe5041d45eaaa1e15e17f04b5ef173044689b  python-3.15.0a3-arm64.exe.sigstore
+20db2c3a2a2196cf57dbf63b7949a20a6cf1f4f9993edaa0a1caf406bbf4cc30  python-3.15.0a3-arm64.exe.spdx.json
+927e3f32218a5b346453c193e1e34689793b23b64bc175d9980df96519ed3762  python-3.15.0a3-arm64.zip
+0494758af7b54566d5283a3090471ea0a9ce84baceaeba1aaa0470b87c1caac2  python-3.15.0a3-embed-amd64.zip
+227349274c91911d793698f38009230aef90f3fd4cb39cdf60d5d7f18c48970f  python-3.15.0a3-embed-amd64.zip.crt
+ee77b17d125d15092f24c2e1cd62816503b7eaaa2365bab2cc8094c18287d431  python-3.15.0a3-embed-amd64.zip.sig
+d637a9c5c07f46ae66117863e4367455cc7941c5e2ab350208218cb80a147acc  python-3.15.0a3-embed-amd64.zip.sigstore
+2b12c697f44b72f506cedfa7330e116d21c53dc259b8714374ae32202157f8c4  python-3.15.0a3-embed-amd64.zip.spdx.json
+227349274c91911d793698f38009230aef90f3fd4cb39cdf60d5d7f18c48970f  python-3.15.0a3-embed-amd64.zip.crt
+ee77b17d125d15092f24c2e1cd62816503b7eaaa2365bab2cc8094c18287d431  python-3.15.0a3-embed-amd64.zip.sig
+d637a9c5c07f46ae66117863e4367455cc7941c5e2ab350208218cb80a147acc  python-3.15.0a3-embed-amd64.zip.sigstore
+d637a9c5c07f46ae66117863e4367455cc7941c5e2ab350208218cb80a147acc  python-3.15.0a3-embed-amd64.zip.sigstore
+2b12c697f44b72f506cedfa7330e116d21c53dc259b8714374ae32202157f8c4  python-3.15.0a3-embed-amd64.zip.spdx.json
+0f8525cca83120967b94e534bbe6a9baf7b892b47297ab0670e2da9335a351f1  python-3.15.0a3-embed-arm64.zip
+b9b7fc40ccdf72b128da28506f8bf25be2f055ceb519438b13053440f1ca0e57  python-3.15.0a3-embed-arm64.zip.crt
+101103df10c76593043fdf1c9a27d068d7753bdd7ed126c59ad158cea01a3375  python-3.15.0a3-embed-arm64.zip.sig
+4971c12652641954c063ea4843742c8a4aec26e246a245e5dfe189f146a41b27  python-3.15.0a3-embed-arm64.zip.sigstore
+3bd4302ef4e17e5cb1d7c34125a327f9d726ca3082c29851beb18266c1575941  python-3.15.0a3-embed-arm64.zip.spdx.json
+b9b7fc40ccdf72b128da28506f8bf25be2f055ceb519438b13053440f1ca0e57  python-3.15.0a3-embed-arm64.zip.crt
+101103df10c76593043fdf1c9a27d068d7753bdd7ed126c59ad158cea01a3375  python-3.15.0a3-embed-arm64.zip.sig
+4971c12652641954c063ea4843742c8a4aec26e246a245e5dfe189f146a41b27  python-3.15.0a3-embed-arm64.zip.sigstore
+4971c12652641954c063ea4843742c8a4aec26e246a245e5dfe189f146a41b27  python-3.15.0a3-embed-arm64.zip.sigstore
+3bd4302ef4e17e5cb1d7c34125a327f9d726ca3082c29851beb18266c1575941  python-3.15.0a3-embed-arm64.zip.spdx.json
+45dd4755153956ea539cba831e0f9ae6064717b33cec3a29e7a50d8f11917a41  python-3.15.0a3-embed-win32.zip
+edb371759fdd701e7e12d4a5059cf518985fdacd202f67c46de86c6db1efaa63  python-3.15.0a3-embed-win32.zip.crt
+66809711d55bfca3901f0d37ffe19c6d248ca4c3e17c648b00ee049086eaf46e  python-3.15.0a3-embed-win32.zip.sig
+a058d45ecbb81867f916379bff8f280ca9ba11855fe6406edb5d0d239c5e9a33  python-3.15.0a3-embed-win32.zip.sigstore
+9695040474b7d134d084115ac0173dc2c6099030104b478795527d9c17955c49  python-3.15.0a3-embed-win32.zip.spdx.json
+edb371759fdd701e7e12d4a5059cf518985fdacd202f67c46de86c6db1efaa63  python-3.15.0a3-embed-win32.zip.crt
+66809711d55bfca3901f0d37ffe19c6d248ca4c3e17c648b00ee049086eaf46e  python-3.15.0a3-embed-win32.zip.sig
+a058d45ecbb81867f916379bff8f280ca9ba11855fe6406edb5d0d239c5e9a33  python-3.15.0a3-embed-win32.zip.sigstore
+a058d45ecbb81867f916379bff8f280ca9ba11855fe6406edb5d0d239c5e9a33  python-3.15.0a3-embed-win32.zip.sigstore
+9695040474b7d134d084115ac0173dc2c6099030104b478795527d9c17955c49  python-3.15.0a3-embed-win32.zip.spdx.json
+593d032030bd8caa57abde777410ff390d0d897dc31b92b25863ba9504e42064  python-3.15.0a3-embeddable-amd64.zip
+84f7992c1f05aef07e3f4b6865f8eb71f17cfa546fd53517f0200d1c0d1ed5c6  python-3.15.0a3-embeddable-arm64.zip
+74d417b4d3cc4333a2b12027bbf9c6f4d3f0ca62943b2e97aa4d0dad1caad954  python-3.15.0a3-embeddable-win32.zip
+ea306d62adb7b4352b6ad63003d8bde32feea6b50f6efc9b8e1c4ef4171d67e1  python-3.15.0a3-macos11.pkg
+99b41443c9484fb8caf0dd4d2ec5fa2faeae1e68dfd99902bd75a0340836a69f  python-3.15.0a3-macos11.pkg.crt
+2463602ddf87939a039276f43c716c21cb62a86c7a7b2328ea82cca2b0594095  python-3.15.0a3-macos11.pkg.sig
+7960df27af1b04a19ee4044b9d0555629632e961b330e54d3b12dc4f436ae42c  python-3.15.0a3-macos11.pkg.sigstore
+99b41443c9484fb8caf0dd4d2ec5fa2faeae1e68dfd99902bd75a0340836a69f  python-3.15.0a3-macos11.pkg.crt
+2463602ddf87939a039276f43c716c21cb62a86c7a7b2328ea82cca2b0594095  python-3.15.0a3-macos11.pkg.sig
+7960df27af1b04a19ee4044b9d0555629632e961b330e54d3b12dc4f436ae42c  python-3.15.0a3-macos11.pkg.sigstore
+7960df27af1b04a19ee4044b9d0555629632e961b330e54d3b12dc4f436ae42c  python-3.15.0a3-macos11.pkg.sigstore
+d9879b101d5d6d31630de20e7e76a9642b5dfb9f28d03ba0dafc7a44402bac67  python-3.15.0a3-test-amd64.zip
+4c388f50e085a6d7189e4606d6057c3fda41e443495977efff5df101a1ff6c93  python-3.15.0a3-test-arm64.zip
+10d79cec21b09687d64cda884640d2217fe3c16445f543aa93014b77f269f675  python-3.15.0a3-test-win32.zip
+ed487298351581e4523287587cec497a7e787ee683ac49ec556ed2e70df31f27  python-3.15.0a3-win32.zip
+5794fdd440ec2f436f5bf14709e8dc178c1d730054ed2ad8c8a9871077a49cce  python-3.15.0a3-x86_64-linux-android.tar.gz
+560e54b86938e30916696aab04e9bb5cee287f36f55cec9ca8f737f8df0323ec  python-3.15.0a3-x86_64-linux-android.tar.gz.crt
+85db33fcb758fb4c893e190140ecd77655a09d41d91fbd31cd830440f6e54ccf  python-3.15.0a3-x86_64-linux-android.tar.gz.sig
+9279e6320c784c7274d174ba5c6b4caebb947e2e71be6b7aebf2ce3459c2d698  python-3.15.0a3-x86_64-linux-android.tar.gz.sigstore
+560e54b86938e30916696aab04e9bb5cee287f36f55cec9ca8f737f8df0323ec  python-3.15.0a3-x86_64-linux-android.tar.gz.crt
+85db33fcb758fb4c893e190140ecd77655a09d41d91fbd31cd830440f6e54ccf  python-3.15.0a3-x86_64-linux-android.tar.gz.sig
+9279e6320c784c7274d174ba5c6b4caebb947e2e71be6b7aebf2ce3459c2d698  python-3.15.0a3-x86_64-linux-android.tar.gz.sigstore
+9279e6320c784c7274d174ba5c6b4caebb947e2e71be6b7aebf2ce3459c2d698  python-3.15.0a3-x86_64-linux-android.tar.gz.sigstore
+f377371925a5464818f3be0051a64acd8ca4b139aed1ff1ab1dc23bcff741ba9  python-3.15.0a3.exe
+a190a35672c86247f7048c9a242c25c3a305644925528771906cea0261f23f59  python-3.15.0a3.exe.crt
+ba5852c5b2a38673428d874ee914bccf8f45068dc7d04399d907491aadc30843  python-3.15.0a3.exe.sig
+5bd8b6617cc54fea6aaee5d97b42fd7aac6f97b66aa6e1faf0b2c64e506d77aa  python-3.15.0a3.exe.sigstore
+03e1c467b90452ae42f0d8c0dacc9c0790ba96980407b04b57751cea20e6b362  python-3.15.0a3.exe.spdx.json
+a190a35672c86247f7048c9a242c25c3a305644925528771906cea0261f23f59  python-3.15.0a3.exe.crt
+ba5852c5b2a38673428d874ee914bccf8f45068dc7d04399d907491aadc30843  python-3.15.0a3.exe.sig
+5bd8b6617cc54fea6aaee5d97b42fd7aac6f97b66aa6e1faf0b2c64e506d77aa  python-3.15.0a3.exe.sigstore
+5bd8b6617cc54fea6aaee5d97b42fd7aac6f97b66aa6e1faf0b2c64e506d77aa  python-3.15.0a3.exe.sigstore
+03e1c467b90452ae42f0d8c0dacc9c0790ba96980407b04b57751cea20e6b362  python-3.15.0a3.exe.spdx.json
+6ab02cdac24505779877bb1d9189432d67e90ddf2a9b8b7b373ead54ac07b607  Python-3.15.0a3.tar.xz
+fa3e78bccbf22e08ca6a004afb4ce8fe2ab5ef8cce2028e8b18ed4ba6756b25c  Python-3.15.0a3.tar.xz.crt
+eb87870f39f79dc42401c84f8cbdcf48095bd1edccf5351a166f3325e40542c0  Python-3.15.0a3.tar.xz.sig
+5a099ee133942067db99495252878f7dcb7e210d606a941bf90be46fbcafd276  Python-3.15.0a3.tar.xz.sigstore
+a1ec2244e41a278c80bdd5cbf471c54f2f7fa4a80c9bc23f4ad701fecb210712  Python-3.15.0a3.tar.xz.spdx.json
+fa3e78bccbf22e08ca6a004afb4ce8fe2ab5ef8cce2028e8b18ed4ba6756b25c  Python-3.15.0a3.tar.xz.crt
+eb87870f39f79dc42401c84f8cbdcf48095bd1edccf5351a166f3325e40542c0  Python-3.15.0a3.tar.xz.sig
+5a099ee133942067db99495252878f7dcb7e210d606a941bf90be46fbcafd276  Python-3.15.0a3.tar.xz.sigstore
+5a099ee133942067db99495252878f7dcb7e210d606a941bf90be46fbcafd276  Python-3.15.0a3.tar.xz.sigstore
+a1ec2244e41a278c80bdd5cbf471c54f2f7fa4a80c9bc23f4ad701fecb210712  Python-3.15.0a3.tar.xz.spdx.json
+a8afd71361baf8f02f459a4ab9b73eb4cdf2895991218b8418cf7ba49c96bef7  Python-3.15.0a3.tgz
+e9fc760b423e05e44b70d5a084680b7dd13ad2f94c02702a338ee34cf2bd3d31  Python-3.15.0a3.tgz.crt
+d19131ff956c4adbf48583908c3962c18983217500c9c41f51c6c2164480d6bf  Python-3.15.0a3.tgz.sig
+aa3aea06d180b26be616d086960cee58cd05333391eeeb224964e497fa97a283  Python-3.15.0a3.tgz.sigstore
+52d7c4aec4000ed04f22afa96ab83acb05fd74fcaaca5b4111b1c5424fcb1ca3  Python-3.15.0a3.tgz.spdx.json
+e9fc760b423e05e44b70d5a084680b7dd13ad2f94c02702a338ee34cf2bd3d31  Python-3.15.0a3.tgz.crt
+d19131ff956c4adbf48583908c3962c18983217500c9c41f51c6c2164480d6bf  Python-3.15.0a3.tgz.sig
+aa3aea06d180b26be616d086960cee58cd05333391eeeb224964e497fa97a283  Python-3.15.0a3.tgz.sigstore
+aa3aea06d180b26be616d086960cee58cd05333391eeeb224964e497fa97a283  Python-3.15.0a3.tgz.sigstore
+52d7c4aec4000ed04f22afa96ab83acb05fd74fcaaca5b4111b1c5424fcb1ca3  Python-3.15.0a3.tgz.spdx.json
+f5a1a07625d798b013997b322f5b30d9e945ecf84e3303721eb2581e0d45b9d2  python-3.15.0a3t-amd64.zip
+dcc17385933cb3e0161f59b83e13a8615809b90cac15988cd240b3852111f9a8  python-3.15.0a3t-arm64.zip
+836f3ac86e7dd4ba72d4bf2005839343fb076cba73d5af61b5bc38b03b030c53  python-3.15.0a3t-win32.zip
+968585f4e3bef102af9cf02f939d0944341fc972751f7fc5c490bddecc87f27e  python-3.15.0a4-aarch64-linux-android.tar.gz
+61aa1347c6fe58fd4861835e67335c21b7333f04e8eaeb8036e2526383a32950  python-3.15.0a4-aarch64-linux-android.tar.gz.crt
+320926233a82d4286e34de73c5b80515e533459c36ccd0fa8b86063818a776a9  python-3.15.0a4-aarch64-linux-android.tar.gz.sig
+3b47a0ab441d2044b9e332903a6a88f62d55651de018be54c974cef00117dc21  python-3.15.0a4-aarch64-linux-android.tar.gz.sigstore
+61aa1347c6fe58fd4861835e67335c21b7333f04e8eaeb8036e2526383a32950  python-3.15.0a4-aarch64-linux-android.tar.gz.crt
+320926233a82d4286e34de73c5b80515e533459c36ccd0fa8b86063818a776a9  python-3.15.0a4-aarch64-linux-android.tar.gz.sig
+3b47a0ab441d2044b9e332903a6a88f62d55651de018be54c974cef00117dc21  python-3.15.0a4-aarch64-linux-android.tar.gz.sigstore
+3b47a0ab441d2044b9e332903a6a88f62d55651de018be54c974cef00117dc21  python-3.15.0a4-aarch64-linux-android.tar.gz.sigstore
+4dff016067a5e4888fb49666750f0f1a71f4924e4bc41abe66bd2e966f7fc9d3  python-3.15.0a4-amd64.exe
+e02b49bfb45ba7c07d570fe01bd56535c11ebcc49bdc7a6179a6935ef6a1be4d  python-3.15.0a4-amd64.exe.crt
+152db8f4044ba419b24f72f4b7c753f9bc7544e652aae2b6d8b1db6c1469b5d0  python-3.15.0a4-amd64.exe.sig
+24868eb68f9ef5b9690d9b16f57851538204bbc6e9de545c9ebd006d11388274  python-3.15.0a4-amd64.exe.sigstore
+9d4046bc1dda4b41bfc2e9de78bebc633d92a03cbf2b804ee6dc877cea294d70  python-3.15.0a4-amd64.exe.spdx.json
+e02b49bfb45ba7c07d570fe01bd56535c11ebcc49bdc7a6179a6935ef6a1be4d  python-3.15.0a4-amd64.exe.crt
+152db8f4044ba419b24f72f4b7c753f9bc7544e652aae2b6d8b1db6c1469b5d0  python-3.15.0a4-amd64.exe.sig
+24868eb68f9ef5b9690d9b16f57851538204bbc6e9de545c9ebd006d11388274  python-3.15.0a4-amd64.exe.sigstore
+24868eb68f9ef5b9690d9b16f57851538204bbc6e9de545c9ebd006d11388274  python-3.15.0a4-amd64.exe.sigstore
+9d4046bc1dda4b41bfc2e9de78bebc633d92a03cbf2b804ee6dc877cea294d70  python-3.15.0a4-amd64.exe.spdx.json
+9f46d9ce8e86b4a99432283e6e95c461280f401e46c9ac13755f4c4e88c2abed  python-3.15.0a4-amd64.zip
+8393bdd0aafc2b055344e46305c6b8d478d3581b896f60113a6fbc5c96048c8c  python-3.15.0a4-arm64.exe
+b50c092ebfadf012ec8fd7372ccfc6de3a387f5ec2b417ed35b12e454fd22a2b  python-3.15.0a4-arm64.exe.crt
+b51286eddbd44587f2352a2d4ba356485cabb0eafb30b4bb2a8da3ad052acd56  python-3.15.0a4-arm64.exe.sig
+cde255ed2298e4c2dd1bf63a4a2fe0017c71250ca20b1a387a8795c8beed84d3  python-3.15.0a4-arm64.exe.sigstore
+dd03e80428af177dfe8f6fe69343016bbe2979dde0d0e719e3685bf7381ad2dd  python-3.15.0a4-arm64.exe.spdx.json
+b50c092ebfadf012ec8fd7372ccfc6de3a387f5ec2b417ed35b12e454fd22a2b  python-3.15.0a4-arm64.exe.crt
+b51286eddbd44587f2352a2d4ba356485cabb0eafb30b4bb2a8da3ad052acd56  python-3.15.0a4-arm64.exe.sig
+cde255ed2298e4c2dd1bf63a4a2fe0017c71250ca20b1a387a8795c8beed84d3  python-3.15.0a4-arm64.exe.sigstore
+cde255ed2298e4c2dd1bf63a4a2fe0017c71250ca20b1a387a8795c8beed84d3  python-3.15.0a4-arm64.exe.sigstore
+dd03e80428af177dfe8f6fe69343016bbe2979dde0d0e719e3685bf7381ad2dd  python-3.15.0a4-arm64.exe.spdx.json
+a3aa1d2916d48fba6af99ff331592097c83330e2e06c2fe7823e6b7f02fc415c  python-3.15.0a4-arm64.zip
+960ae9bc511847517eff0b8e9cda19dd14cf8bd8aef88db2cfca5aa44c5a6906  python-3.15.0a4-embed-amd64.zip
+9c8b57127deff227b85627d0fd6cf28bb5606252e82c6bdbb329cc4a6e3522cd  python-3.15.0a4-embed-amd64.zip.crt
+6df374de3f1c48c948aedd7a4b4bafc0a8a585df059bcdebe8d582432ab88953  python-3.15.0a4-embed-amd64.zip.sig
+0b831f97d0168bfff38cec7df3d67654e0358fc057b27fef0e26f9d87e013d7d  python-3.15.0a4-embed-amd64.zip.sigstore
+cc95c48930f131cb5cbca4ce9aba8fc8f1381b5ee7cd248d083e95f850388ce8  python-3.15.0a4-embed-amd64.zip.spdx.json
+9c8b57127deff227b85627d0fd6cf28bb5606252e82c6bdbb329cc4a6e3522cd  python-3.15.0a4-embed-amd64.zip.crt
+6df374de3f1c48c948aedd7a4b4bafc0a8a585df059bcdebe8d582432ab88953  python-3.15.0a4-embed-amd64.zip.sig
+0b831f97d0168bfff38cec7df3d67654e0358fc057b27fef0e26f9d87e013d7d  python-3.15.0a4-embed-amd64.zip.sigstore
+0b831f97d0168bfff38cec7df3d67654e0358fc057b27fef0e26f9d87e013d7d  python-3.15.0a4-embed-amd64.zip.sigstore
+cc95c48930f131cb5cbca4ce9aba8fc8f1381b5ee7cd248d083e95f850388ce8  python-3.15.0a4-embed-amd64.zip.spdx.json
+4b6d090129f54f294cdae693fb00073f96da0ec903001d84dda5039751cf20be  python-3.15.0a4-embed-arm64.zip
+1b360bcf2c6459bfe1739339406a36877cd86773de5b22ad931731b1588ee589  python-3.15.0a4-embed-arm64.zip.crt
+79d825e3beedf8d812c199967629101dab805e88d9ea1437a3bb21009348ca29  python-3.15.0a4-embed-arm64.zip.sig
+57814236c7bedb1c9dec9b547210ab75c3ad612984e84fca78bf9a4ceb3969e9  python-3.15.0a4-embed-arm64.zip.sigstore
+8b55f10cc6bd67911b9aba3bd7a7f125147a2d65d278a6b60f775e519a77321b  python-3.15.0a4-embed-arm64.zip.spdx.json
+1b360bcf2c6459bfe1739339406a36877cd86773de5b22ad931731b1588ee589  python-3.15.0a4-embed-arm64.zip.crt
+79d825e3beedf8d812c199967629101dab805e88d9ea1437a3bb21009348ca29  python-3.15.0a4-embed-arm64.zip.sig
+57814236c7bedb1c9dec9b547210ab75c3ad612984e84fca78bf9a4ceb3969e9  python-3.15.0a4-embed-arm64.zip.sigstore
+57814236c7bedb1c9dec9b547210ab75c3ad612984e84fca78bf9a4ceb3969e9  python-3.15.0a4-embed-arm64.zip.sigstore
+8b55f10cc6bd67911b9aba3bd7a7f125147a2d65d278a6b60f775e519a77321b  python-3.15.0a4-embed-arm64.zip.spdx.json
+154bfa2ed4d97fc18f2e20ea9a596035906e7d60ff2bbdcfce0aa03b4b2efe79  python-3.15.0a4-embed-win32.zip
+8e1fe3903958df8dff1499148245ce87c309e46c2634afb3fa32d6994e53cc9c  python-3.15.0a4-embed-win32.zip.crt
+1cc07cc0699e5413d8e88630582ce04ab110b019804b01d139dec12e97bd1469  python-3.15.0a4-embed-win32.zip.sig
+d437dc995b41f00368bac5abd91f87e05d138f3358255a01c582f704b9afc6ab  python-3.15.0a4-embed-win32.zip.sigstore
+e2b0942ab0591c86962dfa4bd9ae3aa7f322fb25b9aa85be4938dff602f721c7  python-3.15.0a4-embed-win32.zip.spdx.json
+8e1fe3903958df8dff1499148245ce87c309e46c2634afb3fa32d6994e53cc9c  python-3.15.0a4-embed-win32.zip.crt
+1cc07cc0699e5413d8e88630582ce04ab110b019804b01d139dec12e97bd1469  python-3.15.0a4-embed-win32.zip.sig
+d437dc995b41f00368bac5abd91f87e05d138f3358255a01c582f704b9afc6ab  python-3.15.0a4-embed-win32.zip.sigstore
+d437dc995b41f00368bac5abd91f87e05d138f3358255a01c582f704b9afc6ab  python-3.15.0a4-embed-win32.zip.sigstore
+e2b0942ab0591c86962dfa4bd9ae3aa7f322fb25b9aa85be4938dff602f721c7  python-3.15.0a4-embed-win32.zip.spdx.json
+b48e4de754195f5575c3eaae49d6ea27d6eecf547bedf37343f10603a6d7a47b  python-3.15.0a4-embeddable-amd64.zip
+9838ab8d5fd114a6ca0092e6964746797e8984f0656ee9458cf14a5388c79465  python-3.15.0a4-embeddable-arm64.zip
+ec134603dfd24001d2587b9ea464de73c77d6913135c5b0f951fce7c11ac9c94  python-3.15.0a4-embeddable-win32.zip
+190b5fcd6848769798f6db72520c552dda93c1039d4de5db768d54d755606758  python-3.15.0a4-macos11.pkg
+d8058caf25cbd9322521e4831c1dc2bfb7d5a66e0ed717f5c581a9e6bdd879a5  python-3.15.0a4-macos11.pkg.crt
+ca61477786acfd40fbf32cf40499f16d42c67c89de13f688440866b99c734732  python-3.15.0a4-macos11.pkg.sig
+fb7ba81cd833b4cdd8cc11dcdb406a415e44fb7296c43766b9c88f34171eeff7  python-3.15.0a4-macos11.pkg.sigstore
+d8058caf25cbd9322521e4831c1dc2bfb7d5a66e0ed717f5c581a9e6bdd879a5  python-3.15.0a4-macos11.pkg.crt
+ca61477786acfd40fbf32cf40499f16d42c67c89de13f688440866b99c734732  python-3.15.0a4-macos11.pkg.sig
+fb7ba81cd833b4cdd8cc11dcdb406a415e44fb7296c43766b9c88f34171eeff7  python-3.15.0a4-macos11.pkg.sigstore
+fb7ba81cd833b4cdd8cc11dcdb406a415e44fb7296c43766b9c88f34171eeff7  python-3.15.0a4-macos11.pkg.sigstore
+e894ec54b1ede6aac0fb74f3d9674d5ed060df5b2e2b1f07dafd8501ee8a56c2  python-3.15.0a4-test-amd64.zip
+b56b1166461cd14408e78d7a09b2a34dc68fb84b6850b27624a98f930bcbf584  python-3.15.0a4-test-arm64.zip
+3ee153db3f346e65f77814fce505ee12b68a9e947fc4363464cd2f8c999a9238  python-3.15.0a4-test-win32.zip
+b74f2c0ab6630f76c56f417c830a9f3c420d720708c50555d6a97b55f07120f2  python-3.15.0a4-win32.zip
+3a27a064d6f3f9c8d8ecceb1512bdee6926e61ca407189ddddf4f043534ed127  python-3.15.0a4-x86_64-linux-android.tar.gz
+ce97d4d4ebe1916ffb066129d2a4f4a9e0859c6538693410caa8d2824e639b25  python-3.15.0a4-x86_64-linux-android.tar.gz.crt
+bdb076a27893709bd28335e3a70805450f9ece8cad1b4b1263edd69944ce0036  python-3.15.0a4-x86_64-linux-android.tar.gz.sig
+126d865a60809c239e4b846f520c046275cd898f072b95d1850a1550204bd4b9  python-3.15.0a4-x86_64-linux-android.tar.gz.sigstore
+ce97d4d4ebe1916ffb066129d2a4f4a9e0859c6538693410caa8d2824e639b25  python-3.15.0a4-x86_64-linux-android.tar.gz.crt
+bdb076a27893709bd28335e3a70805450f9ece8cad1b4b1263edd69944ce0036  python-3.15.0a4-x86_64-linux-android.tar.gz.sig
+126d865a60809c239e4b846f520c046275cd898f072b95d1850a1550204bd4b9  python-3.15.0a4-x86_64-linux-android.tar.gz.sigstore
+126d865a60809c239e4b846f520c046275cd898f072b95d1850a1550204bd4b9  python-3.15.0a4-x86_64-linux-android.tar.gz.sigstore
+dda2221502c1300c79bdcbd6ef6203acf3056150e479f16605bfd7e08e908f07  python-3.15.0a4.exe
+59278e26dd2892c3ae6be7e8f59ea6422b8dfb7da66b86af02b582a5463a5a85  python-3.15.0a4.exe.crt
+7a814ab4d1e93235c3952d0e35f7fc98af786b378631bb4a603b5b8879b1c33a  python-3.15.0a4.exe.sig
+571a445351118e70fbc2c3a3d357cc3f01f642832487ea036cb6a2dcda8c1278  python-3.15.0a4.exe.sigstore
+5331263a8fd273e6c7657ffd4d3f3a17b2d513246257b85365403cf22a747d4b  python-3.15.0a4.exe.spdx.json
+59278e26dd2892c3ae6be7e8f59ea6422b8dfb7da66b86af02b582a5463a5a85  python-3.15.0a4.exe.crt
+7a814ab4d1e93235c3952d0e35f7fc98af786b378631bb4a603b5b8879b1c33a  python-3.15.0a4.exe.sig
+571a445351118e70fbc2c3a3d357cc3f01f642832487ea036cb6a2dcda8c1278  python-3.15.0a4.exe.sigstore
+571a445351118e70fbc2c3a3d357cc3f01f642832487ea036cb6a2dcda8c1278  python-3.15.0a4.exe.sigstore
+5331263a8fd273e6c7657ffd4d3f3a17b2d513246257b85365403cf22a747d4b  python-3.15.0a4.exe.spdx.json
+a0a521d5c480b89979da1aefce29750eb158128c0178728ebfef7511c21b4e77  Python-3.15.0a4.tar.xz
+2ce6c5df28a840ad99980694ef17da838aadb62dd5c860e13970754a578d4bca  Python-3.15.0a4.tar.xz.crt
+5f0d18a13900f30f12f007c4068d4c6014c70b19692afd9a100e2067ce8186b7  Python-3.15.0a4.tar.xz.sig
+1d9856e78f41a155e942d14357aa5fe30697f0b94842445bdebcf782eb0b1e45  Python-3.15.0a4.tar.xz.sigstore
+caa707cca9d77c3393dc012a9dfad9f0050a033915fdf123419396d9899aff89  Python-3.15.0a4.tar.xz.spdx.json
+2ce6c5df28a840ad99980694ef17da838aadb62dd5c860e13970754a578d4bca  Python-3.15.0a4.tar.xz.crt
+5f0d18a13900f30f12f007c4068d4c6014c70b19692afd9a100e2067ce8186b7  Python-3.15.0a4.tar.xz.sig
+1d9856e78f41a155e942d14357aa5fe30697f0b94842445bdebcf782eb0b1e45  Python-3.15.0a4.tar.xz.sigstore
+1d9856e78f41a155e942d14357aa5fe30697f0b94842445bdebcf782eb0b1e45  Python-3.15.0a4.tar.xz.sigstore
+caa707cca9d77c3393dc012a9dfad9f0050a033915fdf123419396d9899aff89  Python-3.15.0a4.tar.xz.spdx.json
+c6e450064e38f903cb2857018fc31cff8fcdedae04820b0bfff0825d690ff85f  Python-3.15.0a4.tgz
+fe7232e677ba7f6c5ba9e505ff8456e6d491cc03b272a515d521c8e7768ccca7  Python-3.15.0a4.tgz.crt
+ba7a924fc6fd212dd3c5b6c8f71cb9e182f9df181a6c2d90c5bbbaa21f4cacaa  Python-3.15.0a4.tgz.sig
+7752347e9c84eed921dabcaf36bdbb3d70161329e221fec58e3831375559bd4c  Python-3.15.0a4.tgz.sigstore
+ab836e9c9810b448dd5fd215de487973e24a268c9fdab27a30ad1815c31e5d82  Python-3.15.0a4.tgz.spdx.json
+fe7232e677ba7f6c5ba9e505ff8456e6d491cc03b272a515d521c8e7768ccca7  Python-3.15.0a4.tgz.crt
+ba7a924fc6fd212dd3c5b6c8f71cb9e182f9df181a6c2d90c5bbbaa21f4cacaa  Python-3.15.0a4.tgz.sig
+7752347e9c84eed921dabcaf36bdbb3d70161329e221fec58e3831375559bd4c  Python-3.15.0a4.tgz.sigstore
+7752347e9c84eed921dabcaf36bdbb3d70161329e221fec58e3831375559bd4c  Python-3.15.0a4.tgz.sigstore
+ab836e9c9810b448dd5fd215de487973e24a268c9fdab27a30ad1815c31e5d82  Python-3.15.0a4.tgz.spdx.json
+0d1d8a392f52dafbbb0fdd9173ef51538fd89a7ef8c68ae87b215bae128acee2  python-3.15.0a4t-amd64.zip
+65265cc17a0722c7a6439bb8f9923cded0d2c3fde2ac3fd0e5bd0ce11951a4df  python-3.15.0a4t-arm64.zip
+54c712fa0bad7f8412ba6645d9de232cf1a65e2d447bc8666674885dbf9acfbd  python-3.15.0a4t-win32.zip
+247b62a180726e0d537e9c7008831b512af2c7165cd2e935ecd19f2f64429d17  python-3.15.0a5-aarch64-linux-android.tar.gz
+1804e5ced0a116375e7f1ed8f56ec31f5ea68dffed429e99af484afe9bf6a22c  python-3.15.0a5-aarch64-linux-android.tar.gz.crt
+4e05e7aaa7e68abcc8f473ae0569373ba7cc0be089ccfc0b36446487b463260e  python-3.15.0a5-aarch64-linux-android.tar.gz.sig
+21ff30d5e54b888fabf2441a36a3f4bb4f9ae83c13fdd3470c85fc3931a4aa23  python-3.15.0a5-aarch64-linux-android.tar.gz.sigstore
+1804e5ced0a116375e7f1ed8f56ec31f5ea68dffed429e99af484afe9bf6a22c  python-3.15.0a5-aarch64-linux-android.tar.gz.crt
+4e05e7aaa7e68abcc8f473ae0569373ba7cc0be089ccfc0b36446487b463260e  python-3.15.0a5-aarch64-linux-android.tar.gz.sig
+21ff30d5e54b888fabf2441a36a3f4bb4f9ae83c13fdd3470c85fc3931a4aa23  python-3.15.0a5-aarch64-linux-android.tar.gz.sigstore
+21ff30d5e54b888fabf2441a36a3f4bb4f9ae83c13fdd3470c85fc3931a4aa23  python-3.15.0a5-aarch64-linux-android.tar.gz.sigstore
+9cf3a702a049e3b8da1d05fc733415c6839f2c142d59ba1f5e89aa3c6520c2a9  python-3.15.0a5-amd64.exe
+eee6afdb24132767ae9f7655b93d2172e5f7033c6a973aebc30d31b87f7f2083  python-3.15.0a5-amd64.exe.crt
+7f7e39ddc5589cf3f56846c1eec6e838ce747476341d3d7d1620926b3245712c  python-3.15.0a5-amd64.exe.sig
+981a6c9e2e6f525a33d4474e7f6c4d8a2a0d9892aa3c0fa97c243fb443e6c3ee  python-3.15.0a5-amd64.exe.sigstore
+c3c0f664afe9ad627c01f3963d0d0c1d2dd486931e1f62e61d7ceddafcce7153  python-3.15.0a5-amd64.exe.spdx.json
+eee6afdb24132767ae9f7655b93d2172e5f7033c6a973aebc30d31b87f7f2083  python-3.15.0a5-amd64.exe.crt
+7f7e39ddc5589cf3f56846c1eec6e838ce747476341d3d7d1620926b3245712c  python-3.15.0a5-amd64.exe.sig
+981a6c9e2e6f525a33d4474e7f6c4d8a2a0d9892aa3c0fa97c243fb443e6c3ee  python-3.15.0a5-amd64.exe.sigstore
+981a6c9e2e6f525a33d4474e7f6c4d8a2a0d9892aa3c0fa97c243fb443e6c3ee  python-3.15.0a5-amd64.exe.sigstore
+c3c0f664afe9ad627c01f3963d0d0c1d2dd486931e1f62e61d7ceddafcce7153  python-3.15.0a5-amd64.exe.spdx.json
+bc6d309f8106bbaabb7874655329e70fcd330638a6461a5087e31e7c20565dc6  python-3.15.0a5-amd64.zip
+cb8ce416c040eb39eb38dc2095ddecc11d6095f93d129c496c14bd18b63a4953  python-3.15.0a5-arm64.exe
+ed86d379e5c8b596134e26d8cee4097df469121f5110753702268d41a9c29d92  python-3.15.0a5-arm64.exe.crt
+c52d59ca01e79d13f632a59cc8d6891eb397ddbc9276c658a5f9117a008a5ac3  python-3.15.0a5-arm64.exe.sig
+d5e2959d10c3c9d34cf7a76060f6f9bd2b415d4d548d37e37ccef07ac57bd359  python-3.15.0a5-arm64.exe.sigstore
+5aaf846f16b5a6a7d43c2035e6735991c59701bdd7a5eb537a0401661f4b8f01  python-3.15.0a5-arm64.exe.spdx.json
+ed86d379e5c8b596134e26d8cee4097df469121f5110753702268d41a9c29d92  python-3.15.0a5-arm64.exe.crt
+c52d59ca01e79d13f632a59cc8d6891eb397ddbc9276c658a5f9117a008a5ac3  python-3.15.0a5-arm64.exe.sig
+d5e2959d10c3c9d34cf7a76060f6f9bd2b415d4d548d37e37ccef07ac57bd359  python-3.15.0a5-arm64.exe.sigstore
+d5e2959d10c3c9d34cf7a76060f6f9bd2b415d4d548d37e37ccef07ac57bd359  python-3.15.0a5-arm64.exe.sigstore
+5aaf846f16b5a6a7d43c2035e6735991c59701bdd7a5eb537a0401661f4b8f01  python-3.15.0a5-arm64.exe.spdx.json
+fcf86dc2ff5926d83fc460fbc7990468999dbb095f00e2c64fca498792d66918  python-3.15.0a5-arm64.zip
+fb9c9da8a01939744513da7863770a7bf89fe530326af00356a4f7bbb3b2099a  python-3.15.0a5-embed-amd64.zip
+0bc2c283e62fac7e036104594f06036abb42879bbb39d48581948dc8cb11201c  python-3.15.0a5-embed-amd64.zip.crt
+96d007f2378d2b4faf20e04267a03efe2ca1bdaeca0101e313b51b3de9a513c9  python-3.15.0a5-embed-amd64.zip.sig
+1ba64a2bcac4b758404c0e114c4572a8eeb7ba22372191cae685a409834c6a0c  python-3.15.0a5-embed-amd64.zip.sigstore
+66a230667a592960deddb1af7a2dead1ef89db55fbd6cd5c03fed796e9166427  python-3.15.0a5-embed-amd64.zip.spdx.json
+0bc2c283e62fac7e036104594f06036abb42879bbb39d48581948dc8cb11201c  python-3.15.0a5-embed-amd64.zip.crt
+96d007f2378d2b4faf20e04267a03efe2ca1bdaeca0101e313b51b3de9a513c9  python-3.15.0a5-embed-amd64.zip.sig
+1ba64a2bcac4b758404c0e114c4572a8eeb7ba22372191cae685a409834c6a0c  python-3.15.0a5-embed-amd64.zip.sigstore
+1ba64a2bcac4b758404c0e114c4572a8eeb7ba22372191cae685a409834c6a0c  python-3.15.0a5-embed-amd64.zip.sigstore
+66a230667a592960deddb1af7a2dead1ef89db55fbd6cd5c03fed796e9166427  python-3.15.0a5-embed-amd64.zip.spdx.json
+5a925ca444cb35e4c0349e5c88244b2793b0c89bf2adbb31a9754dd198f135d4  python-3.15.0a5-embed-arm64.zip
+ed39ed19d31f5f065a90a14786afc4b2222bc10ae8b81e10182aad896c79fd05  python-3.15.0a5-embed-arm64.zip.crt
+1c6237c668c72890cce6b7683da19b5f2487519a4e7e7c256c25071fc14968e5  python-3.15.0a5-embed-arm64.zip.sig
+348993cc92178ebf66c788896eba34ef840c03156b16da908d259bcc5d50c6a1  python-3.15.0a5-embed-arm64.zip.sigstore
+8553dcfb863872df8b140abfe1fe7b3b59b48d9372584ae2b8e2bfbafb90fa2f  python-3.15.0a5-embed-arm64.zip.spdx.json
+ed39ed19d31f5f065a90a14786afc4b2222bc10ae8b81e10182aad896c79fd05  python-3.15.0a5-embed-arm64.zip.crt
+1c6237c668c72890cce6b7683da19b5f2487519a4e7e7c256c25071fc14968e5  python-3.15.0a5-embed-arm64.zip.sig
+348993cc92178ebf66c788896eba34ef840c03156b16da908d259bcc5d50c6a1  python-3.15.0a5-embed-arm64.zip.sigstore
+348993cc92178ebf66c788896eba34ef840c03156b16da908d259bcc5d50c6a1  python-3.15.0a5-embed-arm64.zip.sigstore
+8553dcfb863872df8b140abfe1fe7b3b59b48d9372584ae2b8e2bfbafb90fa2f  python-3.15.0a5-embed-arm64.zip.spdx.json
+e8ad36683d3810e6c47ad0be788a87c9e46271f0b43d4987fb61d508178cae5d  python-3.15.0a5-embed-win32.zip
+b738d0b56da6fc123c5b5ae7d967ffb9e9a517c7bd919b0d917a58c98dcff71e  python-3.15.0a5-embed-win32.zip.crt
+ca857136226a737a1305edc29048e906a6098365494c39fc0d1ae06c7c93e526  python-3.15.0a5-embed-win32.zip.sig
+bf848e1dbe4502381f2430e09b97fb925585f3d7ce8b472a4554275801b25b45  python-3.15.0a5-embed-win32.zip.sigstore
+2e7c91985c0578d3b17779e542d93a270078783cc0ac9a48f27e2516b29587df  python-3.15.0a5-embed-win32.zip.spdx.json
+b738d0b56da6fc123c5b5ae7d967ffb9e9a517c7bd919b0d917a58c98dcff71e  python-3.15.0a5-embed-win32.zip.crt
+ca857136226a737a1305edc29048e906a6098365494c39fc0d1ae06c7c93e526  python-3.15.0a5-embed-win32.zip.sig
+bf848e1dbe4502381f2430e09b97fb925585f3d7ce8b472a4554275801b25b45  python-3.15.0a5-embed-win32.zip.sigstore
+bf848e1dbe4502381f2430e09b97fb925585f3d7ce8b472a4554275801b25b45  python-3.15.0a5-embed-win32.zip.sigstore
+2e7c91985c0578d3b17779e542d93a270078783cc0ac9a48f27e2516b29587df  python-3.15.0a5-embed-win32.zip.spdx.json
+90d256b593d0105c2b1a9707a633140abae8a0e8c1b5e1e0c468f2b842b8c6df  python-3.15.0a5-embeddable-amd64.zip
+009c016049c934185278ed4e1c66099b50d75a7429f4dc217905ebb20c6d8288  python-3.15.0a5-embeddable-arm64.zip
+abf9923646bf4c70bea844aefbdfffa14fa3c8cbea3f935d0fbc6e89759737d1  python-3.15.0a5-embeddable-win32.zip
+149efe733d06cefbaed3d45640e9e69d2070230df6bc1e26b773fb8152b6a2ea  python-3.15.0a5-macos11.pkg
+cd39e66ec12f5a7c3715549c13561919a64cce4cf3e1f0c68526bafb08c2479d  python-3.15.0a5-macos11.pkg.crt
+adc8bd1c643ef71b5d32e7231b61b4a5b1ba26e963cc2e0df271c4609500b83c  python-3.15.0a5-macos11.pkg.sig
+2496245ebe0ca73130da2c5a50acb3b323f8c97bc1cecf1318c6c105446abaae  python-3.15.0a5-macos11.pkg.sigstore
+cd39e66ec12f5a7c3715549c13561919a64cce4cf3e1f0c68526bafb08c2479d  python-3.15.0a5-macos11.pkg.crt
+adc8bd1c643ef71b5d32e7231b61b4a5b1ba26e963cc2e0df271c4609500b83c  python-3.15.0a5-macos11.pkg.sig
+2496245ebe0ca73130da2c5a50acb3b323f8c97bc1cecf1318c6c105446abaae  python-3.15.0a5-macos11.pkg.sigstore
+2496245ebe0ca73130da2c5a50acb3b323f8c97bc1cecf1318c6c105446abaae  python-3.15.0a5-macos11.pkg.sigstore
+a90df7ee71297fd80caaeba1e452b796f6d4b29e671f8f7e99345317b2239571  python-3.15.0a5-test-amd64.zip
+6cbc90fac12daf8c89a6e52fc82465f58d8b60c385a4d3d472d7cd077227dae4  python-3.15.0a5-test-arm64.zip
+a0cdd41dabef27e7f5c3ddec193f2cc57012db42688101ef64f2e851749d0204  python-3.15.0a5-test-win32.zip
+0a06b5bfe7905224cd9bc1eb675e75c3b70324dde59477c8b31045943cb35b4a  python-3.15.0a5-win32.zip
+374e46a743677851bc8d8c4630441dcc9ec848b9ef85cda0260f8ebf146c3ecc  python-3.15.0a5-x86_64-linux-android.tar.gz
+2d1751c2578ce7c8fd5f966d68991fd835838c871cf479c312cad5f187df268d  python-3.15.0a5-x86_64-linux-android.tar.gz.crt
+4a72fb1c37193a639d4758693af7c1a0604be094437780de952181edaf4da2dd  python-3.15.0a5-x86_64-linux-android.tar.gz.sig
+18a5e2f90a57a9de4db81b475e7dc48447f3d82568342d0240319d95a9afb6f9  python-3.15.0a5-x86_64-linux-android.tar.gz.sigstore
+2d1751c2578ce7c8fd5f966d68991fd835838c871cf479c312cad5f187df268d  python-3.15.0a5-x86_64-linux-android.tar.gz.crt
+4a72fb1c37193a639d4758693af7c1a0604be094437780de952181edaf4da2dd  python-3.15.0a5-x86_64-linux-android.tar.gz.sig
+18a5e2f90a57a9de4db81b475e7dc48447f3d82568342d0240319d95a9afb6f9  python-3.15.0a5-x86_64-linux-android.tar.gz.sigstore
+18a5e2f90a57a9de4db81b475e7dc48447f3d82568342d0240319d95a9afb6f9  python-3.15.0a5-x86_64-linux-android.tar.gz.sigstore
+9b99d59523a20036e64f72a07db54321ae42c63b7a31f165d87c9feeecf96a0a  python-3.15.0a5.exe
+0945fea1fa1e69be5aad2928a052e65f1c64f89e674f6a4d326efba129e4749c  python-3.15.0a5.exe.crt
+290611f999fa79c63c194712284a6f03e2744f26570809495780b755348e05f9  python-3.15.0a5.exe.sig
+f7c3b1d22752849db0e8d24dc33c57471e8431e65a7d78ebb8249cac8c2fd2fe  python-3.15.0a5.exe.sigstore
+eaaa41f6fa7fcc537b910c0ab7abef22cf9565d18247ce7526efea8ce60264e3  python-3.15.0a5.exe.spdx.json
+0945fea1fa1e69be5aad2928a052e65f1c64f89e674f6a4d326efba129e4749c  python-3.15.0a5.exe.crt
+290611f999fa79c63c194712284a6f03e2744f26570809495780b755348e05f9  python-3.15.0a5.exe.sig
+f7c3b1d22752849db0e8d24dc33c57471e8431e65a7d78ebb8249cac8c2fd2fe  python-3.15.0a5.exe.sigstore
+f7c3b1d22752849db0e8d24dc33c57471e8431e65a7d78ebb8249cac8c2fd2fe  python-3.15.0a5.exe.sigstore
+eaaa41f6fa7fcc537b910c0ab7abef22cf9565d18247ce7526efea8ce60264e3  python-3.15.0a5.exe.spdx.json
+fee40da6450b67547c079dcb2852e8a03db6d57e06415466b2d3294449db22ef  Python-3.15.0a5.tar.xz
+72b4229cba02488dd3930f1e762630a255c0bb9370da4103b75eda41fc365895  Python-3.15.0a5.tar.xz.crt
+676668a14007345b09aef6bde96320267a86c86ce706a43570dce0ee7036d425  Python-3.15.0a5.tar.xz.sig
+05e66ca707891e40f1459fc84a9195526b354684928a0be9442fd7fff0a57174  Python-3.15.0a5.tar.xz.sigstore
+54418b95c611fc4a1512f767d1a6609f86b40d2c5d95957e3da056639ac12620  Python-3.15.0a5.tar.xz.spdx.json
+72b4229cba02488dd3930f1e762630a255c0bb9370da4103b75eda41fc365895  Python-3.15.0a5.tar.xz.crt
+676668a14007345b09aef6bde96320267a86c86ce706a43570dce0ee7036d425  Python-3.15.0a5.tar.xz.sig
+05e66ca707891e40f1459fc84a9195526b354684928a0be9442fd7fff0a57174  Python-3.15.0a5.tar.xz.sigstore
+05e66ca707891e40f1459fc84a9195526b354684928a0be9442fd7fff0a57174  Python-3.15.0a5.tar.xz.sigstore
+54418b95c611fc4a1512f767d1a6609f86b40d2c5d95957e3da056639ac12620  Python-3.15.0a5.tar.xz.spdx.json
+c4b535cd6f4c07889a53ce68fedf00c77c720086ab018723a8b5079b25a1e051  Python-3.15.0a5.tgz
+1a3d30618bdcb67e81febee43d8e93e00801e260734ef069bc6844f5939b4e39  Python-3.15.0a5.tgz.crt
+06fb1de635b7e5e02aa315ac7937785b083d91cc44534ae70e6757bd3861108b  Python-3.15.0a5.tgz.sig
+5b04a47fccd55005977fa358dbabeacd9c39d186232b60d0e5cd526107911531  Python-3.15.0a5.tgz.sigstore
+d4664de6721191d7560d33c7ebd751c9c8c2dbfc9654275d1aab2042f423ccf9  Python-3.15.0a5.tgz.spdx.json
+1a3d30618bdcb67e81febee43d8e93e00801e260734ef069bc6844f5939b4e39  Python-3.15.0a5.tgz.crt
+06fb1de635b7e5e02aa315ac7937785b083d91cc44534ae70e6757bd3861108b  Python-3.15.0a5.tgz.sig
+5b04a47fccd55005977fa358dbabeacd9c39d186232b60d0e5cd526107911531  Python-3.15.0a5.tgz.sigstore
+5b04a47fccd55005977fa358dbabeacd9c39d186232b60d0e5cd526107911531  Python-3.15.0a5.tgz.sigstore
+d4664de6721191d7560d33c7ebd751c9c8c2dbfc9654275d1aab2042f423ccf9  Python-3.15.0a5.tgz.spdx.json
+7a6026edbf50f614e78d22dc7d2732274af6339e1a99b8cfed72bacb1913ffe4  python-3.15.0a5t-amd64.zip
+ba9a97f943264d3c2464316101edf210bb628891a1302407405e746351a3b59c  python-3.15.0a5t-arm64.zip
+524b44d76e8538111c8cac5f1194586492d471fde65ac397bbf9e98c08856e2d  python-3.15.0a5t-win32.zip
+a7673da95ed6e90fa72ab510927f3afbf7b9bdaf1b85c8ba6597a99b7c1487f3  python-3.15.0a6-aarch64-linux-android.tar.gz
+c47c56b5d331a003e3dca462e7bad7de3b2cc50e7a5b15b601e4fd06b94cc44f  python-3.15.0a6-aarch64-linux-android.tar.gz.crt
+443dd30559b44bad83a75a90e795f224e9cdd8dd39fa95999f28e4b98f68f85a  python-3.15.0a6-aarch64-linux-android.tar.gz.sig
+c3eadbbee4f1dfc949dfff57d86230ffc0e1002252c84e44096b87233e4f1e2d  python-3.15.0a6-aarch64-linux-android.tar.gz.sigstore
+c47c56b5d331a003e3dca462e7bad7de3b2cc50e7a5b15b601e4fd06b94cc44f  python-3.15.0a6-aarch64-linux-android.tar.gz.crt
+443dd30559b44bad83a75a90e795f224e9cdd8dd39fa95999f28e4b98f68f85a  python-3.15.0a6-aarch64-linux-android.tar.gz.sig
+c3eadbbee4f1dfc949dfff57d86230ffc0e1002252c84e44096b87233e4f1e2d  python-3.15.0a6-aarch64-linux-android.tar.gz.sigstore
+c3eadbbee4f1dfc949dfff57d86230ffc0e1002252c84e44096b87233e4f1e2d  python-3.15.0a6-aarch64-linux-android.tar.gz.sigstore
+6ace2216361f81a286f5957f522e7a212f400ab3f2055f6aa1c84e605a5c55c3  python-3.15.0a6-amd64.exe
+8e0b24152582d57e7c3509a54bf2e795cf8241982abd5a432a8d69e0fc4afd90  python-3.15.0a6-amd64.exe.crt
+7c9df537ea6ff505c25ac7b9495bd420d78f9977e2af8fbf1b8db940eadc482c  python-3.15.0a6-amd64.exe.sig
+795e02a21d31bf1ddf6d010c49038a35a61b0c3e0d5414e95423950dcac92e47  python-3.15.0a6-amd64.exe.sigstore
+0980b97c157dc8d75e9c19a21673dcb74699752e62df173da24d75a3a96d2928  python-3.15.0a6-amd64.exe.spdx.json
+8e0b24152582d57e7c3509a54bf2e795cf8241982abd5a432a8d69e0fc4afd90  python-3.15.0a6-amd64.exe.crt
+7c9df537ea6ff505c25ac7b9495bd420d78f9977e2af8fbf1b8db940eadc482c  python-3.15.0a6-amd64.exe.sig
+795e02a21d31bf1ddf6d010c49038a35a61b0c3e0d5414e95423950dcac92e47  python-3.15.0a6-amd64.exe.sigstore
+795e02a21d31bf1ddf6d010c49038a35a61b0c3e0d5414e95423950dcac92e47  python-3.15.0a6-amd64.exe.sigstore
+0980b97c157dc8d75e9c19a21673dcb74699752e62df173da24d75a3a96d2928  python-3.15.0a6-amd64.exe.spdx.json
+0f15b360c2c9b2e1deb3938e9d3b9e4aa31fdbff8c0cefdaabed8f135f9f3fb5  python-3.15.0a6-amd64.zip
+a618924be17d58a320283717d5f38e610739b6ba487d8bda20061a0e61f4e8a6  python-3.15.0a6-arm64.exe
+f0e2c2eba290cffd8edb7da2d22f0f8023f90bb8cb686c7f919427609f04ec28  python-3.15.0a6-arm64.exe.crt
+924513dad0c931d62c2b15b03e3e410c8b46d31a29152059a02e4b7832ffe7c8  python-3.15.0a6-arm64.exe.sig
+e08ba8366f6a850bf7c33c58c79c4d62f7b9e14ab7c231a0b7d02635a4a4a823  python-3.15.0a6-arm64.exe.sigstore
+2410f64eca00b84436ad997936ed45449c62a7f43c69fb1c87ce6480f7557b1b  python-3.15.0a6-arm64.exe.spdx.json
+f0e2c2eba290cffd8edb7da2d22f0f8023f90bb8cb686c7f919427609f04ec28  python-3.15.0a6-arm64.exe.crt
+924513dad0c931d62c2b15b03e3e410c8b46d31a29152059a02e4b7832ffe7c8  python-3.15.0a6-arm64.exe.sig
+e08ba8366f6a850bf7c33c58c79c4d62f7b9e14ab7c231a0b7d02635a4a4a823  python-3.15.0a6-arm64.exe.sigstore
+e08ba8366f6a850bf7c33c58c79c4d62f7b9e14ab7c231a0b7d02635a4a4a823  python-3.15.0a6-arm64.exe.sigstore
+2410f64eca00b84436ad997936ed45449c62a7f43c69fb1c87ce6480f7557b1b  python-3.15.0a6-arm64.exe.spdx.json
+79886943cee4cd5d2961a4d82dfd495a0058ede04a6852393dc9a48b18869146  python-3.15.0a6-arm64.zip
+5e18043d6c121d87c7ba03f79799f838cf648d435b07b42cafad14dd007a2fb1  python-3.15.0a6-embed-amd64.zip
+62ec5a878c0e31c352e454b79205d211e07d136a0168e38d9b0d1cf246077a60  python-3.15.0a6-embed-amd64.zip.crt
+928dedabd46fbfa7504ba735cdc2fff54a6fb3e15e70e66f9841c9561af042f7  python-3.15.0a6-embed-amd64.zip.sig
+3b6d14dd56393016568d8e83da10205ef12f0dce4f151eff7faa7fc45950e67f  python-3.15.0a6-embed-amd64.zip.sigstore
+62a7d534b438a900d093e474c625d5c9cf043182dd067694cda5a93c904b51dc  python-3.15.0a6-embed-amd64.zip.spdx.json
+62ec5a878c0e31c352e454b79205d211e07d136a0168e38d9b0d1cf246077a60  python-3.15.0a6-embed-amd64.zip.crt
+928dedabd46fbfa7504ba735cdc2fff54a6fb3e15e70e66f9841c9561af042f7  python-3.15.0a6-embed-amd64.zip.sig
+3b6d14dd56393016568d8e83da10205ef12f0dce4f151eff7faa7fc45950e67f  python-3.15.0a6-embed-amd64.zip.sigstore
+3b6d14dd56393016568d8e83da10205ef12f0dce4f151eff7faa7fc45950e67f  python-3.15.0a6-embed-amd64.zip.sigstore
+62a7d534b438a900d093e474c625d5c9cf043182dd067694cda5a93c904b51dc  python-3.15.0a6-embed-amd64.zip.spdx.json
+87c6eccfaccf2fc80d0c76862a66371345155d18a1638f7638892bd4fc66fd68  python-3.15.0a6-embed-arm64.zip
+7d4307a212f1cec0b736bdb29aecdc9eb872a302a1f818957d5d622f810d151c  python-3.15.0a6-embed-arm64.zip.crt
+a5bdbd0109ebdb72b83522c5e80bd821f2ea476cd8838ab31a4726b15c99cbcf  python-3.15.0a6-embed-arm64.zip.sig
+9a7dedf5a23cc92f0c5829f8975eaca323f51eb1fd42bee742546f76f85e7c75  python-3.15.0a6-embed-arm64.zip.sigstore
+07289493cda68cb313f9292cd9c7d9d0f7cfe2db1908bf640d324ae729ca4aa7  python-3.15.0a6-embed-arm64.zip.spdx.json
+7d4307a212f1cec0b736bdb29aecdc9eb872a302a1f818957d5d622f810d151c  python-3.15.0a6-embed-arm64.zip.crt
+a5bdbd0109ebdb72b83522c5e80bd821f2ea476cd8838ab31a4726b15c99cbcf  python-3.15.0a6-embed-arm64.zip.sig
+9a7dedf5a23cc92f0c5829f8975eaca323f51eb1fd42bee742546f76f85e7c75  python-3.15.0a6-embed-arm64.zip.sigstore
+9a7dedf5a23cc92f0c5829f8975eaca323f51eb1fd42bee742546f76f85e7c75  python-3.15.0a6-embed-arm64.zip.sigstore
+07289493cda68cb313f9292cd9c7d9d0f7cfe2db1908bf640d324ae729ca4aa7  python-3.15.0a6-embed-arm64.zip.spdx.json
+131984da047ad7092f062883498f41b9acd44a74f40af83031d789659ae500b9  python-3.15.0a6-embed-win32.zip
+c8c234c83d5620c1ace12d58e92a9125c47381cf0fe1eebb0247a1b3d54c30db  python-3.15.0a6-embed-win32.zip.crt
+ac080a62f397a8aab1dfcbb44667d0d652f55eadca0a8aebf22cc54a12e39d7c  python-3.15.0a6-embed-win32.zip.sig
+defa2b50714669cdf1e1863409d1baaea6f34d3ff778eadaa85776ce1e545fd7  python-3.15.0a6-embed-win32.zip.sigstore
+8e5e6cc004a24cd0a0a440623e472290f0243fdfd0faedf1d4f17a58679247ea  python-3.15.0a6-embed-win32.zip.spdx.json
+c8c234c83d5620c1ace12d58e92a9125c47381cf0fe1eebb0247a1b3d54c30db  python-3.15.0a6-embed-win32.zip.crt
+ac080a62f397a8aab1dfcbb44667d0d652f55eadca0a8aebf22cc54a12e39d7c  python-3.15.0a6-embed-win32.zip.sig
+defa2b50714669cdf1e1863409d1baaea6f34d3ff778eadaa85776ce1e545fd7  python-3.15.0a6-embed-win32.zip.sigstore
+defa2b50714669cdf1e1863409d1baaea6f34d3ff778eadaa85776ce1e545fd7  python-3.15.0a6-embed-win32.zip.sigstore
+8e5e6cc004a24cd0a0a440623e472290f0243fdfd0faedf1d4f17a58679247ea  python-3.15.0a6-embed-win32.zip.spdx.json
+0409e054bd12a2db9a759cd0574d04b4c84e1e430a8322376177f846736ca894  python-3.15.0a6-embeddable-amd64.zip
+aa654b699d6f267f07b54243f6edbeb8ce7485564637b1f2f40e98f5dc3fbc8e  python-3.15.0a6-embeddable-arm64.zip
+3426ba7083d6f648d03ea28b1cdad71d65679b2b55bac11891a92f65d44e59fa  python-3.15.0a6-embeddable-win32.zip
+743aa00c6bc070400aac5ef2c99ce361970a2678790dd9ba3902e39a86391666  python-3.15.0a6-macos11.pkg
+780362d949b531f9fdf9b59d64477645ade1af50001d9abf654e9a46e230e0b9  python-3.15.0a6-macos11.pkg.crt
+ee5dc154ba194fafb8447f6df437633d31bbf7db9567a81879cc74be72c50dfe  python-3.15.0a6-macos11.pkg.sig
+b67fda070ab40ecdb98b0a331eb59aa4947fd140d27b52d3aa622bc4301ef06e  python-3.15.0a6-macos11.pkg.sigstore
+780362d949b531f9fdf9b59d64477645ade1af50001d9abf654e9a46e230e0b9  python-3.15.0a6-macos11.pkg.crt
+ee5dc154ba194fafb8447f6df437633d31bbf7db9567a81879cc74be72c50dfe  python-3.15.0a6-macos11.pkg.sig
+b67fda070ab40ecdb98b0a331eb59aa4947fd140d27b52d3aa622bc4301ef06e  python-3.15.0a6-macos11.pkg.sigstore
+b67fda070ab40ecdb98b0a331eb59aa4947fd140d27b52d3aa622bc4301ef06e  python-3.15.0a6-macos11.pkg.sigstore
+43f96c8c0c9f2d06d5bde4f92ed8202234fd148bc0f6bb9d119aef2b1798284a  python-3.15.0a6-test-amd64.zip
+83a7a127c7e1bf9b9b2cf7c2e70c1cb6871f49cd940c8bd8db071418b2214c5b  python-3.15.0a6-test-arm64.zip
+e6a13ce1832acdcbfb1cdadfc0268b9d1a94bbcc2aa91c2962c784b257d4f140  python-3.15.0a6-test-win32.zip
+6403f583fdfede4aba62e07fe3df206d34121d84036f5cabfaf46a44790c23fb  python-3.15.0a6-win32.zip
+df6e86d1a8ae709d7fc28ca6aec07f1c29e250888088e726b6da37060310d1ec  python-3.15.0a6-x86_64-linux-android.tar.gz
+6c8618b9c38897ba08640f12f194079295eb92fc6242edba190e44f78992ca56  python-3.15.0a6-x86_64-linux-android.tar.gz.crt
+9ee6a2f42cd1167799993033a9d4c27f79de108885f81c92b312cf3cfc8542e5  python-3.15.0a6-x86_64-linux-android.tar.gz.sig
+97d2f2b6881f274dee998c556fdfc32a3d4579d2edef0b97243c5effc5f5f3e5  python-3.15.0a6-x86_64-linux-android.tar.gz.sigstore
+6c8618b9c38897ba08640f12f194079295eb92fc6242edba190e44f78992ca56  python-3.15.0a6-x86_64-linux-android.tar.gz.crt
+9ee6a2f42cd1167799993033a9d4c27f79de108885f81c92b312cf3cfc8542e5  python-3.15.0a6-x86_64-linux-android.tar.gz.sig
+97d2f2b6881f274dee998c556fdfc32a3d4579d2edef0b97243c5effc5f5f3e5  python-3.15.0a6-x86_64-linux-android.tar.gz.sigstore
+97d2f2b6881f274dee998c556fdfc32a3d4579d2edef0b97243c5effc5f5f3e5  python-3.15.0a6-x86_64-linux-android.tar.gz.sigstore
+4b24e3099fd5905a00d8efc17364c28a4b0e13cd7374bb6e0e2a37c33e87d9f7  python-3.15.0a6.exe
+3ff079f41587eb071baa5de3e86b88b4cbf55a6082cb06e39fd1fb3e07e7017f  python-3.15.0a6.exe.crt
+1a8cabb5d15fc76d8010fe3066d084aeba4b451a2d9b092c2921a051fe9cbbca  python-3.15.0a6.exe.sig
+3dd9d44fe266577c13aeb5c9f7af3b74eaa802b0b1c65d0ae3732b221d908198  python-3.15.0a6.exe.sigstore
+65ff54758f4d0d5bd86276472eca32de4fb516f3aba2739e47f15b2bae9162e1  python-3.15.0a6.exe.spdx.json
+3ff079f41587eb071baa5de3e86b88b4cbf55a6082cb06e39fd1fb3e07e7017f  python-3.15.0a6.exe.crt
+1a8cabb5d15fc76d8010fe3066d084aeba4b451a2d9b092c2921a051fe9cbbca  python-3.15.0a6.exe.sig
+3dd9d44fe266577c13aeb5c9f7af3b74eaa802b0b1c65d0ae3732b221d908198  python-3.15.0a6.exe.sigstore
+3dd9d44fe266577c13aeb5c9f7af3b74eaa802b0b1c65d0ae3732b221d908198  python-3.15.0a6.exe.sigstore
+65ff54758f4d0d5bd86276472eca32de4fb516f3aba2739e47f15b2bae9162e1  python-3.15.0a6.exe.spdx.json
+8e2a4e1b2afb93a84d659d431b1f384544b3da00a4b8ff5bf3580f07ad4ff989  Python-3.15.0a6.tar.xz
+792212f3dd2e8ba3b56700cd2d6d72999d0e3e0adf19f4ca703d9e7f98bfb4cc  Python-3.15.0a6.tar.xz.crt
+b9326d255b9418e6f5fbc652d3c12e773358131babeba842aec019226ee152cc  Python-3.15.0a6.tar.xz.sig
+36067c689ee80ebb890d3659a16f646920d31da424dbf725291687282ff45c42  Python-3.15.0a6.tar.xz.sigstore
+f6f3d9aaa02a250b85ae0d25144327648b4366271a4d3512ed3a76a23ce0c5bc  Python-3.15.0a6.tar.xz.spdx.json
+792212f3dd2e8ba3b56700cd2d6d72999d0e3e0adf19f4ca703d9e7f98bfb4cc  Python-3.15.0a6.tar.xz.crt
+b9326d255b9418e6f5fbc652d3c12e773358131babeba842aec019226ee152cc  Python-3.15.0a6.tar.xz.sig
+36067c689ee80ebb890d3659a16f646920d31da424dbf725291687282ff45c42  Python-3.15.0a6.tar.xz.sigstore
+36067c689ee80ebb890d3659a16f646920d31da424dbf725291687282ff45c42  Python-3.15.0a6.tar.xz.sigstore
+f6f3d9aaa02a250b85ae0d25144327648b4366271a4d3512ed3a76a23ce0c5bc  Python-3.15.0a6.tar.xz.spdx.json
+2539a4693f26f5df1e59cd64b55c7624294ba296ad00f49e328083059720c20f  Python-3.15.0a6.tgz
+83f2c1fd2bdac0f01d81011ac09649aaa102f841376932e5ea62bc32ca547155  Python-3.15.0a6.tgz.crt
+4b9278cb6460ab996478d8053602ba35a0cef0da3c36b4731a70e4e7d608eb52  Python-3.15.0a6.tgz.sig
+f187502369eb6accb457262fd732dbcef9e32ca538c7f195f9335b1e5bfc5c5d  Python-3.15.0a6.tgz.sigstore
+5de9ecc16362206e84d7af96c21a492f7bf9b23e4d5f7bbbf3267e350606b6f1  Python-3.15.0a6.tgz.spdx.json
+83f2c1fd2bdac0f01d81011ac09649aaa102f841376932e5ea62bc32ca547155  Python-3.15.0a6.tgz.crt
+4b9278cb6460ab996478d8053602ba35a0cef0da3c36b4731a70e4e7d608eb52  Python-3.15.0a6.tgz.sig
+f187502369eb6accb457262fd732dbcef9e32ca538c7f195f9335b1e5bfc5c5d  Python-3.15.0a6.tgz.sigstore
+f187502369eb6accb457262fd732dbcef9e32ca538c7f195f9335b1e5bfc5c5d  Python-3.15.0a6.tgz.sigstore
+5de9ecc16362206e84d7af96c21a492f7bf9b23e4d5f7bbbf3267e350606b6f1  Python-3.15.0a6.tgz.spdx.json
+f133c822afa3a4e7652b9a67cae134ff7620335f4f5092dba354aee41971764c  python-3.15.0a6t-amd64.zip
+bf393ff745c05e3757e5bc0621ec779de254db33491d5803944e163982c12c3f  python-3.15.0a6t-arm64.zip
+d92a78c7aa3319d558f190426491a88054a7523e79c195673d8a919b97cc5c8d  python-3.15.0a6t-win32.zip
 ```
